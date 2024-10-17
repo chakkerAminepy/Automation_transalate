@@ -1,0 +1,3413 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Extranet"
+msgstr "אקסטראנט"
+
+msgid "Regulations"
+msgstr "תקנה"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Self-employed"
+msgstr "עצמאים"
+
+msgid "Bakery"
+msgstr "מאפייה"
+
+msgid "Restaurant"
+msgstr "מסעדה"
+
+msgid "Press"
+msgstr "עיתונות"
+
+msgid "Bar"
+msgstr "בר"
+
+msgid "Florist"
+msgstr "פרחים"
+
+msgid "Tobacconist"
+msgstr "טבק"
+
+msgid "Clothes"
+msgstr "ביגוד"
+
+msgid "Chemist"
+msgstr "בית מרקחת"
+
+msgid "Shopping centre"
+msgstr "מרכז מסחרי"
+
+msgid "Travel agency"
+msgstr "סוכנות נסיעות"
+
+msgid "Real estate agent"
+msgstr "נדלן"
+
+msgid "Gallery"
+msgstr "גלריה"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מוסך\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חנייה סגורה"
+
+msgid "Insurer"
+msgstr "מבטח"
+
+msgid "Optician"
+msgstr "אופטיקה"
+
+msgid "Perfumery"
+msgstr "חנות בשמים"
+
+msgid "Hotel"
+msgstr "מלון"
+
+msgid "Antique dealer"
+msgstr "עתיקות"
+
+msgid "Laundry"
+msgstr "מכבסה"
+
+msgid "Pressing"
+msgstr "ניקוי יבש"
+
+msgid "Jeweller"
+msgstr "תכשיט"
+
+msgid "Grocer"
+msgstr "אוכל"
+
+msgid "Butcher"
+msgstr "קצב"
+
+msgid "Caterer"
+msgstr "ספק"
+
+msgid "Brewery"
+msgstr "פאב"
+
+msgid "Snack"
+msgstr "חטיף"
+
+msgid "Confectioner"
+msgstr "קונדטוריה"
+
+msgid "Pork butcher"
+msgstr "קצבייה"
+
+msgid "Grocery"
+msgstr "מכולת"
+
+msgid "Cheesemonger"
+msgstr "חנות גבינה"
+
+msgid "Fruit and vegetables"
+msgstr "פירות וירקות"
+
+msgid "Sex shop"
+msgstr "חנות סקס"
+
+msgid "Video game"
+msgstr "משחקי וידאו"
+
+msgid "Computer"
+msgstr "מחשבים"
+
+msgid "Hairdresser"
+msgstr "מספרה"
+
+msgid "Cosmetician"
+msgstr "אסתטיקה"
+
+msgid "Household electrical"
+msgstr "מוצרי חשמל"
+
+msgid "Shoes"
+msgstr "נעליים"
+
+msgid "Haberdasher"
+msgstr "סִדְקִית"
+
+msgid "Groomer"
+msgstr "שרותים"
+
+msgid "Tea room"
+msgstr "סלון תה"
+
+#, fuzzy
+msgid "Beach"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חוף\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חוף הים"
+
+msgid "Bookshop"
+msgstr "ספרייה"
+
+msgid "Offices"
+msgstr "משרד"
+
+msgid "Gas station"
+msgstr "תחנת דלק"
+
+msgid "Camping"
+msgstr "קמפינג"
+
+msgid "Nightclub"
+msgstr "מעדון לילה"
+
+msgid "Pet store"
+msgstr "בת חיות"
+
+msgid "Video arcade"
+msgstr "חדר משחקים"
+
+msgid "Office supplies"
+msgstr "חנות מוצרי נייר"
+
+msgid "Furniture"
+msgstr "מטלטלין"
+
+msgid "Decoration"
+msgstr "עיצוב בית"
+
+msgid "Agriculture"
+msgstr "חקלאות"
+
+msgid "Photo"
+msgstr "תמונה"
+
+msgid "Drugstore"
+msgstr "פארם"
+
+msgid "Locksmith"
+msgstr "חנות מנעול"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חדר כושר\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מונית"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בת קולנוע  / סינמה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"קולנוע"
+
+msgid "Theater"
+msgstr "תהטרון"
+
+msgid "Café"
+msgstr "בת קפה"
+
+msgid "Garden centre"
+msgstr "גינון"
+
+msgid "Hardware shop"
+msgstr "עשה זאת בעצמך"
+
+msgid "Sport supplies"
+msgstr "Sport supplies"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חדרי שינה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חדר שינה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חדרי שינה"
+
+msgid "Living-room"
+msgstr "סלון"
+
+msgid "Kitchen"
+msgstr "מטבח"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חנייה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חנייה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"חניה"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מחסן\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מחסן תעשייתי\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מחסן"
+
+msgid "Garden shelter"
+msgstr "בקתת גן"
+
+msgid "Bathroom"
+msgstr "מקלחת"
+
+msgid "Linen room"
+msgstr "חדר הלבשה"
+
+msgid "Workshop"
+msgstr "חדר עבודה"
+
+msgid "Hallway"
+msgstr "מסדרון"
+
+msgid "Corridor"
+msgstr "טרקלין"
+
+msgid "Shower room"
+msgstr "חדר אמבטיה"
+
+msgid "Walk-in wardrobe"
+msgstr "חדר ביגוד"
+
+msgid "Landing"
+msgstr "כניסה"
+
+msgid "Lavatory"
+msgstr "שירותים"
+
+msgid "Veranda"
+msgstr "מרפסת סגורה"
+
+msgid "Balcony"
+msgstr "מרפסת"
+
+msgid "Solarium"
+msgstr "מיטות שיזוף"
+
+msgid "Living room/dining area"
+msgstr "חדר הסבה"
+
+msgid "Play room"
+msgstr "חדר משחקים"
+
+msgid "Dining room"
+msgstr "חדר אוכל"
+
+msgid "Pool house"
+msgstr "בריכה ביתית"
+
+msgid "Cupboard"
+msgstr "ארונות"
+
+msgid "Not used"
+msgstr "לא לשימוש"
+
+msgid "Loggia"
+msgstr "אכסדרה"
+
+msgid "Attic"
+msgstr "עליית גג"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"אחר\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Other\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Other\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Other"
+
+msgid "Mezzanine"
+msgstr "מדזנין"
+
+msgid "Pantry"
+msgstr "מרפסת שירות"
+
+msgid "Maintenance room"
+msgstr "חדר טכני"
+
+msgid "Studio"
+msgstr "סטודיו"
+
+msgid "Loft"
+msgstr "לופט"
+
+msgid "Library"
+msgstr "ספרייה"
+
+msgid "Closet"
+msgstr "ארון תלייה"
+
+msgid "Courtyard"
+msgstr "חצר"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"קומת מרתף\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מרתף"
+
+msgid "Bathroom / Lavatory"
+msgstr "אמבטיה"
+
+msgid "Shower room / Lavatory"
+msgstr "דוש"
+
+msgid "Exercise room"
+msgstr "אולם ספורט"
+
+msgid "Discothèque"
+msgstr "מועדון לילה"
+
+msgid "Home cinema"
+msgstr "קולנוע"
+
+msgid "Reception room"
+msgstr "אולם"
+
+msgid "Garden"
+msgstr "גינה"
+
+msgid "Park"
+msgstr "פארק"
+
+msgid "Land"
+msgstr "מגרש"
+
+msgid "Patio"
+msgstr "פטיו"
+
+msgid "Principal bedroom"
+msgstr "יחידת הורים"
+
+msgid "Suite"
+msgstr "סוויטה"
+
+msgid "Apartment"
+msgstr "דירה"
+
+msgid "Cabin"
+msgstr "תא"
+
+msgid "Barn"
+msgstr "אסם"
+
+msgid "Outbuilding"
+msgstr "יחידת דיור"
+
+msgid "Bike storage room"
+msgstr "איזור לאופניים"
+
+msgid "Ski storage room"
+msgstr "איזור לסקי"
+
+msgid "Garbage room"
+msgstr "חדר אשפה"
+
+msgid "Steam room"
+msgstr "חמאם"
+
+msgid "Indoor swimming pool"
+msgstr "בריכה מקורה"
+
+msgid "Prayer room"
+msgstr "חדר תפילה"
+
+msgid "Sauna"
+msgstr "סאונה"
+
+msgid "Watchtower"
+msgstr "מגדל הנמל"
+
+msgid "Room"
+msgstr "חדרים"
+
+msgid "Meeting room"
+msgstr "חדר ישיבות"
+
+msgid "Maid's room"
+msgstr "חדר שרות"
+
+msgid "Maid's studio"
+msgstr "סטודיו שרות"
+
+msgid "Double reception room"
+msgstr "לובי כפול"
+
+msgid "Triple reception room"
+msgstr "מולטי לובי"
+
+msgid "Indoor parking"
+msgstr "חניון מקורה"
+
+msgid "Outdoor parking"
+msgstr "חניון"
+
+msgid "Stockroom"
+msgstr "מלאי"
+
+msgid "Shop"
+msgstr "מסחר"
+
+msgid "Cafeteria"
+msgstr "קפיטריה"
+
+msgid "Box"
+msgstr "חניה"
+
+msgid "Standard"
+msgstr "טיפוסי"
+
+msgid "Co-exclusive"
+msgstr "שיתוף בלעדי"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בלעדיות\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בִּלְעָדִיּוּת"
+
+msgid "Delegation"
+msgstr "משלחת"
+
+msgid "Exclusive agent"
+msgstr "בלעדי למשרד"
+
+msgid "Free"
+msgstr "פנוי"
+
+msgid "Rented"
+msgstr "מושכר"
+
+msgid "Occupied"
+msgstr "מאוכלס"
+
+msgid "Sale"
+msgstr "מכירה"
+
+msgid "Rental"
+msgstr "השכרה"
+
+msgid "Seasonal rental"
+msgstr "תווך קצר"
+
+msgid "Development"
+msgstr "פרויקטים"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"קצבת חיים\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Viager"
+
+msgid "Auction"
+msgstr "מכירה פומבית"
+
+msgid "Unfurnished"
+msgstr "לא מרוהט"
+
+msgid "Furnished"
+msgstr "מרוהט"
+
+msgid "Requires updating"
+msgstr "רענן"
+
+msgid "Good condition"
+msgstr "מצב טוב"
+
+msgid "Requires renovation"
+msgstr "זקוק שיפוץ"
+
+msgid "Excellent condition"
+msgstr "מצב מצויין"
+
+msgid "New"
+msgstr "חדש"
+
+msgid "Ground floor"
+msgstr "דירת קרקע"
+
+msgid "Top floor"
+msgstr "קומה אחרונה"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "3rd"
+msgstr "3"
+
+msgid "4th"
+msgstr "4"
+
+msgid "5th"
+msgstr "5"
+
+msgid "6th"
+msgstr "6"
+
+msgid "7th"
+msgstr "7"
+
+msgid "8th"
+msgstr "8"
+
+msgid "9th"
+msgstr "9"
+
+msgid "10th"
+msgstr "10"
+
+msgid "11th"
+msgstr "11"
+
+msgid "12th"
+msgstr "12"
+
+msgid "13th"
+msgstr "13"
+
+msgid "14th"
+msgstr "14"
+
+msgid "15th"
+msgstr "15"
+
+msgid "16th"
+msgstr "16"
+
+msgid "17th"
+msgstr "17"
+
+msgid "18th"
+msgstr "18"
+
+msgid "19th"
+msgstr "19"
+
+msgid "20th"
+msgstr "20"
+
+msgid "Garden level"
+msgstr "דירת גן"
+
+msgid "Split-level"
+msgstr "בן-קומתיים"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "קומה אחת"
+
+msgid "21st"
+msgstr "21"
+
+msgid "22nd"
+msgstr "22"
+
+msgid "23rd"
+msgstr "23"
+
+msgid "24th"
+msgstr "24"
+
+msgid "25th"
+msgstr "25"
+
+msgid "26th"
+msgstr "26"
+
+msgid "27th"
+msgstr "27"
+
+msgid "28th"
+msgstr "28"
+
+msgid "29th"
+msgstr "29"
+
+msgid "30th"
+msgstr "30"
+
+msgid "31st"
+msgstr "31"
+
+msgid "32nd"
+msgstr "32"
+
+msgid "33rd"
+msgstr "33"
+
+msgid "34th"
+msgstr "34"
+
+msgid "35th"
+msgstr "35"
+
+msgid "36th"
+msgstr "36"
+
+msgid "37th"
+msgstr "37"
+
+msgid "38th"
+msgstr "38"
+
+msgid "39th"
+msgstr "39"
+
+msgid "40th"
+msgstr "40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "פרקט"
+
+msgid "Tile"
+msgstr "ריצוף"
+
+msgid "Carpet"
+msgstr "שטיח מקיר לקיר"
+
+msgid "Concrete"
+msgstr "בטון"
+
+msgid "Natural fiber"
+msgstr "סיבי צמח"
+
+msgid "Coco"
+msgstr "קוקו"
+
+msgid "Travertine"
+msgstr "טרוורטין"
+
+msgid "Marble"
+msgstr "שיש"
+
+msgid "Granite"
+msgstr "גרניט"
+
+msgid "Terracotta tile"
+msgstr "טרקוטה"
+
+msgid "Teak"
+msgstr "טיק"
+
+msgid "Mosaïc"
+msgstr "מוזאיק"
+
+msgid "Clay"
+msgstr "טיט"
+
+msgid "Stone"
+msgstr "אבן"
+
+msgid "Convector"
+msgstr "חימום"
+
+msgid "Underfloor"
+msgstr "קרקע"
+
+msgid "Radiator"
+msgstr "רדיאטור"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"כיריים\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"תנור כיריים"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מיזוג אוויר\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מזגו"
+
+msgid "Central"
+msgstr "מרכזי"
+
+msgid "Fireplace"
+msgstr "ערובה"
+
+#, fuzzy
+msgid "Individual"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"יחידה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"פרטי"
+
+msgid "Common"
+msgstr "קבוצתי"
+
+msgid "Mixed"
+msgstr "מעורב"
+
+msgid "Gas"
+msgstr "גז"
+
+msgid "Fuel oil"
+msgstr "סולר"
+
+msgid "Electric"
+msgstr "חשמל"
+
+msgid "Wood"
+msgstr "עצים"
+
+#, fuzzy
+msgid "Solar"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"אנרגייה סולרית\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"סולרי"
+
+msgid "Charcoal"
+msgstr "פחם"
+
+msgid "Heat pump"
+msgstr "משאבת חום"
+
+msgid "Geothermal"
+msgstr "גיאותרמית"
+
+msgid "Wood pellet"
+msgstr "כדור עץ"
+
+msgid "Hot water"
+msgstr "מים חמים"
+
+msgid "Hot water tank"
+msgstr "דוד שמש"
+
+msgid "Boiler"
+msgstr "חימום"
+
+msgid "Collective"
+msgstr "משותף"
+
+msgid "Term lease"
+msgstr "חידוש השכרה"
+
+msgid "Long-Term"
+msgstr "לטווח ארוך"
+
+msgid "Long-Term - Single activity"
+msgstr "לטווח ארוך - תעשייה קלה"
+
+msgid "Long-Term - All activities"
+msgstr "לטווח ארוך - תעשייה"
+
+msgid "Seaside"
+msgstr "על שפת הים"
+
+msgid "Village"
+msgstr "כפר"
+
+msgid "Old town"
+msgstr "עיר העתיקה"
+
+msgid "Precinct"
+msgstr "מדרחוב"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מסלול סקי\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מסלולי סקי"
+
+msgid "Town center"
+msgstr "מרכז העיר"
+
+msgid "Industrial estate"
+msgstr "אזור תעשייה"
+
+msgid "Shopping center"
+msgstr "מרכז קניות"
+
+msgid "Business park"
+msgstr "פארק עסקים"
+
+msgid "Airport area"
+msgstr "אזור שדה תעופה"
+
+msgid "Science park"
+msgstr "פארק היי טק"
+
+msgid "Port area"
+msgstr "איזור הנמל"
+
+msgid "Outskirts"
+msgstr "פריפריה"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"רמות\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"גבעה"
+
+msgid "Waterfront"
+msgstr "על הים"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"איזור פסטורלי טבעי\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"טבע"
+
+msgid "Suburb"
+msgstr "פרבר"
+
+msgid "East"
+msgstr "מזרח"
+
+msgid "North"
+msgstr "צפון"
+
+msgid "West"
+msgstr "מערב"
+
+msgid "South"
+msgstr "דרום"
+
+msgid "Day"
+msgstr "יום"
+
+msgid "Week"
+msgstr "שבוע"
+
+msgid "Fortnight"
+msgstr "שבועיים"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Quarterly"
+msgstr "רבעון"
+
+msgid "Bus"
+msgstr "אוטובוס"
+
+msgid "Bus hub"
+msgstr "תחנה מרכזית"
+
+msgid "Metro"
+msgstr "מטרו"
+
+msgid "Shops"
+msgstr "בתי מסחר"
+
+msgid "Primary school"
+msgstr "ביס יסודי"
+
+msgid "Town centre"
+msgstr "מרכז העיר"
+
+msgid "Hospital/clinic"
+msgstr "מרפאה/בית חולים"
+
+msgid "Doctor"
+msgstr "רופא"
+
+msgid "Tram"
+msgstr "רכבת הקלה"
+
+msgid "Train station"
+msgstr "תחנה רכבת"
+
+msgid "Public parking"
+msgstr "חניה ציבורית"
+
+msgid "Supermarket"
+msgstr "סופר מרקט"
+
+msgid "Sea port"
+msgstr "נמל"
+
+msgid "Nursery"
+msgstr "משתלה"
+
+msgid "Public pool"
+msgstr "בריכה"
+
+msgid "Tennis"
+msgstr "טניס"
+
+msgid "Golf"
+msgstr "גולף"
+
+msgid "Movies"
+msgstr "בתי קולנוע"
+
+msgid "Secondary school"
+msgstr "בית ספר על יסודי"
+
+msgid "Sport center"
+msgstr "אולם הספורט"
+
+msgid "Airport"
+msgstr "נמל תעופה"
+
+msgid "Sea"
+msgstr "ים"
+
+msgid "TGV station"
+msgstr "תחנת רכבת המהירה"
+
+msgid "Highway"
+msgstr "אוטוסטרדה"
+
+msgid "University"
+msgstr "אוניברסיטה"
+
+msgid "Convention center"
+msgstr "מרכז כנסים"
+
+msgid "Lake"
+msgstr "אגם"
+
+msgid "Energy - Conventional consumption"
+msgstr "הצריכה קונבנציונלית - אנרגיה"
+
+msgid "Energy - Emissions estimate"
+msgstr "הערכת פליטות - אנרגיה"
+
+msgid "« Carrez » act"
+msgstr "חוק Carrez"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "טרמיטים"
+
+msgid "Asbestos"
+msgstr "אזבסט"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"עופרת\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"עופרת\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Electricity"
+msgstr "חשמל"
+
+msgid "Boutin act"
+msgstr "חוק Boutin"
+
+msgid "Sanitation"
+msgstr "ניקוז"
+
+msgid "EPI (Non renewable)"
+msgstr "מדד אנרגיה EPI"
+
+msgid "APE"
+msgstr "אישור אנרגיה ACE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "בקשת ייצוג"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Demande de désignation d'un administrateur provisoire"
+
+msgid "Request for expert nomination"
+msgstr "בקשת שמייאות"
+
+msgid "Fire safety regulations"
+msgstr "תקן לבטיחות אש"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "תקן נגישות לנכים"
+
+msgid "Sanitary authorization"
+msgstr "אישור  סניטרי"
+
+msgid "Energy consumption"
+msgstr "צריכת אנרגייה"
+
+msgid "Housing tax"
+msgstr "ארנונה"
+
+msgid "Land charges"
+msgstr "הותאות מקרקעין"
+
+msgid "Residents only"
+msgstr "שמור לדיירים"
+
+msgid "Volume"
+msgstr "נפח"
+
+msgid "Useful surface"
+msgstr "שטח שימוש"
+
+msgid "Co-Ownership property"
+msgstr "PPE (Propriété par étages)"
+
+msgid "Emissions estimate"
+msgstr "הערכת פליטות"
+
+#, fuzzy
+msgid "Internet"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"אינטרנט\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Internet"
+
+msgid "Disabled access"
+msgstr "גישה לנכים"
+
+msgid "Alarm system"
+msgstr "אזעקות"
+
+msgid "Lift"
+msgstr "מעלית"
+
+msgid "Caretaker"
+msgstr "חצר"
+
+msgid "Double glazing"
+msgstr "זיגוג כפול"
+
+msgid "Intercom"
+msgstr "אינטרקום"
+
+msgid "TV distribution"
+msgstr "טלוויזיה בכבלים"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בריכה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בריכת שחייה\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"ברכה"
+
+msgid "Security door"
+msgstr "פלדלת"
+
+msgid "Tennis court"
+msgstr "טניס"
+
+msgid "Irrigation sprinkler"
+msgstr "השקייה"
+
+msgid "Barbecue"
+msgstr "מנגל"
+
+msgid "Electric gate"
+msgstr "שער חשמלי"
+
+msgid "Crawl space"
+msgstr "מאסף זבל"
+
+msgid "Car port"
+msgstr "חניה סגורה"
+
+msgid "Caretaker house"
+msgstr "בית שומר"
+
+msgid "Sliding windows"
+msgstr "דלתות חלון"
+
+msgid "Central vacuum system"
+msgstr "שואב מרכזי"
+
+msgid "Electric shutters"
+msgstr "תריסים חשמליים"
+
+msgid "Window shade"
+msgstr "חנויות"
+
+msgid "Electric awnings"
+msgstr "תריסים"
+
+msgid "Washing machine"
+msgstr "מכונת כביסה"
+
+msgid "Jacuzzi"
+msgstr "ג'קוזי"
+
+msgid "Whirlpool tub"
+msgstr "אמבט ספא"
+
+msgid "Well"
+msgstr "באר"
+
+msgid "Spring"
+msgstr "מעיין"
+
+msgid "Engine generator"
+msgstr "גנרטור"
+
+msgid "Dishwasher"
+msgstr "מדיח כלים"
+
+msgid "Hob"
+msgstr "כיריים"
+
+msgid "Safe"
+msgstr "כספת"
+
+msgid "Helipad"
+msgstr "משטח נחיתה"
+
+msgid "Videophone"
+msgstr "אינטרקום וידאו"
+
+msgid "Video security"
+msgstr "מעקב וידאו"
+
+msgid "Iron"
+msgstr "מגהץ"
+
+msgid "Hair dryer"
+msgstr "מייבש שיער"
+
+msgid "Television"
+msgstr "טלוויזיה"
+
+msgid "DVD Player"
+msgstr "די.וי.די"
+
+msgid "CD Player"
+msgstr "סי.די"
+
+msgid "Outdoor lighting"
+msgstr "תאורה חיצונית"
+
+msgid "Spa"
+msgstr "ספא"
+
+msgid "Home automation"
+msgstr "בית חכם"
+
+msgid "Linens"
+msgstr "טקסטיל בית"
+
+msgid "Tableware"
+msgstr "כלי אכילה"
+
+msgid "Clothes dryer"
+msgstr "מייבש כביסה"
+
+msgid "Phone"
+msgstr "טלפון"
+
+msgid "Refrigerator"
+msgstr "מקרר"
+
+msgid "Oven"
+msgstr "תנור אפייה"
+
+msgid "Reception 24/7"
+msgstr "קבלת 24/7"
+
+msgid "Coffeemaker"
+msgstr "מכונת קפה"
+
+msgid "Microwave oven"
+msgstr "מיקרו גרייל"
+
+msgid "Shabbat elevator"
+msgstr "מעלית שבת"
+
+msgid "Sukkah"
+msgstr "סוכה"
+
+msgid "Synagogue"
+msgstr "בית כנסת"
+
+msgid "Digicode"
+msgstr "דיג'יקוד"
+
+msgid "Common laundry"
+msgstr "חדר שרות"
+
+msgid "Pets allowed"
+msgstr "חיות מחמד"
+
+msgid "Water softener"
+msgstr "ריכוך מים"
+
+msgid "Access control"
+msgstr "בקרת גישה"
+
+msgid "Supplies"
+msgstr "אספקה"
+
+msgid "Outdoor spaces"
+msgstr "المساحات الخارجية"
+
+msgid "Rental supplies"
+msgstr "Rental supplies"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Building\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בניין\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בניין"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Security\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"ביטחון"
+
+msgid "Professional supplies"
+msgstr "Professional supplies"
+
+msgid "High standard"
+msgstr "ברמה גבוה"
+
+msgid "Luxury"
+msgstr "יוקרה"
+
+msgid "High luxury"
+msgstr "מאוד יוקרתי"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מתחם גדול\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"נדלן למגורים"
+
+msgid "Regular"
+msgstr "סטנדרט"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"In progress\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"In progress\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"בהתקדמות"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+msgid "Waiting for agreement"
+msgstr "Waiting for agreement"
+
+msgid "Agreement ended"
+msgstr "Agreement ended"
+
+msgid "Offer"
+msgstr "Offer"
+
+msgid "Processing sale"
+msgstr "Processing sale"
+
+msgid "Waiting for contract"
+msgstr "Waiting for bill of sale"
+
+msgid "Pending approval"
+msgstr "Pending approval"
+
+msgid "Sell/Rent by agent"
+msgstr "Sell/Rent by agent"
+
+msgid "Sell/Rent by owner"
+msgstr "Sell/Rent by owner"
+
+msgid "Sell/Rent by other agent"
+msgstr "Sell/Rent by other agent"
+
+msgid "Removed by agent"
+msgstr "Removed by agent"
+
+msgid "Removed by owner"
+msgstr "Removed by owner"
+
+msgid "Sale/Rental cancelled"
+msgstr "Sale/Rental cancelled"
+
+msgid "Delete this property"
+msgstr "Destroy this property"
+
+msgid "House"
+msgstr "בית"
+
+msgid "Business"
+msgstr "מסחר"
+
+msgid "Garage/Parking"
+msgstr "חנייה"
+
+msgid "Office"
+msgstr "משרד"
+
+msgid "Boat"
+msgstr "סירה"
+
+msgid "Cellar / Box"
+msgstr "מחסן"
+
+msgid "Triplex"
+msgstr "טריפלקס"
+
+msgid "Building land"
+msgstr "מגרש לבנייה"
+
+msgid "Not constructible land"
+msgstr "קרקע לא לבנייה"
+
+msgid "Penthouse"
+msgstr "פנטאהוז"
+
+msgid "Castle"
+msgstr "טירה"
+
+msgid "Duplex"
+msgstr "דופלקס"
+
+msgid "Manor house"
+msgstr "אחוזה"
+
+msgid "Farm"
+msgstr "חווה"
+
+msgid "Village house"
+msgstr "בית כפרי"
+
+msgid "Villa"
+msgstr "וילה"
+
+msgid "Apartment villa"
+msgstr "דירת וילה"
+
+msgid "Ruin"
+msgstr "חורבה"
+
+msgid "Property"
+msgstr "נכס"
+
+msgid "Mill"
+msgstr "בית חרושת"
+
+msgid "Carpark"
+msgstr "חניון"
+
+msgid "Farmhouse"
+msgstr "בית חווה"
+
+msgid "Townhouse"
+msgstr "בית העיר"
+
+msgid "Mobile home"
+msgstr "קרוון"
+
+msgid "Cottage"
+msgstr "קוטג'"
+
+msgid "Mas"
+msgstr "בית פסטורלי"
+
+msgid "Local"
+msgstr "מיקום"
+
+msgid "Chalet"
+msgstr "בקתה"
+
+msgid "Retail space"
+msgstr "מחסן מסחרי"
+
+msgid "Business assets"
+msgstr "עסקים"
+
+msgid "Right to the lease"
+msgstr "דמי מפתח"
+
+msgid "Mansion"
+msgstr "מלון פרטי"
+
+msgid "Management"
+msgstr "ניהול"
+
+msgid "Agricultural exploitation"
+msgstr "משק"
+
+msgid "Woodshed"
+msgstr "מחסן עצים"
+
+msgid "Equestrian estate"
+msgstr "חוות סוסים"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"מגרש\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Plot of land"
+
+msgid "Bastide"
+msgstr "צימר"
+
+msgid "Bastidon"
+msgstr "צימר בהר"
+
+msgid "Company"
+msgstr "חברה"
+
+msgid "Vineyard property"
+msgstr "יקב"
+
+msgid "Motor Yacht"
+msgstr "יאכטה"
+
+msgid "Narrow boat"
+msgstr "דוברה"
+
+msgid "Sailing Yacht"
+msgstr "יאכטה מפרשית"
+
+msgid "Catamaran"
+msgstr "קטמרן"
+
+msgid "Bed and breakfast"
+msgstr "בית הארחה"
+
+msgid "Gîte"
+msgstr "פנסיון"
+
+msgid "Riad"
+msgstr "ריאד"
+
+msgid "Arcade"
+msgstr "ארקייד"
+
+msgid "Retail shop"
+msgstr "קמעונאות"
+
+msgid "Cellar"
+msgstr "מרפסת שירות"
+
+msgid "Mountains"
+msgstr "הרים"
+
+msgid "Greenery"
+msgstr "ירק"
+
+msgid "Monument"
+msgstr "אנדרטה"
+
+msgid "Forest"
+msgstr "יער"
+
+msgid "City"
+msgstr "עיר"
+
+msgid "Sky"
+msgstr "שמיים"
+
+msgid "Harbor"
+msgstr "נמל"
+
+msgid "Street"
+msgstr "רחוב"
+
+msgid "Ski slopes"
+msgstr "מסלול סקי"
+
+msgid "Obstructed"
+msgstr "פרטיות"
+
+msgid "Slight"
+msgstr "הצצה"
+
+msgid "Unobstructed"
+msgstr "פתוח"
+
+msgid "Panoramic"
+msgstr "פנורמי"
+
+msgid "Septic tank"
+msgstr "בור ביוב"
+
+msgid "Main drainage"
+msgstr "ביוב"
+
+msgid "Treatment plant"
+msgstr "תחנת התפלה"
+
+msgid "Estate agent"
+msgstr "Estate agent"
+
+msgid "Phoning"
+msgstr "Phoning"
+
+msgid "Collaboration"
+msgstr "Collaboration"
+
+msgid "Advertising"
+msgstr "Advertising"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Provider\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"ספק"
+
+msgid "Renown"
+msgstr "Renown"
+
+msgid "Walk-in / Window"
+msgstr "Window"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Relations\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"רשת"
+
+msgid "Canvassing"
+msgstr "Canvassing"
+
+msgid "Event"
+msgstr "Exhibition / Show"
+
+msgid "Flyer"
+msgstr "Flyer"
+
+msgid "Sign"
+msgstr "Sign"
+
+msgid "Old client"
+msgstr "Old customer"
+
+msgid "Appraisal"
+msgstr "הערכה"
+
+msgid "Selection / Favorite"
+msgstr "מועדף"
+
+msgid "Main residence"
+msgstr "בית ראשון"
+
+msgid "Secondary residence"
+msgstr "בית שני"
+
+msgid "Student residence"
+msgstr "בית לסטודנט"
+
+msgid "Tourism residence"
+msgstr "משכן תיירות"
+
+msgid "Seniors residence"
+msgstr "משכן גיל הזהב"
+
+msgid "Duflot Legislation"
+msgstr "חוק דופלו"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "חוק סנסי בובאר"
+
+msgid "Reduced fees"
+msgstr "הוצאות ע'ד מופחתים"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD"
+
+msgid "Act 1291"
+msgstr "סעיף 1291"
+
+msgid "Act 887"
+msgstr "סעיף 887"
+
+msgid "Mixed-use"
+msgstr "שימוש מיקסט"
+
+msgid "Rental investment"
+msgstr "השקעת לשכירות"
+
+msgid "Act 1235"
+msgstr "סעיף 1235"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "דקות"
+
+msgid "metre"
+msgstr "מטרים"
+
+msgid "km"
+msgstr "ק''מ"
+
+msgid "Administrator"
+msgstr "מנהל"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"ברוקר\n"
+"#-#-#-#-#  apimo-he_IL.po  #-#-#-#-#\n"
+"Agent"
+
+msgid "Franchisor"
+msgstr "זכיין"
+
+msgid "Translator"
+msgstr "מתורגמן"
+
+msgid "Price on request"
+msgstr "מחיר לפי בקשה"
+
+msgid "Currency"
+msgstr "מטבע"
+
+msgid "price"
+msgstr "מחיר"
+
+msgid "room"
+msgstr "חדר"
+
+msgid "rooms"
+msgstr "חדרים"
+
+msgid "Send"
+msgstr "שלח"
+
+msgid "message"
+msgstr "הודעה"
+
+msgid "Tel."
+msgstr "טלפון"
+
+msgid "e-mail"
+msgstr "כתובת דואל"
+
+msgid "Lastname"
+msgstr "שם משפחה"
+
+msgid "Firstname"
+msgstr "שם פרטי"
+
+msgid "Reference"
+msgstr "הפניה"
+
+msgid "Folder"
+msgstr "תיק"
+
+msgid "No matches found"
+msgstr "לא נמצאו התאמות"
+
+msgid "Please enter one more character"
+msgstr "Saisissez un caractère supplémentaire"
+
+msgid "Duplicate"
+msgstr "עתק"
+
+msgid "Backup"
+msgstr "גבוי"
+
+msgid "Rate"
+msgstr "אָחוּז"
+
+msgid "Sender"
+msgstr "השולח"
+
+msgid "Recipient"
+msgstr "אל"
+
+msgid "Subject"
+msgstr "נושא"
+
+msgid "Attachment"
+msgstr "צרופה"
+
+msgid "Key"
+msgstr "מפתח"
+
+msgid "Documents"
+msgstr "מסמכים"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "Back"
+msgstr "חזרה"
+
+msgid "Area"
+msgstr "שטח"
+
+msgid "Areas"
+msgstr "שטחי"
+
+msgid "Length"
+msgstr "משך"
+
+msgid "Height"
+msgstr "גובה"
+
+msgid "Beam"
+msgstr "רוחב"
+
+msgid "Escrow deposit"
+msgstr "פקדון"
+
+msgid "Agreement reference"
+msgstr "Référence mandat"
+
+msgid "Agreement start at"
+msgstr "Démarrage mandat"
+
+msgid "Agreement end at"
+msgstr "Fin mandat"
+
+msgid "Fax"
+msgstr "פקס"
+
+msgid "Proximities"
+msgstr "קרבה"
+
+msgid "Loading"
+msgstr "טוען"
+
+msgid "Log out"
+msgstr "התנתקות"
+
+msgid "Availability"
+msgstr "זמינות"
+
+msgid "Total area"
+msgstr "סהכ שטח"
+
+msgid "Living area"
+msgstr "Surface habitable"
+
+msgid "Password forgotten"
+msgstr "סיסמא שנשכחה"
+
+msgid "Password"
+msgstr "סיסמה"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Welcome %s"
+msgstr "%s ברוך הבא"
+
+msgid "My search"
+msgstr "חיפוש"
+
+msgid "Add"
+msgstr "לְהוֹסִיף"
+
+msgid "Show"
+msgstr "לִרְאוֹת"
+
+msgid "List"
+msgstr "רשימה"
+
+msgid "Tools"
+msgstr "כלים"
+
+msgid "Market"
+msgstr "בורסה"
+
+msgid "Agency"
+msgstr "סוכנות"
+
+msgid "Calendar"
+msgstr "לוח זמן"
+
+msgid "Homepage"
+msgstr "דף הבית"
+
+msgid "Map"
+msgstr "מפה"
+
+msgid "Users"
+msgstr "משתמשים"
+
+msgid "User"
+msgstr "משתמש"
+
+msgid "Sectors"
+msgstr "מגזרים"
+
+msgid "Sector"
+msgstr "מגזר"
+
+msgid "contacts"
+msgstr "אנש קשר"
+
+msgid "Settings"
+msgstr "אפשרויות"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "Heating"
+msgstr "הסקה"
+
+msgid "Waste water"
+msgstr "מי שפכים"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Owners"
+msgstr "בעלים"
+
+msgid "Orientation"
+msgstr "אוריינטציה"
+
+msgid "View"
+msgstr "נוף"
+
+msgid "District"
+msgstr "שכונה"
+
+msgid "Fields"
+msgstr "שדות"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "comment"
+msgstr "תגובה"
+
+msgid "Service"
+msgstr "השירות"
+
+msgid "News"
+msgstr "חדשות"
+
+msgid "Contact us"
+msgstr "צור קשר"
+
+msgid "Print"
+msgstr "הדפסה"
+
+msgid "Picture"
+msgstr "תמונה"
+
+msgid "Add to cart"
+msgstr "הוסף עגלה"
+
+msgid "Replace in cart"
+msgstr "Remplacer dans le panier"
+
+msgid "Category"
+msgstr "קטגוריה"
+
+msgid "History"
+msgstr "היסטוריה"
+
+msgid "Details"
+msgstr "פֵּרוּט"
+
+msgid "Date"
+msgstr "תאריך"
+
+msgid "Previous"
+msgstr "קודם"
+
+msgid "Next"
+msgstr "המשך"
+
+msgid "Quick search"
+msgstr "חיפוש מהיר"
+
+msgid "Postal code"
+msgstr "מיקוד"
+
+msgid "The username and/or password is invalid."
+msgstr "שם משתמש או סיסמא שגויים"
+
+msgid "Group"
+msgstr "קבוצה"
+
+msgid "Are you sure?"
+msgstr "אִשֵּׁר"
+
+msgid "Nationality"
+msgstr "אזרחות"
+
+msgid "Radius"
+msgstr "רדיוס"
+
+msgid "Summary"
+msgstr "תקציר"
+
+msgid "Watermark"
+msgstr "Filigrane"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Mortgage"
+msgstr "משכנתא"
+
+msgid "Download"
+msgstr "הורדה"
+
+msgid "Dashboard"
+msgstr "לוח מחוונים"
+
+msgid "Seekers"
+msgstr "Seekers"
+
+msgid "Active seekers"
+msgstr "Active seekers"
+
+msgid "Providers"
+msgstr "ספקים"
+
+msgid "Active owners"
+msgstr "Active owners"
+
+msgid "Monitoring"
+msgstr "ניטור"
+
+msgid "Exchange"
+msgstr "העברה"
+
+msgid "Similar"
+msgstr "דומה"
+
+msgid "Condition"
+msgstr "מצב"
+
+msgid "Floor"
+msgstr "רצפה"
+
+msgid "Portfolio"
+msgstr "תיק עבודות"
+
+msgid "Subscribe"
+msgstr "הירשם כמנוי"
+
+msgid "Number of shares"
+msgstr "Nombre de quotes-parts"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Opening hours"
+msgstr "שעות פתיחה"
+
+msgid "Forward to contact"
+msgstr "Forward to contact"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+
+msgid "Registrar"
+msgstr "Registrar"
+
+msgid "Expiration at"
+msgstr "Expiration at"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Domain name"
+
+msgid "Filling"
+msgstr "Filling"
+
+msgid "Condition precedent"
+msgstr "Condition precedent"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Turnover"
+msgstr "Turnover"
+
+msgid "Deal fees"
+msgstr "Deal fees"
+
+msgid "Fees charged"
+msgstr "Fees charged"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Booked"
+msgstr "Booked"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Ceiling height"
+
+msgid "Unsold"
+msgstr "Unsold"
+
+msgid "Sold"
+msgstr "Sold"
+
+msgid "Last action"
+msgstr "Last action"
+
+msgid "Our agency"
+msgstr "Our agency"
+
+msgid "Locate us"
+msgstr "Locate us"
+
+msgid "Your main contact"
+msgstr "איש הקשר הראשי שלך"
+
+msgid "Send me a message"
+msgstr "Send me a message"
+
+msgid "Leave us a message"
+msgstr "השאירו לנו הודעה"
+
+msgid "Owner access"
+msgstr "גישה לבעלים"
+
+msgid "No action"
+msgstr "No action"
+
+msgid "Received contact information"
+msgstr "Received contact information"
+
+msgid "Linked contact"
+msgstr "Linked contact"
+
+msgid "Related contacts"
+msgstr "Related contacts"
+
+msgid "Others"
+msgstr "Others"
+
+msgid "Assigned to"
+msgstr "Assigned to"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Assign by"
+msgstr "Assign by"
+
+msgid "Opened by"
+msgstr "Opened by"
+
+msgid "Closed by"
+msgstr "Closed by"
+
+msgid "Time zone"
+msgstr "אזור הזמן"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Invert selection"
+msgstr "Invert selection"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Unselect all"
+msgstr "Unselect all"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s lead(s) awaiting"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending properties"
+msgstr "%s מוצר(ים) המתנה"
+
+msgid "%s pending matching(s)"
+msgstr "%s החצייה תלוי ועומד"
+
+msgid "%s expired agreement(s)"
+msgstr "%s הסכם(ים) פג תוקף"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s הסכם(ים) פג בקרוב"
+
+msgid "Legal notice"
+msgstr "הודעה משפטית"
+
+msgid "Tags"
+msgstr "תגיות"
+
+msgid "Allowed"
+msgstr "מותר"
+
+msgid "Min stay"
+msgstr "תקופה מינימלית"
+
+msgid "Over"
+msgstr "מֵעֵבֶר"
+
+msgid "Refresh"
+msgstr "רענון"
+
+msgid "Free text"
+msgstr "טקסט חופשי"
+
+msgid "Generate comment"
+msgstr "הערה אוטומטיים"
+
+msgid "Building name"
+msgstr "שם בניין"
+
+msgid "VAT"
+msgstr "מעמ"
+
+msgid "VAT included"
+msgstr "VAT included"
+
+msgid "Recurrence"
+msgstr "הישנות"
+
+msgid "Calculate"
+msgstr "לחשב"
+
+msgid "Contribution"
+msgstr "תרומה"
+
+msgid "Maximum debt"
+msgstr "חוב מקסימאלי"
+
+msgid "Purchase amount"
+msgstr "סכום רכישה"
+
+msgid "Borrowing calculator"
+msgstr "מחשבון אשראי"
+
+msgid "Monthly payment calculator"
+msgstr "מחשבון תשלום חודשי"
+
+msgid "You don't have broadcasting rights"
+msgstr "אתה לא צריך זכויות שידור"
+
+msgid "Pending"
+msgstr "תלוי ועומד"
+
+msgid "Suggestions"
+msgstr "הצעות"
+
+msgid "To show"
+msgstr "להציג"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Manual"
+msgstr "ידני"
+
+msgid "In collaboration with a %name% professional"
+msgstr "בשתוף פעולה עם"
+
+msgid "Partners"
+msgstr "שותפים"
+
+msgid "Unit"
+msgstr "חֶלקָה"
+
+msgid "Spouse"
+msgstr "בן/בת זוג"
+
+msgid "Manager"
+msgstr "מְנַהֵל"
+
+msgid "Category reference"
+msgstr "התייחסות קטגוריה"
+
+msgid "Cadastre reference"
+msgstr "התייחסות מיפוי"
+
+msgid "Lot reference"
+msgstr "התייחסות לוט"
+
+msgid "Block reference"
+msgstr "התייחסות בלוק"
+
+msgid "Stairs reference"
+msgstr "התייחסות מדרגות"
+
+msgid "Mortgage end at"
+msgstr "סוף למשכנתאות ב"
+
+msgid "Media"
+msgstr "מדיה"
+
+msgid "Report"
+msgstr "דוח"
+
+msgid "Last access"
+msgstr "הגישה אחרונה"
+
+msgid "First access"
+msgstr "גישה ראשונה"
+
+msgid "Access count"
+msgstr "ספירת גישה"
+
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgid "Please do not enter any name or contact"
+msgstr "נא לא להיכנס לכל שם או קשר"
+
+msgid "QR-Code"
+msgstr "קוד QR"
+
+msgid "Show price"
+msgstr "מחיר הצג"
+
+msgid "Done"
+msgstr "נעשה"
+
+msgid "n.a"
+msgstr "לא ישים"
+
+msgid "Fill in the table"
+msgstr "מלא את הטבלה"
+
+msgid "Selection"
+msgstr "בחירה"
+
+msgid "copy"
+msgstr "העתק"
+
+msgid "Automatic matching"
+msgstr "התאמה אוטומטית"
+
+msgid "e-mail alert"
+msgstr "התראת דואל"
+
+msgid "Authorization"
+msgstr "אישור"
+
+msgid "Last connection the %s"
+msgstr "%s החיבור אחרון"
+
+msgid "All"
+msgstr "הכל"
+
+msgid "Wiki"
+msgstr "ויקי"
+
+msgid "Latest"
+msgstr "האחרון"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Show/hide fields"
+
+msgid "Recent searches"
+msgstr "Recent searches"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "התראות"
+
+msgid "Prescribers"
+msgstr "Prescribers"
+
+msgid "Crew"
+msgstr "צוות"
+
+msgid "Standing"
+msgstr "מַעֲמָד"
+
+msgid "Receive a copy"
+msgstr "לקבל העתק"
+
+msgid "Latest views"
+msgstr "Latest views"
+
+msgid "Quality"
+msgstr "איכות"
+
+msgid "Viewing agreement"
+msgstr "Viewing agreement"
+
+msgid "Decline"
+msgstr "ירידה"
+
+msgid "Declined"
+msgstr "נדחה"
+
+msgid "Accept"
+msgstr "קבל"
+
+msgid "Accepted"
+msgstr "קיבלתי"
+
+msgid "Zones"
+msgstr "אזורים"
+
+msgid "Zone"
+msgstr "אזור"
+
+msgid "Matrimonial regime"
+msgstr "Matrimonial regime"
+
+msgid "Marital status"
+msgstr "Marital status"
+
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+msgid "Unread"
+msgstr "שלא נקרא"
+
+msgid "Pension"
+msgstr "Rente"
+
+msgid "Draft"
+msgstr "שוקע"
+
+msgid "Guests"
+msgstr "אורחים"
+
+msgid "Cruising speed"
+msgstr "מהירות שיוט"
+
+msgid "Builder"
+msgstr "בנאי"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Civil law notary"
+msgstr "Notaire"
+
+msgid "Max price"
+msgstr "מחיר מקס"
+
+msgid "Publications"
+msgstr "פרסום"
+
+msgid "Reminders"
+msgstr "Reminders"
+
+msgid "Credit"
+msgstr "Crédit"
+
+msgid "Signature"
+msgstr "חתימה"
+
+msgid "Title (politeness)"
+msgstr "נימוס"
+
+msgid "Amount"
+msgstr "הסכום"
+
+msgid "Amounts"
+msgstr "סכומים"
+
+msgid "Updated at"
+msgstr "עודכן ב"
+
+msgid "Created at"
+msgstr "נוצר ב"
+
+msgid "First published at"
+msgstr "פורסם לראשונה ב"
+
+msgid "Insurance"
+msgstr "ביטוח"
+
+msgid "Provision"
+msgstr "הפרשה"
+
+msgid "Entries"
+msgstr "רְשׁוּמָה"
+
+msgid "Number"
+msgstr "מספר"
+
+msgid "Terrace"
+msgstr "טרסה"
+
+msgid "Plot of land area"
+msgstr "Plot of land area"
+
+msgid "Deposit account"
+msgstr "Deposit account"
+
+msgid "Owner's price"
+msgstr "Owner's price"
+
+msgid "Starting price"
+msgstr "מחיר התחלתי"
+
+msgid "Mobile"
+msgstr "טלפון סלולארי"
+
+msgid "Lease"
+msgstr "Lease"
+
+msgid "Leases"
+msgstr "Leases"
+
+msgid "Address"
+msgstr "כתובת"
+
+msgid "Searches"
+msgstr "חיפושים"
+
+msgid "Delete"
+msgstr "מחיקה"
+
+msgid "Maps"
+msgstr "מפות"
+
+msgid "days"
+msgstr "ימים"
+
+msgid "day"
+msgstr "יום"
+
+msgid "Catalog"
+msgstr "קטלוג"
+
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+msgid "Built in"
+msgstr "נבנה ב"
+
+msgid "Brief comment"
+msgstr "הֶעָרָה"
+
+msgid "Percentage"
+msgstr "אחוז"
+
+msgid "Visits"
+msgstr "ביקורים"
+
+msgid "Key number"
+msgstr "מספר מפתח"
+
+msgid "Key's place"
+msgstr "את מקומו של המפתח"
+
+msgid "Displayed city (optional)"
+msgstr "עיר הוצגה (אופציונאלי)"
+
+msgid "Displayed district (optional)"
+msgstr "מחוז הוצג (אופציונאלי)"
+
+msgid "Clauses"
+msgstr "סעיפים"
+
+msgid "Bathrooms"
+msgstr "חדרי אמבטיה"
+
+msgid "Seller"
+msgstr "מוכר"
+
+msgid "Adjacency"
+msgstr "Adjacency"
+
+msgid "Step"
+msgstr "שלב"
+
+msgid "Long comment"
+msgstr "תגובה ארוכה"
+
+msgid "Subtitle"
+msgstr "כתוביות"
+
+msgid "Header"
+msgstr "כותרת"
+
+msgid "Position"
+msgstr "תפקיד"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Merci de compléter un nom ainsi qu'un téléphone ou un e-mail."
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "Tour comment"
+msgstr "הערה ביקור"
+
+msgid "Ref"
+msgstr "נצ"
+
+msgid "Personal"
+msgstr "אישי"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "The installation can take several minutes, please come back later."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Your contact speaks %s, would you like to change the language?"
+
+msgid "What's on your mind?"
+msgstr "מה קורה?"
+
+msgid "plus VAT"
+msgstr "plus VAT"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "יש שגיאה, להודות לך לבדוק את השדות. <b>תיזהר :</b>"
+
+msgid "Price/sq m"
+msgstr "מחיר/m²"
+
+msgid "today"
+msgstr "היום"
+
+msgid "week"
+msgstr "שבוע"
+
+msgid "from %from_value% to %to_value%"
+msgstr "%to_value% עד %from_value% מ"
+
+msgid "Page"
+msgstr "דף"
+
+msgid "Action"
+msgstr "פעולה"
+
+msgid "Status"
+msgstr "סטטוס"
+
+msgid "agencies"
+msgstr "סניפים"
+
+msgid "Context"
+msgstr "מסגרת"
+
+msgid "More criteria"
+msgstr "יותר קריטריונים"
+
+msgid "Criteria"
+msgstr "קריטריונים"
+
+msgid "Classification"
+msgstr "קְלָסִיפִיקַצְיָה"
+
+msgid "metres"
+msgstr "מֶטֶר"
+
+msgid "Window"
+msgstr "חלון ראווה"
+
+msgid "Stock area"
+msgstr "שטח המניה"
+
+msgid "Sales area"
+msgstr "שטח מכירות"
+
+msgid "Sale price"
+msgstr "Sale price"
+
+msgid "from %from_date% to %to_date%"
+msgstr "%to_date% עד %from_date% מ"
+
+msgid "sq m"
+msgstr "מר"
+
+msgid "bedroom"
+msgstr "חדר שינה"
+
+msgid "comments"
+msgstr "הערות"
+
+msgid "Private comment"
+msgstr "איך פרטי"
+
+msgid "Private"
+msgstr "פרטי"
+
+msgid "Level"
+msgstr "מִפלָס"
+
+msgid "Exchanges"
+msgstr "העברות"
+
+msgid "by"
+msgstr "ידי"
+
+msgid "Elevator"
+msgstr "מעלית"
+
+msgid "no"
+msgstr "לא"
+
+msgid "yes"
+msgstr "כן"
+
+msgid "Printed with care"
+msgstr "מודפס בזהירות"
+
+msgid "Please do not litter on public way"
+msgstr "נא לא המלטה בדרך ציבורית"
+
+msgid "Non-contractual information"
+msgstr "לא מידע חוזית"
+
+msgid "Agency fees"
+msgstr "דמי תיווך"
+
+msgid "Agency fees included"
+msgstr "עמלות סוכנות כלולות"
+
+msgid "Agency fees not included"
+msgstr "דמי תיווך שלא נכללו"
+
+msgid "Fees"
+msgstr "אַגרָה"
+
+msgid "Personal property tax"
+msgstr "מס רכוש אישי"
+
+msgid "Property tax"
+msgstr "מס רכוש"
+
+msgid "Style"
+msgstr "סגנון"
+
+msgid "Pictures"
+msgstr "תמונות"
+
+msgid "Window card"
+msgstr "Fiche vitrine"
+
+msgid "Private sheet"
+msgstr "Fiche privée"
+
+msgid "Public sheet"
+msgstr "Fiche publique"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "Cart"
+msgstr "עגלה"
+
+msgid "Land type"
+msgstr "Land type"
+
+msgid "Property agent"
+msgstr "Property agent"
+
+msgid "Bill"
+msgstr "חשבון"
+
+msgid "End at"
+msgstr "בסופו של ב"
+
+msgid "Close at"
+msgstr "לסגור ב"
+
+msgid "Start at"
+msgstr "התחל מ"
+
+msgid "Guarantee"
+msgstr "אחריות"
+
+msgid "Update"
+msgstr "עדכון"
+
+msgid "Type"
+msgstr "סוג"
+
+msgid "Inter-agencies"
+msgstr "בין סניפים"
+
+msgid "Number of floors"
+msgstr "מספר קומות"
+
+msgid "Evaluated price"
+msgstr "Evaluated price"
+
+msgid "Seller's commission"
+msgstr "Owner's agent commission"
+
+msgid "Buyer's commission"
+msgstr "Customer's agent commission"
+
+msgid "Commission"
+msgstr "Commission"
+
+msgid "Origin"
+msgstr "מקור"
+
+msgid "Specific origin"
+msgstr "מקור ספציפי"
+
+msgid "Flooring"
+msgstr "ריצוף"
+
+msgid "Rank"
+msgstr "דירוג"
+
+msgid "Calls"
+msgstr "שיחות"
+
+msgid "Phone call"
+msgstr "שיחה"
+
+msgid "Send to contact"
+msgstr "Send to contact"
+
+msgid "No results found"
+msgstr "לא מוצא תוצאות חיפוש"
+
+msgid "results"
+msgstr "תוצאות"
+
+msgid "result"
+msgstr "תוצאה"
+
+msgid "Advertiser"
+msgstr "Advertiser"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Confidential"
+msgstr "סודי"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Companies"
+msgstr "חברות"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "Succession"
+msgstr "Succession"
+
+msgid "Please fill in a city."
+msgstr "Merci de compléter une ville."
+
+msgid "Please fill"
+msgstr "Please fill"
+
+msgid "The email address is invalid."
+msgstr "דואר אלקטרוני שגוי"
+
+msgid "Rights"
+msgstr "זכויות"
+
+msgid "Display"
+msgstr "הִצִּיג"
+
+msgid "Since"
+msgstr "מאז"
+
+msgid "Filter"
+msgstr "סנון"
+
+msgid "Min"
+msgstr "מִינִימוּם"
+
+msgid "Max"
+msgstr "מַקְסִימוּם"
+
+msgid "Lessor"
+msgstr "מַחְכִּיר"
+
+msgid "Lessee"
+msgstr "שוכר"
+
+msgid "Reservations"
+msgstr "הזמנה"
+
+msgid "Booking"
+msgstr "להזמין"
+
+msgid "Bed"
+msgstr "מִטָּה"
+
+msgid "Cleaning price"
+msgstr "מחיר ניקיון"
+
+msgid "Availabilities"
+msgstr "זְמִינוּת"
+
+msgid "Sent"
+msgstr "נשלח"
+
+msgid "month"
+msgstr "חודש"
+
+msgid "years"
+msgstr "שנים"
+
+msgid "Seasons"
+msgstr "עונות"
+
+msgid "Season"
+msgstr "עונה"
+
+msgid "Rates"
+msgstr "תעריף"
+
+msgid "Todo"
+msgstr "מְהוּמָה"
+
+msgid "Brand"
+msgstr "מִסְחָרִי"
+
+msgid "Publicated at"
+msgstr "פירסום ב"
+
+msgid "Bank"
+msgstr "בנק"
+
+msgid "Delivery at"
+msgstr "שְׁלִיחָה ה"
+
+msgid "Reason"
+msgstr "סיבה"
+
+msgid "What's new"
+msgstr "מה חדש ?"
+
+msgid "requests"
+msgstr "בקשות"
+
+msgid "request"
+msgstr "בקוש"
+
+msgid "Current rent"
+msgstr "מחיר שכר הדירה השוטף"
+
+msgid "properties"
+msgstr "נכסים"
+
+msgid "property"
+msgstr "מוצר"
+
+msgid "Calculator"
+msgstr "מחשבון"
+
+msgid "Birthplace"
+msgstr "תמקום לידה"
+
+msgid "Birthday"
+msgstr "יום הולדת"
+
+msgid "Income"
+msgstr "הַכְנָסָה"
+
+msgid "Costs"
+msgstr "מְחִיר"
+
+msgid "Margin"
+msgstr "מֶתַח רְוָחִים"
+
+msgid "Required."
+msgstr "חובה"
+
+msgid "Seasonal"
+msgstr "עובד עונתי"
+
+msgid "Spoken languages"
+msgstr "שפות מדוברות"
+
+msgid "Number of children"
+msgstr "מספר ילדים"
+
+msgid "Hotline"
+msgstr "קבלת תמיכה"
+
+msgid "Re-type password"
+msgstr "לכתוב שוב  את סיסמתך"
+
+msgid "Public longitude"
+msgstr "Longitude publique"
+
+msgid "Public latitude"
+msgstr "Latitude publique"
+
+msgid "Access denied"
+msgstr "Accès refusé"
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "Launch"
+msgstr "Lancer"
+
+msgid "Shortcuts"
+msgstr "Raccourcis"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Durée viager"
+
+msgid "Market value"
+msgstr "שווי השוק"
+
+msgid "Price contribution"
+msgstr "Apport initial"
+
+msgid "Sharing"
+msgstr "השיתוף"
+
+msgid "Show more results"
+msgstr "הצג עוד תוצאות"
+
+msgid "Close"
+msgstr "סגירה"
+
+msgid "Hide"
+msgstr "הסתר"
+
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+msgid "Corporate register"
+msgstr "רשם החברות"
+
+msgid "Expired soon"
+msgstr "פג תוקף בקרוב"
+
+msgid "Expired"
+msgstr "פג תוקף"
+
+msgid "Agreements"
+msgstr "הסכמים"
+
+msgid "Agreement"
+msgstr "הסכם"
+
+msgid "Agreement number"
+msgstr "Numéro de mandat"
+
+msgid "VAT identification number"
+msgstr "TVA intracommunautaire"
+
+msgid "Buyer"
+msgstr "קונה"
+
+msgid "Prescriber"
+msgstr "Prescriber"
+
+msgid "Message sent"
+msgstr "ההודעה נשלחה"
+
+msgid "Limit"
+msgstr "גבול"
+
+msgid "Publish"
+msgstr "לפרסם"
+
+msgid "Do not publish"
+msgstr "נא לא לפרסם"
+
+msgid "Cancel"
+msgstr "לבטל"
+
+msgid "Already suggested"
+msgstr "הציע כבר"
+
+msgid "Suggest"
+msgstr "להציע"
+
+msgid "Diagnostics"
+msgstr "אבחון"
+
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+msgid "Serviced plot"
+msgstr "Serviced plot"
+
+msgid "Net floor area"
+msgstr "Net floor area"
+
+msgid "Sold price"
+msgstr "מחיר שנמכר"
+
+msgid "Sold at"
+msgstr "נמכר ב"
+
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+msgid "Garden area"
+msgstr "Surface jardin"
+
+msgid "Payments"
+msgstr "תשלום"
+
+msgid "Reopen"
+msgstr "Reopen"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Callback"
+msgstr "Callback"
+
+msgid "Callbacks"
+msgstr "Callbacks"
+
+msgid "Total"
+msgstr "סהכ"
+
+msgid "Coagent"
+msgstr "Co-agence"
+
+msgid "Residence"
+msgstr "מגורים"
+
+msgid "Characteristics"
+msgstr "מאפיינים"
+
+msgid "Unsubscribe"
+msgstr "בטל את הרישום"
+
+msgid "SMS"
+msgstr "מסרון"
+
+msgid "%s unit"
+msgstr "חֶלקָה s%"
+
+msgid "%s guest"
+msgstr "אורחים s%"
+
+msgid "%s bed"
+msgstr "%s מִטָּה"
+
+msgid "%s bathroom"
+msgstr "%s מקלחת"
+
+msgid "%s bathrooms"
+msgstr "%s חדרי אמבטיה"
+
+msgid "Toilet"
+msgstr "שירותים"
+
+msgid "Mandatory fields"
+msgstr "שדות חובה"
+
+msgid "Contract end at"
+msgstr "סיום החוזה ב"
+
+msgid "Location Map"
+msgstr "מפת מיקום"
+
+msgid "User Detail"
+msgstr "פרטי משתמש"
+
+msgid "File size"
+msgstr "גודל קובץ"
+
+msgid "File title"
+msgstr "כותרת הקובץ"
+
+msgid "Region"
+msgstr "אזור"
+
+msgid "Bath"
+msgstr "אמבטיה"
+
+msgid "Private Negotiation"
+msgstr "משא ומתן פרטי"
+
+msgid "Property specifications"
+msgstr "מפרט הנכס"
+
+msgid "Energy performance"
+msgstr "ביצועי אנרגיה"
+
+msgid "Media Details"
+msgstr "פרטי המדיה"
+
+msgid "View Video"
+msgstr "צפה בוידאו"
+
+msgid "Start Date"
+msgstr "תאריך התחלה"
+
+msgid "End Date"
+msgstr "תאריך סיום"
+
+msgid "Welcome"
+msgstr "ברוכים הבאים"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "ראו מה קורה עם תוסף Apimo."
+
+msgid "PROVIDERS"
+msgstr "ספקים"
+
+msgid "AGENCIES"
+msgstr "סוכנויות"
+
+msgid "PROPERTIES"
+msgstr "נכסים"
+
+msgid "BOOKMARK"
+msgstr "סימניה"
+
+msgid "Remove all"
+msgstr "הסר הכל"
+
+msgid "Apply filter"
+msgstr "החל סינון"
+
+msgid "Select Subtype"
+msgstr "בחר תת-סוג"
+
+msgid "Enchère"
+msgstr "מכירה פומבית"
+
+msgid "Location"
+msgstr "השכרה"
+
+msgid "Location saisonnière"
+msgstr "השכרת עונתית"
+
+msgid "From"
+msgstr "מ"
+
+msgid "To"
+msgstr "ל"
+
+msgid "Dates"
+msgstr "תאריכים"
+
+msgid "Select country"
+msgstr "בחר מדינה"
+
+msgid "Select region"
+msgstr "בחר אזור"
+
+msgid "Select district"
+msgstr "בחר מחוז"
+
+msgid "Select city"
+msgstr "בחר עיר"
+
+msgid "Good"
+msgstr "טוֹב"
+
+msgid "Bad"
+msgstr "רַע"
+
+msgid "hello"
+msgstr "שלום"

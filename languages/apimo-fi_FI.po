@@ -1,0 +1,4385 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Muistutus"
+
+msgid "Suggestion"
+msgstr "Ehdotus"
+
+#, fuzzy
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Raportti\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Compte rendu"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Toinen\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Toinen\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Toinen\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Toinen\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Autre"
+
+msgid "Valuation"
+msgstr "Arviointi"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Mainos\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Päivyri\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Mainonta"
+
+msgid "Open House"
+msgstr "Avoimet ovet"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Asiakashaku\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Asiakas haku"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "After-sales"
+msgstr "Myynnin jälkeinen palvelu"
+
+msgid "Visit"
+msgstr "Näyttö"
+
+msgid "Appointment"
+msgstr "Tapaaminen"
+
+msgid "Phone"
+msgstr "Puhelin"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+#, fuzzy
+msgid "Fax"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Fax\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Faksi"
+
+msgid "Mail"
+msgstr "Kirje"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Käynti"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Project"
+msgstr "Projekti"
+
+msgid "Under construction"
+msgstr "Rakenteilla oleva"
+
+msgid "Delivered"
+msgstr "Luovutettu"
+
+msgid "Ended"
+msgstr "Valmistunut"
+
+msgid "Canceled"
+msgstr "Mitätöity"
+
+msgid "Mr."
+msgstr "Herra"
+
+msgid "Mrs."
+msgstr "Rouva"
+
+msgid "Ms."
+msgstr "Neiti"
+
+msgid "Mr. & Mrs."
+msgstr "Herra ja Rouva"
+
+msgid "Sheik"
+msgstr "Sheikki"
+
+msgid "Duke"
+msgstr "Herttua"
+
+msgid "Duchess"
+msgstr "Herttuatar"
+
+msgid "Lord"
+msgstr "Loordi"
+
+msgid "Maître"
+msgstr "Mestari"
+
+msgid "Professor"
+msgstr "Professori"
+
+msgid "Sir"
+msgstr "Sir"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Réglementation\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Réglementations"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Neuvonta"
+
+msgid "Contact"
+msgstr "Kontakti"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Ostajan kontakti\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Etsiä"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Myyjän kontakti\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Omistaja"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"E-mail hälytys\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Alerte e-mail"
+
+msgid "Send to a friend"
+msgstr "Lähetä ystävälle"
+
+msgid "Newsletter"
+msgstr "Uutiskirje tilaus"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Valikoima\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Sélection"
+
+msgid "New"
+msgstr "Uusi"
+
+msgid "Opened"
+msgstr "Avattu"
+
+msgid "Processing"
+msgstr "Käsittelyn alla"
+
+msgid "Closed"
+msgstr "Suljettu"
+
+msgid "Self-employed"
+msgstr "Vapaa ammatti"
+
+msgid "Confectioner"
+msgstr "Leipomo"
+
+msgid "Restaurant"
+msgstr "Ravintola"
+
+msgid "Press"
+msgstr "Lehtikioski"
+
+msgid "Bar"
+msgstr "Baari"
+
+msgid "Florist"
+msgstr "Kukkakauppa"
+
+msgid "Tobacconist"
+msgstr "Tupakkakauppa"
+
+msgid "Clothes"
+msgstr "Vaatekauppa"
+
+msgid "Chemist"
+msgstr "Apteekki"
+
+msgid "Shopping centre"
+msgstr "Kauppakeskus"
+
+msgid "Travel agency"
+msgstr "Matkatoimisto"
+
+msgid "Real estate agent"
+msgstr "Kiinteistövälitys"
+
+msgid "Gallery"
+msgstr "Galleria"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Autokorjaamo\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Autotalli"
+
+msgid "Insurer"
+msgstr "Vakuutusyhtiö"
+
+msgid "Optician"
+msgstr "Optikkoliike"
+
+msgid "Perfumery"
+msgstr "Parfyymiliike"
+
+msgid "Hotel"
+msgstr "Hotelli"
+
+msgid "Antique dealer"
+msgstr "Antiikkikauppa"
+
+msgid "Laundry"
+msgstr "Pesula"
+
+msgid "Pressing"
+msgstr "Kemiallinen pesula"
+
+msgid "Jeweller"
+msgstr "Koruliike"
+
+msgid "Grocer"
+msgstr "Ruokakauppa"
+
+msgid "Butcher"
+msgstr "Lihakauppa"
+
+msgid "Pork butcher"
+msgstr "Leikkelekauppa"
+
+msgid "Brewery"
+msgstr "Brasserie"
+
+msgid "Snack"
+msgstr "Pikaruokapaikka"
+
+msgid "Grocery"
+msgstr "Eineskauppa"
+
+msgid "Cheesemonger"
+msgstr "Juustokauppa"
+
+msgid "Fruit and vegetables"
+msgstr "Vihanneskauppa"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Video liike"
+
+msgid "Computer"
+msgstr "Tietokonekauppa"
+
+msgid "Hairdresser"
+msgstr "Kampaamo"
+
+msgid "Cosmetician"
+msgstr "Kosmetologi"
+
+msgid "Household electrical"
+msgstr "Kodinkoneliike"
+
+msgid "Shoes"
+msgstr "Kenkäkauppa"
+
+msgid "Haberdasher"
+msgstr "Kangaskauppa"
+
+msgid "Groomer"
+msgstr "Trimmaaja"
+
+msgid "Tea room"
+msgstr "Tee salonki"
+
+msgid "Beach"
+msgstr "Uimaranta"
+
+msgid "Bookshop"
+msgstr "Kirjakauppa"
+
+msgid "Offices"
+msgstr "Toimisto"
+
+msgid "Gas station"
+msgstr "Bensa-asema"
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "Nightclub"
+msgstr "Yöklubi-Disco"
+
+msgid "Pet store"
+msgstr "Eläinkauppa"
+
+msgid "Video arcade"
+msgstr "Pelisali"
+
+msgid "Office supplies"
+msgstr "Paperikauppa"
+
+msgid "Furniture"
+msgstr "Huonekalukauppa"
+
+msgid "Decoration"
+msgstr "Sisustusliike"
+
+msgid "Agriculture"
+msgstr "Maatalous"
+
+msgid "Photo"
+msgstr "Valokuva"
+
+msgid "Drugstore"
+msgstr "Para-apteekki"
+
+msgid "Locksmith"
+msgstr "Luontaistuotekauppa"
+
+msgid "Health club"
+msgstr "Kuntosali"
+
+msgid "Taxi"
+msgstr "Taksi"
+
+msgid "Cinema"
+msgstr "Elokuvateatteri"
+
+msgid "Theater"
+msgstr "Teatteri"
+
+msgid "Café"
+msgstr "Kahvila"
+
+msgid "Garden centre"
+msgstr "Puutarhamyymälä"
+
+msgid "Hardware shop"
+msgstr "Rautakauppa"
+
+msgid "Fishmongers"
+msgstr "Kalakauppa"
+
+msgid "Sport supplies"
+msgstr "Urheilu välineet"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Makuuhuone\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Huone\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Makuuhuone"
+
+msgid "Living-room"
+msgstr "Salonki"
+
+#, fuzzy
+msgid "Kitchen"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Keittiö\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Cuisine"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Parkkipaikka\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Parkki\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Parking"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kellarivarasto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Ruokakellari"
+
+msgid "Garden shelter"
+msgstr "Puutarhakoju"
+
+msgid "Bathroom"
+msgstr "Kylpyhuone"
+
+msgid "Laundry room"
+msgstr "Pesuhuone"
+
+msgid "Study"
+msgstr "Työhuone"
+
+msgid "Hallway"
+msgstr "Käytävä"
+
+msgid "Corridor"
+msgstr "Välikkö"
+
+msgid "Shower room"
+msgstr "Suihkuhuone"
+
+msgid "Walk-in wardrobe"
+msgstr "Vaatehuone"
+
+msgid "Entrance"
+msgstr "Eteinen"
+
+msgid "Lavatory"
+msgstr "WC"
+
+msgid "Veranda"
+msgstr "Veranta"
+
+msgid "Terrace"
+msgstr "Terassi"
+
+msgid "Solarium"
+msgstr "Aurinkoterassi"
+
+msgid "Living room/dining area"
+msgstr "Olohuone"
+
+msgid "Play room"
+msgstr "Pelihuone"
+
+msgid "Dining room"
+msgstr "Ruokailuhuone"
+
+msgid "Pool house"
+msgstr "Pool house"
+
+msgid "Cupboard"
+msgstr "Kaappi"
+
+msgid "Not used"
+msgstr "Ei käytetty"
+
+msgid "Loggia"
+msgstr "Katettu terassi"
+
+msgid "Attic"
+msgstr "Ullakko"
+
+msgid "Mezzanine"
+msgstr "Parvi"
+
+msgid "Pantry"
+msgstr "Ruokakellari"
+
+msgid "Maintenance room"
+msgstr "Tekninen tila"
+
+msgid "Workshop"
+msgstr "Ateljee"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Yksiö\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Studio"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Loft-asunto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Loft"
+
+msgid "Library"
+msgstr "Kirjasto"
+
+msgid "Closet"
+msgstr "Vaatekaappi"
+
+msgid "Courtyard"
+msgstr "Piha"
+
+msgid "Landing"
+msgstr "Porrastasanne"
+
+msgid "Linen room"
+msgstr "Liinavaatevarasto"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Pohjakerros\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kellarikerros"
+
+msgid "Bathroom / Lavatory"
+msgstr "Kylpyhuone/wc"
+
+msgid "Shower room / Lavatory"
+msgstr "Suihkuhuone/wc"
+
+msgid "Balcony"
+msgstr "Parveke"
+
+msgid "Exercise room"
+msgstr "Kuntosali"
+
+msgid "Discothèque"
+msgstr "Yöklubi-Disco"
+
+msgid "Home cinema"
+msgstr "Elokuvateatteri"
+
+msgid "Reception room"
+msgstr "Vastaanottosali"
+
+msgid "Storage room"
+msgstr "Kellaritila"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Puutarha\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Puutarha\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Jardin"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Puisto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Parkki\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Puisto"
+
+msgid "Land"
+msgstr "Tontti"
+
+msgid "Patio"
+msgstr "Sisäpiha"
+
+msgid "Principal bedroom"
+msgstr "Pää makuuhuone"
+
+msgid "Suite"
+msgstr "Sviitti"
+
+msgid "Shed"
+msgstr "Vaja"
+
+msgid "Apartment"
+msgstr "Huoneisto"
+
+msgid "Cabin"
+msgstr "Kabinetti"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Maatila\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tilava maatila"
+
+msgid "Outbuilding"
+msgstr "Ulkorakennus"
+
+msgid "Bike storage room"
+msgstr "Polkupyörävarasto"
+
+msgid "Ski storage room"
+msgstr "Suksivarasto"
+
+msgid "Garbage room"
+msgstr "Jätehuone"
+
+msgid "Steam room"
+msgstr "Höyrysauna"
+
+msgid "Indoor swimming pool"
+msgstr "Sisä uima-allas"
+
+msgid "Prayer room"
+msgstr "Rukoushuone"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Näköalatorni"
+
+#, fuzzy
+msgid "Room"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Sali\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Huone"
+
+msgid "Meeting room"
+msgstr "Kokoushuone"
+
+msgid "Maid's room"
+msgstr "Palvelijan huone"
+
+msgid "Maid's studio"
+msgstr "Palvelijan yksiö"
+
+msgid "Double reception room"
+msgstr "Tilava olohuone"
+
+msgid "Triple reception room"
+msgstr "Erittäin tilava olohuone"
+
+msgid "Indoor parking"
+msgstr "Sisäinen parkkipaikka"
+
+msgid "Outdoor parking"
+msgstr "Ulkoinen parkkipaikka"
+
+msgid "Stockroom"
+msgstr "Säilytystila"
+
+msgid "Shop"
+msgstr "Kauppa"
+
+msgid "Cafeteria"
+msgstr "Cafeterias"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kiinteistöosuus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Lot"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Varasto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Liiketila/Varasto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Varasto"
+
+msgid "Accommodation"
+msgstr "Asuntotuotantoon"
+
+msgid "Arcade"
+msgstr "Arcade"
+
+msgid "House"
+msgstr "Talo"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Single"
+msgstr "Yksityinen"
+
+msgid "Twin"
+msgstr "Paritalo"
+
+msgid "Twin by garage"
+msgstr "Paritalo jonka autotallissa"
+
+msgid "Village house"
+msgstr "Kylätalo"
+
+msgid "Twin by angle"
+msgstr "Paritalo jonka kulman"
+
+msgid "Ranged"
+msgstr "Lamellitalo"
+
+msgid "Standard"
+msgstr "Yksinkertainen"
+
+msgid "Co-exclusive"
+msgstr "Kaksinoikeusvälitys"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Yksinoikeusvälitys\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Exclusivité"
+
+msgid "Delegation"
+msgstr "Delegaatio"
+
+msgid "Exclusive agent"
+msgstr "Yksinoikeusvälitys agentti"
+
+msgid "Free"
+msgstr "Vapaa"
+
+msgid "Rented"
+msgstr "Vuokrattu"
+
+msgid "Occupied"
+msgstr "Varattu"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kerrostalo\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Rakennus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Rakennus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Rakennus"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Residenssi\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Résidence"
+
+msgid "Housing scheme"
+msgstr "Pientaloalue"
+
+msgid "Hamlet"
+msgstr "Pieni kylä"
+
+msgid "Domain"
+msgstr "Taloalue"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Omaisuus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Omistus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tuote"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tie / Katu / Polku…\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tie"
+
+msgid "Sale"
+msgstr "Myynti"
+
+msgid "Rental"
+msgstr "Vuokraus"
+
+msgid "Seasonal rental"
+msgstr "Lomavuokraus"
+
+msgid "Development"
+msgstr "Uutisrakennus"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Syytinki / Omistusoikeus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Vapaa syytinki\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Viager"
+
+msgid "Auction"
+msgstr "Huutokauppa"
+
+msgid "Unit sale"
+msgstr "Yksityiskappale"
+
+msgid "Bulk sale"
+msgstr "Kokonaisuus"
+
+msgid "Unfurnished"
+msgstr "Tyhjä"
+
+msgid "Furnished"
+msgstr "Kalustettu"
+
+msgid "Roommate"
+msgstr "Yhteisvuokraus"
+
+msgid "Student"
+msgstr "Opiskelija"
+
+msgid "Holidays"
+msgstr "Juhlapäivät"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tapahtumat\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Messu"
+
+msgid "Life annuity occupied"
+msgstr "Omistajan asumisoikeus"
+
+msgid "Bare Ownership"
+msgstr "Omistusoikeus"
+
+msgid "Forward sale"
+msgstr "Myynti määräajassa"
+
+msgid "Life annuity semi-occupied"
+msgstr "Syyntinki osaksi vapaa"
+
+msgid "Forward sale available"
+msgstr "Myynti määräajassa vapaa"
+
+msgid "Forward sale semi-occupied"
+msgstr "Myynti määräajassa osaksi vapaa"
+
+msgid "Forward sale occupied"
+msgstr "Myynti määräajassa ei vapaa"
+
+msgid "Life annuity without income"
+msgstr "Syyntinki ilman lyhennyksiä"
+
+msgid "Requires updating"
+msgstr "Pintaremontin tarpeessa"
+
+msgid "Good condition"
+msgstr "Hyvä kuntoinen"
+
+msgid "Requires renovation"
+msgstr "Remontin tarpeessa"
+
+msgid "Excellent condition"
+msgstr "Erittäin hyvä kuntoinen"
+
+msgid "Ground floor"
+msgstr "Pohjakerros"
+
+msgid "Top floor"
+msgstr "Ylin kerros"
+
+msgid "1st"
+msgstr "1."
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4th"
+msgstr "4."
+
+msgid "5th"
+msgstr "5."
+
+msgid "6th"
+msgstr "6."
+
+msgid "7th"
+msgstr "7."
+
+msgid "8th"
+msgstr "8."
+
+msgid "9th"
+msgstr "9."
+
+msgid "10th"
+msgstr "10."
+
+msgid "11th"
+msgstr "11."
+
+msgid "12th"
+msgstr "12."
+
+msgid "13th"
+msgstr "13."
+
+msgid "14th"
+msgstr "14."
+
+msgid "15th"
+msgstr "15."
+
+msgid "16th"
+msgstr "16."
+
+msgid "17th"
+msgstr "17."
+
+msgid "18th"
+msgstr "18."
+
+msgid "19th"
+msgstr "19."
+
+msgid "20th"
+msgstr "20."
+
+msgid "Garden level"
+msgstr "Maan tasakerros"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Samassa tasossa"
+
+msgid "21st"
+msgstr "21."
+
+msgid "22nd"
+msgstr "22"
+
+msgid "23rd"
+msgstr "23"
+
+msgid "24th"
+msgstr "24"
+
+msgid "25th"
+msgstr "25"
+
+msgid "26th"
+msgstr "26"
+
+msgid "27th"
+msgstr "27"
+
+msgid "28th"
+msgstr "28"
+
+msgid "29th"
+msgstr "29"
+
+msgid "30th"
+msgstr "30"
+
+msgid "31st"
+msgstr "31"
+
+msgid "32nd"
+msgstr "32"
+
+msgid "33rd"
+msgstr "33"
+
+msgid "34th"
+msgstr "34"
+
+msgid "35th"
+msgstr "35"
+
+msgid "36th"
+msgstr "36"
+
+msgid "37th"
+msgstr "37"
+
+msgid "38th"
+msgstr "38"
+
+msgid "39th"
+msgstr "39"
+
+msgid "40th"
+msgstr "40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Parketti"
+
+msgid "Tile"
+msgstr "Laatta"
+
+msgid "Carpet"
+msgstr "Kokolattiamatto"
+
+msgid "Concrete"
+msgstr "Betoni"
+
+msgid "Natural fiber"
+msgstr "Vegetaalinen kuitu"
+
+msgid "Coco"
+msgstr "Kookoskuitu"
+
+msgid "Travertine"
+msgstr "Puristettu marmori"
+
+msgid "Marble"
+msgstr "Marmori"
+
+msgid "Granite"
+msgstr "Graniitti"
+
+msgid "Terracotta tile"
+msgstr "Terracotta"
+
+msgid "Teak"
+msgstr "Teekki"
+
+msgid "Mosaïc"
+msgstr "Mosaiikki"
+
+msgid "Clay"
+msgstr "Tallattu maa"
+
+msgid "Stone"
+msgstr "Kivi"
+
+msgid "Laminate"
+msgstr "Laminaatti"
+
+msgid "Vinyl composition tile"
+msgstr "Polyvinyylikloridi"
+
+msgid "Convector"
+msgstr "Sähköpatteri"
+
+msgid "Underfloor"
+msgstr "Lattialämmitys"
+
+msgid "Radiator"
+msgstr "Hehkuva patteri"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Uuni\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Liesi"
+
+msgid "Air-conditioning"
+msgstr "Ilmastointi"
+
+msgid "Central"
+msgstr "Keskus"
+
+msgid "Fireplace"
+msgstr "Takka"
+
+msgid "Individual"
+msgstr "Yksityinen"
+
+msgid "Common"
+msgstr "Yhteinen"
+
+msgid "Mixed"
+msgstr "Sekoitettu"
+
+msgid "District heating"
+msgstr "Lämpö verkko"
+
+msgid "Gas"
+msgstr "Kaasu"
+
+msgid "Fuel oil"
+msgstr "Öljy"
+
+msgid "Electric"
+msgstr "Sähkö"
+
+msgid "Wood"
+msgstr "Puu"
+
+msgid "Solar"
+msgstr "Aurinko"
+
+msgid "Charcoal"
+msgstr "Kivihiili"
+
+msgid "Heat pump"
+msgstr "Lämpöpumppu"
+
+msgid "Geothermal"
+msgstr "Maalämpö"
+
+msgid "Wood pellet"
+msgstr "Puuenergia lämpö"
+
+msgid "Hot water"
+msgstr "Kuuma vesi"
+
+msgid "Hot water tank"
+msgstr "Kaasuvesilämmitin"
+
+msgid "Boiler"
+msgstr "Boileri"
+
+msgid "Collective"
+msgstr "Yhteinen"
+
+msgid "Flat"
+msgstr "Tasainen"
+
+msgid "Dry-stone wall terraces"
+msgstr "Pengerretty"
+
+msgid "Steep"
+msgstr "Loiva"
+
+msgid "Wooded"
+msgstr "Metsäinen"
+
+msgid "Meadow"
+msgstr "Niitty"
+
+msgid "Term lease"
+msgstr "Lyhyt aikainen"
+
+msgid "Long-Term"
+msgstr "Pitkä aikainen"
+
+msgid "Long-Term - Single activity"
+msgstr "Pitkä aikainen - Määrätty aktiviteetti"
+
+msgid "Long-Term - All activities"
+msgstr "Pitkä aikainen - Vapaa aktiviteetti"
+
+msgid "Seaside"
+msgstr "Meren rannalla"
+
+msgid "Village"
+msgstr "Kylä"
+
+msgid "Old town"
+msgstr "Vanha kylä"
+
+msgid "Precinct"
+msgstr "Kävelykatu alue"
+
+msgid "Ski slope"
+msgstr "Hiihtoladut"
+
+msgid "Town center"
+msgstr "Keskusta"
+
+msgid "Industrial estate"
+msgstr "Tehdasalue"
+
+msgid "Shopping center"
+msgstr "Kauppakeskus"
+
+msgid "Business park"
+msgstr "Business park"
+
+msgid "Airport area"
+msgstr "Lentokenttä alue"
+
+msgid "Science park"
+msgstr "Teknologian alue"
+
+msgid "Port area"
+msgstr "Satama alue"
+
+msgid "Outskirts"
+msgstr "Kaupungin laidalla"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Korkeudet\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kukkula"
+
+msgid "Waterfront"
+msgstr "Merta vastapäätä"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Maaseudulla\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Maaseutu"
+
+msgid "Suburb"
+msgstr "Lähiö"
+
+msgid "East"
+msgstr "Itä"
+
+msgid "North"
+msgstr "Pohjoinen"
+
+msgid "West"
+msgstr "Länsi"
+
+msgid "South"
+msgstr "Etelä"
+
+#, fuzzy
+msgid "Day"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Päivä\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Jour"
+
+msgid "Week"
+msgstr "Viikko"
+
+msgid "Fortnight"
+msgstr "2 viikkoa"
+
+#, fuzzy
+msgid "Month"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kuukausi\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Mois"
+
+msgid "Quarterly"
+msgstr "3 kuukautta"
+
+msgid "Bimonthly"
+msgstr "2 kuukautta"
+
+msgid "Half-yearly"
+msgstr "6 kuukautta"
+
+msgid "Yearly"
+msgstr "Vuosi"
+
+msgid "Bus"
+msgstr "Bussi"
+
+msgid "Bus hub"
+msgstr "Bussiasema"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Kaupat"
+
+msgid "Primary school"
+msgstr "Esi koulu"
+
+msgid "Town centre"
+msgstr "Keskusta"
+
+msgid "Hospital/clinic"
+msgstr "Sairaala/klinikka"
+
+msgid "Doctor"
+msgstr "Lääkäri"
+
+msgid "Tram"
+msgstr "Raitiovaunu"
+
+msgid "Train station"
+msgstr "Juna-asema"
+
+msgid "Public parking"
+msgstr "Yleinen parkki"
+
+msgid "Supermarket"
+msgstr "Supermarketti"
+
+msgid "Sea port"
+msgstr "Satama"
+
+msgid "Nursery"
+msgstr "Lasten tarha"
+
+msgid "Public pool"
+msgstr "Uimahalli"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Elokuvateatteri"
+
+msgid "Secondary school"
+msgstr "Keskikoulu"
+
+msgid "Sport center"
+msgstr "Kuntosali"
+
+msgid "Airport"
+msgstr "Lentokenttä"
+
+msgid "Sea"
+msgstr "Meri"
+
+msgid "TGV station"
+msgstr "Luotijuna asema"
+
+msgid "Highway"
+msgstr "Moottoritie"
+
+msgid "University"
+msgstr "Yliopisto"
+
+msgid "Convention center"
+msgstr "Kongressi palatsi"
+
+msgid "Lake"
+msgstr "Järvi"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energia - Kulutussopimus"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energia - Päästöarvio"
+
+msgid "« Carrez » act"
+msgstr "Pinta - ala mittaus"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termiitti"
+
+msgid "Asbestos"
+msgstr "Asbesti"
+
+msgid "Lead"
+msgstr "Lyijy"
+
+msgid "Electricity"
+msgstr "Sähkö"
+
+msgid "Boutin act"
+msgstr "Boutin laki"
+
+msgid "Sanitation"
+msgstr "Viemäri"
+
+msgid "EPI (Non renewable)"
+msgstr "EPI"
+
+msgid "APE"
+msgstr "ACE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Oikeuden määräämä asiamies"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Oikeuden määräämä väliaikainen asiamies"
+
+msgid "Request for expert nomination"
+msgstr "Oikeuden määräämä expertti"
+
+msgid "Fire safety regulations"
+msgstr "Normes relatives à la sécurité incendie"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Normes accessibilité aux personnes handicapées"
+
+msgid "Sanitary authorization"
+msgstr "Agrément sanitaire"
+
+msgid "Energy consumption"
+msgstr "Energia kulutus"
+
+msgid "Housing tax"
+msgstr "Asumisvero"
+
+msgid "Land charges"
+msgstr "Charges foncières"
+
+msgid "Residents only"
+msgstr "Varattu omistajille"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volumen"
+
+msgid "Useful surface"
+msgstr "Superficie útil"
+
+msgid "Co-Ownership property"
+msgstr "PPE"
+
+msgid "Communal tax rate"
+msgstr "Taux d'imposition communal"
+
+msgid "Land register extract number"
+msgstr "No extrait registre foncier"
+
+msgid "Millièmes"
+msgstr "Milliosat"
+
+msgid "PPE budget"
+msgstr "Budget PPE"
+
+msgid "Plot ratio"
+msgstr "Coefficient d’utilisation du sol"
+
+msgid "Floor space coefficient"
+msgstr "Coefficient d’occupation au sol"
+
+msgid "Ground footprint coefficient"
+msgstr "Coefficient d’emprise au sol"
+
+msgid "Emissions estimate"
+msgstr "Päästöarvio"
+
+msgid "Rental reference index"
+msgstr "Indeksiin sidottu"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Liikevaihto\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Chiffre d'affaires"
+
+msgid "Net income"
+msgstr "Netto tulos"
+
+msgid "Gross operating profit"
+msgstr "Brutto tulos"
+
+msgid "Personnel costs"
+msgstr "Henkilökunnan kulut"
+
+msgid "Cash flow"
+msgstr "Käyttövarat"
+
+msgid "Shareholders’equity"
+msgstr "Oma pääoma"
+
+msgid "Net debt"
+msgstr "Velat"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Invaliidi tulotie"
+
+msgid "Alarm system"
+msgstr "Hälytys"
+
+msgid "Shabbat elevator"
+msgstr "Hissi"
+
+msgid "Caretaker"
+msgstr "Vartija"
+
+msgid "Double glazing"
+msgstr "Kaksinkertaiset lasit"
+
+msgid "Intercom"
+msgstr "Ovipuhelin"
+
+msgid "TV distribution"
+msgstr "Kaapelitelevisio"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Uima-allas\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Uima-allas\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Piscine"
+
+msgid "Security door"
+msgstr "Turvaovi"
+
+msgid "Tennis court"
+msgstr "Tennis"
+
+msgid "Irrigation sprinkler"
+msgstr "Kastelujärjestelmä"
+
+msgid "Barbecue"
+msgstr "Barbecue"
+
+msgid "Electric gate"
+msgstr "Sähköportti"
+
+msgid "Crawl space"
+msgstr "Tyhjiö"
+
+msgid "Car port"
+msgstr "Autokatos"
+
+msgid "Caretaker house"
+msgstr "Vartijan talo"
+
+msgid "Sliding windows"
+msgstr "Ovi-ikkunat"
+
+msgid "Central vacuum system"
+msgstr "Keskusimuri"
+
+msgid "Electric shutters"
+msgstr "Sähköistetyt rullaverhot"
+
+msgid "Window shade"
+msgstr "Markiisit"
+
+msgid "Electric awnings"
+msgstr "Sähköistetyt markiisit"
+
+msgid "Washing machine"
+msgstr "Pesukone"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Poreallas"
+
+msgid "Well"
+msgstr "Kaivo"
+
+msgid "Spring"
+msgstr "Lähde"
+
+msgid "Engine generator"
+msgstr "Generaattori"
+
+msgid "Dishwasher"
+msgstr "Astian pesukone"
+
+msgid "Safe"
+msgstr "Säilytyslokero"
+
+msgid "Helipad"
+msgstr "Helikopterikenttä"
+
+msgid "Videophone"
+msgstr "Videopuhelin"
+
+msgid "Video security"
+msgstr "Video vartiointi"
+
+msgid "Iron"
+msgstr "Silitysrauta"
+
+msgid "Hair dryer"
+msgstr "Hiusten kuivaaja"
+
+msgid "Television"
+msgstr "Televisio"
+
+msgid "DVD Player"
+msgstr "DVD"
+
+msgid "CD Player"
+msgstr "CD"
+
+msgid "Outdoor lighting"
+msgstr "Ulkovalot"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Kodin automaatio"
+
+msgid "Linens"
+msgstr "Liinavaatteet"
+
+msgid "Tableware"
+msgstr "Astiat"
+
+msgid "Clothes dryer"
+msgstr "Kuivauskone"
+
+msgid "Refrigerator"
+msgstr "Jääkaappi"
+
+msgid "Oven"
+msgstr "Uuni"
+
+msgid "Reception 24/7"
+msgstr "Päivystys 24/7"
+
+msgid "Coffeemaker"
+msgstr "Kahvinkeitin"
+
+msgid "Microwave oven"
+msgstr "Mikro"
+
+msgid "Sukkah"
+msgstr "Soukka"
+
+msgid "Synagogue"
+msgstr "Synagooga"
+
+msgid "Digicode"
+msgstr "Ovikoodi"
+
+msgid "Common laundry"
+msgstr "Yhteinen pesula"
+
+msgid "Pets allowed"
+msgstr "Eläimet hyväksytään"
+
+msgid "Metal shutters"
+msgstr "Rautaverho"
+
+msgid "Wiring closet"
+msgstr "Liitäntäkaapit"
+
+msgid "Computer network"
+msgstr "Tietokone verkosto"
+
+msgid "Dropped ceiling"
+msgstr "Valekatto"
+
+msgid "Fire hose cabinets"
+msgstr "Palo hana"
+
+msgid "Fire sprinkler system"
+msgstr "Palosammutin"
+
+msgid "Wharf"
+msgstr "Laituri"
+
+msgid "Connected thermostat"
+msgstr "Termostaatti"
+
+msgid "Bowling game"
+msgstr "Petankkikenttä"
+
+msgid "Water softener"
+msgstr "Veden pehmentäjä"
+
+msgid "Triple glazing"
+msgstr "Kolminkertaiset ikkunat"
+
+msgid "Well drilling"
+msgstr "Poraus"
+
+msgid "Optical fiber"
+msgstr "Optinen kuitu"
+
+msgid "Playground"
+msgstr "Leikkikenttä"
+
+msgid "Supplies"
+msgstr "Kalustus"
+
+msgid "Outdoor spaces"
+msgstr "Ulkotilat"
+
+msgid "Rental supplies"
+msgstr "Loma varustukset"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Turvallisuus\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Sécurité"
+
+msgid "Professional supplies"
+msgstr "Ammatti välineet"
+
+msgid "High standard"
+msgstr "Hyvä taso"
+
+msgid "Luxury"
+msgstr "Luxus"
+
+msgid "High luxury"
+msgstr "Erittäin luxus"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Suuri yhteisö\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Kiinteistökokonaisuus"
+
+msgid "Regular"
+msgstr "Normaalinen"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Vireillä oleva\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Vireillä oleva\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"En cours"
+
+msgid "Standby"
+msgstr "Odotuksessa"
+
+msgid "Deleted"
+msgstr "Poistettu"
+
+msgid "Waiting for agreement"
+msgstr "Mandaatin odotus"
+
+msgid "Agreement ended"
+msgstr "Mandaatti mennyt umpeen"
+
+msgid "Processing sale"
+msgstr "Myyntitarjouksen alla/Vuokratarjouksen alla"
+
+msgid "Waiting for contract"
+msgstr "Sopimuksen odotus"
+
+msgid "Pending approval"
+msgstr "Vahvistuksen odotus"
+
+msgid "Sell/Rent by agent"
+msgstr "Myyty/vuokrattu välittäjän kautta"
+
+msgid "Sell/Rent by owner"
+msgstr "Myyty/vuokrattu omistajan kautta"
+
+msgid "Sell/Rent by other agent"
+msgstr "Myyty/vuokrattu toisen välittäjän kautta"
+
+msgid "Removed by agent"
+msgstr "Vedetty pois välittäjän kautta"
+
+msgid "Removed by owner"
+msgstr "Vedetty pois omistajan kautta"
+
+msgid "Sale/Rental cancelled"
+msgstr "Myynti/vuokraus mitätöity"
+
+msgid "Delete this property"
+msgstr "Poista esite"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Business\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Business\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Commerce"
+
+msgid "Garage/Parking"
+msgstr "Autotalli/Parkkipaikka"
+
+msgid "Office"
+msgstr "Toimisto"
+
+msgid "Boat"
+msgstr "Laiva"
+
+msgid "Cellar / Box"
+msgstr "Kellaritila"
+
+msgid "Triplex"
+msgstr "3. kerroksessa"
+
+msgid "Building land"
+msgstr "Rakennustontti"
+
+msgid "Not constructible land"
+msgstr "Ei rakennuskelpoinen tontti"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Linna"
+
+msgid "Duplex"
+msgstr "2. kerroksessa"
+
+msgid "Mansion"
+msgstr "Kartano"
+
+msgid "Farm"
+msgstr "Maatila"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Huoneisto-villa"
+
+msgid "Ruin"
+msgstr "Raunio"
+
+msgid "Mill"
+msgstr "Mylly"
+
+msgid "Carpark"
+msgstr "Autotalli"
+
+msgid "Farmhouse"
+msgstr "Pientila"
+
+msgid "Townhouse"
+msgstr "Kaupunki talo"
+
+msgid "Mobile home"
+msgstr "Asuntovaunu"
+
+msgid "Cottage"
+msgstr "Cottage"
+
+msgid "Hangar"
+msgstr "Viljavarasto"
+
+msgid "Mas"
+msgstr "Provenssilainen talo"
+
+msgid "Local"
+msgstr "Tila"
+
+msgid "Chalet"
+msgstr "Vuoristomökki"
+
+msgid "Retail space"
+msgstr "Liikekiinteistö"
+
+msgid "Business assets"
+msgstr "Vuokraoikeus"
+
+msgid "Right to the lease"
+msgstr "Vuokrasopimus"
+
+msgid "Management"
+msgstr "Hoito"
+
+msgid "Agricultural exploitation"
+msgstr "Maatalous tila"
+
+msgid "Woodshed"
+msgstr "Pieni säilytysvarasto"
+
+msgid "Stud farm"
+msgstr "Haras"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tontti\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Terrain"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+#, fuzzy
+msgid "Company"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Yhtiö\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Entreprise"
+
+msgid "Vineyard property"
+msgstr "Viinitila"
+
+msgid "Motor Yacht"
+msgstr "Yacht"
+
+msgid "Narrow boat"
+msgstr "Laiva"
+
+msgid "Sailing Yacht"
+msgstr "Purjelaiva"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Hevostila"
+
+msgid "Bed and breakfast"
+msgstr "Bed and breakfast"
+
+msgid "Gîte"
+msgstr "Gite"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Kauppa"
+
+msgid "Mountains"
+msgstr "Vuoristo"
+
+msgid "Greenery"
+msgstr "Viheralue"
+
+msgid "Monument"
+msgstr "Monumentti"
+
+msgid "City"
+msgstr "Kaupunki"
+
+msgid "Sky"
+msgstr "Taivas"
+
+msgid "Harbor"
+msgstr "Satama"
+
+msgid "Ski slopes"
+msgstr "Hiihtoladut"
+
+msgid "Obstructed"
+msgstr "Vastapäätä"
+
+msgid "Slight"
+msgstr "Pilkahdus"
+
+msgid "Unobstructed"
+msgstr "Avoin"
+
+msgid "Panoramic"
+msgstr "Panoraama"
+
+msgid "Septic tank"
+msgstr "Viemärikaivo"
+
+msgid "Main drainage"
+msgstr "Kytketty kaupungin viemäriin"
+
+msgid "Treatment plant"
+msgstr "Vesipuhdistuslaitos"
+
+msgid "Estate agent"
+msgstr "Kiinteistövälittäjä"
+
+msgid "Phoning"
+msgstr "Puhelin kontakti"
+
+msgid "Collaboration"
+msgstr "Yhteistyö"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Tiedon antaja\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Toimittaja"
+
+msgid "Renown"
+msgstr "Valaehtoinen"
+
+msgid "Walk-in / Window"
+msgstr "Ohikulku/Ikkuna"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Suhteet\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Network"
+
+msgid "Flyer"
+msgstr "Esite"
+
+msgid "Sign"
+msgstr "Kyltti"
+
+msgid "Magazine"
+msgstr "Mainoslehti"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Old client"
+msgstr "Entinen asiakas"
+
+msgid "Appraisal"
+msgstr "Estimation"
+
+msgid "Selection / Favorite"
+msgstr "Valinta/ Suosittu"
+
+msgid "Main residence"
+msgstr "Pääasunto"
+
+msgid "Secondary residence"
+msgstr "Loma-asunto"
+
+msgid "Student residence"
+msgstr "Opiskelija asuntola"
+
+msgid "Tourism residence"
+msgstr "Turisti residenssi"
+
+msgid "Seniors residence"
+msgstr "Senior residenssi"
+
+msgid "Duflot Legislation"
+msgstr "Duflot laki"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard laki"
+
+msgid "Reduced fees"
+msgstr "Alhaiset lainhuudatuskulut"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD"
+
+msgid "Act 1291"
+msgstr "Laki 1291"
+
+msgid "Act 887"
+msgstr "Laki 887"
+
+msgid "Mixed-use"
+msgstr "Asumis-ammatinharjoitus käyttö"
+
+msgid "Rental investment"
+msgstr "Vuokra investointi"
+
+msgid "Act 1235"
+msgstr "Laki 1235"
+
+msgid "Pinel Legislation"
+msgstr "Laki PINEL"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "minuutit"
+
+msgid "metre"
+msgstr "metrit"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Hoitaja"
+
+msgid "Company manager"
+msgstr "Toimistusjohtaja"
+
+msgid "Agency manager"
+msgstr "Vastuumies"
+
+msgid "Secretariat"
+msgstr "Sihteeri"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Välittäjä\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Agent"
+
+msgid "Intern"
+msgstr "Oppilas"
+
+msgid "User"
+msgstr "Käyttäjä"
+
+msgid "Franchisor"
+msgstr "Franchiseur"
+
+msgid "Translator"
+msgstr "Kääntäjä"
+
+msgid "Price on request"
+msgstr "Hintapyynnöstä"
+
+msgid "Currency"
+msgstr "Valuutta"
+
+msgid "Price"
+msgstr "Hinta"
+
+msgid "Bedrooms"
+msgstr "Makuuhuonetta"
+
+msgid "Rooms"
+msgstr "Huonetta"
+
+msgid "Send"
+msgstr "Lähettää"
+
+msgid "Lastname"
+msgstr "Sukunimi"
+
+msgid "Firstname"
+msgstr "Etunimi"
+
+msgid "Ref"
+msgstr "Viite"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "No matches found"
+msgstr "Aucun résultat"
+
+msgid "Please enter one more character"
+msgstr "Saisissez un caractère supplémentaire"
+
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+msgid "Backup"
+msgstr "Sauvegarde"
+
+msgid "Rate"
+msgstr "Nopeus"
+
+msgid "Sender"
+msgstr "Lähettäjä"
+
+msgid "Recipient"
+msgstr "Vastaanottaja"
+
+msgid "Subject"
+msgstr "Aihe"
+
+msgid "Attachment"
+msgstr "Liite"
+
+msgid "Key"
+msgstr "Avain"
+
+msgid "Documents"
+msgstr "Asiakirjat"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Read more"
+msgstr "Lue lisää"
+
+msgid "Area"
+msgstr "Alue"
+
+msgid "Areas"
+msgstr "Alueet"
+
+msgid "Length"
+msgstr "Pituus"
+
+msgid "Height"
+msgstr "Korkeus"
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "Deposit"
+msgstr "Talletus"
+
+msgid "Agreement reference"
+msgstr "Référence mandat"
+
+msgid "Agreement start at"
+msgstr "Démarrage mandat"
+
+msgid "Agreement end at"
+msgstr "Fin mandat"
+
+msgid "Website"
+msgstr "Verkkosivusto"
+
+msgid "Proximities"
+msgstr "Läheisyys"
+
+msgid "Loading"
+msgstr "Ladataan"
+
+msgid "Log out"
+msgstr "Kirjautua ulos"
+
+msgid "Availability"
+msgstr "Saatavuus"
+
+msgid "Total area"
+msgstr "Kokonaisalue"
+
+msgid "Living area"
+msgstr "Asuinalue"
+
+msgid "Password forgotten"
+msgstr "Salasana unohtui"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+msgid "Welcome %s"
+msgstr "Tervetuloa %s"
+
+msgid "Add"
+msgstr "Lisätä"
+
+msgid "Show"
+msgstr "Consulter"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Tools"
+msgstr "Työkalut"
+
+msgid "Market"
+msgstr "Bourse"
+
+msgid "Agency"
+msgstr "Agentuuri"
+
+msgid "Calendar"
+msgstr "Kalenteri"
+
+msgid "Homepage"
+msgstr "Kotisivu"
+
+msgid "Map"
+msgstr "Kartta"
+
+msgid "Users"
+msgstr "Käyttäjät"
+
+msgid "Sectors"
+msgstr "Sektorit"
+
+msgid "Sector"
+msgstr "Sektori"
+
+msgid "Contacts"
+msgstr "Kontaktit"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Heating"
+msgstr "Lämmitys"
+
+msgid "Waste water"
+msgstr "Jätevedet"
+
+msgid "Country"
+msgstr "Maa"
+
+msgid "Escrow deposit"
+msgstr "Turva talletuksesta"
+
+msgid "Orientation"
+msgstr "Suuntautuminen"
+
+msgid "View"
+msgstr "Katsella"
+
+msgid "District"
+msgstr "Naapuruus"
+
+msgid "Fields"
+msgstr "Kenttiä"
+
+msgid "Hook"
+msgstr "Koukku"
+
+msgid "Comment"
+msgstr "Kommentti"
+
+msgid "Services"
+msgstr "Palvelut"
+
+msgid "News"
+msgstr "Uutiset"
+
+msgid "Contact us"
+msgstr "Nous contacter"
+
+msgid "Print"
+msgstr "Tulostaa"
+
+msgid "Picture"
+msgstr "Kuva"
+
+msgid "Add to cart"
+msgstr "Lisää koriin"
+
+msgid "Replace in cart"
+msgstr "Remplacer dans le panier"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "History"
+msgstr "Historia"
+
+msgid "Details"
+msgstr "Yksityiskohdat"
+
+msgid "Date"
+msgstr "Treffi"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Quick search"
+msgstr "Recherche rapide"
+
+msgid "Postal code"
+msgstr "Postinumero"
+
+msgid "The username and/or password is invalid."
+msgstr "Erreur de nom d'utilisateur et/ou de mot de passe."
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e)?"
+
+msgid "Nationality"
+msgstr "Nationalité"
+
+msgid "Regulation"
+msgstr "Réglementation"
+
+msgid "Radius"
+msgstr "Rayon"
+
+msgid "Summary"
+msgstr "Sommaire"
+
+msgid "Watermark"
+msgstr "Filigrane"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Mortgage"
+msgstr "Kiinnitys"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Dashboard"
+msgstr "Kojelauta"
+
+msgid "Matching"
+msgstr "Tulitikut"
+
+msgid "Pay now by card"
+msgstr "Maksa nyt kortilla"
+
+msgid "Pay by bank transfer"
+msgstr "Maksa pankkisiirrolla"
+
+msgid "Pay by check"
+msgstr "Maksaa sekillä"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Accepted payment methods"
+msgstr "Hyväksytyt maksutavat"
+
+msgid "Terms and Conditions"
+msgstr "Käyttöehdot"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "Yhteystietosi on jo läsnä, kiitos valita yksi listasta."
+
+msgid "Contract"
+msgstr "Contract"
+
+msgid "Seekers"
+msgstr "Demandeurs"
+
+msgid "Active seekers"
+msgstr "Demandeurs actifs"
+
+msgid "Providers"
+msgstr "Fournisseurs"
+
+msgid "Owners"
+msgstr "Propriétaires"
+
+msgid "Active owners"
+msgstr "Propriétaires actifs"
+
+msgid "Monitoring"
+msgstr "Suivi"
+
+msgid "Forward"
+msgstr "Transférer"
+
+msgid "Similar"
+msgstr "Similaire"
+
+msgid "Condition"
+msgstr "Kunto"
+
+msgid "Floor"
+msgstr "Lattia"
+
+msgid "Transfer tax"
+msgstr "Siirtovero"
+
+msgid "Change to"
+msgstr "Vaihda"
+
+msgid "Until"
+msgstr "Kunnes"
+
+msgid "Location reference"
+msgstr "Sijainti viite"
+
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgid "Full form"
+msgstr "Täysi lomake"
+
+msgid "Quick form"
+msgstr "Nopea lomake"
+
+msgid "%s char(s)"
+msgstr "%s merkki(ä)"
+
+msgid "Price from"
+msgstr "Hinta alkaen"
+
+msgid "Listing"
+msgstr "Listaus"
+
+msgid "Listings"
+msgstr "Listausta"
+
+msgid "Duration"
+msgstr "Kesto"
+
+msgid "Request incomplete"
+msgstr "Pyyntö on puutteellista"
+
+msgid "%s incomplete request(s)"
+msgstr "%s pyyntö(t) epätäydellinen"
+
+msgid "Subscribe for"
+msgstr "Tilaa"
+
+msgid "Configuration"
+msgstr "Kokoonpano"
+
+msgid "Subtotal"
+msgstr "SVälisumma"
+
+msgid "Tax notice"
+msgstr "Verotuspäätöstään"
+
+msgid "Events"
+msgstr "Tapahtumat"
+
+msgid "Present"
+msgstr "Esittää"
+
+msgid "Missing"
+msgstr "Puuttuva"
+
+msgid "Planned"
+msgstr "Suunniteltu"
+
+msgid "Full"
+msgstr "Koko"
+
+msgid "Organizer"
+msgstr "Järjestäjä"
+
+msgid "Already subscribed"
+msgstr "Olet jo tilannut"
+
+msgid "Attendees"
+msgstr "Osallistujat"
+
+msgid "Join"
+msgstr "Liittyä"
+
+msgid "Training"
+msgstr "Koulutus"
+
+msgid "Require a change of password at next logon"
+msgstr "Vaadi salasanan muuttaminen seuraavan logon yhteydessä"
+
+msgid "Gross revenue"
+msgstr "Bruttotulo"
+
+msgid "Gross yield"
+msgstr "Bruttotuotos"
+
+msgid "Net yield"
+msgstr "Nettotuotto"
+
+msgid "Vacancy rate"
+msgstr "Vapautumisaste"
+
+msgid "Investment"
+msgstr "Investointi"
+
+msgid "Lock"
+msgstr "Lukita"
+
+msgid "Variables"
+msgstr "Muuttujat"
+
+msgid "Example"
+msgstr "Esimerkki"
+
+msgid "Increment"
+msgstr "Lisäys"
+
+msgid "Schema"
+msgstr "Malli"
+
+msgid "Automation"
+msgstr "Automaatio"
+
+msgid "Login"
+msgstr "Kirjaudu"
+
+msgid "Renovation year"
+msgstr "Korjausvuosi"
+
+msgid "Curriculum vitae"
+msgstr "Ansioluettelo"
+
+msgid "Resellers"
+msgstr "Jälleenmyyjät"
+
+msgid "Select"
+msgstr "Valita"
+
+msgid "Billing"
+msgstr "Laskutus"
+
+msgid "The balance of your account is %s"
+msgstr "Tilisi saldo on %s"
+
+msgid "Ceiling"
+msgstr "Katto"
+
+msgid "Weighted area"
+msgstr "Painotettu alue"
+
+msgid "Collected"
+msgstr "Koottu"
+
+msgid "Unlimited"
+msgstr "Rajoittamaton"
+
+msgid "Quantity"
+msgstr "Suure"
+
+msgid "Subscribe"
+msgstr "Tilata"
+
+msgid "Setup"
+msgstr "Perustaa"
+
+msgid "Active owner"
+msgstr "Aktiivinen omistaja"
+
+msgid "Matching at"
+msgstr "Croisement le"
+
+msgid "Price by area"
+msgstr "Hinta alueittain"
+
+msgid "Default list"
+msgstr "Oletusluettelo"
+
+msgid "Subtype"
+msgstr "Alatyyppi"
+
+msgid "Inventory"
+msgstr "Inventaario"
+
+msgid "Add a custom document"
+msgstr "Lisää mukautettu asiakirja"
+
+msgid "Line spacing"
+msgstr "Riviväli"
+
+msgid "Font"
+msgstr "Kirjasinlaji"
+
+msgid "Portrait"
+msgstr "Muotokuva"
+
+msgid "Landscape"
+msgstr "Maisema"
+
+msgid "Accounts"
+msgstr "Tiliä"
+
+msgid "Optional"
+msgstr "Valinnainen"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "Collected at"
+msgstr "Kerätty klo"
+
+msgid "Linked"
+msgstr "Liittyy"
+
+msgid "Discover our offers"
+msgstr "Tutustu tarjouksiin"
+
+msgid "Software Documentation"
+msgstr "Ohjelmiston dokumentointi"
+
+msgid "Time"
+msgstr "Aika"
+
+msgid "Dedicated website"
+msgstr "Omistettu verkkosivusto"
+
+msgid "Subcategory"
+msgstr "Alaluokka"
+
+msgid "No IP control"
+msgstr "Ei IP-ohjausta"
+
+msgid "Auto publish"
+msgstr "Julkaise auto"
+
+msgid "Link to property"
+msgstr "Linkki tuotteeseen"
+
+msgid "Happy birthday!"
+msgstr "Hyvää syntymäpäivää!"
+
+msgid "Birthdays"
+msgstr "Syntymäpäivät"
+
+msgid "Last login"
+msgstr "Viimeinen kirjautuminen"
+
+msgid "This property is a part of:"
+msgstr "Tämä tuote on osa seuraavia tuotteita:"
+
+msgid "Prospecting"
+msgstr "Prospection"
+
+msgid "Access code"
+msgstr "Code d'accès"
+
+msgid "Access code at"
+msgstr "Code d'accès le"
+
+msgid "Number of shares"
+msgstr "Osakkeiden lukumäärä"
+
+msgid "Leads"
+msgstr "Johtaa"
+
+msgid "Cancelled"
+msgstr "Peruttu"
+
+msgid "Link"
+msgstr "Linkki"
+
+msgid "Advanced"
+msgstr "Kehittynyt"
+
+msgid "Publish on homepage"
+msgstr "Julkaise kotisivulla"
+
+msgid "Suggested"
+msgstr "Proposé"
+
+msgid "Welcome on %s"
+msgstr "Bienvenue sur %s"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Extranet access"
+msgstr "Accès à l'extranet"
+
+msgid "Publish address"
+msgstr "Publier l'adresse"
+
+msgid "Opening hours"
+msgstr "Opening hours"
+
+msgid "Member since %s"
+msgstr "Membre depuis le %s"
+
+msgid "Lock menu bar"
+msgstr "Verrouiller le menu latéral"
+
+msgid "Updates"
+msgstr "Mises à jour"
+
+msgid "Reservations"
+msgstr "Réservations"
+
+msgid "Forward to contact"
+msgstr "Transférer au contact"
+
+msgid "Responder"
+msgstr "Répondeur"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "Vous pouvez rechercher dans notre base de questions/réponses :"
+
+msgid "Registrar"
+msgstr "Registre"
+
+msgid "Expiration at"
+msgstr "Expire le"
+
+msgid "Mailbox"
+msgstr "Boîte e-mail"
+
+msgid "Domain name"
+msgstr "Nom de domaine"
+
+msgid "Filling"
+msgstr "Remplissage"
+
+msgid "Condition precedent"
+msgstr "Conditions suspensives"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Deal fees"
+msgstr "Honoraires affaire"
+
+msgid "Fees charged"
+msgstr "Honoraires perçus"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Booked"
+msgstr "Réservé"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Associate"
+msgstr "Associer"
+
+msgid "Ceiling height"
+msgstr "Hauteur plafond"
+
+msgid "Unsold"
+msgstr "Invendu"
+
+msgid "Sold"
+msgstr "Vendu"
+
+msgid "Last action"
+msgstr "Dernière action"
+
+msgid "Our agency"
+msgstr "Notre agence"
+
+msgid "Locate us"
+msgstr "Localisez-nous"
+
+msgid "Your main contact"
+msgstr "Votre interlocuteur privilégié"
+
+msgid "Send me a message"
+msgstr "M'envoyer un message"
+
+msgid "Leave us a message"
+msgstr "Laissez-nous un message"
+
+msgid "Price with fees"
+msgstr "Prix avec charges"
+
+msgid "Owner access"
+msgstr "Espace propriétaire"
+
+msgid "Added"
+msgstr "Ajouté"
+
+msgid "Available for matching"
+msgstr "Croisement autorisé"
+
+msgid "Available at"
+msgstr "Disponible le"
+
+msgid "Lessee"
+msgstr "Locataire"
+
+msgid "Add to list"
+msgstr "Ajouter à la liste"
+
+msgid "Custom tags"
+msgstr "Attributs personnalisés"
+
+msgid "%s pending approval properties"
+msgstr "%s produit(s) en attente validation"
+
+msgid "Negotiable price"
+msgstr "Montant négociable"
+
+msgid "Price updated"
+msgstr "Mise à jour du prix"
+
+msgid "Less equal"
+msgstr "Inférieur égal"
+
+msgid "Equal"
+msgstr "Égal"
+
+msgid "Greater equal"
+msgstr "Supérieur égal"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "Contact means"
+msgstr "Moyen de contact"
+
+msgid "Agency commission"
+msgstr "Honoraires agence"
+
+msgid "Scheduled at"
+msgstr "Programmé le"
+
+msgid "Agreement"
+msgstr "Sopimus"
+
+msgid "Commitment"
+msgstr "Compromis"
+
+msgid "Commitment at"
+msgstr "Compromis le"
+
+msgid "Offer"
+msgstr "Offre"
+
+msgid "Offer at"
+msgstr "Offre le"
+
+msgid "No action"
+msgstr "Aucune action"
+
+msgid "Received contact information"
+msgstr "Contact reçu"
+
+msgid "Linked contact"
+msgstr "Contact lié"
+
+msgid "Related contacts"
+msgstr "Contacts similaires"
+
+msgid "Others"
+msgstr "Autres"
+
+msgid "Assigned to"
+msgstr "Assigné à"
+
+msgid "Assign to"
+msgstr "Affecter à"
+
+msgid "Assign by"
+msgstr "Assigné par"
+
+msgid "Opened by"
+msgstr "Ouvert par"
+
+msgid "Closed by"
+msgstr "Clôturé par"
+
+msgid "Time zone"
+msgstr "Fuseau horaire"
+
+msgid "Customers"
+msgstr "Clients"
+
+msgid "Invert selection"
+msgstr "Inverser la sélection"
+
+msgid "Select all"
+msgstr "Cocher tous"
+
+msgid "Unselect all"
+msgstr "Décocher tous"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s prospect(s) en attente"
+
+msgid "%s lead(s) to assign"
+msgstr "%s prospect(s) à affecter"
+
+msgid "%s pending properties"
+msgstr "%s produit(s) en attente"
+
+msgid "%s pending matching(s)"
+msgstr "%s matching awaiting"
+
+msgid "%s expired agreement(s)"
+msgstr "%s mandat(s) expiré(s)"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s mandat(s) expire(nt) bientôt"
+
+msgid "Legal notice"
+msgstr "Oikeudelliset tiedot"
+
+msgid "Tags"
+msgstr "Attributs"
+
+msgid "Allowed"
+msgstr "Autorisé"
+
+msgid "Min stay"
+msgstr "Séjour min."
+
+msgid "Over"
+msgstr "Au-delà"
+
+msgid "Refresh"
+msgstr "Actualiser"
+
+msgid "Free text"
+msgstr "Texte libre"
+
+msgid "Generate comment"
+msgstr "Générer le commentaire"
+
+msgid "Building name"
+msgstr "Nom du bâtiment"
+
+msgid "VAT"
+msgstr "TVA"
+
+msgid "VAT included"
+msgstr "TTC"
+
+msgid "VAT excluded"
+msgstr "HT"
+
+msgid "Recurrence"
+msgstr "Récurrence"
+
+msgid "Calculate"
+msgstr "Calculer"
+
+msgid "Contribution"
+msgstr "Apport"
+
+msgid "Maximum debt"
+msgstr "Endettement maximum"
+
+msgid "Purchase amount"
+msgstr "Montant de l'acquisition"
+
+msgid "Borrowing calculator"
+msgstr "Calcul de la capacité d'emprunt"
+
+msgid "Monthly payment calculator"
+msgstr "Calcul de la mensualité"
+
+msgid "You don't have broadcasting rights"
+msgstr "Vous n'avez pas les droits de diffusion"
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "Suggestions"
+msgstr "Suggestions"
+
+msgid "To show"
+msgstr "Afficher"
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid "Manual"
+msgstr "Manuel"
+
+msgid "In collaboration with a %name% professional"
+msgstr "En collaboration avec un professionnel %name%"
+
+msgid "Partners"
+msgstr "Partenaires"
+
+msgid "Cost"
+msgstr "Coût"
+
+msgid "My search"
+msgstr "Ma recherche"
+
+msgid "Units"
+msgstr "Lots"
+
+msgid "Spouse"
+msgstr "Conjoint"
+
+msgid "Manager"
+msgstr "Responsable"
+
+msgid "Category reference"
+msgstr "Référence catégorie"
+
+msgid "Cadastre reference"
+msgstr "Référence cadastre"
+
+msgid "Lot reference"
+msgstr "Référence lot"
+
+msgid "Block reference"
+msgstr "Référence bloc"
+
+msgid "Stairs reference"
+msgstr "Référence escalier"
+
+msgid "Mortgage end at"
+msgstr "Prêt terminé le"
+
+msgid "Review"
+msgstr "Arvostelu"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Last access"
+msgstr "Dernier accès"
+
+msgid "First access"
+msgstr "Premier accès"
+
+msgid "Access count"
+msgstr "Nb d'accès"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Please do not enter any name or contact"
+msgstr "Merci de ne pas saisir de nom ou de coordonnées"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Afficher le prix"
+
+msgid "Done"
+msgstr "Réalisé"
+
+msgid "Not applicable"
+msgstr "Non applicable"
+
+msgid "Fill in the table"
+msgstr "Remplir dans le tableau"
+
+msgid "Choice"
+msgstr "Choix"
+
+msgid "copy"
+msgstr "copier"
+
+msgid "Automatic matching"
+msgstr "Croisement automatique"
+
+msgid "Authorization"
+msgstr "Autorisation"
+
+msgid "Last connection the %s"
+msgstr "Dernière connexion le %s"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Récents"
+
+msgid "Reset"
+msgstr "Effacer"
+
+msgid "Show/hide fields"
+msgstr "Afficher/masquer des champs"
+
+msgid "Recent searches"
+msgstr "Recherches récentes"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "Meta crawler"
+msgstr "Outil de pige"
+
+msgid "Alerts"
+msgstr "Alertes"
+
+msgid "Prescribers"
+msgstr "Prescripteurs"
+
+msgid "Staff"
+msgstr "Employés"
+
+msgid "Standing"
+msgstr "Standing"
+
+msgid "Receive a copy"
+msgstr "Recevoir une copie"
+
+msgid "Latest views"
+msgstr "Dernières consultations"
+
+msgid "Quality"
+msgstr "Qualité"
+
+msgid "Viewing agreement"
+msgstr "Bon de visite"
+
+msgid "Decline"
+msgstr "Refuser"
+
+msgid "Declined"
+msgstr "Refusé"
+
+msgid "Accept"
+msgstr "Accepter"
+
+msgid "Accepted"
+msgstr "Accepté"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Matrimonial regime"
+msgstr "Régime matrimonial"
+
+msgid "Marital status"
+msgstr "Situation familiale"
+
+msgid "Thumbnail"
+msgstr "Vignette"
+
+msgid "Unread"
+msgstr "Non lu"
+
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "Pension"
+msgstr "Rente"
+
+msgid "Beam"
+msgstr "Maître-bau / Largeur"
+
+msgid "Draft"
+msgstr "Tirant d'eau"
+
+msgid "Guests"
+msgstr "Invités"
+
+msgid "Crew"
+msgstr "Équipage"
+
+msgid "Cruising speed"
+msgstr "Vitesse de croisière"
+
+msgid "Builder"
+msgstr "Constructeur"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Civil law notary"
+msgstr "Notaire"
+
+msgid "Max price"
+msgstr "Montant max."
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Reminders"
+msgstr "Muistutuksia"
+
+msgid "Credit"
+msgstr "Luotto"
+
+msgid "Signatures"
+msgstr "Allekirjoitukset"
+
+msgid "Signature"
+msgstr "Allekirjoitus"
+
+msgid "Title"
+msgstr "Otsikko"
+
+msgid "Amount"
+msgstr "Määrä"
+
+msgid "Amounts"
+msgstr "Määrät"
+
+msgid "Updated at"
+msgstr "Päivitetty osoitteessa"
+
+msgid "Created at"
+msgstr "Luotu osoitteessa"
+
+msgid "First published at"
+msgstr "Julkaistu ensimmäisen kerran"
+
+msgid "Insurance"
+msgstr "Vakuutus"
+
+msgid "Provision"
+msgstr "Säännös"
+
+msgid "Entries"
+msgstr "Écritures"
+
+msgid "Number"
+msgstr "Luku"
+
+msgid "Plot of land area"
+msgstr "Tonttialue"
+
+msgid "Deposit account"
+msgstr "Talletustili"
+
+msgid "Owner's price"
+msgstr "Montant propriétaire"
+
+msgid "Starting price"
+msgstr "Montant de départ"
+
+msgid "Mobile"
+msgstr "Matkapuhelin"
+
+msgid "Tel."
+msgstr "Tél."
+
+msgid "Lease"
+msgstr "Bail"
+
+msgid "Leases"
+msgstr "Baux"
+
+msgid "Address"
+msgstr "Osoite"
+
+msgid "Searches"
+msgstr "Haut"
+
+msgid "Delete"
+msgstr "Poistaa"
+
+msgid "Maps"
+msgstr "Kartat"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Catalog"
+msgstr "Catalogue"
+
+msgid "contact"
+msgstr "kontakti"
+
+msgid "contacts"
+msgstr "kontaktit"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "Built in"
+msgstr "Rakennusvuosi"
+
+msgid "Mark"
+msgstr "Pisteet"
+
+msgid "Percentage"
+msgstr "Prosenttimäärä"
+
+msgid "Visits"
+msgstr "Visites"
+
+msgid "Tour comment"
+msgstr "Commentaire visite"
+
+msgid "Key number"
+msgstr "Numéro de clef"
+
+msgid "Key's place"
+msgstr "Présence clef"
+
+msgid "Displayed city (optional)"
+msgstr "Ville diffusée (facultatif)"
+
+msgid "Displayed district (optional)"
+msgstr "Quartier diffusé (facultatif)"
+
+msgid "Clauses"
+msgstr "Clauses"
+
+msgid "Bathrooms"
+msgstr "Kylpyhuoneet"
+
+msgid "Seller"
+msgstr "Myyjä"
+
+msgid "Adjacency"
+msgstr "Läheisyytensä"
+
+msgid "Step"
+msgstr "Vaihe"
+
+msgid "Long comment"
+msgstr "Pitkä kommentti"
+
+msgid "Subtitle"
+msgstr "Alaotsikko"
+
+msgid "floor"
+msgstr "lattia"
+
+msgid "Inactive"
+msgstr "Epäaktiivinen"
+
+msgid "Position"
+msgstr "Fonction"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Merci de compléter un nom ainsi qu'un téléphone ou un e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr "Passwords différents, merci de re-saisir"
+
+msgid "Please change your password"
+msgstr "Merci de changer votre mot de passe"
+
+msgid "New password should not be same as old password"
+msgstr "Le nouveau mot de passe doit-être différent de l'ancien"
+
+msgid "year"
+msgstr "année"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Ad"
+msgstr "Annonce"
+
+msgid "Add opening hours"
+msgstr "Ajouter une horaire"
+
+msgid "price"
+msgstr "hinta"
+
+msgid "Personal"
+msgstr "Personnel"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Attention il existe des dépendances, merci de sélectionner un contact pour "
+"procéder au transfert des"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"La mise en place peut prendre plusieurs minutes, merci de revenir plus tard."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Votre contact parle %s, souhaitez-vous changer la langue ?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Souhaitez-vous publier sur la page d'accueil ?"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr ""
+"<b>Attention :</b> il existe une erreur, merci de vérifier les champs."
+
+msgid "Price/sq m"
+msgstr "Prix/m²"
+
+msgid "today"
+msgstr "aujourd'hui"
+
+msgid "week"
+msgstr "semaine"
+
+msgid "day"
+msgstr "jour"
+
+msgid "from %from_value% to %to_value%"
+msgstr "de %from_value% à %to_value%"
+
+msgid "message"
+msgstr "message"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Agencies"
+msgstr "Agences"
+
+msgid "agencies"
+msgstr "agences"
+
+msgid "Context"
+msgstr "Contexte"
+
+msgid "More criteria"
+msgstr "Critères complémentaires"
+
+msgid "Criteria"
+msgstr "Critères"
+
+msgid "Classification"
+msgstr "Classification"
+
+msgid "metres"
+msgstr "mètres"
+
+msgid "Window"
+msgstr "Vitrine"
+
+msgid "Stock area"
+msgstr "Surface du stock"
+
+msgid "Sales area"
+msgstr "Surface de vente"
+
+msgid "Sale price"
+msgstr "Montant de vente"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Vahvistan tilaukseni %s ja hyväksyn yleiset ehdot"
+
+msgid "from %from_date% to %to_date%"
+msgstr "du %from_date% au %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "jours"
+
+msgid "bedrooms"
+msgstr "makuuhuonetta"
+
+msgid "bedroom"
+msgstr "makuuhuone"
+
+msgid "rooms"
+msgstr "huonetta"
+
+msgid "room"
+msgstr "huone"
+
+msgid "Comments"
+msgstr "Kommentit"
+
+msgid "comment"
+msgstr "kommentti"
+
+msgid "comments"
+msgstr "kommentit"
+
+msgid "Private comment"
+msgstr "Commentaire privé"
+
+msgid "Private"
+msgstr "Yksityinen"
+
+msgid "Levels"
+msgstr "Tasot"
+
+msgid "Level"
+msgstr "Taso"
+
+msgid "Exchanges"
+msgstr "Transferts"
+
+msgid "Exchange"
+msgstr "Transfert"
+
+msgid "by"
+msgstr "par"
+
+msgid "n.a"
+msgstr "ei saatavilla"
+
+msgid "Elevator"
+msgstr "Hissi"
+
+msgid "no"
+msgstr "ei"
+
+msgid "yes"
+msgstr "joo"
+
+msgid "Printed with care"
+msgstr "Painettu huolella"
+
+msgid "Please do not litter on public way"
+msgstr "Älä roskaa julkisella tavalla"
+
+msgid "Non-contractual information"
+msgstr "Ei sopimusta koskevia tietoja"
+
+msgid "Agency fees"
+msgstr "Honoraires d'agence"
+
+msgid "Agency fees included"
+msgstr "Honoraires d'agence inclus"
+
+msgid "Agency fees not included"
+msgstr "Honoraires d'agence non inclus"
+
+msgid "Fees"
+msgstr "Charges"
+
+msgid "Personal property tax"
+msgstr "Taxe d'habitation"
+
+msgid "Property tax"
+msgstr "Taxe foncière"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Parkings"
+msgstr "Parkings"
+
+msgid "Pictures"
+msgstr "Kuvat"
+
+msgid "Window card"
+msgstr "Fiche vitrine"
+
+msgid "Private sheet"
+msgstr "Fiche privée"
+
+msgid "Public sheet"
+msgstr "Fiche publique"
+
+msgid "Service"
+msgstr "Palvelu"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Cart"
+msgstr "Kärry"
+
+msgid "Land type"
+msgstr "Type de terrain"
+
+msgid "Property agent"
+msgstr "Syndic"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "End at"
+msgstr "Termine le"
+
+msgid "Close at"
+msgstr "Fermé le"
+
+msgid "Start at"
+msgstr "Démarre le"
+
+msgid "Guarantees"
+msgstr "Garanties"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Inter-agencies"
+msgstr "Inter-agences"
+
+msgid "Number of floors"
+msgstr "Nombre d'étages"
+
+msgid "Evaluated price"
+msgstr "Evaluated price"
+
+msgid "Seller's commission"
+msgstr "Honoraires propriétaire"
+
+msgid "Buyer's commission"
+msgstr "Honoraires acheteur"
+
+msgid "Commission"
+msgstr "Honoraires"
+
+msgid "Origin"
+msgstr "Origine"
+
+msgid "Specific origin"
+msgstr "Origine précise"
+
+msgid "Flooring"
+msgstr "Lattianpäällyste"
+
+msgid "Rank"
+msgstr "Sijoitus"
+
+msgid "Calls"
+msgstr "Puhelut"
+
+msgid "Phone call"
+msgstr "Puhelu"
+
+msgid "Publications"
+msgstr "Julkaisut"
+
+msgid "Send to contact"
+msgstr "Lähetä yhteystietoon"
+
+msgid "No results found"
+msgstr "Ei tuloksia"
+
+msgid "Results"
+msgstr "Tulokset"
+
+msgid "Result"
+msgstr "Tulos"
+
+msgid "results"
+msgstr "tulokset"
+
+msgid "result"
+msgstr "tulos"
+
+msgid "Advertiser"
+msgstr "Mainostajan"
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Confidential"
+msgstr "Confidentiel"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Companies"
+msgstr "Entreprises"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Succession"
+msgstr "Succession"
+
+msgid "Please fill in a city."
+msgstr "Merci de compléter une ville."
+
+msgid "Guarantee"
+msgstr "Garantie"
+
+msgid "Please fill"
+msgstr "Merci de compléter"
+
+msgid "The email address is invalid."
+msgstr "L'adresse e-mail n'est pas au bon format."
+
+msgid "Rights"
+msgstr "Droits"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Since"
+msgstr "Depuis"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Bailleur"
+
+msgid "Booking"
+msgstr "Réserver"
+
+msgid "Sleeps"
+msgstr "Couchages"
+
+msgid "Cleaning price"
+msgstr "Prix de nettoyage"
+
+msgid "Availabilities"
+msgstr "Saatavuutta"
+
+msgid "Sent"
+msgstr "Envoyé"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "years"
+msgstr "années"
+
+msgid "month"
+msgstr "mois"
+
+msgid "Seasons"
+msgstr "Saisons"
+
+msgid "Season"
+msgstr "Saison"
+
+msgid "Rates"
+msgstr "Hinnat"
+
+msgid "Todo"
+msgstr "Tehdä"
+
+msgid "Brands"
+msgstr "Tuotemerkkiä"
+
+msgid "Brand"
+msgstr "Tuotemerkki"
+
+msgid "Publicated at"
+msgstr "Publié le"
+
+msgid "Bank"
+msgstr "Banque"
+
+msgid "Brief comment"
+msgstr "Description succincte"
+
+msgid "Delivery at"
+msgstr "Livraison le"
+
+msgid "Reason"
+msgstr "Syy"
+
+msgid "What's new"
+msgstr "Mikä on uutta"
+
+msgid "Requests"
+msgstr "Pyynnöt"
+
+msgid "Request"
+msgstr "Pyyntö"
+
+msgid "requests"
+msgstr "pyynnöt"
+
+msgid "request"
+msgstr "pyyntö"
+
+msgid "Current rent"
+msgstr "Location actuelle"
+
+msgid "Properties"
+msgstr "Tuotteet"
+
+msgid "properties"
+msgstr "tuotteet"
+
+msgid "property"
+msgstr "tuote"
+
+msgid "Bill"
+msgstr "Laskuttaa"
+
+msgid "Calculator"
+msgstr "Laskin"
+
+msgid "Birthplace"
+msgstr "Syntymäpaikka"
+
+msgid "Birthday"
+msgstr "Syntymäpäivä"
+
+msgid "Income"
+msgstr "Tulo"
+
+msgid "Costs"
+msgstr "Kulut"
+
+msgid "Margin"
+msgstr "Marginaali"
+
+msgid "Required."
+msgstr "Edellytetään"
+
+msgid "Seasonal"
+msgstr "Lomavuokraus"
+
+msgid "Spoken languages"
+msgstr "Puhuttu kieli"
+
+msgid "Number of children"
+msgstr "Nombre d'enfants"
+
+msgid "Hotline"
+msgstr "Support"
+
+msgid "Re-type password"
+msgstr "Retaper le mot de passe"
+
+msgid "Public longitude"
+msgstr "Longitude publique"
+
+msgid "Public latitude"
+msgstr "Latitude publique"
+
+msgid "Access denied"
+msgstr "Accès refusé"
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "Launch"
+msgstr "Lancer"
+
+msgid "Shortcuts"
+msgstr "Raccourcis"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "SEO"
+msgstr "Référencement"
+
+msgid "Life annuity length"
+msgstr "Durée viager"
+
+msgid "Market value"
+msgstr "Valeur vénale"
+
+msgid "Price contribution"
+msgstr "Apport initial"
+
+msgid "Sharing"
+msgstr "Partage"
+
+msgid "Show more results"
+msgstr "Afficher plus de résultats"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Hide"
+msgstr "Masquer"
+
+msgid "Keywords"
+msgstr "Avainsanat"
+
+msgid "Corporate register"
+msgstr "Registre du commerce"
+
+msgid "Expired soon"
+msgstr "Vanhentunut pian"
+
+msgid "Expired"
+msgstr "Vanhentunut"
+
+msgid "Agreements"
+msgstr "Sopimukset"
+
+msgid "Agreement number"
+msgstr "Numéro de mandat"
+
+msgid "VAT identification number"
+msgstr "TVA intracommunautaire"
+
+msgid "What's on your mind?"
+msgstr "Exprimez-vous..."
+
+msgid "Buyer"
+msgstr "Acheteur"
+
+msgid "Prescriber"
+msgstr "Prescripteur"
+
+msgid "Message sent"
+msgstr "Message envoyé"
+
+msgid "Limit"
+msgstr "Limite"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Do not publish"
+msgstr "Ne pas publier"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Already suggested"
+msgstr "Déjà proposé"
+
+msgid "To suggest"
+msgstr "À proposer"
+
+msgid "Suggest"
+msgstr "Proposer"
+
+msgid "Diagnostics"
+msgstr "Diagnostics"
+
+msgid "Footer"
+msgstr "Pied de page"
+
+msgid "Header"
+msgstr "En-tête"
+
+msgid "Serviced plot"
+msgstr "Viabilisé"
+
+msgid "Net floor area"
+msgstr "Surface de plancher"
+
+msgid "Sold price"
+msgstr "Montant compromis"
+
+msgid "Sold at"
+msgstr "Sold at"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Garden area"
+msgstr "Surface jardin"
+
+msgid "Payments"
+msgstr "Paiement"
+
+msgid "Reopen"
+msgstr "Réouvrir"
+
+msgid "Completed"
+msgstr "Clôturé"
+
+msgid "Complete"
+msgstr "Clôturer"
+
+msgid "Callback"
+msgstr "Rappel"
+
+msgid "Callbacks"
+msgstr "Rappels"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Co-agence"
+
+msgid "Residences"
+msgstr "Résidences"
+
+msgid "Characteristics"
+msgstr "Ominaisuudet"
+
+msgid "Bed"
+msgstr "Couchage"
+
+msgid "Project at"
+msgstr "Tarjousehdotuksemme"
+
+msgid "Document"
+msgstr "Dokumentti"
+
+msgid "%s units"
+msgstr "%s lots"
+
+msgid "%s unit"
+msgstr "%s lot"
+
+msgid "Not suggested"
+msgstr "Ei ole tarjottu"
+
+msgid "%s guests"
+msgstr "%s invités"
+
+msgid "%s guest"
+msgstr "%s invité"
+
+msgid "%s beds"
+msgstr "%s couchages"
+
+msgid "%s bed"
+msgstr "%s couchage"
+
+msgid "Documentation"
+msgstr "Dokumentointi"
+
+msgid "%s bathroom"
+msgstr "%s kylpyhuone"
+
+msgid "%s bathrooms"
+msgstr "%s kylpyhuoneet"
+
+msgid "Professionals"
+msgstr "Ammattilainen"
+
+msgid "Toilet"
+msgstr "WC"
+
+msgid "Mandatory fields"
+msgstr "Pakolliset kentät"
+
+msgid "Available soon"
+msgstr "Pian vapaa"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Sopimus päättyy\n"
+"#-#-#-#-#  apimo-fi_FI.po  #-#-#-#-#\n"
+"Sopimuksen päättymispäivä"
+
+msgid "Incomplete"
+msgstr "Epätäydellinen"
+
+msgid "Location Map"
+msgstr "Sijaintikartta"
+
+msgid "User Detail"
+msgstr "Käyttäjän tiedot"
+
+msgid "File size"
+msgstr "Tiedoston koko"
+
+msgid "File title"
+msgstr "Tiedoston nimi"
+
+msgid "Region"
+msgstr "Alue"
+
+msgid "Bath"
+msgstr "Kylpyhuone"
+
+msgid "Private Negotiation"
+msgstr "Yksityinen neuvottelu"
+
+msgid "Property specifications"
+msgstr "Kiinteistön tiedot"
+
+msgid "Energy performance"
+msgstr "Energiatehokkuus"
+
+msgid "Media Details"
+msgstr "Mediatiedot"
+
+msgid "View Video"
+msgstr "Katso video"
+
+msgid "Start Date"
+msgstr "Aloituspäivämäärä"
+
+msgid "End Date"
+msgstr "Päättymispäivämäärä"
+
+msgid "Welcome"
+msgstr "Tervetuloa"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Katso, mitä Apimo-lisäosassa tapahtuu."
+
+msgid "PROVIDERS"
+msgstr "TARJOAJAT"
+
+msgid "AGENCIES"
+msgstr "TOIMISTOT"
+
+msgid "PROPERTIES"
+msgstr "KIINTEISTÖT"
+
+msgid "BOOKMARK"
+msgstr "KIRJANMERKKI"
+
+msgid "Remove all"
+msgstr "Poista kaikki"
+
+msgid "Apply filter"
+msgstr "Käytä suodatinta"
+
+msgid "Select Subtype"
+msgstr "Valitse alalaji"
+
+msgid "Enchère"
+msgstr "Huutokauppa"
+
+msgid "Location"
+msgstr "Vuokraus"
+
+msgid "Location saisonnière"
+msgstr "Kausivuokraus"
+
+msgid "From"
+msgstr "Alkaen"
+
+msgid "To"
+msgstr "Saakka"
+
+msgid "Dates"
+msgstr "Päivät"
+
+msgid "Select country"
+msgstr "Valitse maa"
+
+msgid "Select region"
+msgstr "Valitse alue"
+
+msgid "Select district"
+msgstr "Valitse alue"
+
+msgid "Select city"
+msgstr "Valitse kaupunki"
+
+msgid "Good"
+msgstr "Hyvä"
+
+msgid "Bad"
+msgstr "Huono"
+
+msgid "hello"
+msgstr "Hei"

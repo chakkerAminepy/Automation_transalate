@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Apartment"
+msgstr "Квартира"
+
+msgid "House"
+msgstr "Будинок"
+
+msgid "Contract end at"
+msgstr "Кінець контракту"
+
+msgid "Location Map"
+msgstr "Мапа розташування"
+
+msgid "User Detail"
+msgstr "Деталі користувача"
+
+msgid "File size"
+msgstr "Розмір файлу"
+
+msgid "File title"
+msgstr "Назва файлу"
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Bath"
+msgstr "Ванна"
+
+msgid "Private Negotiation"
+msgstr "Приватні переговори"
+
+msgid "Property specifications"
+msgstr "Специфікації властивості"
+
+msgid "Energy performance"
+msgstr "Енергетична ефективність"
+
+msgid "Media Details"
+msgstr "Деталі медіа"
+
+msgid "View Video"
+msgstr "Переглянути відео"
+
+msgid "Start Date"
+msgstr "Дата початку"
+
+msgid "End Date"
+msgstr "Дата закінчення"
+
+msgid "Welcome"
+msgstr "Ласкаво просимо"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Дивіться, що відбувається з плагіном Apimo."
+
+msgid "PROVIDERS"
+msgstr "ПОСТАЧАЛЬНИКИ"
+
+msgid "AGENCIES"
+msgstr "АГЕНЦІЇ"
+
+msgid "PROPERTIES"
+msgstr "НЕРУХОМІСТЬ"
+
+msgid "BOOKMARK"
+msgstr "ЗАКЛАДКА"
+
+msgid "Remove all"
+msgstr "Видалити все"
+
+msgid "Apply filter"
+msgstr "Застосувати фільтр"
+
+msgid "Select Subtype"
+msgstr "Вибрати підтип"
+
+msgid "Enchère"
+msgstr "Аукціон"
+
+msgid "Location"
+msgstr "Оренда"
+
+msgid "Location saisonnière"
+msgstr "Сезонна оренда"
+
+msgid "From"
+msgstr "Від"
+
+msgid "To"
+msgstr "До"
+
+msgid "Dates"
+msgstr "Дати"
+
+msgid "Select country"
+msgstr "Виберіть країну"
+
+msgid "Select region"
+msgstr "Виберіть регіон"
+
+msgid "Select district"
+msgstr "Виберіть район"
+
+msgid "Select city"
+msgstr "Виберіть місто"
+
+msgid "Good"
+msgstr "добре"
+
+msgid "Bad"
+msgstr "погано"
+
+msgid "hello"
+msgstr "привіт"

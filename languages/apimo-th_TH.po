@@ -1,0 +1,6212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "เตือนความจำ"
+
+msgid "Suggestion"
+msgstr "คำแนะนำ"
+
+msgid "Report"
+msgstr "รายงาน"
+
+msgid "Other"
+msgstr "อื่น"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ประมาณการ\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"การประเมินค่า\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"การประเมินค่า"
+
+msgid "Advertising"
+msgstr "การโฆษณา"
+
+msgid "Open House"
+msgstr "เปิดบ้าน"
+
+msgid "Canvassing"
+msgstr "การสำรวจ"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "After-sales"
+msgstr "หลังการขาย"
+
+msgid "Virtual tour"
+msgstr "ทัวร์เสมือนจริง"
+
+msgid "Visit"
+msgstr "เยี่ยมชม - ทัวร์"
+
+msgid "Survey"
+msgstr "สำรวจ"
+
+msgid "Appointment"
+msgstr "การนัดหมาย"
+
+msgid "Commercial"
+msgstr "ทางการค้า"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "e-mail"
+msgstr "อีเมล"
+
+msgid "Fax"
+msgstr "แฟกซ์"
+
+msgid "Mail"
+msgstr "จดหมาย"
+
+msgid "SMS"
+msgstr "ข้อความ"
+
+msgid "Walk-in"
+msgstr "ลูกค้า walk-in หรือลูกค้าขาจร"
+
+msgid "Extranet"
+msgstr "เอกซ์ทราเน็ต"
+
+msgid "Reservation"
+msgstr "การจอง"
+
+msgid "Signed"
+msgstr "ลงนาม"
+
+msgid "Canceled"
+msgstr "ยกเลิก"
+
+msgid "Closed"
+msgstr "ปิด"
+
+msgid "Transaction"
+msgstr "ธุรกรรม"
+
+msgid "Rental management"
+msgstr "การจัดการค่าเช่า"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "Caution"
+msgstr "คำเตือน"
+
+msgid "Project"
+msgstr "โครงการ"
+
+msgid "Under construction"
+msgstr "อยู่ระหว่างการก่อสร้าง"
+
+msgid "Delivered"
+msgstr "ส่ง"
+
+msgid "Ended"
+msgstr "สิ้นสุดแล้ว"
+
+msgid "Mr."
+msgstr "นาย."
+
+msgid "Mrs."
+msgstr "นาง."
+
+msgid "Ms."
+msgstr "นางสาว."
+
+msgid "Mr. & Mrs."
+msgstr "นาย&นาง"
+
+msgid "Sheik"
+msgstr "ชีค"
+
+msgid "Duke"
+msgstr "ดยุค"
+
+msgid "Duchess"
+msgstr "ดัชเชส"
+
+msgid "Lord"
+msgstr "พระเจ้า"
+
+msgid "Maître"
+msgstr "ผู้เชี่ยวชาญ เจ้าของบ้าน"
+
+msgid "Professor"
+msgstr "ศาสตราจารย์"
+
+msgid "Sir"
+msgstr "ท่าน"
+
+msgid "Engineer"
+msgstr "วิศวกร"
+
+msgid "Notary"
+msgstr "ทนายความ เจ้าหน้าที่รับรองลายเซ็นธุรการ"
+
+msgid "Accountant"
+msgstr "นักบัญชี"
+
+msgid "Colonel"
+msgstr "พันเอก"
+
+msgid "Architetto"
+msgstr "สถาปนิก"
+
+msgid "Plan"
+msgstr "วางแผน"
+
+msgid "Identity papers"
+msgstr "เอกสารประจำตัว"
+
+msgid "Diagnostics"
+msgstr "การวินิจฉัย"
+
+msgid "Agreement"
+msgstr "ข้อตกลง"
+
+msgid "Contract"
+msgstr "สัญญา"
+
+msgid "Condominium"
+msgstr "คอนโดมิเนียม"
+
+msgid "Maintenance"
+msgstr "การซ่อมบำรุง"
+
+msgid "Appraisal"
+msgstr "การประเมินราคา"
+
+msgid "Brochure"
+msgstr "โบรชัวร์"
+
+msgid "Invoice"
+msgstr "ใบแจ้งหนี้"
+
+msgid "Lease"
+msgstr "เช่า"
+
+msgid "Inventory"
+msgstr "รายการสิ่งของ"
+
+msgid "Title deeds"
+msgstr "ชื่อทรัพย์สิน"
+
+msgid "Application"
+msgstr "แอปพลิเคชัน"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ข้อบังคับ\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ระเบียบข้อบังคับ"
+
+msgid "AML/KYC Vendor"
+msgstr "ผู้จำหน่าย AML/KYC"
+
+msgid "AML/KYC Buyer"
+msgstr "ผู้ซื้อ AML/KYC"
+
+msgid "Electricity"
+msgstr "ไฟฟ้า"
+
+msgid "Water"
+msgstr "น้ำ"
+
+msgid "Maintenance of common areas"
+msgstr "การบำรุงรักษาพื้นที่ส่วนกลาง"
+
+msgid "Waste collection"
+msgstr "การเก็บขยะ"
+
+msgid "Heating"
+msgstr "เครื่องทำความร้อน"
+
+msgid "Hot water"
+msgstr "น้ำร้อน"
+
+msgid "Property tax"
+msgstr "ภาษีทรัพย์สิน"
+
+msgid "Concierge"
+msgstr "เจ้าหน้าที่อำนวยความสะดวก"
+
+msgid "Chimney-sweeping"
+msgstr "กวาดปล่องไฟ"
+
+msgid "Sanitation"
+msgstr "สุขาภิบาล"
+
+msgid "Household waste tax"
+msgstr "ภาษีขยะในครัวเรือน"
+
+msgid "Contact"
+msgstr "ติดต่อ"
+
+msgid "Owner"
+msgstr "เจ้าของ"
+
+msgid "e-mail alert"
+msgstr "อีเมล์แจ้งเตือน"
+
+msgid "Send to a friend"
+msgstr "ส่งให้เพื่อน"
+
+msgid "Newsletter"
+msgstr "จดหมายข่าว"
+
+msgid "Selection"
+msgstr "การคัดเลือก"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "Opened"
+msgstr "เปิดแล้ว"
+
+msgid "Processing"
+msgstr "กำลังประมวลผล"
+
+msgid "Self-employed"
+msgstr "อาชีพอิสระ"
+
+msgid "Bakery"
+msgstr "เบเกอรี่"
+
+msgid "Restaurant"
+msgstr "ร้านอาหาร"
+
+msgid "Press"
+msgstr "กด"
+
+msgid "Bar"
+msgstr "บาร์"
+
+msgid "Florist"
+msgstr "ร้านดอกไม้"
+
+msgid "Tobacconist"
+msgstr "ยาสูบ"
+
+msgid "Clothes"
+msgstr "เสื้อผ้า"
+
+msgid "Chemist"
+msgstr "นักเคมี"
+
+msgid "Shopping centre"
+msgstr "ศูนย์การค้า"
+
+msgid "Travel agency"
+msgstr "สำนักงานตัวแทนจัดการท่องเที่ยว"
+
+msgid "Real estate agent"
+msgstr "ตัวแทนอสังหาริมทรัพย์"
+
+msgid "Gallery"
+msgstr "แกลลอรี่"
+
+msgid "Garage"
+msgstr "โรงรถ"
+
+msgid "Insurer"
+msgstr "ผู้รับประกันภัย"
+
+msgid "Optician"
+msgstr "ช่างแว่นตา"
+
+msgid "Perfumery"
+msgstr "น้ำหอม"
+
+msgid "Hotel"
+msgstr "โรงแรม"
+
+msgid "Antique dealer"
+msgstr "พ่อค้าของเก่า"
+
+msgid "Laundry"
+msgstr "ซักรีด"
+
+msgid "Pressing"
+msgstr "แท่นพิมพ์ โรงพิมพ์"
+
+msgid "Jeweller"
+msgstr "คนขายอัญมนี"
+
+msgid "Grocery"
+msgstr "ร้านขายของชำ"
+
+msgid "Butcher"
+msgstr "คนขายเนื้อ"
+
+msgid "Caterer"
+msgstr "คนรับจัดเลี้ยง"
+
+msgid "Brewery"
+msgstr "โรงเบียร์"
+
+msgid "Snack"
+msgstr "อาหารว่าง"
+
+msgid "Confectioner"
+msgstr "ลูกกวาด"
+
+msgid "Pork butcher"
+msgstr "คนขายเนื้อหมู"
+
+msgid "Cheesemonger"
+msgstr "คนขายชีสและผลิตภัณฑ์จากนม"
+
+msgid "Fruit and vegetables"
+msgstr "ผลไม้และผัก"
+
+msgid "Sex shop"
+msgstr "เซ็กซ์ช็อป"
+
+msgid "Video game"
+msgstr "วิดีโอเกม"
+
+msgid "Computer"
+msgstr "คอมพิวเตอร์"
+
+msgid "Hairdresser"
+msgstr "ช่างทำผม"
+
+msgid "Cosmetician"
+msgstr "ช่างเสริมสวย"
+
+msgid "Household electrical"
+msgstr "เครื่องใช้ไฟฟ้าในครัวเรือน"
+
+msgid "Shoes"
+msgstr "รองเท้า"
+
+msgid "Haberdasher"
+msgstr "คนขายเครื่องประดับของบุรุษ"
+
+msgid "Groomer"
+msgstr "ช่างเสริมสวย ช่างแต่งขนสัตว์เลี้ยง"
+
+msgid "Tea room"
+msgstr "ห้องน้ำชา"
+
+msgid "Beach"
+msgstr "ชายหาด"
+
+msgid "Bookshop"
+msgstr "ร้านหนังสือ"
+
+msgid "Offices"
+msgstr "สำนักงาน"
+
+msgid "Gas station"
+msgstr "ปั้มน้ำมัน"
+
+msgid "Camping"
+msgstr "แคมป์ปิ้ง"
+
+msgid "Nightclub"
+msgstr "ไนท์คลับ"
+
+msgid "Pet store"
+msgstr "ร้านขายสัตว์เลี้ยง"
+
+msgid "Video arcade"
+msgstr "ตู้เกมส์"
+
+msgid "Office supplies"
+msgstr "เครื่องใช้สำนักงาน"
+
+msgid "Furniture"
+msgstr "เฟอร์นิเจอร์"
+
+msgid "Decoration"
+msgstr "การตกแต่ง"
+
+msgid "Agriculture"
+msgstr "เกษตรกรรม"
+
+msgid "Photo"
+msgstr "รูปถ่าย"
+
+msgid "Drugstore"
+msgstr "ร้านขายยา"
+
+msgid "Locksmith"
+msgstr "ช่างกุญแจ"
+
+msgid "Health club"
+msgstr "สโมสรสุขภาพ"
+
+msgid "Taxi"
+msgstr "แท็กซี่"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"โรงหนัง\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"โรงหนังในบ้าน"
+
+msgid "Theater"
+msgstr "โรงภาพยนตร์"
+
+msgid "Café"
+msgstr "คาเฟ่"
+
+msgid "Garden centre"
+msgstr "สวนส่วนกลาง"
+
+msgid "Hardware shop"
+msgstr "ร้านขายอุปกรณ์ซ่อมบ้าน"
+
+msgid "Fishmongers"
+msgstr "ร้านขายปลา(นำไปปรุงอาหาร)"
+
+msgid "Recreation"
+msgstr "สันทนาการ"
+
+msgid "Culture"
+msgstr "วัฒนธรรม"
+
+msgid "Funeral"
+msgstr "งานศพ"
+
+msgid "Agritourism"
+msgstr "การท่องเที่ยวเชิงเกษตร"
+
+msgid "Sport supplies"
+msgstr "อุปกรณ์กีฬา"
+
+msgid "Bedroom"
+msgstr "ห้องนอน"
+
+msgid "Living-room"
+msgstr "ห้องนั่งเล่น"
+
+msgid "Kitchen"
+msgstr "ครัว"
+
+msgid "Parking"
+msgstr "ที่จอดรถ"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ห้องเก็บของใต้ดิน ห้องบ่มไวน์\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ห้องใต้ดินรูต"
+
+msgid "Garden shelter"
+msgstr "ที่พักพิงในสวน"
+
+msgid "Lavatory"
+msgstr "ห้องน้ำ"
+
+msgid "Laundry room"
+msgstr "ห้องซักรีด"
+
+msgid "Study"
+msgstr "ศึกษา"
+
+msgid "Hallway"
+msgstr "โถงทางเดิน"
+
+msgid "Corridor"
+msgstr "ทางเดิน"
+
+msgid "Shower room"
+msgstr "ห้องอาบน้ำ"
+
+msgid "Walk-in wardrobe"
+msgstr "ตู้เสื้อผ้าแบบวอล์กอิน"
+
+msgid "Entrance"
+msgstr "ทางเข้า"
+
+msgid "Porch"
+msgstr "ระเบียง"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"เฉลียง\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ระเบียง"
+
+msgid "Solarium"
+msgstr "ห้องอาบแดด"
+
+msgid "Living room/dining area"
+msgstr "ห้องนั่งเล่น/พื้นที่รับประทานอาหาร"
+
+msgid "Play room"
+msgstr "ห้องเด็กเล่น"
+
+msgid "Dining room"
+msgstr "ห้องรับประทานอาหาร"
+
+msgid "Pool house"
+msgstr "บ้านมีสระน้ำ"
+
+msgid "Cupboard"
+msgstr "ตู้"
+
+msgid "Not used"
+msgstr "ไม่ได้ใช้"
+
+msgid "Attic"
+msgstr "ห้องใต้หลังคา"
+
+msgid "Mezzanine"
+msgstr "ชั้นลอย"
+
+#, fuzzy
+msgid "Pantry"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ห้องใต้ดิน\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ตู้กับข้าว"
+
+msgid "Maintenance room"
+msgstr "ห้องซ่อมบำรุง"
+
+msgid "Workshop"
+msgstr "เวิร์คช็อป"
+
+msgid "Studio"
+msgstr "สตูดิโอ"
+
+msgid "Loft"
+msgstr "ลอฟท์"
+
+msgid "Library"
+msgstr "ห้องสมุด"
+
+msgid "Closet"
+msgstr "ตู้เสื้อผ้า"
+
+msgid "Open space"
+msgstr "ลาน"
+
+msgid "Landing"
+msgstr "ลงจอด"
+
+msgid "Linen room"
+msgstr "ห้องเก็บผ้า"
+
+msgid "Basement"
+msgstr "ชั้นใต้ดิน"
+
+msgid "Bathroom / Lavatory"
+msgstr "ห้องน้ำ / ห้องส้วม"
+
+msgid "Shower room / Lavatory"
+msgstr "ห้องอาบน้ำ / ห้องส้วม"
+
+msgid "Balcony"
+msgstr "ระเบียงนอกอาคาร"
+
+msgid "Exercise room"
+msgstr "ห้องออกกำลังกาย"
+
+msgid "Discothèque"
+msgstr "ดิสโก้เธค"
+
+msgid "Home cinema"
+msgstr "โรงหนังในบ้าน"
+
+msgid "Reception room"
+msgstr "ห้องรับแขก"
+
+msgid "Stockroom"
+msgstr "ห้องเก็บของ"
+
+msgid "Park"
+msgstr "สวน"
+
+msgid "Land"
+msgstr "ที่ดิน"
+
+msgid "Patio"
+msgstr "ลานบ้าน"
+
+msgid "Principal bedroom"
+msgstr "ห้องนอนใหญ่"
+
+msgid "Suite"
+msgstr "สวีท"
+
+msgid "Shed"
+msgstr "เพิง"
+
+msgid "Apartment"
+msgstr "อพาร์ทเม้น"
+
+msgid "Cabin"
+msgstr "ห้องโดยสาร"
+
+msgid "Barn"
+msgstr "ยุ้งข้าว"
+
+msgid "Outbuilding"
+msgstr "การต่อเติม"
+
+msgid "Bike storage room"
+msgstr "ห้องเก็บจักรยาน"
+
+msgid "Ski storage room"
+msgstr "ห้องเก็บอุปกรณ์สกี"
+
+msgid "Garbage room"
+msgstr "ห้องเก็บขยะ"
+
+msgid "Steam room"
+msgstr "ฮัมมัม"
+
+msgid "Indoor swimming pool"
+msgstr "สระว่ายน้ำในร่ม"
+
+msgid "Prayer room"
+msgstr "ห้องสวดมนต์"
+
+msgid "Sauna"
+msgstr "เซาว์น่า"
+
+msgid "Watchtower"
+msgstr "หอสังเกตการณ์"
+
+msgid "Room"
+msgstr "ห้อง"
+
+msgid "Meeting room"
+msgstr "ห้องประชุม"
+
+msgid "Maid's room"
+msgstr "ห้องแม่บ้าน"
+
+msgid "Maid's studio"
+msgstr "ห้องทำงานของเมด"
+
+msgid "Double reception room"
+msgstr "ห้องรับแขกคู่"
+
+msgid "Triple reception room"
+msgstr "ห้องรับรองขนาดใหญ่"
+
+msgid "Indoor parking"
+msgstr "ที่จอดรถในร่ม"
+
+msgid "Outdoor parking"
+msgstr "ที่จอดรถกลางแจ้ง"
+
+msgid "Shop"
+msgstr "ร้านค้า"
+
+msgid "Cafeteria"
+msgstr "โรงอาหาร"
+
+msgid "Unit"
+msgstr "หน่วย"
+
+msgid "Warehouse"
+msgstr "คลังสินค้า"
+
+msgid "Accommodation"
+msgstr "ที่พัก"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ทางเดินที่มีหลังคาโค้ง\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"อาร์เคด"
+
+msgid "House"
+msgstr "บ้าน"
+
+msgid "Stair"
+msgstr "บันได"
+
+msgid "Box"
+msgstr "กล่อง"
+
+msgid "Carnotzet"
+msgstr "ห้องใต้ดินที่เก็บไวน์และชิมไวน์"
+
+msgid "Panic room"
+msgstr "ห้องหลบภัย"
+
+msgid "Hall"
+msgstr "ห้องโถง"
+
+msgid "Living room/kitchen"
+msgstr "ห้องนั่งเล่น/ห้องครัว"
+
+msgid "Summer kitchen"
+msgstr "ครัวฤดูร้อน"
+
+msgid "Spa"
+msgstr "สปา"
+
+msgid "Boathouse"
+msgstr "โรงเรือ"
+
+msgid "Eat-in kitchen"
+msgstr "ครัวแบบนั่งทานอาหาร"
+
+msgid "Equipped kitchen"
+msgstr "ห้องครัวพร้อมอุปกรณ์ครบครัน"
+
+msgid "Semi equipped kitchen"
+msgstr "ห้องครัวกึ่งพร้อมอุปกรณ์ครบครัน"
+
+msgid "Corner kitchen"
+msgstr "มุมครัว"
+
+msgid "Kitchenette"
+msgstr "ครัวขนาดเล็ก"
+
+msgid "Open kitchen"
+msgstr "ครัวเปิด"
+
+msgid "Plot"
+msgstr "ผังที่ดิน แปลงผักเล็กๆ"
+
+msgid "Living/dining/kitchen area"
+msgstr "พื้นที่นั่งเล่น/รับประทานอาหาร/ห้องครัว"
+
+msgid "Children's room"
+msgstr "ห้องเด็ก"
+
+msgid "Locker"
+msgstr "ล็อกเกอร์"
+
+msgid "Lobby"
+msgstr "ล็อบบี้"
+
+msgid "Accessible toilet"
+msgstr "ห้องน้ำสำหรับผู้พิการ"
+
+msgid "Craft workshop"
+msgstr "เวิร์คช็อปงานฝีมือ"
+
+msgid "Wine cellar"
+msgstr "ห้องเก็บไวน์"
+
+msgid "Single"
+msgstr "เดี่ยว"
+
+msgid "Twin"
+msgstr "แฝด"
+
+msgid "Twin by garage"
+msgstr "บ้านแฝดที่โรงรถชิดกัน"
+
+msgid "Village house"
+msgstr "บ้านในหมู่บ้าน"
+
+msgid "Twin by angle"
+msgstr "บ้านแฝดที่มุมชนกัน"
+
+msgid "Ranged"
+msgstr "ระยะไกล"
+
+msgid "Standard"
+msgstr "มาตรฐาน"
+
+msgid "Co-exclusive"
+msgstr "โค-เอกซ์คลูซีฟ"
+
+msgid "Exclusive"
+msgstr "พิเศษ"
+
+msgid "Delegation"
+msgstr "คณะผู้แทน"
+
+msgid "Exclusive agent"
+msgstr "ตัวแทนพิเศษ"
+
+msgid "Colleague"
+msgstr "เพื่อนร่วมงาน"
+
+msgid "Verbal"
+msgstr "วาจา"
+
+msgid "Free"
+msgstr "ฟรี"
+
+msgid "Rented"
+msgstr "เช่า"
+
+msgid "Occupied"
+msgstr "ไม่ว่าง"
+
+msgid "To be agreed"
+msgstr "ตามตกลง"
+
+msgid "Building"
+msgstr "อาคาร"
+
+msgid "Residence"
+msgstr "ที่อยู่อาศัย"
+
+msgid "Housing scheme"
+msgstr "โครงการที่อยู่อาศัย"
+
+msgid "Hamlet"
+msgstr "หมู่บ้านเล็กๆ"
+
+msgid "Domain"
+msgstr "อาณาจักร"
+
+msgid "Property"
+msgstr "ทรัพย์สิน"
+
+msgid "Street"
+msgstr "ถนน"
+
+msgid "Sale"
+msgstr "ขาย"
+
+msgid "Rental"
+msgstr "เช่า"
+
+msgid "Seasonal rental"
+msgstr "เช่าตามฤดูกาล"
+
+msgid "Development"
+msgstr "การพัฒนา"
+
+msgid "Life annuity"
+msgstr "เงินงวดชีวิต"
+
+msgid "Auction"
+msgstr "ประมูล"
+
+msgid "Unit sale"
+msgstr "ขายต่อหน่วย"
+
+msgid "Bulk sale"
+msgstr "ขายจำนวนมาก"
+
+msgid "Unfurnished"
+msgstr "ไม่มีเฟอร์นิเจอร์"
+
+msgid "Furnished"
+msgstr "ตกแต่งแล้ว"
+
+msgid "Roommate"
+msgstr "เพื่อนร่วมห้อง"
+
+msgid "Student"
+msgstr "นักเรียน"
+
+msgid "Half furnished"
+msgstr "พร้อมเฟอร์นิเจอร์บางส่วน"
+
+msgid "Coworking"
+msgstr "โคเวิร์กกิ้ง"
+
+msgid "Holidays"
+msgstr "วันหยุด"
+
+msgid "Event"
+msgstr "เหตุการณ์"
+
+msgid "New construction"
+msgstr "การก่อสร้างใหม่"
+
+msgid "Life annuity occupied"
+msgstr "เงินงวดชีวิตถูกครอบครอง"
+
+msgid "Bare Ownership"
+msgstr "กรรมสิทธิ์เปล่า"
+
+msgid "Forward sale"
+msgstr "ขายล่วงหน้า"
+
+msgid "Life annuity semi-occupied"
+msgstr "เงินงวดชีวิตกึ่งครอบครอง"
+
+msgid "Forward sale available"
+msgstr "มีขายล่วงหน้า"
+
+msgid "Forward sale semi-occupied"
+msgstr "ขายต่อ กึ่งครอบครอง"
+
+msgid "Forward sale occupied"
+msgstr "ขายถูกครอบครอง"
+
+msgid "Life annuity without income"
+msgstr "ค่างวดชีวิตไม่มีรายได้"
+
+msgid "Requires updating"
+msgstr "ต้องมีการอัปเดต"
+
+msgid "Good condition"
+msgstr "สภาพดี"
+
+msgid "Requires renovation"
+msgstr "ต้องมีการปรับปรุงใหม่"
+
+msgid "Excellent condition"
+msgstr "สภาพเยี่ยม"
+
+msgid "Timber"
+msgstr "ไม้ซุง"
+
+msgid "Engineered wood"
+msgstr "ไม้แผ่น"
+
+msgid "Stone"
+msgstr "หิน"
+
+msgid "Brick"
+msgstr "อิฐ"
+
+msgid "Concrete"
+msgstr "คอนกรีต"
+
+msgid "Reinforced concrete"
+msgstr "คอนกรีตเสริมเหล็ก"
+
+msgid "Wood frame"
+msgstr "กรอบไม้"
+
+msgid "Steel frame"
+msgstr "โครงเหล็ก"
+
+msgid "Reinforced concrete frame"
+msgstr "โครงคอนกรีตเสริมเหล็ก"
+
+msgid "Shear wall"
+msgstr "ผนังเฉือน"
+
+msgid "Concrete block"
+msgstr "บล็อกคอนกรีต"
+
+msgid "Dimension stone"
+msgstr "หินมิติ"
+
+msgid "Monolith brick"
+msgstr "อิฐเสาหิน"
+
+msgid "Panel"
+msgstr "แผงหน้าปัด"
+
+msgid "Metal frame"
+msgstr "กรอบโลหะ"
+
+msgid "Mudbrick"
+msgstr "อิฐโคลน"
+
+msgid "Cinder block"
+msgstr "อิฐบล็อก"
+
+msgid "Aerated concrete"
+msgstr "คอนกรีตมวลเบา"
+
+msgid "Ground floor"
+msgstr "ชั้นล่าง"
+
+msgid "Top floor"
+msgstr "ชั้นบนสุด"
+
+msgid "1st"
+msgstr "ที่ 1"
+
+msgid "2nd"
+msgstr "ครั้งที่ 2"
+
+msgid "3rd"
+msgstr "ครั้งที่ 3"
+
+msgid "4th"
+msgstr "ครั้งที่ 4"
+
+msgid "5th"
+msgstr "วันที่ 5"
+
+msgid "6th"
+msgstr "วันที่ 6"
+
+msgid "7th"
+msgstr "วันที่ 7"
+
+msgid "8th"
+msgstr "วันที่ 8"
+
+msgid "9th"
+msgstr "วันที่ 9"
+
+msgid "10th"
+msgstr "วันที่ 10"
+
+msgid "11th"
+msgstr "วันที่ 11"
+
+msgid "12th"
+msgstr "วันที่ 12"
+
+msgid "13th"
+msgstr "วันที่ 13"
+
+msgid "14th"
+msgstr "วันที่ 14"
+
+msgid "15th"
+msgstr "วันที่ 15"
+
+msgid "16th"
+msgstr "วันที่ 16"
+
+msgid "17th"
+msgstr "วันที่ 17"
+
+msgid "18th"
+msgstr "วันที่ 18"
+
+msgid "19th"
+msgstr "วันที่ 19"
+
+msgid "20th"
+msgstr "วันที่ 20"
+
+msgid "Garden level"
+msgstr "ระดับสวน"
+
+msgid "Split-level"
+msgstr "แยกระดับ"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "ชั้นเดียว"
+
+msgid "21st"
+msgstr "ครั้งที่ 21"
+
+msgid "22nd"
+msgstr "ครั้งที่ 22"
+
+msgid "23rd"
+msgstr "วันที่ 23"
+
+msgid "24th"
+msgstr "วันที่ 24"
+
+msgid "25th"
+msgstr "วันที่ 25"
+
+msgid "26th"
+msgstr "วันที่ 26"
+
+msgid "27th"
+msgstr "วันที่ 27"
+
+msgid "28th"
+msgstr "วันที่ 28"
+
+msgid "29th"
+msgstr "วันที่ 29"
+
+msgid "30th"
+msgstr "วันที่ 30"
+
+msgid "31st"
+msgstr "วันที่ 31"
+
+msgid "32nd"
+msgstr "ครั้งที่ 32"
+
+msgid "33rd"
+msgstr "ครั้งที่ 33"
+
+msgid "34th"
+msgstr "วันที่ 34"
+
+msgid "35th"
+msgstr "วันที่ 35"
+
+msgid "36th"
+msgstr "วันที่ 36"
+
+msgid "37th"
+msgstr "ครั้งที่ 37"
+
+msgid "38th"
+msgstr "ครั้งที่ 38"
+
+msgid "39th"
+msgstr "ครั้งที่ 39"
+
+msgid "40th"
+msgstr "ครั้งที่ 40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41st"
+
+msgid "42nd"
+msgstr "ลำดับที่ 42"
+
+msgid "43rd"
+msgstr "ลำดับที่ 43"
+
+msgid "44th"
+msgstr "ครั้งที่ 44"
+
+msgid "45th"
+msgstr "วันที่ 45"
+
+msgid "46th"
+msgstr "ครั้งที่ 46"
+
+msgid "47th"
+msgstr "ครั้งที่ 47"
+
+msgid "48th"
+msgstr "ครั้งที่ 48"
+
+msgid "49th"
+msgstr "ครั้งที่ 49"
+
+msgid "50th"
+msgstr "50th"
+
+msgid "51st"
+msgstr "51st"
+
+msgid "52nd"
+msgstr "52nd"
+
+msgid "53rd"
+msgstr "ลำดับที่ 53"
+
+msgid "54th"
+msgstr "ครั้งที่ 54"
+
+msgid "55th"
+msgstr "ครั้งที่ 55"
+
+msgid "56th"
+msgstr "ครั้งที่ 56"
+
+msgid "57th"
+msgstr "ครั้งที่ 57"
+
+msgid "58th"
+msgstr "ครั้งที่ 58"
+
+msgid "59th"
+msgstr "59th"
+
+msgid "60th"
+msgstr "ครั้งที่ 60"
+
+msgid "Raised"
+msgstr "ที่ยกขึ้น"
+
+msgid "61st"
+msgstr "61st"
+
+msgid "62nd"
+msgstr "62nd"
+
+msgid "63rd"
+msgstr "ครั้งที่ 63"
+
+msgid "64th"
+msgstr "ครั้งที่ 64"
+
+msgid "65th"
+msgstr "ครั้งที่ 65"
+
+msgid "66th"
+msgstr "ครั้งที่ 66"
+
+msgid "67th"
+msgstr "ครั้งที่ 67"
+
+msgid "68th"
+msgstr "ครั้งที่ 68"
+
+msgid "69th"
+msgstr "69th"
+
+msgid "70th"
+msgstr "ครั้งที่ 70"
+
+msgid "71st"
+msgstr "71st"
+
+msgid "72nd"
+msgstr "72nd"
+
+msgid "73rd"
+msgstr "73rd"
+
+msgid "74th"
+msgstr "ครั้งที่ 74"
+
+msgid "75th"
+msgstr "ครั้งที่ 75"
+
+msgid "76th"
+msgstr "ครั้งที่ 76"
+
+msgid "77th"
+msgstr "ครั้งที่ 77"
+
+msgid "78th"
+msgstr "ครั้งที่ 78"
+
+msgid "79th"
+msgstr "ครั้งที่ 79"
+
+msgid "80th"
+msgstr "80th"
+
+msgid "81st"
+msgstr "81st"
+
+msgid "82nd"
+msgstr "82nd"
+
+msgid "83rd"
+msgstr "83rd"
+
+msgid "84th"
+msgstr "ครั้งที่ 84"
+
+msgid "85th"
+msgstr "ครั้งที่ 85"
+
+msgid "86th"
+msgstr "ครั้งที่ 86"
+
+msgid "87th"
+msgstr "ครั้งที่ 87"
+
+msgid "88th"
+msgstr "88th"
+
+msgid "89th"
+msgstr "ครั้งที่ 89"
+
+msgid "90th"
+msgstr "90th"
+
+msgid "91st"
+msgstr "91st"
+
+msgid "92nd"
+msgstr "ลำดับที่ 92"
+
+msgid "93rd"
+msgstr "ลำดับที่ 93"
+
+msgid "94th"
+msgstr "ครั้งที่ 94"
+
+msgid "95th"
+msgstr "ครั้งที่ 95"
+
+msgid "96th"
+msgstr "ครั้งที่ 96"
+
+msgid "97th"
+msgstr "ครั้งที่ 97"
+
+msgid "98th"
+msgstr "ครั้งที่ 98"
+
+msgid "99th"
+msgstr "99th"
+
+msgid "100th"
+msgstr "ครั้งที่ 100"
+
+msgid "Wooden floor"
+msgstr "พื้นไม้"
+
+msgid "Tile"
+msgstr "กระเบื้อง"
+
+msgid "Carpet"
+msgstr "พรม"
+
+msgid "Natural fiber"
+msgstr "เส้นใยธรรมชาติ"
+
+msgid "Coco"
+msgstr "โกโก้"
+
+msgid "Travertine"
+msgstr "ทราเวอร์ทีน"
+
+msgid "Marble"
+msgstr "หินอ่อน"
+
+msgid "Granite"
+msgstr "หินแกรนิต"
+
+msgid "Terracotta tile"
+msgstr "กระเบื้องดินเผา"
+
+msgid "Teak"
+msgstr "ไม้สัก"
+
+msgid "Mosaïc"
+msgstr "โมเสก"
+
+msgid "Clay"
+msgstr "ดินเหนียว"
+
+msgid "Laminate"
+msgstr "ลามิเนต"
+
+msgid "Vinyl composition tile"
+msgstr "กระเบื้องคอมโพสิตไวนิล"
+
+msgid "Porcelain stoneware"
+msgstr "กระเบื้องพอร์ซเลน"
+
+msgid "Cement tile"
+msgstr "กระเบื้องซีเมนต์"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "ใต้พื้น"
+
+msgid "Radiator"
+msgstr "เครื่องกระจายความร้อน"
+
+msgid "Stove"
+msgstr "เตา"
+
+msgid "Air-conditioning"
+msgstr "เครื่องปรับอากาศ"
+
+msgid "Central"
+msgstr "ศูนย์กลาง"
+
+msgid "Without"
+msgstr "ปราศจาก"
+
+msgid "Fireplace"
+msgstr "เตาผิง"
+
+msgid "Individual"
+msgstr "รายบุคคล"
+
+msgid "Common"
+msgstr "ทั่วไป"
+
+msgid "Mixed"
+msgstr "ผสม"
+
+msgid "District heating"
+msgstr "เครื่องทำความร้อนอำเภอ"
+
+msgid "Gas"
+msgstr "แก๊ส"
+
+msgid "Fuel oil"
+msgstr "น้ำมันเตา"
+
+msgid "Electric"
+msgstr "ไฟฟ้า"
+
+msgid "Wood"
+msgstr "ไม้"
+
+msgid "Solar"
+msgstr "แสงอาทิตย์"
+
+msgid "Charcoal"
+msgstr "ถ่าน"
+
+msgid "Heat pump"
+msgstr "ปั๊มความร้อน"
+
+msgid "Geothermal"
+msgstr "ความร้อนใต้พิภพ"
+
+msgid "Wood pellet"
+msgstr "เม็ดไม้"
+
+msgid "Aerothermy"
+msgstr "Aerothermy"
+
+msgid "Hot water tank"
+msgstr "ถังน้ำร้อน"
+
+msgid "Boiler"
+msgstr "บอยเลอร์"
+
+msgid "Collective"
+msgstr "กลุ่ม"
+
+msgid "Flat"
+msgstr "แบน"
+
+msgid "Dry-stone wall terraces"
+msgstr "ระเบียงผนังหินแห้ง"
+
+msgid "Steep"
+msgstr "สูงชัน"
+
+msgid "Wooded"
+msgstr "มีต้นไม้มาก"
+
+msgid "Meadow"
+msgstr "ทุ่งหญ้า"
+
+msgid "Term lease"
+msgstr "สัญญาเช่าระยะยาว"
+
+msgid "Long-Term"
+msgstr "ระยะยาว"
+
+msgid "Long-Term - Single activity"
+msgstr "ระยะยาว - กิจกรรมเดี่ยว"
+
+msgid "Long-Term - All activities"
+msgstr "ระยะยาว - กิจกรรมทั้งหมด"
+
+msgid "Regulated"
+msgstr "ควบคุม"
+
+msgid "Seaside"
+msgstr "ริมทะเล"
+
+msgid "Village"
+msgstr "หมู่บ้าน"
+
+msgid "Old town"
+msgstr "เมืองเก่า"
+
+msgid "Precinct"
+msgstr "เขต"
+
+msgid "Ski slope"
+msgstr "ลานสกี"
+
+msgid "Town center"
+msgstr "ใจกลางเมือง"
+
+msgid "Industrial estate"
+msgstr "นิคมอุตสาหกรรม"
+
+msgid "Shopping center"
+msgstr "ศูนย์การค้า"
+
+msgid "Business park"
+msgstr "สวนธุรกิจ"
+
+msgid "Airport area"
+msgstr "บริเวณสนามบิน"
+
+msgid "Science park"
+msgstr "อุทยานวิทยาศาสตร์"
+
+msgid "Port area"
+msgstr "บริเวณท่าเรือ"
+
+msgid "Suburb"
+msgstr "ชานเมือง"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"เนินเขา\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ฮิลส์"
+
+msgid "Waterfront"
+msgstr "ริมน้ำ"
+
+msgid "Countryside"
+msgstr "ชนบท"
+
+msgid "East"
+msgstr "ทิศตะวันออก"
+
+msgid "North"
+msgstr "ทิศเหนือ"
+
+msgid "West"
+msgstr "ตะวันตก"
+
+msgid "South"
+msgstr "ใต้"
+
+msgid "North-east"
+msgstr "ภาคตะวันออกเฉียงเหนือ"
+
+msgid "South-east"
+msgstr "ตะวันออกเฉียงใต้"
+
+msgid "South-west"
+msgstr "ตะวันตกเฉียงใต้"
+
+msgid "North-west"
+msgstr "ตะวันตกเฉียงเหนือ"
+
+msgid "Day"
+msgstr "วัน"
+
+msgid "Week"
+msgstr "สัปดาห์"
+
+msgid "Fortnight"
+msgstr "ปักษ์"
+
+msgid "Month"
+msgstr "เดือน"
+
+msgid "Quarterly"
+msgstr "รายไตรมาส"
+
+msgid "Bimonthly"
+msgstr "รายสองเดือน"
+
+msgid "Half-yearly"
+msgstr "ครึ่งปี"
+
+msgid "Yearly"
+msgstr "รายปี"
+
+msgid "Bus"
+msgstr "รสบัส"
+
+msgid "Bus hub"
+msgstr "ศูนย์กลางรถโดยสาร"
+
+msgid "Metro"
+msgstr "เมโทร"
+
+msgid "Shops"
+msgstr "ร้านค้า"
+
+msgid "Primary school"
+msgstr "โรงเรียนประถม"
+
+msgid "Town centre"
+msgstr "ใจกลางเมือง"
+
+msgid "Hospital/clinic"
+msgstr "โรงพยาบาล/คลินิก"
+
+msgid "Doctor"
+msgstr "หมอ"
+
+msgid "Tram"
+msgstr "รถราง"
+
+msgid "Train station"
+msgstr "สถานีรถไฟ"
+
+msgid "Public parking"
+msgstr "ที่จอดรถสาธารณะ"
+
+msgid "Supermarket"
+msgstr "ซูเปอร์มาร์เก็ต"
+
+msgid "Sea port"
+msgstr "ท่าเรือน้ำ"
+
+msgid "Nursery"
+msgstr "รับเลี้ยงเด็ก"
+
+msgid "Public pool"
+msgstr "สระว่ายน้ำสาธารณะ"
+
+msgid "Tennis"
+msgstr "เทนนิส"
+
+msgid "Golf"
+msgstr "กอล์ฟ"
+
+msgid "Movies"
+msgstr "ภาพยนตร์"
+
+msgid "Secondary school"
+msgstr "มัธยมต้น"
+
+msgid "Sport center"
+msgstr "ศูนย์กีฬา"
+
+msgid "Airport"
+msgstr "สนามบิน"
+
+msgid "Sea"
+msgstr "ทะเล"
+
+msgid "TGV station"
+msgstr "สถานีรถไฟ TGV"
+
+msgid "Highway"
+msgstr "ทางหลวง"
+
+msgid "University"
+msgstr "มหาวิทยาลัย"
+
+msgid "Convention center"
+msgstr "ศูนย์การประชุม"
+
+msgid "Lake"
+msgstr "ทะเลสาบ"
+
+msgid "On main road"
+msgstr "ติดถนนใหญ่"
+
+msgid "Energy - Conventional consumption"
+msgstr "พลังงาน - การบริโภคทั่วไป"
+
+msgid "Energy - Emissions estimate"
+msgstr "พลังงาน - ประมาณการการปล่อยมลพิษ"
+
+msgid "« Carrez » act"
+msgstr ""
+"กฏหมาย Carrez ว่าด้วยขนาดพื้นที่บ้านที่เป็นเขตอาศัยส่วนตัว ปิดทั้ง4 ด้าน "
+"สูงมากกว่า 1.80เมตร"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "ปลวก"
+
+msgid "Asbestos"
+msgstr "แร่ใยหินชนิดหนึ่ง"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ตะกั่ว\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ตะกั่ว\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"ชักจูง"
+
+msgid "Boutin act"
+msgstr "กฎหมาย Boutin"
+
+msgid "EPI (Non renewable)"
+msgstr "EPI (ไม่สามารถต่ออายุได้)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "ขอเสนอชื่อตัวแทนเฉพาะกิจ"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "ขอเสนอชื่อผู้บริหารชั่วคราว"
+
+msgid "Request for expert nomination"
+msgstr "ขอเสนอชื่อผู้เชี่ยวชาญ"
+
+msgid "Fire safety regulations"
+msgstr "กฎความปลอดภัยจากอัคคีภัย"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "มาตรฐานการเข้าถึงสำหรับคนพิการ"
+
+msgid "Sanitary authorization"
+msgstr "ใบอนุญาตสุขาภิบาล"
+
+msgid "Energy consumption"
+msgstr "การใช้พลังงาน"
+
+msgid "Land value tax"
+msgstr "ภาษีมูลค่าที่ดิน"
+
+msgid "Housing tax"
+msgstr "ภาษีที่อยู่อาศัย"
+
+msgid "Land charges"
+msgstr "ค่าที่ดิน"
+
+msgid "Residents only"
+msgstr "ผู้อยู่อาศัยเท่านั้น"
+
+msgid "Property tax (IPTU)"
+msgstr "ภาษีทรัพย์สิน (IPTU)"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "สถานที่เก็บภาษีอุปกรณ์"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "ปริมาณ"
+
+msgid "Useful surface"
+msgstr "พื้นผิวที่มีประโยชน์"
+
+msgid "Co-Ownership property"
+msgstr "ทรัพย์สินร่วม"
+
+msgid "Communal tax rate"
+msgstr "อัตราภาษีชุมชน"
+
+msgid "Land register extract number"
+msgstr "เลขที่แยกทะเบียนที่ดิน"
+
+msgid "Droit de superficie"
+msgstr "ผิวเผิน"
+
+msgid "Millièmes"
+msgstr "Millièmes"
+
+msgid "PPE budget"
+msgstr "งบประมาณ PPE"
+
+msgid "Current renovation fund"
+msgstr "กองทุนปรับปรุงปัจจุบัน"
+
+msgid "Plot ratio"
+msgstr "อัตราส่วนแปลง"
+
+msgid "Occupancy ratio"
+msgstr "อัตราการเข้าพัก"
+
+msgid "Ground footprint coefficient"
+msgstr "ค่าสัมประสิทธิ์รอยเท้าพื้นดิน"
+
+msgid "Floor space coefficient"
+msgstr "ค่าสัมประสิทธิ์พื้นที่ชั้น"
+
+msgid "Priority period CCH L443-11"
+msgstr "ช่วงลำดับความสำคัญ CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "การแบ่งแปลง / แบ่งเขต"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "คณะกรรมการบริษัท / การพิจารณากำกับดูแล"
+
+msgid "Certificate of compliance"
+msgstr "ใบรับรองการปฏิบัติตาม"
+
+msgid "Energy class"
+msgstr "ระดับพลังงาน"
+
+msgid "Thermal insulation class"
+msgstr "ชั้นฉนวนกันความร้อน"
+
+msgid "Greenhouse Gas"
+msgstr "ก๊าซเรือนกระจก"
+
+msgid "Energy passport"
+msgstr "เอกสารเกี่ยวกับเรื่องพลังงาน"
+
+msgid "Energy certification"
+msgstr "ใบรับรองพลังงาน"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "การใช้พลังงาน / ความต้องการพลังงานขั้นสุดท้าย"
+
+msgid "Energy efficiency class"
+msgstr "ระดับประสิทธิภาพการใช้พลังงาน"
+
+msgid "Year of construction according to certificate"
+msgstr "ปีที่สร้างตามใบรับรอง"
+
+msgid "Energy consumption : Hot water included"
+msgstr "การใช้พลังงาน : รวมน้ำร้อน"
+
+msgid "Specific primary energy consumption"
+msgstr "การใช้พลังงานเฉพาะเบื้องต้น"
+
+msgid "PEB unique code"
+msgstr "รหัสเฉพาะ PEB"
+
+msgid "K level (Thermal Insulation)"
+msgstr "ระดับ K (ฉนวนกันความร้อน)"
+
+msgid "Ew level (Energy performance)"
+msgstr "ระดับ Ew (ประสิทธิภาพพลังงาน)"
+
+msgid "CO2 emission"
+msgstr "การปล่อย CO2"
+
+msgid "Flood risks"
+msgstr "ความเสี่ยงจากน้ำท่วม"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "ใบรับรอง: ความสอดคล้องของถังน้ำมัน"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "ใบรับรอง : ความสอดคล้องในการติดตั้งไฟฟ้า"
+
+msgid "« As Built » certificate"
+msgstr "« ตามที่สร้าง » ใบรับรอง"
+
+msgid "Total consumption of primary energy"
+msgstr "การใช้พลังงานปฐมภูมิทั้งหมด"
+
+msgid "Registration number"
+msgstr "ทะเบียนเลขที่"
+
+msgid "Cadastral income"
+msgstr "รายได้ที่ดิน"
+
+msgid "Planning permit obtained"
+msgstr "ได้รับใบอนุญาตการวางแผนแล้ว"
+
+msgid "Subdivision authorization"
+msgstr "การอนุญาตส่วนย่อย"
+
+msgid "Pre-emptive right possible"
+msgstr "มีสิทธิ์จองก่อนได้"
+
+msgid "Citation for urbanistic infraction"
+msgstr "การอ้างอิงสำหรับการละเมิดในเมือง"
+
+msgid "Last use designation"
+msgstr "การกำหนดการใช้งานครั้งสุดท้าย"
+
+msgid "Cadastral annuity"
+msgstr "ค่างวดที่ดิน"
+
+msgid "Energy certification number"
+msgstr "หมายเลขรับรองพลังงาน"
+
+msgid "VAT applicable"
+msgstr "ภาษีมูลค่าเพิ่ม"
+
+msgid "Emissions estimate"
+msgstr "ประมาณการการปล่อยมลพิษ"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "ความสามารถในการเชื่อมต่อ : น้ำ / แก๊ส / ไฟฟ้า"
+
+msgid "Laudêmio"
+msgstr "เลาเดมิโอ"
+
+msgid "Real estate program"
+msgstr "โปรแกรมอสังหาริมทรัพย์"
+
+msgid "Accessible to foreigners"
+msgstr "เข้าได้กับชาวต่างชาติ"
+
+msgid "Building type"
+msgstr "ประเภทอาคาร"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "อัตราคงที่สำหรับค่าธรรมเนียม"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "คะแนนประสิทธิภาพพลังงาน (ปัจจุบัน)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "คะแนนประสิทธิภาพพลังงาน (ศักยภาพ)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "คะแนนผลกระทบต่อสิ่งแวดล้อม (ปัจจุบัน)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "คะแนนผลกระทบต่อสิ่งแวดล้อม (ศักยภาพ)"
+
+msgid "Tenure type"
+msgstr "ประเภทการดำรงตำแหน่ง"
+
+msgid "Property tenure"
+msgstr "การถือครองทรัพย์สิน"
+
+msgid "Rental value"
+msgstr "ค่าเช่า"
+
+msgid "Tax value"
+msgstr "มูลค่าภาษี"
+
+msgid "Insurance value"
+msgstr "มูลค่าประกันภัย"
+
+msgid "Building zone"
+msgstr "โซนอาคาร"
+
+msgid "Stratum"
+msgstr "ชั้น"
+
+msgid "Rental reference index"
+msgstr "ดัชนีอ้างอิงการเช่า"
+
+msgid "Last rental price"
+msgstr "ราคาเช่าล่าสุด"
+
+msgid "Building envelope efficiency"
+msgstr "การสร้างประสิทธิภาพของซองจดหมาย"
+
+msgid "Overall energy efficiency"
+msgstr "ประสิทธิภาพการใช้พลังงานโดยรวม"
+
+msgid "Dry rot diagnosis"
+msgstr "การวินิจฉัยการผุของไม้โดยเชื้อรา"
+
+msgid "Additional rent"
+msgstr "ค่าเช่าเพิ่มเติม"
+
+msgid "Indexed cadastral income"
+msgstr "รายได้ที่ดินที่จัดทำดัชนี"
+
+msgid "EPI (Renewable)"
+msgstr "EPI (ทดแทน)"
+
+msgid "Emission class"
+msgstr "ระดับการปล่อย"
+
+msgid "Heating costs"
+msgstr "ค่าทำความร้อน"
+
+msgid "Performance level (summer season)"
+msgstr "ระดับการแสดง (ฤดูร้อน)"
+
+msgid "Performance level (winter season)"
+msgstr "ระดับผลงาน (ฤดูหนาว)"
+
+msgid "Cadastral data - Section"
+msgstr "ข้อมูลที่ดิน - Section"
+
+msgid "Cadastral data - Sheet"
+msgstr "ข้อมูลที่ดิน - Sheet"
+
+msgid "Cadastral data - Parcel"
+msgstr "ข้อมูลที่ดิน - Parcel"
+
+msgid "Cadastral data - Subparcel"
+msgstr "ข้อมูลที่ดิน - Subparcel"
+
+msgid "Cadastral data - Sub"
+msgstr "ข้อมูลที่ดิน - Sub"
+
+msgid "Cadastral data - Sub 2"
+msgstr "ข้อมูลที่ดิน - ย่อย 2"
+
+msgid "Licença de habitação - Número"
+msgstr "Licença de habitação - ตัวเลข"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "ใบอนุญาติ - Emitida em"
+
+msgid "Taxa de IMI"
+msgstr "แท็กซ่า เดอ ไอเอ็มไอ"
+
+msgid "Regime de IVA"
+msgstr "ระบอบการปกครองของ IVA"
+
+msgid "Escritura - Número"
+msgstr "Escritura - ตัวเลข"
+
+msgid "Licença de construção - Número"
+msgstr "ใบอนุญาติ - Número"
+
+msgid "Licença de construção - Emitida em"
+msgstr "ใบอนุญาตก่อสร้าง - Emitida em"
+
+msgid "Tenant charges conditions"
+msgstr "Modalites เรียกเก็บเงินจาก Locataire"
+
+msgid "Turnover"
+msgstr "มูลค่าการซื้อขาย"
+
+msgid "Net income"
+msgstr "รายได้สุทธิ"
+
+msgid "Gross operating profit"
+msgstr "กำไรขั้นต้นจากการดำเนินงาน"
+
+msgid "Personnel costs"
+msgstr "ค่าใช้จ่ายบุคลากร"
+
+msgid "Cash flow"
+msgstr "กระแสเงินสด"
+
+msgid "Shareholders’equity"
+msgstr "ส่วนของผู้ถือหุ้น"
+
+msgid "Net debt"
+msgstr "หนี้สินสุทธิ"
+
+msgid "Internet"
+msgstr "อินเทอร์เน็ต"
+
+msgid "Disabled access"
+msgstr "ไม่สามารถเข้าถึงได้"
+
+msgid "Alarm system"
+msgstr "ระบบเตือนภัย"
+
+msgid "Lift"
+msgstr "ยก"
+
+msgid "Caretaker"
+msgstr "ผู้ดูแล"
+
+msgid "Double glazing"
+msgstr "กระจกสองชั้น"
+
+msgid "Intercom"
+msgstr "อินเตอร์คอม"
+
+msgid "TV distribution"
+msgstr "จำหน่ายทีวี"
+
+msgid "Swimming pool"
+msgstr "สระว่ายน้ำ"
+
+msgid "Security door"
+msgstr "ประตูรักษาความปลอดภัย"
+
+msgid "Tennis court"
+msgstr "สนามเทนนิส"
+
+msgid "Irrigation sprinkler"
+msgstr "สปริงเกลอร์น้ำแบบฉีดฝอย"
+
+msgid "Barbecue"
+msgstr "บารบีคิว"
+
+msgid "Electric gate"
+msgstr "ประตูไฟฟ้า"
+
+msgid "Crawl space"
+msgstr "พื้นที่การรวบรวมข้อมูล"
+
+msgid "Car port"
+msgstr "ท่ารถ"
+
+msgid "Caretaker house"
+msgstr "บ้านพี่เลี้ยง"
+
+msgid "Sliding windows"
+msgstr "หน้าต่างบานเลื่อน"
+
+msgid "Central vacuum system"
+msgstr "ระบบสูญญากาศกลาง"
+
+msgid "Electric shutters"
+msgstr "บานประตูหน้าต่างไฟฟ้า"
+
+msgid "Window shade"
+msgstr "ม่านบังตา"
+
+msgid "Electric awnings"
+msgstr "กันสาดไฟฟ้า"
+
+msgid "Washing machine"
+msgstr "เครื่องซักผ้า"
+
+msgid "Jacuzzi"
+msgstr "จากุซซี่"
+
+msgid "Whirlpool tub"
+msgstr "อ่างน้ำวน"
+
+msgid "Well"
+msgstr "ดี"
+
+msgid "Spring"
+msgstr "ฤดูใบไม้ผลิ"
+
+msgid "Engine generator"
+msgstr "เครื่องกำเนิดไฟฟ้า"
+
+msgid "Dishwasher"
+msgstr "เครื่องล้างจาน"
+
+msgid "Hob"
+msgstr "ตะแกรงบนเตาไฟ"
+
+msgid "Safe"
+msgstr "ปลอดภัย"
+
+msgid "Helipad"
+msgstr "ลานจอดเฮลิคอปเตอร์"
+
+msgid "Videophone"
+msgstr "วิดีโอโฟน"
+
+msgid "Video security"
+msgstr "ความปลอดภัยของวิดีโอ"
+
+msgid "Iron"
+msgstr "เหล็ก"
+
+msgid "Hair dryer"
+msgstr "เครื่องเป่าผม"
+
+msgid "Television"
+msgstr "โทรทัศน์"
+
+msgid "DVD Player"
+msgstr "เครื่องเล่นดีวีดี"
+
+msgid "CD Player"
+msgstr "เครื่องเล่นซีดี"
+
+msgid "Outdoor lighting"
+msgstr "แสงกลางแจ้ง"
+
+msgid "Home automation"
+msgstr "ระบบอัตโนมัติในบ้าน"
+
+msgid "Linens"
+msgstr "ผ้าปูที่นอน"
+
+msgid "Tableware"
+msgstr "เครื่องใช้บนโต๊ะอาหาร"
+
+msgid "Clothes dryer"
+msgstr "เครื่องอบผ้า"
+
+msgid "Refrigerator"
+msgstr "ตู้เย็น"
+
+msgid "Oven"
+msgstr "เตาอบ"
+
+msgid "Reception 24/7"
+msgstr "แผนกต้อนรับ 24/7"
+
+msgid "Coffeemaker"
+msgstr "เครื่องชงกาแฟ"
+
+msgid "Microwave oven"
+msgstr "เตาอบไมโครเวฟ"
+
+msgid "Shabbat elevator"
+msgstr "ลิฟต์แชบแบท (ลิฟท์เปิดทุกชั้นโดยไม่ต้องกดปุ่ม)"
+
+msgid "Sukkah"
+msgstr "สุขกะ กระท่อมชั่วคราวที่สร้างขึ้นเพื่อใช้ในเทศกาล Sukkot"
+
+msgid "Synagogue"
+msgstr "สุเหร่ายิว"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "ซักรีดทั่วไป"
+
+msgid "Pets allowed"
+msgstr "สัตว์เลี้ยงที่ได้รับอนุญาต"
+
+msgid "Metal shutters"
+msgstr "บานประตูหน้าต่างโลหะ"
+
+msgid "Wiring closet"
+msgstr "ตู้เก็บสายไฟ"
+
+msgid "Computer network"
+msgstr "เครือข่ายคอมพิวเตอร์"
+
+msgid "Dropped ceiling"
+msgstr "เพดานหล่น"
+
+msgid "Fire hose cabinets"
+msgstr "ตู้ท่อดับเพลิง"
+
+msgid "Fire sprinkler system"
+msgstr "ระบบสปริงเกอร์ดับเพลิง"
+
+msgid "Berth"
+msgstr "ท่าเทียบเรือ"
+
+msgid "Connected thermostat"
+msgstr "เชื่อมต่อเทอร์โมสตัท"
+
+msgid "Bowling game"
+msgstr "โบว์ลิ่งกรีน"
+
+msgid "Water softener"
+msgstr "สารทำให้น้ำหายกระด้าง"
+
+msgid "Triple glazing"
+msgstr "กระจกสามชั้น"
+
+msgid "Well drilling"
+msgstr "การขุดบ่อน้ำ"
+
+msgid "Optical fiber"
+msgstr "ใยแก้วนำแสง"
+
+msgid "Non-flooding"
+msgstr "ไม่ท่วม"
+
+msgid "Backup water system"
+msgstr "ระบบน้ำสำรอง"
+
+msgid "Water filtration system"
+msgstr "ระบบกรองน้ำ"
+
+msgid "Air filtration system"
+msgstr "ระบบกรองอากาศ"
+
+msgid "Fire alarm system"
+msgstr "ระบบสัญญาณเตือนไฟไหม้"
+
+msgid "Commercial services"
+msgstr "บริการเชิงพาณิชย์"
+
+msgid "Playground"
+msgstr "สนามเด็กเล่น"
+
+msgid "Flyboard"
+msgstr "ฟลายบอร์ด"
+
+msgid "Amphibious car"
+msgstr "รถสะเทินน้ำสะเทินบก"
+
+msgid "Beach games"
+msgstr "เกมส์ชายหาด"
+
+msgid "Bikes"
+msgstr "จักรยาน"
+
+msgid "Canoe"
+msgstr "เรือแคนู"
+
+msgid "Diving"
+msgstr "ดำน้ำ"
+
+msgid "Fishing"
+msgstr "ตกปลา"
+
+msgid "Floating pool"
+msgstr "สระว่ายน้ำลอยน้ำ"
+
+msgid "Hoverboard"
+msgstr "โฮเวอร์บอร์ด"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "หมอนเป่าลม"
+
+msgid "Water slide"
+msgstr "สไลเดอร์"
+
+msgid "Waterpark"
+msgstr "สวนน้ำ"
+
+msgid "Jet ski"
+msgstr "เจ็ทสกี"
+
+msgid "Kite surf"
+msgstr "ไคท์เซิร์ฟ"
+
+msgid "Paddle"
+msgstr "กรรเชียง"
+
+msgid "Scooter"
+msgstr "สกู๊ตเตอร์"
+
+msgid "Seabob"
+msgstr "ซีบ๊อบ"
+
+msgid "Segway"
+msgstr "เซกเวย์"
+
+msgid "Wakeboard"
+msgstr "เวคบอร์ด"
+
+msgid "Simple flow ventilation"
+msgstr "การระบายอากาศแบบไหลง่าย"
+
+msgid "Double flow ventilation"
+msgstr "การระบายอากาศแบบดับเบิ้ลโฟลว์"
+
+msgid "Business center"
+msgstr "ศูนย์ธุรกิจ"
+
+msgid "Foodservice"
+msgstr "บริการอาหาร"
+
+msgid "Condominium garden"
+msgstr "สวนคอนโดมิเนียม"
+
+msgid "Stabilizers"
+msgstr "ความคงตัว"
+
+msgid "Hydraulic Platform"
+msgstr "แพลตฟอร์มไฮดรอลิก"
+
+msgid "Freezer"
+msgstr "ตู้แช่"
+
+msgid "Fitness"
+msgstr "ฟิตเนส"
+
+msgid "Electric car terminal"
+msgstr "ขั้วรถไฟฟ้า"
+
+msgid "Solar panels"
+msgstr "แผงโซลาร์เซลล์"
+
+msgid "Overhead crane"
+msgstr "เครนเหนือศีรษะ"
+
+msgid "Tow-away zone"
+msgstr "โซนลากจูง"
+
+msgid "Extraction air duct"
+msgstr "ท่อระบายอากาศ"
+
+msgid "Access control"
+msgstr "การควบคุมการเข้าถึง"
+
+msgid "Listed historic building"
+msgstr "จดทะเบียนอาคารประวัติศาสตร์"
+
+msgid "Flyscreens"
+msgstr "ฟลายสกรีน"
+
+msgid "Security service"
+msgstr "บริการรักษาความปลอดภัย"
+
+msgid "Condominium pool"
+msgstr "สระว่ายน้ำคอนโดมิเนียม"
+
+msgid "Civil defense bunker"
+msgstr "บังเกอร์ป้องกันภัยพลเรือน"
+
+msgid "Supplies"
+msgstr "เสบียง"
+
+msgid "Outdoor spaces"
+msgstr "พื้นที่กลางแจ้ง"
+
+msgid "Rental supplies"
+msgstr "อุปกรณ์ให้เช่า"
+
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+msgid "Professional supplies"
+msgstr "อุปกรณ์มืออาชีพ"
+
+msgid "Yacht supplies"
+msgstr "อุปกรณ์เรือยอทช์"
+
+msgid "High standard"
+msgstr "มาตรฐานสูง"
+
+msgid "Luxury"
+msgstr "หรูหรา"
+
+msgid "High luxury"
+msgstr "ความหรูหราสูง"
+
+msgid "Housing estate"
+msgstr "บ้านจัดสรร"
+
+msgid "Regular"
+msgstr "ปกติ"
+
+msgid "In progress"
+msgstr "กำลังดำเนินการ"
+
+msgid "Standby"
+msgstr "รอ"
+
+msgid "Deleted"
+msgstr "ถูกลบ"
+
+msgid "Waiting for agreement"
+msgstr "รอการตกลง"
+
+msgid "Agreement ended"
+msgstr "ข้อตกลงสิ้นสุด"
+
+msgid "Offer"
+msgstr "เสนอ"
+
+msgid "Processing sale"
+msgstr "การขายการประมวลผล"
+
+msgid "Waiting for contract"
+msgstr "รอสัญญา"
+
+msgid "Pending approval"
+msgstr "รออนุมัติ"
+
+msgid "Sell/Rent by agent"
+msgstr "ขาย/ให้เช่าโดยตัวแทน"
+
+msgid "Sell/Rent by owner"
+msgstr "เจ้าของขาย/ให้เช่า"
+
+msgid "Sell/Rent by other agent"
+msgstr "ขาย/ให้เช่าโดยตัวแทนอื่น"
+
+msgid "Removed by agent"
+msgstr "ถูกลบโดยตัวแทน"
+
+msgid "Removed by owner"
+msgstr "เจ้าของลบออก"
+
+msgid "Sale/Rental cancelled"
+msgstr "ยกเลิกการขาย/เช่า"
+
+msgid "Delete this property"
+msgstr "ลบคุณสมบัตินี้ลบอสังหาริมทรัพย์นี้"
+
+msgid "Business"
+msgstr "ธุรกิจ"
+
+msgid "Garage/Parking"
+msgstr "โรงรถ/ที่จอดรถ"
+
+msgid "Office"
+msgstr "สำนักงาน"
+
+msgid "Boat"
+msgstr "เรือ"
+
+msgid "Cellar / Box"
+msgstr "ห้องใต้ดิน / กล่อง"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "สร้างที่ดิน"
+
+msgid "Not constructible land"
+msgstr "ที่ดินสร้างไม่ได้"
+
+msgid "Penthouse"
+msgstr "เพิง"
+
+msgid "Castle"
+msgstr "ปราสาท"
+
+msgid "Duplex"
+msgstr "ดูเพล็กซ์"
+
+msgid "Mansion"
+msgstr "คฤหาสน์"
+
+msgid "Farm"
+msgstr "ฟาร์ม"
+
+msgid "Villa"
+msgstr "วิลล่า"
+
+msgid "Apartment villa"
+msgstr "อพาร์ตเมนต์ วิลล่า"
+
+msgid "Ruin"
+msgstr "ทำลาย"
+
+msgid "Mill"
+msgstr "โรงสี"
+
+msgid "Farmhouse"
+msgstr "บ้านไร่"
+
+msgid "Townhouse"
+msgstr "ทาวน์เฮ้าส์"
+
+msgid "Mobile home"
+msgstr "โทรศัพท์บ้าน"
+
+msgid "Cottage"
+msgstr "กระท่อม"
+
+msgid "Hangar"
+msgstr "โรงเก็บเครื่องบิน"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "ท้องถิ่น"
+
+msgid "Chalet"
+msgstr "กระท่อมบนภูเขา"
+
+msgid "Retail space"
+msgstr "อาคารสถานที่"
+
+msgid "Business assets"
+msgstr "ทรัพย์สินทางธุรกิจ"
+
+msgid "Right to the lease"
+msgstr "สิทธิการเช่า"
+
+msgid "Management"
+msgstr "การจัดการ"
+
+msgid "Agricultural exploitation"
+msgstr "การแสวงประโยชน์ทางการเกษตร"
+
+msgid "Woodshed"
+msgstr "โรงไม้"
+
+msgid "Stud farm"
+msgstr "สตั๊ดฟาร์ม"
+
+msgid "Plot of land"
+msgstr "ที่ดิน"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "บริษัท"
+
+msgid "Vineyard property"
+msgstr "ทรัพย์สินของไร่องุ่น"
+
+msgid "Sailing Yacht"
+msgstr "เรือยอชท์"
+
+msgid "Narrow boat"
+msgstr "เรือแคบ"
+
+msgid "Catamaran"
+msgstr "เรือใบ"
+
+msgid "Equestrian estate"
+msgstr "ฟาร์มม้า"
+
+msgid "Bed and breakfast"
+msgstr "ที่พักพร้อมอาหารเช้า"
+
+msgid "Gîte"
+msgstr "โฮมสเตย์"
+
+msgid "Riad"
+msgstr "บ้านสไตล์โมรอคโค"
+
+msgid "Retail shop"
+msgstr "ร้านค้าปลีก"
+
+msgid "Shophouse"
+msgstr "ตึกแถว"
+
+msgid "Borey"
+msgstr "โบเรย์"
+
+msgid "Condo"
+msgstr "คอนโด"
+
+msgid "Factory"
+msgstr "โรงงาน"
+
+msgid "Serviced apartment"
+msgstr "เซอร์วิส อพาร์ตเมนต์"
+
+msgid "Twin Villa"
+msgstr "วิลล่าแฝด"
+
+msgid "Flat House"
+msgstr "แฟลตเฮาส์"
+
+msgid "Semi-detached house"
+msgstr "บ้านแฝด"
+
+msgid "Bungalow"
+msgstr "บังกะโล"
+
+msgid "Beach house"
+msgstr "บ้านริมหาด"
+
+msgid "Ger district"
+msgstr "เขตเกอร์"
+
+msgid "Summer house"
+msgstr "บ้านฤดูร้อน"
+
+msgid "Private island"
+msgstr "เกาะส่วนตัว"
+
+msgid "Residential land"
+msgstr "ที่ดินที่อยู่อาศัย"
+
+msgid "Commercial land"
+msgstr "ที่ดินเพื่อการพาณิชย์"
+
+msgid "Subdivision"
+msgstr "แผนก"
+
+msgid "Game reserve"
+msgstr "เกมสำรอง"
+
+msgid "Motorboat"
+msgstr "เรือยนต์"
+
+msgid "Detached house"
+msgstr "บ้านเดี่ยว"
+
+msgid "Ranch"
+msgstr "ไร่"
+
+msgid "Waterside mansion"
+msgstr "คฤหาสน์ริมน้ำ"
+
+msgid "Craft Workshop"
+msgstr "เวิร์คช็อปงานฝีมือ"
+
+msgid "Pavilion"
+msgstr "ศาลา"
+
+msgid "Agricultural land"
+msgstr "พื้นที่เกษตรกรรม"
+
+msgid "Mountains"
+msgstr "ภูเขา"
+
+msgid "Greenery"
+msgstr "กรีนเนอรี่"
+
+msgid "Monument"
+msgstr "อนุสาวรีย์"
+
+msgid "Forest"
+msgstr "ป่า"
+
+msgid "River"
+msgstr "แม่น้ำ"
+
+msgid "City"
+msgstr "เมือง"
+
+msgid "Garden"
+msgstr "สวน"
+
+msgid "Sky"
+msgstr "ท้องฟ้า"
+
+msgid "Courtyard"
+msgstr "ลาน"
+
+msgid "Main stem"
+msgstr "ลำต้นหลัก"
+
+msgid "Harbor"
+msgstr "ท่าเรือ"
+
+msgid "Ski slopes"
+msgstr "ลานสกี"
+
+msgid "Vines"
+msgstr "เถาวัลย์"
+
+msgid "Obstructed"
+msgstr "สิ่งกีดขวาง"
+
+msgid "Slight"
+msgstr "เล็กน้อย"
+
+msgid "Unobstructed"
+msgstr "ไม่มีสิ่งกีดขวาง"
+
+msgid "Panoramic"
+msgstr "พาโนรามา"
+
+msgid "Exterior"
+msgstr "ภายนอก"
+
+msgid "Interior"
+msgstr "ภายใน"
+
+msgid "Septic tank"
+msgstr "ถังบำบัดน้ำเสีย"
+
+msgid "Main drainage"
+msgstr "การระบายน้ำหลัก"
+
+msgid "Treatment plant"
+msgstr "โรงบำบัด"
+
+msgid "Grey-water pit"
+msgstr "การรีไซเคิลน้ำใช้แล้ว"
+
+msgid "Micro sewage treatment"
+msgstr "การบำบัดน้ำเสียแบบไมโคร"
+
+msgid "Estate agent"
+msgstr "ตัวแทนอสังหาริมทรัพย์"
+
+msgid "Phoning"
+msgstr "คุยโทรศัพท์"
+
+msgid "Collaboration"
+msgstr "การทำงานร่วมกัน"
+
+msgid "Provider"
+msgstr "ผู้ให้บริการ"
+
+msgid "Renown"
+msgstr "ชื่อเสียง"
+
+msgid "Walk-in / Window"
+msgstr "วอล์กอิน / หน้าต่าง"
+
+msgid "Network"
+msgstr "เครือข่าย"
+
+msgid "Flyer"
+msgstr "ใบปลิว"
+
+msgid "Sign"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Magazine"
+msgstr "นิตยสาร"
+
+msgid "Mailing"
+msgstr "การส่งจดหมาย"
+
+msgid "e-mailing"
+msgstr "การส่งอีเมล"
+
+msgid "Old client"
+msgstr "ลูกค้าเก่า"
+
+msgid "Selection / Favorite"
+msgstr "การเลือก / รายการโปรด"
+
+msgid "Main residence"
+msgstr "ที่อยู่อาศัยหลัก"
+
+msgid "Secondary residence"
+msgstr "บ้านพักรอง"
+
+msgid "Student residence"
+msgstr "หอพักนักศึกษา"
+
+msgid "Tourism residence"
+msgstr "บ้านพักนักท่องเที่ยว"
+
+msgid "Seniors residence"
+msgstr "บ้านพักคนชรา"
+
+msgid "Duflot Legislation"
+msgstr "กฎหมาย Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "กฎหมาย Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "ค่าธรรมเนียมลดลง"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (บ้านพักคนชรา)"
+
+msgid "Act 1291"
+msgstr "พระราชบัญญัติ 1291"
+
+msgid "Act 887"
+msgstr "พระราชบัญญัติ 887"
+
+msgid "Mixed-use"
+msgstr "แบบผสม"
+
+msgid "Rental investment"
+msgstr "การลงทุนให้เช่า"
+
+msgid "Act 1235"
+msgstr "พระราชบัญญัติ 1235"
+
+msgid "Pinel Legislation"
+msgstr "กฎหมาย Pinel"
+
+msgid "Resale"
+msgstr "ขายต่อ"
+
+msgid "Private leasing"
+msgstr "ให้เช่าส่วนตัว"
+
+msgid "Bank leasing"
+msgstr "ลิสซิ่งธนาคาร"
+
+msgid "IPOTEK"
+msgstr "ไอโพเทค"
+
+msgid "Exchangeable"
+msgstr "แลกเปลี่ยนได้"
+
+msgid "No advance"
+msgstr "ไม่มีล่วงหน้า"
+
+msgid "First occupancy"
+msgstr "การเข้าพักครั้งแรก"
+
+msgid "Liberal profession"
+msgstr "อาชีพเสรีนิยม"
+
+msgid "Holiday"
+msgstr "วันหยุด"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "รวม 3.57% ภาษีมูลค่าเพิ่มจากราคาซื้อ"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "รวม 7.14% ภาษีมูลค่าเพิ่มจากราคาซื้อ"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3.48% รวม ภาษีมูลค่าเพิ่มจากราคาซื้อ"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "รวม 6.96% ภาษีมูลค่าเพิ่มจากราคาซื้อ"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "kanal"
+msgstr "kanal"
+
+msgid "marla"
+msgstr "marla"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "toises"
+msgstr "toises"
+
+msgid "perches"
+msgstr "perches"
+
+msgid "arpents"
+msgstr "arpents"
+
+msgid "minute"
+msgstr "นาที"
+
+msgid "metre"
+msgstr "เมตร"
+
+msgid "km"
+msgstr "กม."
+
+msgid "Administrator"
+msgstr "ผู้ดูแลระบบ"
+
+msgid "Company manager"
+msgstr "ผู้จัดการบริษัท"
+
+msgid "Agency manager"
+msgstr "ผู้จัดการหน่วยงาน"
+
+msgid "Secretariat"
+msgstr "สำนักเลขาธิการ"
+
+msgid "Agent"
+msgstr "ตัวแทน"
+
+msgid "Intern"
+msgstr "นักศึกษาฝึกงาน"
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+msgid "Franchisor"
+msgstr "แฟรนไชส์"
+
+msgid "Translator"
+msgstr "นักแปล"
+
+msgid "Area manager"
+msgstr "ผู้จัดการพื้นที่"
+
+msgid "Planned"
+msgstr "วางแผน"
+
+msgid "Image"
+msgstr "ภาพ"
+
+msgid "Pet"
+msgstr "สัตว์เลี้ยง"
+
+msgid "Natural light"
+msgstr "แสงธรรมชาติ"
+
+msgid "Kitchen island"
+msgstr "ไอส์แลนด์"
+
+msgid "Kitchen bar"
+msgstr "ครัวบาร์"
+
+msgid "High ceiling"
+msgstr "เพดานสูง"
+
+msgid "Skylight"
+msgstr "สกายไลท์"
+
+msgid "Exposed bricks"
+msgstr "อิฐโชว์"
+
+msgid "Ceiling fan"
+msgstr "พัดลมเพดาน"
+
+msgid "Chandelier"
+msgstr "โคมระย้า"
+
+msgid "Stainless steel"
+msgstr "สแตนเลส"
+
+msgid "Price on request"
+msgstr "ราคาตามคำขอ"
+
+msgid "Currency"
+msgstr "สกุลเงิน"
+
+msgid "Rates"
+msgstr "ราคา"
+
+msgid "Types"
+msgstr "ประเภท"
+
+msgid "room"
+msgstr "ห้อง"
+
+msgid "Send"
+msgstr "ส่ง"
+
+msgid "Lastname"
+msgstr "นามสกุล"
+
+msgid "Firstname"
+msgstr "ชื่อจริง"
+
+msgid "Ref"
+msgstr "อ้างอิง"
+
+msgid "%s bedrooms"
+msgstr "%s ห้องนอน"
+
+msgid "%s rooms"
+msgstr "%s ห้อง"
+
+msgid "Folder"
+msgstr "โฟลเดอร์"
+
+msgid "No matches found"
+msgstr "ไม่พบรายการที่ตรงกัน"
+
+msgid "Please enter one more character"
+msgstr "โปรดป้อนอักขระเพิ่มอีกหนึ่งตัว"
+
+msgid "Duplicate"
+msgstr "ทำซ้ำ"
+
+msgid "Backup"
+msgstr "สำรอง"
+
+msgid "Rate"
+msgstr "ประเมินค่า"
+
+msgid "Sender"
+msgstr "ผู้ส่ง"
+
+msgid "Recipient"
+msgstr "ผู้รับ"
+
+msgid "Subject"
+msgstr "เรื่อง"
+
+msgid "Attachment"
+msgstr "เอกสารแนบ"
+
+msgid "Key"
+msgstr "สำคัญ"
+
+msgid "Documentation"
+msgstr "เอกสาร"
+
+msgid "Title"
+msgstr "ชื่อ"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Help?"
+msgstr "ช่วย?"
+
+msgid "Read more"
+msgstr "อ่านเพิ่มเติม"
+
+msgid "Areas"
+msgstr "พื้นที่"
+
+msgid "Length"
+msgstr "ความยาว"
+
+msgid "Height"
+msgstr "ส่วนสูง"
+
+msgid "Width"
+msgstr "ความกว้าง"
+
+msgid "Deposit"
+msgstr "เงินฝาก"
+
+msgid "Agreement reference"
+msgstr "การอ้างอิงข้อตกลง"
+
+msgid "Agreement start at"
+msgstr "ข้อตกลงเริ่มต้นที่"
+
+msgid "Agreement end at"
+msgstr "ข้อตกลงสิ้นสุดที่"
+
+msgid "Website"
+msgstr "เว็บไซต์"
+
+msgid "Proximities"
+msgstr "ความใกล้ชิด"
+
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+msgid "Availabilities"
+msgstr "มีจำหน่าย"
+
+msgid "Total area"
+msgstr "พื้นที่ทั้งหมด"
+
+msgid "Living area"
+msgstr "พื้นที่ใช้สอย"
+
+msgid "Password forgotten"
+msgstr "ลืมรหัสผ่าน"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+msgid "Welcome %s"
+msgstr "ยินดีต้อนรับ %s"
+
+msgid "Searches"
+msgstr "ค้นหา"
+
+msgid "Added"
+msgstr "เพิ่ม"
+
+msgid "Display"
+msgstr "แสดง"
+
+msgid "Entry"
+msgstr "รายการ"
+
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+msgid "Market"
+msgstr "ตลาด"
+
+msgid "agencies"
+msgstr "หน่วยงาน"
+
+msgid "Calendar"
+msgstr "ปฏิทิน"
+
+msgid "Homepage"
+msgstr "หน้าแรก"
+
+msgid "Maps"
+msgstr "แผนที่"
+
+msgid "Value"
+msgstr "ค่า"
+
+msgid "Sector"
+msgstr "ภาค"
+
+msgid "contact"
+msgstr "ติดต่อ"
+
+msgid "%s contact"
+msgstr "%s ติดต่อ"
+
+msgid "%s contacts"
+msgstr "%s ผู้ติดต่อ"
+
+msgid "Preferences"
+msgstr "การตั้งค่า"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "Waste water"
+msgstr "น้ำเสีย"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "Escrow deposit"
+msgstr "ชำระเงินที่คนกลางจนกว่าจะบรรลุเงื่อนไขที่กำหนด"
+
+msgid "Owners"
+msgstr "เจ้าของ"
+
+msgid "Orientation"
+msgstr "ปฐมนิเทศ"
+
+msgid "View"
+msgstr "ดู"
+
+msgid "District"
+msgstr "เขต"
+
+msgid "Fields"
+msgstr "ทุ่งนา"
+
+msgid "Hook"
+msgstr "ตะขอ"
+
+msgid "Reviews"
+msgstr "ความคิดเห็น"
+
+msgid "Buy"
+msgstr "ซื้อ"
+
+msgid "About us"
+msgstr "เกี่ยวกับเรา"
+
+msgid "Companies"
+msgstr "บริษัท"
+
+msgid "Service"
+msgstr "บริการ"
+
+msgid "News"
+msgstr "ข่าว"
+
+msgid "Contact us"
+msgstr "ติดต่อเรา"
+
+msgid "Type"
+msgstr "พิมพ์"
+
+msgid "Pictures"
+msgstr "รูปภาพ"
+
+msgid "Add to cart"
+msgstr "หยิบใส่ตะกร้า"
+
+msgid "Replace in cart"
+msgstr "แทนที่ในรถเข็น"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "History"
+msgstr "ประวัติศาสตร์"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "Quick search"
+msgstr "ค้นหาอย่างรวดเร็ว"
+
+msgid "Postal code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "The username and/or password is invalid."
+msgstr "ชื่อผู้ใช้และ/หรือรหัสผ่านไม่ถูกต้อง"
+
+msgid "Group"
+msgstr "กลุ่ม"
+
+msgid "Are you sure?"
+msgstr "คุณแน่ใจไหม?"
+
+msgid "Nationality"
+msgstr "สัญชาติ"
+
+msgid "Radius"
+msgstr "รัศมี"
+
+msgid "Summary"
+msgstr "สรุป"
+
+msgid "Watermark"
+msgstr "ลายน้ำ"
+
+msgid "Latitude"
+msgstr "ละติจูด"
+
+msgid "Longitude"
+msgstr "ลองจิจูด"
+
+msgid "Mortgage"
+msgstr "จำนอง"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "Dashboard"
+msgstr "แผงควบคุม"
+
+msgid "Matching"
+msgstr "จับคู่"
+
+msgid "Pay now by card"
+msgstr "ชำระตอนนี้ด้วยบัตร"
+
+msgid "Pay by bank transfer"
+msgstr "ชำระเงินด้วยการโอนเงินผ่านธนาคาร"
+
+msgid "Pay by check"
+msgstr "จ่ายด้วยเช็ค"
+
+msgid "Powered by"
+msgstr "ขับเคลื่อนโดย"
+
+msgid "Accepted payment methods"
+msgstr "ช่องทางการชำระเงินที่ยอมรับ"
+
+msgid "Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "ผู้ติดต่อของคุณอยู่ในฐานข้อมูลแล้ว กรุณาเลือกจากรายการด้านล่าง"
+
+msgid "Contracts"
+msgstr "สัญญา"
+
+msgid "Seekers"
+msgstr "ผู้แสวงหา"
+
+msgid "Active seekers"
+msgstr "ผู้ที่กระตือรือร้น"
+
+msgid "Active owner"
+msgstr "เจ้าของที่ใช้งานอยู่"
+
+msgid "Monitoring"
+msgstr "การตรวจสอบ"
+
+msgid "Forward"
+msgstr "ซึ่งไปข้างหน้า"
+
+msgid "Similar"
+msgstr "คล้ายกัน"
+
+msgid "Condition"
+msgstr "สภาพ"
+
+msgid "floor"
+msgstr "พื้น"
+
+msgid "Description"
+msgstr "คำอธิบาย"
+
+msgid "Deductions"
+msgstr "การหักเงิน"
+
+msgid "Not available"
+msgstr "ไม่ว่าง"
+
+msgid "Occupants"
+msgstr "ผู้อยู่อาศัย"
+
+msgid "Prospect"
+msgstr "อนาคต"
+
+msgid "Shares"
+msgstr "หุ้น"
+
+msgid "Likes"
+msgstr "ชอบ"
+
+msgid "Like"
+msgstr "เช่น"
+
+msgid "Unlike"
+msgstr "ไม่เหมือน"
+
+msgid "Contribution"
+msgstr "ผลงาน"
+
+msgid "property"
+msgstr "คุณสมบัติ"
+
+msgid "Contracted owners"
+msgstr "เจ้าของสัญญา"
+
+msgid "Contracted customer"
+msgstr "ลูกค้าตามสัญญา"
+
+msgid "Contracted customers"
+msgstr "ลูกค้าสัญญา"
+
+msgid "Transfer tax"
+msgstr "ภาษีการโอน"
+
+msgid "Change to"
+msgstr "เปลี่ยนไป"
+
+msgid "Until"
+msgstr "จนกระทั่ง"
+
+msgid "Location reference"
+msgstr "การอ้างอิงตำแหน่ง"
+
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+msgid "Full form"
+msgstr "ตัวเต็ม"
+
+msgid "Quick form"
+msgstr "แบบฟอร์มด่วน"
+
+msgid "%s char(s)"
+msgstr "%s อักขระ"
+
+msgid "Starting price"
+msgstr "ราคาเริ่มต้น"
+
+msgid "Period"
+msgstr "ระยะเวลา"
+
+msgid "Request incomplete"
+msgstr "คำขอไม่สมบูรณ์"
+
+msgid "%s incomplete request(s)"
+msgstr "%s คำขอที่ไม่สมบูรณ์"
+
+msgid "Subscription"
+msgstr "สมัครสมาชิก"
+
+msgid "Configuration"
+msgstr "การกำหนดค่า"
+
+msgid "Subtotal"
+msgstr "ยอดรวม"
+
+msgid "Tax notice"
+msgstr "ใบกำกับภาษี"
+
+msgid "Activities"
+msgstr "กิจกรรม"
+
+msgid "Present"
+msgstr "ปัจจุบัน"
+
+msgid "Missing"
+msgstr "หายไป"
+
+msgid "Full"
+msgstr "เต็ม"
+
+msgid "Organizer"
+msgstr "ผู้จัดงาน"
+
+msgid "Subscribed"
+msgstr "สมัครแล้ว"
+
+msgid "Attendees"
+msgstr "ผู้เข้าร่วม"
+
+msgid "Join"
+msgstr "เข้าร่วม"
+
+msgid "Training"
+msgstr "การฝึกอบรม"
+
+msgid "Require a change of password at next logon"
+msgstr "ต้องเปลี่ยนรหัสผ่านเมื่อเข้าสู่ระบบครั้งต่อไป"
+
+msgid "Gross revenue"
+msgstr "รายได้รวม"
+
+msgid "Gross yield"
+msgstr "ผลผลิตรวม"
+
+msgid "Net yield"
+msgstr "ผลตอบแทนสุทธิ"
+
+msgid "Vacancy rate"
+msgstr "อัตราว่าง"
+
+msgid "Investment"
+msgstr "การลงทุน"
+
+msgid "Lock"
+msgstr "ล็อค"
+
+msgid "Variables"
+msgstr "ตัวแปร"
+
+msgid "Example"
+msgstr "ตัวอย่าง"
+
+msgid "Increment"
+msgstr "เพิ่มขึ้น"
+
+msgid "Schema"
+msgstr "แผนผัง"
+
+msgid "Automation"
+msgstr "ระบบอัตโนมัติ"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Renovation year"
+msgstr "ปีที่ปรับปรุง"
+
+msgid "Curriculum vitae"
+msgstr "ประวัติย่อ"
+
+msgid "Resellers"
+msgstr "ตัวแทนจำหน่าย"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "Billing"
+msgstr "การเรียกเก็บเงิน"
+
+msgid "The balance of your account is %s"
+msgstr "ยอดคงเหลือในบัญชีของคุณคือ %s"
+
+msgid "Ceiling"
+msgstr "เพดาน"
+
+msgid "Weighted area"
+msgstr "พื้นที่ถ่วงน้ำหนัก"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Collected"
+msgstr "สะสม"
+
+msgid "Unlimited"
+msgstr "ไม่ จำกัด"
+
+msgid "Quantity"
+msgstr "ปริมาณ"
+
+msgid "Subscribe"
+msgstr "ติดตาม"
+
+msgid "Setup"
+msgstr "ติดตั้ง"
+
+msgid "Matching at"
+msgstr "จับคู่ที่"
+
+msgid "Price by area"
+msgstr "ราคาตามพื้นที่"
+
+msgid "Default list"
+msgstr "รายการเริ่มต้น"
+
+msgid "Subtype"
+msgstr "ชนิดย่อย"
+
+msgid "Add a custom document"
+msgstr "เพิ่มเอกสารที่กำหนดเอง"
+
+msgid "Line spacing"
+msgstr "ระยะห่างบรรทัด"
+
+msgid "Font"
+msgstr "แบบอักษร"
+
+msgid "Portrait"
+msgstr "ภาพเหมือน"
+
+msgid "Landscape"
+msgstr "ภูมิประเทศ"
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Optional"
+msgstr "ไม่จำเป็น"
+
+msgid "File"
+msgstr "ไฟล์"
+
+msgid "Collected at"
+msgstr "สะสมที่"
+
+msgid "Associate"
+msgstr "เชื่อมโยง"
+
+msgid "Discover our offers"
+msgstr "ค้นพบข้อเสนอของเรา"
+
+msgid "empty"
+msgstr "ว่างเปล่า"
+
+msgid "Portal"
+msgstr "พอร์ทัล"
+
+msgid "Software Documentation"
+msgstr "เอกสารประกอบซอฟต์แวร์"
+
+msgid "Time"
+msgstr "เวลา"
+
+msgid "Dedicated website"
+msgstr "เว็บไซต์เฉพาะ"
+
+msgid "Subcategory"
+msgstr "หมวดหมู่ย่อย"
+
+msgid "No IP control"
+msgstr "ไม่มีการควบคุม IP"
+
+msgid "Auto publish"
+msgstr "เผยแพร่อัตโนมัติ"
+
+msgid "Link to property"
+msgstr "เชื่อมโยงไปยังทรัพย์สิน"
+
+msgid "Happy birthday!"
+msgstr "สุขสันต์วันเกิด!"
+
+msgid "Birthday"
+msgstr "วันเกิด"
+
+msgid "Last login"
+msgstr "เข้าสู่ระบบครั้งล่าสุด"
+
+msgid "This property is a part of:"
+msgstr "คุณสมบัตินี้เป็นส่วนหนึ่งของ:"
+
+msgid "IP address"
+msgstr "ที่อยู่ IP"
+
+msgid "Prospecting"
+msgstr "การสำรวจ"
+
+msgid "Access code"
+msgstr "รหัสการเข้าถึง"
+
+msgid "Access code at"
+msgstr "รหัสเข้าใช้งานที่"
+
+msgid "Number of shares"
+msgstr "จำนวนหุ้น"
+
+msgid "Leads"
+msgstr "ลูกค้าเป้าหมาย"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Link"
+msgstr "ลิงค์"
+
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+msgid "Publish on homepage"
+msgstr "ลงหน้าแรก"
+
+msgid "Suggest"
+msgstr "แนะนำ"
+
+msgid "Welcome on %s"
+msgstr "ยินดีต้อนรับสู่ %s"
+
+msgid "Content"
+msgstr "เนื้อหา"
+
+msgid "Extranet access"
+msgstr "การเข้าถึงเอกซ์ทราเน็ต"
+
+msgid "Publish address"
+msgstr "เผยแพร่ที่อยู่"
+
+msgid "Opening hours"
+msgstr "เวลาทำการ"
+
+msgid "Backoffice"
+msgstr "แบ็คออฟฟิศ"
+
+msgid "Member since %s"
+msgstr "เป็นสมาชิกตั้งแต่ %s"
+
+msgid "Lock menu bar"
+msgstr "ล็อคแถบเมนู"
+
+msgid "Updates"
+msgstr "อัพเดท"
+
+msgid "Booking"
+msgstr "การจอง"
+
+msgid "Forward to contact"
+msgstr "ส่งต่อติดต่อ"
+
+msgid "Reply"
+msgstr "ตอบกลับ"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "คุณสามารถค้นหาฐานข้อมูลคำถามที่พบบ่อย (FAQ) ของเราโดยใช้คำสำคัญ:"
+
+msgid "Registrar"
+msgstr "นายทะเบียน"
+
+msgid "Expiration at"
+msgstr "หมดอายุที่"
+
+msgid "Inbox"
+msgstr "กล่องจดหมาย"
+
+msgid "Domain name"
+msgstr "ชื่ออณาจักร เขตปกครอง"
+
+msgid "Filling"
+msgstr "การกรอก"
+
+msgid "Condition precedent"
+msgstr "เงื่อนไขบังคับก่อน"
+
+msgid "Size"
+msgstr "ขนาด"
+
+msgid "Deal fees"
+msgstr "ค่าธรรมเนียมข้อตกลง"
+
+msgid "Fees charged"
+msgstr "ค่าธรรมเนียมที่เรียกเก็บ"
+
+msgid "Customers"
+msgstr "ลูกค้า"
+
+msgid "Booked"
+msgstr "จองแล้ว"
+
+msgid "Available"
+msgstr "มีอยู่"
+
+msgid "Ceiling height"
+msgstr "ความสูงเพดาน"
+
+msgid "Translations"
+msgstr "คำแปล"
+
+msgid "Unsold"
+msgstr "ขายไม่ออก"
+
+msgid "Sold"
+msgstr "ขายแล้ว"
+
+msgid "Last action"
+msgstr "การกระทำล่าสุด"
+
+msgid "Our agency"
+msgstr "หน่วยงานของเรา"
+
+msgid "Locate us"
+msgstr "ค้นหาเรา"
+
+msgid "Your main contact"
+msgstr "ผู้ติดต่อหลักของคุณ"
+
+msgid "Send me a message"
+msgstr "ส่งข้อความถึงฉัน"
+
+msgid "Leave us a message"
+msgstr "ฝากข้อความถึงเรา"
+
+msgid "Price with fees"
+msgstr "ราคาพร้อมค่าธรรมเนียม"
+
+msgid "Owner access"
+msgstr "การเข้าถึงของเจ้าของ"
+
+msgid "Available for matching"
+msgstr "พร้อมสำหรับการจับคู่"
+
+msgid "Available at"
+msgstr "สามารถดูได้ที่"
+
+msgid "Lessee"
+msgstr "ผู้เช่า"
+
+msgid "Add to list"
+msgstr "เพิ่มในรายการ"
+
+msgid "Custom tags"
+msgstr "แท็กที่กำหนดเอง"
+
+msgid "%s pending approval properties"
+msgstr "%s คุณสมบัติที่รอการอนุมัติ"
+
+msgid "Negotiable price"
+msgstr "ราคาต่อรองได้"
+
+msgid "Price updated"
+msgstr "ราคาอัพเดท"
+
+msgid "Less equal"
+msgstr "น้อยกว่า"
+
+msgid "Equal"
+msgstr "เท่ากัน"
+
+msgid "Greater equal"
+msgstr "เท่าเทียมกันมากขึ้น"
+
+msgid "Contact means"
+msgstr "ติดต่อหมายถึง"
+
+msgid "Agency commission"
+msgstr "ค่านายหน้า"
+
+msgid "Scheduled at"
+msgstr "กำหนดการที่"
+
+msgid "Contract at"
+msgstr "สัญญาที่"
+
+msgid "Commitment"
+msgstr "ความมุ่งมั่น"
+
+msgid "Commitment at"
+msgstr "ความมุ่งมั่นที่"
+
+msgid "Offer at"
+msgstr "ข้อเสนอที่"
+
+msgid "No action"
+msgstr "ไม่มีการตอบสนอง"
+
+msgid "Received contact information"
+msgstr "ได้รับข้อมูลการติดต่อ"
+
+msgid "Linked contact"
+msgstr "ลิงค์ติดต่อ"
+
+msgid "Related contacts"
+msgstr "ผู้ติดต่อที่เกี่ยวข้อง"
+
+msgid "Others"
+msgstr "คนอื่น"
+
+msgid "Assigned to"
+msgstr "ได้รับมอบหมายให้"
+
+msgid "Assign to"
+msgstr "มอบหมายให้"
+
+msgid "Assign by"
+msgstr "มอบหมายโดย"
+
+msgid "Opened by"
+msgstr "เปิดโดย"
+
+msgid "Closed by"
+msgstr "ปิดโดย"
+
+msgid "Time zone"
+msgstr "เขตเวลา"
+
+msgid "Invert selection"
+msgstr "สลับการเลือก"
+
+msgid "Select all"
+msgstr "เลือกทั้งหมด"
+
+msgid "Unselect all"
+msgstr "ไม่เลือกทั้งหมด"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s กำลังรอลูกค้าเป้าหมาย"
+
+msgid "%s lead(s) to assign"
+msgstr "%s นำพาไปในการโอนสิทธิ์"
+
+msgid "%s pending properties"
+msgstr "%s ตงลงการซื้อขายแล้ว รอดำเนินการต่อ"
+
+msgid "%s pending matching(s)"
+msgstr "%s ที่รอการจับคู่"
+
+msgid "%s expired agreement(s)"
+msgstr "%s ข้อตกลงที่หมดอายุ"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s หมดอายุในเร็วๆ นี้ ข้อตกลง"
+
+msgid "Legal notice"
+msgstr "ประกาศทางกฎหมาย"
+
+msgid "Tags"
+msgstr "แท็ก"
+
+msgid "Allowed"
+msgstr "อนุญาต"
+
+msgid "Min stay"
+msgstr "พักขั้นต่ำ"
+
+msgid "Over"
+msgstr "เกิน"
+
+msgid "Refresh"
+msgstr "รีเฟรช"
+
+msgid "Free text"
+msgstr "ข้อความฟรี"
+
+msgid "Generate comment"
+msgstr "สร้างความคิดเห็น"
+
+msgid "Building name"
+msgstr "ชื่ออาคาร"
+
+msgid "VAT"
+msgstr "ภาษีมูลค่าเพิ่ม"
+
+msgid "VAT included"
+msgstr "รวมภาษีมูลค่าเพิ่มแล้ว"
+
+msgid "VAT excluded"
+msgstr "ไม่รวมภาษีมูลค่าเพิ่ม"
+
+msgid "Recurrence"
+msgstr "การเกิดซ้ำ"
+
+msgid "Calculate"
+msgstr "คำนวณ"
+
+msgid "Maximum debt"
+msgstr "หนี้สูงสุด"
+
+msgid "Purchase amount"
+msgstr "ยอดซื้อ"
+
+msgid "Borrowing calculator"
+msgstr "เครื่องคิดเลขการยืม"
+
+msgid "Monthly payment calculator"
+msgstr "เครื่องคำนวณการชำระเงินรายเดือน"
+
+msgid "You don't have broadcasting rights"
+msgstr "คุณไม่มีสิทธิ์ออกประกาศ"
+
+msgid "Pending"
+msgstr "รอดำเนินการ"
+
+msgid "Suggestions"
+msgstr "ข้อเสนอแนะ"
+
+msgid "Automatic"
+msgstr "อัตโนมัติ"
+
+msgid "Manual"
+msgstr "คู่มือ"
+
+msgid "In collaboration with a %name% professional"
+msgstr "ร่วมกับมืออาชีพ %name%"
+
+msgid "Partner"
+msgstr "พันธมิตร"
+
+msgid "Costs"
+msgstr "ค่าใช้จ่าย"
+
+msgid "My search"
+msgstr "การค้นหาของฉัน"
+
+msgid "Spouse"
+msgstr "คู่สมรส"
+
+msgid "Manager"
+msgstr "ผู้จัดการ"
+
+msgid "Category reference"
+msgstr "การอ้างอิงหมวดหมู่"
+
+msgid "Cadastre reference"
+msgstr "ข้อมูลอ้างอิงเกี่ยวกับที่ดิน"
+
+msgid "Lot reference"
+msgstr "ล็อตอ้างอิง"
+
+msgid "Block reference"
+msgstr "บล็อกอ้างอิง"
+
+msgid "Stairs reference"
+msgstr "อ้างอิงบันได"
+
+msgid "Mortgage end at"
+msgstr "สินเชื่อที่อยู่อาศัยสิ้นสุดที่"
+
+msgid "Review"
+msgstr "ทบทวน"
+
+msgid "Medias"
+msgstr "สื่อ"
+
+msgid "Last access"
+msgstr "การเข้าถึงล่าสุด"
+
+msgid "First access"
+msgstr "การเข้าถึงครั้งแรก"
+
+msgid "Access count"
+msgstr "จำนวนการเข้าถึง"
+
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+msgid "Please do not enter any name or contact"
+msgstr "กรุณาอย่าใส่ชื่อหรือผู้ติดต่อใด ๆ"
+
+msgid "QR-Code"
+msgstr "คิวอาร์โค้ด"
+
+msgid "Show price"
+msgstr "แสดงราคา"
+
+msgid "Done"
+msgstr "เสร็จแล้ว"
+
+msgid "task in progress"
+msgstr "กำลังดำเนินการ"
+
+msgid "Not applicable"
+msgstr "ไม่สามารถใช้ได้"
+
+msgid "Fill in the table"
+msgstr "กรอกตาราง"
+
+msgid "Choice"
+msgstr "ทางเลือก"
+
+msgid "Copy"
+msgstr "สำเนา"
+
+msgid "Automatic matching"
+msgstr "จับคู่อัตโนมัติ"
+
+msgid "Authorization"
+msgstr "การอนุญาต"
+
+msgid "Last connection the %s"
+msgstr "การเชื่อมต่อล่าสุด %s"
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "ล่าสุด"
+
+msgid "Reset"
+msgstr "รีเซ็ต"
+
+msgid "Show/hide fields"
+msgstr "แสดง/ซ่อนช่อง"
+
+msgid "Recent searches"
+msgstr "ผลค้นหาล่าสุด"
+
+msgid "Association"
+msgstr "สมาคม"
+
+msgid "Meta crawler"
+msgstr "โปรแกรมรวบรวมข้อมูล Meta"
+
+msgid "Alerts"
+msgstr "การแจ้งเตือน"
+
+msgid "Prescribers"
+msgstr "ใบสั่งยา คนออกข้อบัญญัติ"
+
+msgid "Staff"
+msgstr "พนักงาน"
+
+msgid "Standing"
+msgstr "ยืน ตำแหน่ง ฐานะ จุดยืน"
+
+msgid "Receive a copy"
+msgstr "รับสำเนา"
+
+msgid "Latest views"
+msgstr "ยอดดูล่าสุด"
+
+msgid "Quality"
+msgstr "คุณภาพ"
+
+msgid "Waiting for partner"
+msgstr "กำลังรอพันธมิตร"
+
+msgid "Viewing agreement"
+msgstr "กำลังดูข้อตกลง"
+
+msgid "Declined"
+msgstr "ปฏิเสธ"
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Accepted"
+msgstr "รับแล้ว"
+
+msgid "Zone"
+msgstr "โซน"
+
+msgid "Matrimonial regime"
+msgstr "ระบอบการแต่งงาน"
+
+msgid "Marital status"
+msgstr "สถานภาพการสมรส"
+
+msgid "Thumbnail"
+msgstr "รูปขนาดย่อ"
+
+msgid "Unread"
+msgstr "ยังไม่ได้อ่าน"
+
+msgid "Pension"
+msgstr "เบี้ยบำนาญ"
+
+msgid "Beam"
+msgstr "ไม้รับน้ำหนัก"
+
+msgid "Draft"
+msgstr "ร่าง"
+
+msgid "Provision"
+msgstr "การจัดหา"
+
+msgid "Crew"
+msgstr "ลูกทีม"
+
+msgid "Cruising speed"
+msgstr "ความเร็วในการล่องเรือ"
+
+msgid "Builder"
+msgstr "ช่างก่อสร้าง"
+
+msgid "Administration"
+msgstr "การบริหาร"
+
+msgid "Civil law notary"
+msgstr "ทนายความกฎหมายแพ่ง"
+
+msgid "Price max"
+msgstr "ราคาสูงสุด"
+
+msgid "Credits"
+msgstr "เครดิต"
+
+msgid "Signature"
+msgstr "ลายเซ็น"
+
+msgid "Title (politeness)"
+msgstr "ชื่อเรื่อง (ความสุภาพ)"
+
+msgid "Amount"
+msgstr "จำนวน"
+
+msgid "Amounts"
+msgstr "จำนวนเงิน"
+
+msgid "Updated at"
+msgstr "ปรับปรุงที่"
+
+msgid "Created at"
+msgstr "สร้างที่"
+
+msgid "First published at"
+msgstr "ตีพิมพ์ครั้งแรกที่"
+
+msgid "Insurance"
+msgstr "ประกันภัย"
+
+msgid "Number"
+msgstr "ตัวเลข"
+
+msgid "Plot of land area"
+msgstr "แปลงพื้นที่"
+
+msgid "Deposit account"
+msgstr "บัญชีเงินฝาก"
+
+msgid "Owner's price"
+msgstr "ราคาเจ้าของ"
+
+msgid "Mobile"
+msgstr "มือถือ"
+
+msgid "Tel."
+msgstr "โทร."
+
+msgid "Leases"
+msgstr "สัญญาเช่า"
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+msgid "Tips"
+msgstr "เคล็ดลับ"
+
+msgid "Erase"
+msgstr "ลบ"
+
+msgid "days"
+msgstr "วัน"
+
+msgid "Catalog"
+msgstr "แคตตาล็อก"
+
+msgid "contacts"
+msgstr "รายชื่อผู้ติดต่อ"
+
+msgid "Statistics"
+msgstr "สถิติ"
+
+msgid "Built in"
+msgstr "สร้างขึ้นใน"
+
+msgid "Mark"
+msgstr "เครื่องหมาย"
+
+msgid "Percentage"
+msgstr "เปอร์เซ็นต์"
+
+msgid "Visits"
+msgstr "เยี่ยมชม"
+
+msgid "Visit comment"
+msgstr "เยี่ยมชมความคิดเห็น"
+
+msgid "Key number"
+msgstr "หมายเลขคีย์"
+
+msgid "Key's place"
+msgstr "ที่ของคีย์"
+
+msgid "Displayed city (optional)"
+msgstr "เมืองที่แสดง (ไม่บังคับ)"
+
+msgid "Displayed district (optional)"
+msgstr "อำเภอที่แสดง (ไม่บังคับ)"
+
+msgid "Clauses"
+msgstr "ข้อ"
+
+msgid "Bathroom"
+msgstr "ห้องน้ำ"
+
+msgid "Seller"
+msgstr "ผู้ขาย"
+
+msgid "Adjacency"
+msgstr "ความใกล้เคียง"
+
+msgid "Step"
+msgstr "ขั้นตอน"
+
+msgid "Long comment"
+msgstr "ความคิดเห็นยาว"
+
+msgid "Subtitle"
+msgstr "คำบรรยาย"
+
+msgid "Last published at"
+msgstr "เผยแพร่ล่าสุดที่"
+
+msgid "Inactive"
+msgstr "ไม่ใช้งาน"
+
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "กรุณากรอกชื่อและโทรศัพท์หรืออีเมล"
+
+msgid "Passwords do not match, please retype"
+msgstr "รหัสผ่านไม่ตรงกัน กรุณาพิมพ์ใหม่"
+
+msgid "Please change your password"
+msgstr "กรุณาเปลี่ยนรหัสผ่านของคุณ"
+
+msgid "New password should not be same as old password"
+msgstr "รหัสผ่านใหม่ไม่ควรเหมือนกับรหัสผ่านเก่า"
+
+msgid "years"
+msgstr "ปี"
+
+msgid "Subscriptions"
+msgstr "การสมัครรับข้อมูล"
+
+msgid "Tour comment"
+msgstr "ความคิดเห็นเกี่ยวกับทัวร์"
+
+msgid "Actions"
+msgstr "การกระทำ"
+
+msgid "Ad"
+msgstr "โฆษณา"
+
+msgid "Add opening hours"
+msgstr "เพิ่มเวลาทำการ"
+
+msgid "Private"
+msgstr "ส่วนตัว"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"โปรดทราบว่ามีการขึ้นต่อกัน "
+"โปรดเลือกผู้ติดต่อเพื่อทำการถ่ายโอนข้อมูลให้เสร็จสิ้น"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "การติดตั้งอาจใช้เวลาหลายนาที โปรดกลับมาใหม่ในภายหลัง"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "ผู้ติดต่อของคุณพูด %s คุณต้องการเปลี่ยนภาษาหรือไม่"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "คุณต้องการเผยแพร่ในหน้าแรกหรือไม่?"
+
+msgid "plus VAT"
+msgstr "บวกภาษีมูลค่าเพิ่ม"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>คำเตือน :</b> มีข้อผิดพลาด โปรดตรวจสอบแต่ละช่อง"
+
+msgid "Price/sq m"
+msgstr "ราคา/ตร.ม"
+
+msgid "today"
+msgstr "วันนี้"
+
+msgid "week"
+msgstr "สัปดาห์"
+
+msgid "from %from_value% to %to_value%"
+msgstr "จาก %from_value% ถึง %to_value%"
+
+msgid "Page"
+msgstr "หน้าหนังสือ"
+
+msgid "Action"
+msgstr "การปฎิบัติการ"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Context"
+msgstr "บริบท"
+
+msgid "More criteria"
+msgstr "เกณฑ์เพิ่มเติม"
+
+msgid "Criteria"
+msgstr "เกณฑ์"
+
+msgid "Classification"
+msgstr "การจำแนกประเภท"
+
+msgid "metres"
+msgstr "เมตร"
+
+msgid "Window"
+msgstr "หน้าต่าง"
+
+msgid "Stock area"
+msgstr "พื้นที่สต็อก"
+
+msgid "Sales area"
+msgstr "พื้นที่ขาย"
+
+msgid "Sale price"
+msgstr "ลดราคา"
+
+msgid "Broadcast to"
+msgstr "ออกอากาศไปยัง"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "คุณสมบัตินี้จะไม่ถูกเผยแพร่เนื่องจากอยู่ในขั้นตอน « %s »"
+
+msgid "Last agencies"
+msgstr "หน่วยงานล่าสุด"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "ฉันยืนยันการสมัครรับข้อมูล %s และฉันยอมรับเงื่อนไขทั่วไป"
+
+msgid "from %from_date% to %to_date%"
+msgstr "จาก %from_date% ถึง %to_date%"
+
+msgid "sq m"
+msgstr "ตร.ม"
+
+msgid "Private comment"
+msgstr "ความคิดเห็นส่วนตัว"
+
+msgid "Level"
+msgstr "ระดับ"
+
+msgid "Exchanges"
+msgstr "การแลกเปลี่ยน"
+
+msgid "Exchange"
+msgstr "แลกเปลี่ยน"
+
+msgid "by"
+msgstr "โดย"
+
+msgid "n.a"
+msgstr "not applicable"
+
+msgid "Elevator"
+msgstr "ลิฟต์"
+
+msgid "no"
+msgstr "ไม่"
+
+msgid "yes"
+msgstr "ใช่"
+
+msgid "Printed with care"
+msgstr "พิมพ์ด้วยความใส่ใจ"
+
+msgid "Please do not litter on public way"
+msgstr "กรุณาอย่าทิ้งขยะในที่สาธารณะ"
+
+msgid "Non-contractual information"
+msgstr "ข้อมูลที่ไม่ใช่สัญญา"
+
+msgid "Agency fees"
+msgstr "ค่าธรรมเนียมตัวแทน"
+
+msgid "Agency fees included"
+msgstr "รวมค่าธรรมเนียมตัวแทน"
+
+msgid "Agency fees not included"
+msgstr "ไม่รวมค่าธรรมเนียมเอเจนซี่"
+
+msgid "Fees"
+msgstr "ค่าธรรมเนียม"
+
+msgid "Personal property tax"
+msgstr "ภาษีทรัพย์สินส่วนบุคคล"
+
+msgid "Style"
+msgstr "สไตล์"
+
+msgid "Window card"
+msgstr "การ์ดหน้าต่าง"
+
+msgid "Private sheet"
+msgstr "แผ่นงานส่วนตัว"
+
+msgid "Public sheet"
+msgstr "แผ่นงานสาธารณะ"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "Cart"
+msgstr "รถเข็น"
+
+msgid "Land type"
+msgstr "ประเภทที่ดิน"
+
+msgid "Property agent"
+msgstr "ตัวแทนอสังหาริมทรัพย์"
+
+msgid "The agency"
+msgstr "ตัวแทน"
+
+msgid "End at"
+msgstr "สิ้นสุดที่"
+
+msgid "Close at"
+msgstr "ปิดที่"
+
+msgid "Start at"
+msgstr "เริ่มต้นที่"
+
+msgid "Guarantees"
+msgstr "ค้ำประกัน"
+
+msgid "Updated"
+msgstr "อัปเดต"
+
+msgid "Inter-agencies"
+msgstr "ระหว่างหน่วยงาน"
+
+msgid "Number of floors"
+msgstr "จำนวนชั้น"
+
+msgid "Evaluated price"
+msgstr "ราคาประเมิน"
+
+msgid "Seller's commission"
+msgstr "ค่าคอมมิชชั่นของผู้ขาย"
+
+msgid "Buyer's commission"
+msgstr "ค่าคอมมิชชั่นของผู้ซื้อ"
+
+msgid "Commission"
+msgstr "คณะกรรมการ"
+
+msgid "Origin"
+msgstr "ต้นทาง"
+
+msgid "Specific origin"
+msgstr "แหล่งกำเนิดเฉพาะ"
+
+msgid "Flooring"
+msgstr "ปูพื้น"
+
+msgid "Rank"
+msgstr "อันดับ"
+
+msgid "Calls"
+msgstr "โทร"
+
+msgid "Phone call"
+msgstr "เรียก"
+
+msgid "Publications"
+msgstr "สิ่งพิมพ์"
+
+msgid "Send to contact"
+msgstr "ส่งให้ติดต่อ"
+
+msgid "No results found"
+msgstr "ไม่พบผลลัพธ์"
+
+msgid "results"
+msgstr "ผล"
+
+msgid "result"
+msgstr "ผลลัพธ์"
+
+msgid "Advertiser"
+msgstr "ผู้ลงโฆษณา"
+
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+msgid "Confidential"
+msgstr "เป็นความลับ"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Records"
+msgstr "บันทึก"
+
+msgid "Succession"
+msgstr "สืบทอด"
+
+msgid "Please fill in a city."
+msgstr "กรุณากรอกชื่อเมือง"
+
+msgid "Guarantee"
+msgstr "รับประกัน"
+
+msgid "Please fill"
+msgstr "กรุณาเติม"
+
+msgid "The email address is invalid."
+msgstr "ที่อยู่อีเมลไม่ถูกต้อง"
+
+msgid "Rights"
+msgstr "สิทธิ"
+
+msgid "Since"
+msgstr "ตั้งแต่"
+
+msgid "Filter"
+msgstr "กรอง"
+
+msgid "Min"
+msgstr "นาที"
+
+msgid "Max"
+msgstr "แม็กซ์"
+
+msgid "Lessor"
+msgstr "ผู้ให้เช่า"
+
+msgid "Sleeps"
+msgstr "เตียงนอน"
+
+msgid "Cleaning price"
+msgstr "ราคาทำความสะอาด"
+
+msgid "Sent"
+msgstr "ส่งแล้ว"
+
+msgid "month"
+msgstr "เดือน"
+
+msgid "Season"
+msgstr "ฤดูกาล"
+
+msgid "Todo"
+msgstr "ทำ"
+
+msgid "Brands"
+msgstr "แบรนด์"
+
+msgid "Brand"
+msgstr "ยี่ห้อ"
+
+msgid "Published at"
+msgstr "เผยแพร่ที่"
+
+msgid "Networks"
+msgstr "เครือข่าย"
+
+msgid "Bank"
+msgstr "ธนาคาร"
+
+msgid "Brief comment"
+msgstr "ความเห็นสั้นๆ"
+
+msgid "Delivery at"
+msgstr "จัดส่งที่"
+
+msgid "Reason"
+msgstr "เหตุผล"
+
+msgid "What's new"
+msgstr "มีอะไรใหม่"
+
+msgid "requests"
+msgstr "คำขอ"
+
+msgid "request"
+msgstr "ขอ"
+
+msgid "Current rent"
+msgstr "ค่าเช่าปัจจุบัน"
+
+msgid "Bill"
+msgstr "ใบแจ้งหนี้"
+
+msgid "Calculator"
+msgstr "เครื่องคิดเลข"
+
+msgid "Birthplace"
+msgstr "บ้านเกิด"
+
+msgid "Income"
+msgstr "รายได้"
+
+msgid "Margin"
+msgstr "มาร์จิ้น ค่าความต่างโดยรวยระหว่างรายได้และค่าใช้จ่าย"
+
+msgid "Required."
+msgstr "ที่จำเป็น."
+
+msgid "Seasonal"
+msgstr "ตามฤดูกาล"
+
+msgid "Spoken language"
+msgstr "ภาษาพูด"
+
+msgid "Number of children"
+msgstr "จำนวนบุตร"
+
+msgid "Hotline"
+msgstr "สายด่วน"
+
+msgid "Re-type password"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
+
+msgid "Public longitude"
+msgstr "ลองจิจูดสาธารณะ"
+
+msgid "Public latitude"
+msgstr "ละติจูดสาธารณะ"
+
+msgid "Access denied"
+msgstr "ปฏิเสธการเข้าใช้"
+
+msgid "Access"
+msgstr "เข้าถึง"
+
+msgid "Launch"
+msgstr "ปล่อย"
+
+msgid "Shortcuts"
+msgstr "ทางลัด"
+
+msgid "SEO"
+msgstr "SEO การปรับปรุงเวปไซต์ให้แสดงผลเป็นอันดับต้นๆ"
+
+msgid "Life annuity length"
+msgstr "อายุขัยอายุขัย"
+
+msgid "Market value"
+msgstr "มูลค่าตลาด"
+
+msgid "Price contribution"
+msgstr "ผลงานราคา"
+
+msgid "Sharing"
+msgstr "การแบ่งปัน"
+
+msgid "Show more results"
+msgstr "แสดงผลลัพธ์เพิ่มเติม"
+
+msgid "Hide"
+msgstr "ซ่อน"
+
+msgid "Keywords"
+msgstr "คีย์เวิร์ด"
+
+msgid "Corporate register"
+msgstr "ทะเบียนนิติบุคคล"
+
+msgid "Expired soon"
+msgstr "หมดอายุเร็วๆนี้"
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+msgid "Agreement number"
+msgstr "หมายเลขสัญญา"
+
+msgid "VAT identification number"
+msgstr "หมายเลขประจำตัวผู้เสียภาษีมูลค่าเพิ่ม"
+
+msgid "What's on your mind?"
+msgstr "เธอคิดอะไรอยู่?"
+
+msgid "Buyer"
+msgstr "ผู้ซื้อ"
+
+msgid "Prescriber"
+msgstr "ใบสั่งยา"
+
+msgid "Message sent"
+msgstr "ส่งข้อความ"
+
+msgid "Limit"
+msgstr "ขีดจำกัด"
+
+msgid "Publish"
+msgstr "เผยแพร่"
+
+msgid "Do not publish"
+msgstr "ห้ามเผยแพร่"
+
+msgid "Already suggested"
+msgstr "แนะนำไปแล้ว"
+
+msgid "To suggest"
+msgstr "ที่จะแนะนำ"
+
+msgid "Footer"
+msgstr "ส่วนท้าย"
+
+msgid "Header"
+msgstr "หัวข้อ"
+
+msgid "Serviced plot"
+msgstr "ที่ดินพร้อมบริการ"
+
+msgid "Net floor area"
+msgstr "พื้นที่ชั้นสุทธิ"
+
+msgid "Sold price"
+msgstr "ราคาขาย"
+
+msgid "Sold at"
+msgstr "ขายที่"
+
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+msgid "Garden area"
+msgstr "พื้นที่สวน"
+
+msgid "Payments"
+msgstr "การชำระเงิน"
+
+msgid "Reopen"
+msgstr "เปิดใหม่"
+
+msgid "Complete"
+msgstr "สมบูรณ์"
+
+msgid "Callbacks"
+msgstr "โทรกลับ"
+
+msgid "Coagent"
+msgstr "โคเอเจนต์"
+
+msgid "%s property"
+msgstr "%s คุณสมบัติ ทรัพย์สมบัติ"
+
+msgid "%s requests"
+msgstr "%s คำขอ"
+
+msgid "Characteristics"
+msgstr "ลักษณะเฉพาะ"
+
+msgid "Sorry, this property is no longer available."
+msgstr "ขออภัยบ้าน/ที่ดิน นี้ไม่มีการซื้อขายแล้ว"
+
+msgid "Processed"
+msgstr "แปรรูปแล้ว"
+
+msgid "remaining tickets"
+msgstr "ตั๋วที่เหลือ"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "ยินดีด้วย ! ไม่มีตั๋วสนับสนุนอีกต่อไป"
+
+msgid "unassigned tickets"
+msgstr "ตั๋วที่ไม่ได้มอบหมาย"
+
+msgid "All tickets are assigned."
+msgstr "ตั๋วทั้งหมดได้รับมอบหมาย"
+
+msgid "Database"
+msgstr "ฐานข้อมูล"
+
+msgid "Used"
+msgstr "ใช้แล้ว"
+
+msgid "%s results"
+msgstr "ผลลัพธ์ %s"
+
+msgid "Redirects"
+msgstr "เปลี่ยนเส้นทาง"
+
+msgid "Subscribe to the newsletter"
+msgstr "สมัครรับจดหมายข่าว"
+
+msgid "Purge"
+msgstr "ล้าง"
+
+msgid "Valuation methods"
+msgstr "วิธีการประเมินมูลค่า"
+
+msgid "Rebuild cost"
+msgstr "ต้นทุนการสร้างใหม่"
+
+msgid "Capitalization"
+msgstr "การใช้อักษรตัวพิมพ์ใหญ่"
+
+msgid "Comparative market analysis"
+msgstr "การวิเคราะห์ตลาดเปรียบเทียบ"
+
+msgid "An average of"
+msgstr "ค่าเฉลี่ยของ"
+
+msgid "Your own valuation"
+msgstr "การประเมินมูลค่าของคุณเอง"
+
+msgid "Desired profitability"
+msgstr "ผลกำไรที่ต้องการ"
+
+msgid "Taxes and/or fees"
+msgstr "ภาษีและ/หรือค่าธรรมเนียม"
+
+msgid "Year of purchase"
+msgstr "ปีที่ซื้อ"
+
+msgid "Rental income"
+msgstr "รายได้จากค่าเช่า"
+
+msgid "Price of purchase"
+msgstr "ราคาซื้อ"
+
+msgid "Land price"
+msgstr "ราคาที่ดิน"
+
+msgid "Cost of construction"
+msgstr "ค่าก่อสร้าง"
+
+msgid "Interior fittings"
+msgstr "อุปกรณ์ตกแต่งภายใน"
+
+msgid "Landscaping"
+msgstr "การจัดสวน"
+
+msgid "Decrepitude"
+msgstr "ความเสื่อม"
+
+msgid "Capital losses"
+msgstr "การสูญเสียเงินทุน"
+
+msgid "Capital gains"
+msgstr "กำไรจากการลงทุน"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "กล่องจดหมายของคุณเกินขีดจำกัดที่เก็บข้อมูล (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "กล่องจดหมายของคุณจะถึงขีดจำกัดที่เก็บข้อมูล"
+
+msgid "Sort by"
+msgstr "เรียงโดย"
+
+msgid "Condominium in difficulty"
+msgstr "คอนโดมิเนียมอยู่ในสถานะขาดทุน (มีปัญหา)"
+
+msgid "Back to the list"
+msgstr "กลับไปที่รายการ"
+
+msgid "Previous listing"
+msgstr "รายการก่อนหน้า"
+
+msgid "Next listing"
+msgstr "รายการถัดไป"
+
+msgid "Filename"
+msgstr "ชื่อไฟล์"
+
+msgid "Keyword"
+msgstr "คำสำคัญ"
+
+msgid "Values"
+msgstr "ค่านิยม"
+
+msgid "New feed"
+msgstr "ฟีดใหม่"
+
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+msgid "Erase all"
+msgstr "ลบทั้งหมด"
+
+msgid "Try"
+msgstr "ลอง"
+
+msgid "Query"
+msgstr "แบบสอบถาม"
+
+msgid "Agency fees payable by vendor"
+msgstr "ค่าธรรมเนียมผู้ขาย"
+
+msgid "Agency fees payable by buyer"
+msgstr "ค่าธรรมเนียมของผู้ซื้อ"
+
+msgid "Condominium fees"
+msgstr "ค่าธรรมเนียมคอนโดมิเนียม"
+
+msgid "Bed"
+msgstr "เตียง"
+
+msgid "An error occurred"
+msgstr "เกิดข้อผิดพลาด"
+
+msgid "Successful subscription"
+msgstr "สมัครสมาชิกสำเร็จ"
+
+msgid "Created date"
+msgstr "วันที่สร้าง"
+
+msgid "Updated date"
+msgstr "อัพเดทวันที่"
+
+msgid "Back to homepage"
+msgstr "กลับหน้าแรก"
+
+msgid "Price min"
+msgstr "ราคาต่ำสุด"
+
+msgid "Bedroom min"
+msgstr "ห้องนอน นาที"
+
+msgid "Bedroom max"
+msgstr "ห้องนอน max"
+
+msgid "Room min"
+msgstr "ห้อง min"
+
+msgid "Room max"
+msgstr "รูมแม็กซ์"
+
+msgid "Project at"
+msgstr "โครงการที่"
+
+msgid "Agency rate"
+msgstr "อัตราหน่วยงาน"
+
+msgid "Tenant's commission"
+msgstr "ค่าคอมมิชชั่นของผู้เช่า"
+
+msgid "Inventory tenant charge"
+msgstr "ค่าธรรมเนียมเช็ครายการทรพย์สิน"
+
+msgid "Fees included"
+msgstr "รวมค่าธรรมเนียม"
+
+msgid "Provision on recoverable fees"
+msgstr "สำรองค่าธรรมเนียมที่ขอคืนได้"
+
+msgid "never"
+msgstr "ไม่เคย"
+
+msgid "Remaining credits"
+msgstr "เครดิตที่เหลืออยู่"
+
+msgid "Buy credits"
+msgstr "ซื้อเครดิต"
+
+msgid "%s credits"
+msgstr "%s เครดิต"
+
+msgid "Transaction fees"
+msgstr "ค่าธรรมเนียมการทำธุรกรรม"
+
+msgid "View property"
+msgstr "ดูทรัพย์สิน"
+
+msgid "lots available"
+msgstr "มีจำนวนมาก"
+
+msgid "Area min"
+msgstr "พื้นที่ นาที"
+
+msgid "Search a property"
+msgstr "ค้นหาอสังหาริมทรัพย์"
+
+msgid "International"
+msgstr "ระหว่างประเทศ"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "คุณสมบัตินี้จะไม่ถูกเผยแพร่เนื่องจากอยู่ในกลุ่ม « %s »"
+
+msgid "%s months"
+msgstr "%s เดือน"
+
+msgid "No action after"
+msgstr "ไม่มีการดำเนินการหลังจาก"
+
+msgid "%s pending delete"
+msgstr "%s รอการลบ"
+
+msgid "Pending delete"
+msgstr "รอลบ"
+
+msgid "%s to delete"
+msgstr "%s ที่จะลบ"
+
+msgid "Unsubscribed"
+msgstr "Unsubscribed"
+
+msgid "Edit my search"
+msgstr "แก้ไขการค้นหาของฉัน"
+
+msgid "Activate my search"
+msgstr "เปิดใช้งานการค้นหาของฉัน"
+
+msgid "Cancel my search"
+msgstr "ยกเลิกการค้นหาของฉัน"
+
+msgid "Only authorized properties"
+msgstr "เฉพาะคุณสมบัติที่ได้รับอนุญาต"
+
+msgid "Another currency"
+msgstr "สกุลเงินอื่น"
+
+msgid "Enter the first 6 digits"
+msgstr "ใส่ตัวเลข 6 หลักแรก"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "หากคุณไม่ดำเนินการใดๆ ผู้ติดต่อของคุณจะถูกลบออกก่อน %s"
+
+msgid "No procedure in progress"
+msgstr "ไม่มีขั้นตอนการดำเนินการ"
+
+msgid "Procedure in progress"
+msgstr "อยู่ระหว่างดำเนินการ"
+
+msgid "Number of lots in the condominium"
+msgstr "จำนวนล็อตในคอนโดมิเนียม"
+
+msgid "Network authorized"
+msgstr "เครือข่ายได้รับอนุญาต"
+
+msgid "Renew the lease"
+msgstr "ต่ออายุสัญญาเช่า"
+
+msgid "Remove at"
+msgstr "ลบที่"
+
+msgid "External action"
+msgstr "การกระทำภายนอก"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"การโยกย้ายผู้มีแนวโน้มเป็นลูกค้าในคำขอจะทำให้คุณสามารถจับคู่และเสนอข้อเสนอด้วยการติดตามที่ดีขึ้น"
+
+msgid "Floors"
+msgstr "ชั้น"
+
+msgid "Job"
+msgstr "งาน"
+
+msgid "Unsuscribe from this list"
+msgstr "ยกเลิกการสมัครจากรายการนี้"
+
+msgid "Exit"
+msgstr "ทางออก"
+
+msgid "Secured"
+msgstr "ปลอดภัย"
+
+msgid "Opacity"
+msgstr "ความทึบ"
+
+msgid "Left"
+msgstr "ซ้าย"
+
+msgid "Top"
+msgstr "สูงสุด"
+
+msgid "Relative to the last element"
+msgstr "เทียบกับองค์ประกอบสุดท้าย"
+
+msgid "Alignment"
+msgstr "การจัดตำแหน่ง"
+
+msgid "Border size"
+msgstr "ขนาดเส้นขอบ"
+
+msgid "Border color"
+msgstr "สีขอบ"
+
+msgid "Size of the internal margin"
+msgstr "ขนาดของระยะขอบภายใน"
+
+msgid "Font color"
+msgstr "สีตัวอักษร"
+
+msgid "Font size"
+msgstr "ขนาดตัวอักษร"
+
+msgid "Background color"
+msgstr "สีพื้นหลัง"
+
+msgid "Custom image"
+msgstr "ภาพที่กำหนดเอง"
+
+msgid "custom"
+msgstr "กำหนดเอง"
+
+msgid "Right"
+msgstr "ถูกต้อง"
+
+msgid "Center"
+msgstr "ศูนย์"
+
+msgid "Justified"
+msgstr "มีเหตุผล"
+
+msgid "Transparency"
+msgstr "ความโปร่งใส"
+
+msgid "Line height"
+msgstr "ความสูงของเส้น"
+
+msgid "Uppercase"
+msgstr "ตัวพิมพ์ใหญ่"
+
+msgid "Price proposal"
+msgstr "ข้อเสนอราคา"
+
+msgid "Template"
+msgstr "แม่แบบ"
+
+msgid "Publication date"
+msgstr "วันที่ตีพิมพ์"
+
+msgid "Recovered at"
+msgstr "กู้คืนที่"
+
+msgid "Available on"
+msgstr "มีจำหน่ายที่"
+
+msgid "Allow all"
+msgstr "อนุญาตทั้งหมด"
+
+msgid "Private position is not set, click here to update."
+msgstr "ไม่ได้ตั้งค่าตำแหน่งส่วนตัว คลิกที่นี่เพื่ออัปเดต"
+
+msgid "Public position is not set, click here to update."
+msgstr "ไม่ได้ตั้งค่าตำแหน่งสาธารณะ คลิกที่นี่เพื่ออัปเดต"
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr "โปรดใช้ลิงก์นี้เพื่อสมัครรับปฏิทินของคุณจากซอฟต์แวร์หรืออุปกรณ์:"
+
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+msgid "Disable"
+msgstr "ปิดการใช้งาน"
+
+msgid "Block"
+msgstr "ปิดกั้น"
+
+msgid "Unblock"
+msgstr "เลิกบล็อก"
+
+msgid "Area max"
+msgstr "พื้นที่สูงสุด"
+
+msgid "Plot of land area min"
+msgstr "ที่ดิน พื้นที่ min"
+
+msgid "Plot of land area max"
+msgstr "แปลงที่ดิน พื้นที่ max"
+
+msgid "Date descending"
+msgstr "วันที่จากมากไปน้อย"
+
+msgid "Date ascending"
+msgstr "วันที่ขึ้น"
+
+msgid "Price descending"
+msgstr "ราคาลดลง"
+
+msgid "Price ascending"
+msgstr "ราคาขึ้น"
+
+msgid "Balance"
+msgstr "สมดุล"
+
+msgid "Construction method"
+msgstr "วิธีการก่อสร้าง"
+
+msgid "Tax code"
+msgstr "รหัสภาษี"
+
+msgid "Downsides"
+msgstr "ข้อเสีย"
+
+msgid "Assets"
+msgstr "ทรัพย์สิน"
+
+msgid "Please select a district from the list:"
+msgstr "กรุณาเลือกอำเภอจากรายการ:"
+
+msgid "Non-flood zone"
+msgstr "เขตไม่น้ำท่วม"
+
+msgid "Potential flood zone"
+msgstr "พื้นที่เสี่ยงน้ำท่วม"
+
+msgid "Recognized flood zone"
+msgstr "รู้จักเขตน้ำท่วม"
+
+msgid "Delimited flood zone"
+msgstr "กำหนดเขตน้ำท่วม"
+
+msgid "Cadastre"
+msgstr "เจ้าหน้าที่สำนักงานที่ดิน แผนที่แสดงขอบเขตที่ดิน"
+
+msgid "Delimited waterside zone"
+msgstr "โซนริมน้ำ"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "โซนน้ำท่วมที่อาจเกิดขึ้นในเขตริมน้ำที่มีตัวคั่น"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "เขตน้ำท่วมที่อาจเกิดขึ้นในเขตน้ำท่วมที่มีตัวคั่น"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "รู้จักเขตน้ำท่วมในเขตริมน้ำที่มีตัวคั่น"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "รู้จักเขตน้ำท่วมในเขตน้ำท่วมที่มีตัวคั่น"
+
+msgid "Profile"
+msgstr "ประวัติโดยย่อ"
+
+msgid "Export"
+msgstr "ส่งออก"
+
+msgid "Quota"
+msgstr "โควต้า"
+
+msgid "Signages"
+msgstr "ป้าย"
+
+msgid "Set up at"
+msgstr "ตั้งที่"
+
+msgid "Forecast"
+msgstr "พยากรณ์"
+
+msgid "Area ascending"
+msgstr "พื้นที่ขึ้น"
+
+msgid "Area descending"
+msgstr "พื้นที่จากมากไปน้อย"
+
+msgid "%s awaiting review(s)"
+msgstr "%s กำลังรอการตรวจสอบ"
+
+msgid "To review"
+msgstr "เพื่อทบทวน"
+
+msgid "Net seller"
+msgstr "ผู้ขายสุทธิ"
+
+msgid "Price displayed"
+msgstr "ราคาที่แสดง"
+
+msgid "Rental price"
+msgstr "ราคาเช่า"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "ราคาจดทะเบียน: %s อัตราแลกเปลี่ยนเป็นสิ่งบ่งชี้"
+
+msgid "%s unit"
+msgstr "%s หน่วย"
+
+msgid "Method"
+msgstr "วิธี"
+
+msgid "Path"
+msgstr "เส้นทาง"
+
+msgid "Pagebreak"
+msgstr "แบ่งหน้า"
+
+msgid "Paragraph"
+msgstr "ย่อหน้า"
+
+msgid "Spacing"
+msgstr "ระยะห่าง"
+
+msgid "Align"
+msgstr "จัดตำแหน่ง"
+
+msgid "Scale"
+msgstr "มาตราส่วน"
+
+msgid "Color"
+msgstr "สี"
+
+msgid "lines"
+msgstr "เส้น"
+
+msgid "Positioning"
+msgstr "การวางตำแหน่ง"
+
+msgid "Border"
+msgstr "ชายแดน"
+
+msgid "Social networks"
+msgstr "สังคมออนไลน์"
+
+msgid "Save settings"
+msgstr "บันทึกการตั้งค่า"
+
+msgid "Delete settings"
+msgstr "ลบการตั้งค่า"
+
+msgid "Facades"
+msgstr "Facades"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "โปรดเลือกหน้าที่คุณต้องการเผยแพร่คุณสมบัติของคุณ"
+
+msgid "Unique publication identifier"
+msgstr "ตัวระบุสิ่งพิมพ์ที่ไม่ซ้ำ"
+
+msgid "No active transfer"
+msgstr "ไม่มีการถ่ายโอนที่ใช้งานอยู่"
+
+msgid "Publication report"
+msgstr "รายงานการตีพิมพ์"
+
+msgid "Click here to view the publication."
+msgstr "คลิกที่นี่เพื่อดูสิ่งพิมพ์"
+
+msgid "Your listing is now online."
+msgstr "รายชื่อของคุณออนไลน์แล้ว"
+
+msgid "Share on …"
+msgstr "แบ่งปันบน ..."
+
+msgid "Add the feature for:"
+msgstr "เพิ่มคุณสมบัติสำหรับ:"
+
+msgid "The whole company"
+msgstr "ทั้งบริษัท"
+
+msgid "The whole brand"
+msgstr "ทั้งแบรนด์"
+
+msgid "Wrong number"
+msgstr "เลขหมายไม่ถูกต้อง"
+
+msgid "Padding"
+msgstr "การขยายความ"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "อีเมลผิดหรืออีเมลหนักเกินไป"
+
+msgid "Empty e-mail"
+msgstr "อีเมลเปล่า"
+
+msgid "Wrong e-mail"
+msgstr "ผิดอีเมล"
+
+msgid "Wrong spouse's e-mail"
+msgstr "อีเมลของคู่สมรสผิด"
+
+msgid "Starting from floor"
+msgstr "เริ่มจากชั้น"
+
+msgid "Please report to our documentation."
+msgstr "กรุณารายงานไปยังเอกสารของเรา"
+
+msgid "Your email server does not authorize us to send an email."
+msgstr "เซิร์ฟเวอร์อีเมลของคุณไม่อนุญาตให้เราส่งอีเมล"
+
+msgid "Not suggested"
+msgstr "ไม่แนะนำ"
+
+msgid "Quick view"
+msgstr "มุมมองด่วน"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"คุณลักษณะนี้ต้องใช้ซอฟต์แวร์ WhatsApp Web ก่อนใช้คุณสมบัตินี้ "
+"อย่าลืมดาวน์โหลดและเชื่อมโยงสมาร์ทโฟนของคุณ"
+
+msgid "Add a lead"
+msgstr "เพิ่มลูกค้าเป้าหมาย"
+
+msgid "Configure"
+msgstr "กำหนดค่า"
+
+msgid "Display the address"
+msgstr "แสดงที่อยู่"
+
+msgid "Display the contact"
+msgstr "แสดงผู้ติดต่อ"
+
+msgid "Display the contact details"
+msgstr "แสดงรายละเอียดการติดต่อ"
+
+msgid "Display the contact name"
+msgstr "แสดงชื่อผู้ติดต่อ"
+
+msgid "Read"
+msgstr "อ่าน"
+
+msgid "Write"
+msgstr "เขียน"
+
+msgid "Private details"
+msgstr "รายละเอียดส่วนตัว"
+
+msgid "Private documents"
+msgstr "เอกสารส่วนตัว"
+
+msgid "Public documents"
+msgstr "เอกสารสาธารณะ"
+
+msgid "Order"
+msgstr "คำสั่ง"
+
+msgid "National"
+msgstr "ระดับชาติ"
+
+msgid "Unavailable"
+msgstr "ไม่พร้อมใช้งาน"
+
+msgid "Repair"
+msgstr "ซ่อมแซม"
+
+msgid "Complain"
+msgstr "ร้องทุกข์"
+
+msgid "Reporting"
+msgstr "การรายงาน"
+
+msgid "Moderator"
+msgstr "พิธีกร"
+
+msgid "%s guests"
+msgstr "แขก %s คน"
+
+msgid "%s guest"
+msgstr "%s แขก"
+
+msgid "Referral"
+msgstr "ผู้อ้างอิง"
+
+msgid "Referrals"
+msgstr "การอ้างอิง"
+
+msgid "%s bed"
+msgstr "%s เตียง"
+
+msgid "Old user"
+msgstr "ผู้ใช้เก่า"
+
+msgid "New user"
+msgstr "ผู้ใช้ใหม่"
+
+msgid "Apply on requests"
+msgstr "สมัครตามคำเรียกร้อง"
+
+msgid "Apply on properties"
+msgstr "สมัครคุณสมบัติ"
+
+msgid "Forthcoming"
+msgstr "เตรียมพร้อม"
+
+msgid "Past"
+msgstr "อดีต"
+
+msgid "Click here to join the webinar."
+msgstr "คลิกที่นี่เพื่อเข้าร่วมการสัมมนาทางเว็บ"
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "คุณมีนัดใน %hours% hour(s) และ %minutes% minutes(s)"
+
+msgid "Your training of %s"
+msgstr "การฝึกอบรม %s . ของคุณ"
+
+msgid "(or)"
+msgstr "(หรือ)"
+
+msgid "Grant access to the user or the contact"
+msgstr "ให้สิทธิ์การเข้าถึงแก่ผู้ใช้หรือผู้ติดต่อ"
+
+msgid "Improve the quality of some photos."
+msgstr "ปรับปรุงคุณภาพของภาพถ่ายบางภาพ"
+
+msgid "Click here to highlight them."
+msgstr "คลิกที่นี่เพื่อเน้นไฮไลท์"
+
+msgid "Store"
+msgstr "เก็บ"
+
+msgid "Cooling-off end at"
+msgstr "สิ้นสุดการระบายความร้อนที่"
+
+msgid "Accuracy of appraisal"
+msgstr "ความถูกต้องของการประเมิน"
+
+msgid "Fees details"
+msgstr "รายละเอียดค่าธรรมเนียม"
+
+msgid "Funding"
+msgstr "เงินทุน"
+
+msgid "Personal contribution"
+msgstr "ผลงานส่วนตัว"
+
+msgid "Mortgage amount"
+msgstr "จำนวนสินเชื่อที่อยู่อาศัย"
+
+msgid "Accepted at"
+msgstr "รับที่"
+
+msgid "Pre-fill"
+msgstr "เติมก่อน"
+
+msgid "Register"
+msgstr "ลงทะเบียน"
+
+msgid "Contracted at"
+msgstr "ทำสัญญาที่"
+
+msgid "Property valuation"
+msgstr "การประเมินมูลค่าทรัพย์สิน"
+
+msgid "Selected properties"
+msgstr "คุณสมบัติที่เลือก"
+
+msgid "Conclusion"
+msgstr "บทสรุป"
+
+msgid "Final opinion between"
+msgstr "ความคิดเห็นสุดท้ายระหว่าง"
+
+msgid "Net annual rental"
+msgstr "ค่าเช่าสุทธิรายปี"
+
+msgid "Average"
+msgstr "เฉลี่ย"
+
+msgid "Selected year"
+msgstr "ปีที่เลือก"
+
+msgid "Subscribers"
+msgstr "สมาชิก"
+
+msgid "Keys"
+msgstr "กุญแจ"
+
+msgid "Member of your network"
+msgstr "สมาชิกเครือข่ายของคุณ"
+
+msgid "Member of %s"
+msgstr "สมาชิกของ %s"
+
+msgid "Requests validated"
+msgstr "คำขอตรวจสอบแล้ว"
+
+msgid "Incomplete requests"
+msgstr "คำขอที่ไม่สมบูรณ์"
+
+msgid "You blocked this agency"
+msgstr "คุณบล็อกเอเจนซี่นี้"
+
+msgid "Updated by"
+msgstr "อัพเดทโดย"
+
+msgid "Created by"
+msgstr "สร้างโดย"
+
+msgid "Session has expired"
+msgstr "เซสชั่นหมดอายุ"
+
+msgid "You have reached the quota"
+msgstr "คุณถึงโควต้าแล้ว"
+
+msgid "%s bathrooms"
+msgstr "%s ห้องน้ำ"
+
+msgid "Force recording"
+msgstr "บังคับบันทึก"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"คุณกำลังใช้แบบฟอร์มด่วน เพื่อเข้าถึงฟิลด์ทั้งหมด โปรดคลิกที่แบบฟอร์มเต็ม"
+
+msgid "Delete the contact"
+msgstr "ลบผู้ติดต่อ"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "อัปเดตเกณฑ์การค้นหาของฉันหรือยกเลิกการสมัคร"
+
+msgid "All day"
+msgstr "ทั้งวัน"
+
+msgid "Synchronized with %s"
+msgstr "ทำให้เกิดขึ้นพร้อมกัน %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr "เขตเวลาของคุณดูเหมือนจะเป็น « %s » คลิกที่นี่เพื่ออัปเดต"
+
+msgid "Freehold"
+msgstr "การครอบครองอสังหาริมทรัพย์แบบที่ผู้ครอบครองถือกรรมสิทธ์แบบสมบูรณ์"
+
+msgid "Leasehold"
+msgstr "สิทธิการเช่า"
+
+msgid "Commonhold"
+msgstr "สามัญ"
+
+msgid "Share of freehold"
+msgstr "ส่วนแบ่งการถือครองกรรมสิทธิ์"
+
+msgid "Please click here"
+msgstr "กรุณาคลิกที่นี่"
+
+msgid "Please complete the configuration"
+msgstr "โปรดกำหนดค่าให้สมบูรณ์"
+
+msgid "Choose a calendar"
+msgstr "เลือกปฏิทิน"
+
+msgid "Synchronize your calendar."
+msgstr "ซิงโครไนซ์ปฏิทินของคุณ"
+
+msgid "Send messages within your email account."
+msgstr "ส่งข้อความภายในบัญชีอีเมลของคุณ"
+
+msgid "Manage your contacts."
+msgstr "จัดการผู้ติดต่อของคุณ"
+
+msgid "Synchronized account"
+msgstr "บัญชีที่อัปเดทข้อมูลในเวลาพร้อมกัน"
+
+msgid "Unlink"
+msgstr "ยกเลิกการลิงก์"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "หากต้องการแก้ไขการนัดหมายนี้ คุณต้องยกเลิกการลิงก์ก่อน"
+
+msgid "Appointment shared with:"
+msgstr "นัดหมายร่วมกับ:"
+
+msgid "Old value"
+msgstr "ค่าเก่า"
+
+msgid "New value"
+msgstr "ค่าใหม่"
+
+msgid "Display my properties"
+msgstr "แสดงคุณสมบัติของฉัน"
+
+msgid "Interface language"
+msgstr "การเชื่องโยงของสองภาษา"
+
+msgid "Spoken languages"
+msgstr "ภาษาที่พูด"
+
+msgid "Canceled at"
+msgstr "ยกเลิกที่"
+
+msgid "Please fill in a canceled date."
+msgstr "กรุณากรอกวันที่ยกเลิก"
+
+msgid "This username is already in use."
+msgstr "ชื่อผู้ใช้นี้ถูกใช้แล้ว"
+
+msgid "Ordered at"
+msgstr "สั่งซื้อได้ที่"
+
+msgid "Projects"
+msgstr "โครงการ"
+
+msgid "Renovation cost"
+msgstr "ค่าซ่อมแซม"
+
+msgid "Inflation"
+msgstr "เงินเฟ้อ"
+
+msgid "Option"
+msgstr "ตัวเลือก"
+
+msgid "Check to accept"
+msgstr "ตรวจสอบเพื่อยอมรับ"
+
+msgid "Account creation"
+msgstr "การสร้างบัญชี"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr "การเข้าถึงโซลูชัน %s ต้องมีการส่งข้อมูลของคุณและยอมรับเงื่อนไขทั่วไป"
+
+msgid "Read the personal data conditions"
+msgstr "อ่านเงื่อนไขข้อมูลส่วนบุคคล"
+
+msgid "Read the terms and conditions"
+msgstr "อ่านข้อกำหนดและเงื่อนไข"
+
+msgid "Waiting for your confirmation"
+msgstr "รอการยืนยันจากคุณ"
+
+msgid "Suspended"
+msgstr "ถูกระงับ"
+
+msgid "Validations"
+msgstr "การตรวจสอบความถูกต้อง"
+
+msgid "Privacy policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "Latest posts"
+msgstr "โพสต์ล่าสุด"
+
+msgid "Renew"
+msgstr "ต่ออายุ"
+
+msgid "Download the app"
+msgstr "ดาวน์โหลดแอป"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"ตั้งค่าแอปพลิเคชันบนสมาร์ทโฟนของคุณและเพลิดเพลินไปกับการนำทางที่ปรับให้เหมาะสมสำหรับอุปกรณ์มือถือของคุณ"
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"ใช้ประโยชน์จากซอฟต์แวร์ของคุณตอนนี้โดยใช้ข้อมูลรับรองด้านล่าง "
+"อย่าลืมเก็บรายละเอียดการเข้าสู่ระบบนี้เป็นความลับและอย่าเปลี่ยนรหัสผ่านของคุณเป็นประจำ"
+
+msgid "Watch our channel"
+msgstr "ดูช่องของเรา"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "ค้นพบวิดีโอการฝึกอบรมในช่อง Youtube ของเรา"
+
+msgid "Take part in our training"
+msgstr "เข้าร่วมการฝึกอบรมของเรา"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"เราจัดการฝึกอบรมออนไลน์หรือตัวต่อตัวเป็นประจำ ลงทะเบียนโดยตรงจากซอฟต์แวร์ "
+"(เครื่องมือเมนู > การฝึกอบรม)"
+
+msgid "Please kindly fill out your agency profile."
+msgstr "กรุณากรอกรายละเอียดเอเจนซี่ของคุณ"
+
+msgid "Tripod"
+msgstr "ขาตั้งกล้อง"
+
+msgid "Square"
+msgstr "สี่เหลี่ยม"
+
+msgid "Round"
+msgstr "กลม"
+
+msgid "You do not have enough credits to send the message."
+msgstr "คุณมีเครดิตไม่เพียงพอที่จะส่งข้อความ"
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"โปรดอย่าลบค่า « {LINK} » เราต้องการสิ่งนี้สำหรับลิงก์ไปยังเว็บไซต์ของที่พัก"
+
+msgid "Minimum bid"
+msgstr "ราคาเสนอขั้นต่ำ"
+
+msgid "Published"
+msgstr "ที่ตีพิมพ์"
+
+msgid "Archived"
+msgstr "ที่เก็บถาวร"
+
+msgid "Sent for signature"
+msgstr "ส่งลายเซ็นแล้ว"
+
+msgid "Camera position"
+msgstr "ตำแหน่งกล้อง"
+
+msgid "Capture"
+msgstr "การจับกุม"
+
+msgid "Professional"
+msgstr "มืออาชีพ"
+
+msgid "Professionals"
+msgstr "ผู้เชี่ยวชาญ"
+
+msgid "Add a new entry"
+msgstr "เพิ่มรายการใหม่"
+
+msgid "Monthly payment"
+msgstr "ชำระรายเดือน"
+
+msgid "Archives"
+msgstr "หอจดหมายเหตุ"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "%value% ยาวเกินไป (สูงสุด %max_length% ตัวอักษร)"
+
+msgid "My details"
+msgstr "รายละเอียดของฉัน"
+
+msgid "Software"
+msgstr "ซอฟต์แวร์"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr "ข้อมูลส่วนบุคคลถูกลบหลังจากได้รับแบบฟอร์มคำขอลบ"
+
+msgid "Received at %s"
+msgstr "รับเมื่อ %s"
+
+msgid "Lease assignments"
+msgstr "งานเช่า"
+
+msgid "Occupant"
+msgstr "ผู้ครอบครอง"
+
+msgid "Frequency"
+msgstr "ความถี่"
+
+msgid "Time slot"
+msgstr "ช่วงเวลา"
+
+msgid "Rules"
+msgstr "กฎ"
+
+msgid "Hourly"
+msgstr "รายชั่วโมง"
+
+msgid "Daily"
+msgstr "รายวัน"
+
+msgid "Weekly"
+msgstr "รายสัปดาห์"
+
+msgid "Monthly"
+msgstr "รายเดือน"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "หากต้องการทำซ้ำคุณสมบัติ โปรดพิมพ์รหัสความปลอดภัย %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr "โปรดอย่าใช้การทำซ้ำเพื่อรีเฟรชโฆษณาของคุณบนเว็บพอร์ทัล"
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"คุณสามารถรีเฟรชโฆษณาบนพอร์ทัลได้โดยใช้ระบบที่เพิ่มขึ้น ซึ่งมีให้ในแท็บ "
+"แลกเปลี่ยน > การตั้งค่า"
+
+msgid "Legal"
+msgstr "ถูกกฎหมาย"
+
+msgid "Auction start at"
+msgstr "เริ่มประมูลที่"
+
+msgid "Auction end at"
+msgstr "ปิดประมูลที่"
+
+msgid "My preferences"
+msgstr "ความชอบของฉัน"
+
+msgid "Preference"
+msgstr "ความพึงใจ"
+
+msgid "Public"
+msgstr "สาธารณะ"
+
+msgid "Classic"
+msgstr "คลาสสิค"
+
+msgid "Modern"
+msgstr "ทันสมัย"
+
+msgid "Design"
+msgstr "ออกแบบ"
+
+msgid "Server"
+msgstr "เซิร์ฟเวอร์"
+
+msgid "We are closed"
+msgstr "เราปิดแล้ว"
+
+msgid "Appliance"
+msgstr "เครื่องใช้ไฟฟ้า"
+
+msgid "Energy"
+msgstr "พลังงาน"
+
+msgid "Automatic selection"
+msgstr "การเลือกอัตโนมัติ"
+
+msgid "Non-holding of funds"
+msgstr "การไม่ถือครองกองทุน"
+
+msgid "Sales agent"
+msgstr "ตัวแทนขาย"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr ""
+"คุณต้องการใช้ Cityscan กับพร็อพเพอร์ตี้นี้หรือไม่? "
+"การดำเนินการนี้จะใช้เครดิตจากโควต้าของคุณ"
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "คุณต้องการคัดลอกที่อยู่ของเจ้าของลงในทรัพย์สินหรือไม่?"
+
+msgid "Pattern"
+msgstr "ลวดลาย"
+
+msgid "Comment pattern"
+msgstr "รูปแบบความคิดเห็น"
+
+msgid "View all news"
+msgstr "ดูข่าวทั้งหมด"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"เพื่อยืนยันที่อยู่อีเมลของคุณ โปรดระบุรหัสยืนยันนี้ให้ใช้งานได้ 15 นาที:"
+
+msgid "Account validation for %s"
+msgstr "การตรวจสอบบัญชีสำหรับ %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"เราเพิ่งส่งอีเมลถึงคุณพร้อมรหัสที่ถูกต้องเป็นเวลา 15 นาที "
+"โปรดระบุเพื่อยืนยันบัญชีของคุณ"
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr "บัญชีอื่นใช้อีเมลของคุณ %s คุณควรใช้ที่อยู่อีเมลของคุณเอง"
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr "ที่อยู่อีเมลของคุณ %s ถูกใช้โดยบัญชีอื่นแล้ว โปรดเลือกที่อยู่อื่น"
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "กรุณายืนยันที่อยู่อีเมลของคุณ %s"
+
+msgid "Altitude"
+msgstr "ระดับความสูง"
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr "เพื่อความปลอดภัย เราจำเป็นต้องยืนยันรายละเอียดของคุณด้านล่าง"
+
+msgid "Opened at"
+msgstr "เปิดเมื่อ"
+
+msgid "Help"
+msgstr "ช่วย"
+
+msgid "Show pagination"
+msgstr "แสดงหน้าที่"
+
+msgid "Mandatory fields"
+msgstr "ช่องที่ต้องกรอก"
+
+msgid "Available soon"
+msgstr "วางจำหน่ายเร็วๆ นี้"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"สิ้นสุดสัญญาเมื่อ\n"
+"#-#-#-#-#  apimo-th_TH.po  #-#-#-#-#\n"
+"สัญญาสิ้นสุดใน"
+
+msgid "Incomplete"
+msgstr "ไม่สมบูรณ์"
+
+msgid "Location Map"
+msgstr "แผนที่ตั้ง"
+
+msgid "User Detail"
+msgstr "รายละเอียดผู้ใช้"
+
+msgid "File size"
+msgstr "ขนาดไฟล์"
+
+msgid "File title"
+msgstr "ชื่อไฟล์"
+
+msgid "Region"
+msgstr "ภูมิภาค"
+
+msgid "Bath"
+msgstr "ห้องน้ำ"
+
+msgid "Private Negotiation"
+msgstr "การเจรจาส่วนตัว"
+
+msgid "Property specifications"
+msgstr "ข้อกำหนดทรัพย์สิน"
+
+msgid "Energy performance"
+msgstr "ประสิทธิภาพพลังงาน"
+
+msgid "Media Details"
+msgstr "รายละเอียดสื่อ"
+
+msgid "View Video"
+msgstr "ดูวิดีโอ"
+
+msgid "Start Date"
+msgstr "วันที่เริ่มต้น"
+
+msgid "End Date"
+msgstr "วันที่สิ้นสุด"
+
+msgid "Welcome"
+msgstr "ยินดีต้อนรับ"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "ดูว่ามีอะไรเกิดขึ้นกับปลั๊กอิน Apimo."
+
+msgid "PROVIDERS"
+msgstr "ผู้ให้บริการ"
+
+msgid "AGENCIES"
+msgstr "หน่วยงาน"
+
+msgid "PROPERTIES"
+msgstr "ทรัพย์สิน"
+
+msgid "BOOKMARK"
+msgstr "บุ๊กมาร์ก"
+
+msgid "Remove all"
+msgstr "ลบทั้งหมด"
+
+msgid "Apply filter"
+msgstr "ใช้ตัวกรอง"
+
+msgid "Select Subtype"
+msgstr "เลือกประเภทย่อย"
+
+msgid "Enchère"
+msgstr "การประมูล"
+
+msgid "Location"
+msgstr "เช่า"
+
+msgid "Location saisonnière"
+msgstr "การเช่าตามฤดูกาล"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "To"
+msgstr "ถึง"
+
+msgid "Dates"
+msgstr "วันที่"
+
+msgid "Select country"
+msgstr "เลือกประเทศ"
+
+msgid "Select region"
+msgstr "เลือกภูมิภาค"
+
+msgid "Select district"
+msgstr "เลือกเขต"
+
+msgid "Select city"
+msgstr "เลือกเมือง"
+
+msgid "Good"
+msgstr "ดี"
+
+msgid "Bad"
+msgstr "แย่"
+
+msgid "hello"
+msgstr "สวัสดี"

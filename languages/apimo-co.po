@@ -1,0 +1,5969 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: co\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgid "Reminder"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ricordu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Rappellu"
+
+msgid "Suggestion"
+msgstr "Pruposta"
+
+msgid "Report"
+msgstr "Resucontu"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Altru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Altru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Altru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Autre\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Altru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Altru"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Estimu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Estimu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Valutazioni"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Publicità\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ghjurnali\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Publicità"
+
+msgid "Open House"
+msgstr "Porti aparti"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ricerca\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pruspizzioni"
+
+msgid "Message"
+msgstr "Missaghju"
+
+msgid "After-sales"
+msgstr "Assistenza"
+
+msgid "Visit"
+msgstr "Visita"
+
+msgid "Appointment"
+msgstr "Appuntamentu"
+
+msgid "Phone"
+msgstr "Telefunu"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+#, fuzzy
+msgid "Mail"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Currieri\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Lettara"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Visita"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Riservazioni"
+
+msgid "Signed"
+msgstr "Firmatu"
+
+msgid "Canceled"
+msgstr "Annullatu"
+
+msgid "Transaction"
+msgstr "Transazzioni"
+
+msgid "Rental management"
+msgstr "Ghjistioni lucativa"
+
+msgid "Project"
+msgstr "Prughjettu"
+
+msgid "Under construction"
+msgstr "In custruzzioni"
+
+msgid "Delivered"
+msgstr "Rimissu"
+
+msgid "Ended"
+msgstr "Compiu"
+
+msgid "Mr."
+msgstr "Monsieur"
+
+msgid "Mrs."
+msgstr "Madama"
+
+msgid "Ms."
+msgstr "Madamicedda"
+
+msgid "Mr. & Mrs."
+msgstr "Monsieur è Madama"
+
+msgid "Sheik"
+msgstr "Sceiccu"
+
+msgid "Duke"
+msgstr "Duca"
+
+msgid "Duchess"
+msgstr "Duchessa"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Maître"
+msgstr "Maestru"
+
+msgid "Professor"
+msgstr "Prufissori"
+
+msgid "Sir"
+msgstr "Sir"
+
+#, fuzzy
+msgid "Plan"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pianu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pianta"
+
+msgid "Identity papers"
+msgstr "Ducumenti d'identità"
+
+msgid "Diagnostics"
+msgstr "Diagnostichi"
+
+msgid "Agreement"
+msgstr "Mandatu"
+
+msgid "Contract"
+msgstr "Cuntrattu"
+
+msgid "Condominium"
+msgstr "Cuprupiità"
+
+msgid "Maintenance"
+msgstr "Intrattinimentu"
+
+msgid "Appraisal"
+msgstr "Estimu"
+
+msgid "Brochure"
+msgstr "Librettu"
+
+msgid "Invoice"
+msgstr "Fattura"
+
+#, fuzzy
+msgid "Lease"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Bail\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cuntrattu"
+
+#, fuzzy
+msgid "Inventory"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Invintoriu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"invintoriu"
+
+msgid "Title deeds"
+msgstr "Titulu di prupiità"
+
+msgid "Application"
+msgstr "Candidatura  / Ufferta"
+
+msgid "Regulations"
+msgstr "Rigulamentazioni"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Electricity"
+msgstr "Elettricità"
+
+msgid "Water"
+msgstr "Acqua"
+
+msgid "Maintenance of common areas"
+msgstr "Pulizia parti cumuni"
+
+msgid "Waste collection"
+msgstr "Racolta di ruminzuli"
+
+msgid "Heating"
+msgstr "Scaldaria"
+
+msgid "Hot water"
+msgstr "Acqua calda"
+
+msgid "Heating maintenance"
+msgstr "Intrattinimentu scaldaria"
+
+#, fuzzy
+msgid "Property tax"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Tassa fundiaria\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Tassa fundaria"
+
+msgid "Concierge"
+msgstr "Purtinaria"
+
+msgid "Contact"
+msgstr "Cuntattu"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ricerca\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ricircà"
+
+msgid "Owner"
+msgstr "Prupiitariu"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Avertimentu e-mail\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Alerta e-mail"
+
+msgid "Send to a friend"
+msgstr "Mandà à un amicu"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Selection"
+msgstr "Selezzioni"
+
+msgid "New"
+msgstr "Novu"
+
+msgid "Opened"
+msgstr "Apartu"
+
+msgid "Processing"
+msgstr "In anda"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Chjusu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Compiu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Chjusu"
+
+msgid "Self-employed"
+msgstr "Prufissioni liberali"
+
+msgid "Bakery"
+msgstr "Panittaria"
+
+msgid "Restaurant"
+msgstr "Risturanti"
+
+msgid "Press"
+msgstr "Stampa"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Fiuristu"
+
+msgid "Tobacconist"
+msgstr "Tabaccu"
+
+msgid "Clothes"
+msgstr "Vistitoghja"
+
+msgid "Chemist"
+msgstr "Farmacia"
+
+msgid "Shopping centre"
+msgstr "Centru cummerciali"
+
+msgid "Travel agency"
+msgstr "Agenza di viaghji"
+
+msgid "Real estate agent"
+msgstr "Agenza immubiliari"
+
+msgid "Gallery"
+msgstr "Gallaria"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Meccanicu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Garage"
+
+msgid "Insurer"
+msgstr "Assiguratori"
+
+msgid "Optician"
+msgstr "Otticu"
+
+msgid "Perfumery"
+msgstr "Prufumaria"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antiquariu"
+
+msgid "Laundry"
+msgstr "Lavatoghju"
+
+msgid "Pressing"
+msgstr "Stiraria"
+
+msgid "Jeweller"
+msgstr "Ghjuvellaria"
+
+msgid "Grocer"
+msgstr "Alimentazioni"
+
+msgid "Butcher"
+msgstr "Maciddaru"
+
+msgid "Caterer"
+msgstr "Trattadori"
+
+msgid "Brewery"
+msgstr "Brassaria"
+
+msgid "Snack"
+msgstr "Snack"
+
+msgid "Confectioner"
+msgstr "Pasticciaria"
+
+msgid "Pork butcher"
+msgstr "Salamaghju"
+
+msgid "Grocery"
+msgstr "Buttega"
+
+msgid "Cheesemonger"
+msgstr "Casgiaghju"
+
+msgid "Fruit and vegetables"
+msgstr "Vindarolu di frutta"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Ghjochi video"
+
+msgid "Computer"
+msgstr "Infurmatica"
+
+msgid "Hairdresser"
+msgstr "Piluccheri"
+
+msgid "Cosmetician"
+msgstr "Estetica"
+
+msgid "Household electrical"
+msgstr "Elettrodumesticu"
+
+msgid "Shoes"
+msgstr "Scarpi"
+
+msgid "Haberdasher"
+msgstr "Merceria"
+
+msgid "Groomer"
+msgstr "Pulita d'animali"
+
+msgid "Tea room"
+msgstr "Salottu di tè"
+
+msgid "Beach"
+msgstr "Piaghja"
+
+msgid "Bookshop"
+msgstr "Libraria"
+
+msgid "Offices"
+msgstr "Scagni"
+
+msgid "Gas station"
+msgstr "Stazioni di serviziu"
+
+msgid "Camping"
+msgstr "Campeghju"
+
+msgid "Nightclub"
+msgstr "Night club - Discuteca"
+
+msgid "Pet store"
+msgstr "Animalaria"
+
+msgid "Video arcade"
+msgstr "Sala di ghjochi"
+
+msgid "Office supplies"
+msgstr "Cartularia"
+
+msgid "Furniture"
+msgstr "Mubilia"
+
+msgid "Decoration"
+msgstr "Dicurazioni"
+
+msgid "Agriculture"
+msgstr "Agricultura"
+
+msgid "Photo"
+msgstr "Ritrattu"
+
+msgid "Drugstore"
+msgstr "Parafarmacia"
+
+msgid "Locksmith"
+msgstr "Sarraturaria"
+
+msgid "Health club"
+msgstr "Centru di fitness"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Tassi\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Tassì"
+
+msgid "Cinema"
+msgstr "Sinemà"
+
+msgid "Theater"
+msgstr "Teatru"
+
+msgid "Café"
+msgstr "Caffè"
+
+msgid "Garden centre"
+msgstr "Giardinaria"
+
+msgid "Hardware shop"
+msgstr "Faccindulera"
+
+msgid "Fishmongers"
+msgstr "Pisciaghju"
+
+msgid "Recreation"
+msgstr "Passatempu"
+
+msgid "Culture"
+msgstr "Cultura"
+
+msgid "Funeral"
+msgstr "Servizii funebri"
+
+msgid "Agritourism"
+msgstr "Agriturisimu"
+
+msgid "Sport supplies"
+msgstr "Attrazzeri spurtivi"
+
+msgid "Bedroom"
+msgstr "Camara"
+
+msgid "Living-room"
+msgstr "Salottu"
+
+msgid "Kitchen"
+msgstr "Cucina"
+
+msgid "Parking"
+msgstr "Parcheghju"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Carciara\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Burdigottu"
+
+msgid "Garden shelter"
+msgstr "Casarottu"
+
+msgid "Bathroom"
+msgstr "Sala di bagnu"
+
+msgid "Laundry room"
+msgstr "Lavandaria"
+
+msgid "Study"
+msgstr "Scagnu"
+
+msgid "Hallway"
+msgstr "Curridori"
+
+msgid "Corridor"
+msgstr "Disimpegnu"
+
+msgid "Shower room"
+msgstr "Sala di duscia"
+
+msgid "Walk-in wardrobe"
+msgstr "Dressing"
+
+msgid "Entrance"
+msgstr "Intrata"
+
+msgid "Lavatory"
+msgstr "Cabinettu"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Tarrazza"
+
+msgid "Solarium"
+msgstr "Sulariu"
+
+msgid "Living room/dining area"
+msgstr "Sughjornu"
+
+msgid "Play room"
+msgstr "Sala di ghjocu"
+
+msgid "Dining room"
+msgstr "Sala à manghjà"
+
+msgid "Pool house"
+msgstr "Pool house"
+
+msgid "Cupboard"
+msgstr "Armariu à muru"
+
+msgid "Not used"
+msgstr "Micca utilizatu"
+
+msgid "Loggia"
+msgstr "Loggia"
+
+msgid "Attic"
+msgstr "Granaghju"
+
+msgid "Mezzanine"
+msgstr "Mizaninu"
+
+#, fuzzy
+msgid "Pantry"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Burdigottu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pantry"
+
+msgid "Maintenance room"
+msgstr "Lucali tecnicu"
+
+msgid "Workshop"
+msgstr "Atteddu"
+
+msgid "Studio"
+msgstr "Studiu"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Bibliuteca"
+
+msgid "Closet"
+msgstr "Appiccatoghju"
+
+msgid "Courtyard"
+msgstr "Corti"
+
+msgid "Landing"
+msgstr "Ballettu"
+
+msgid "Linen room"
+msgstr "Tinditoghju"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Suttitarra\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pianu intarratu"
+
+msgid "Bathroom / Lavatory"
+msgstr "Sala di bagnu/cabinettu"
+
+msgid "Shower room / Lavatory"
+msgstr "Sala di duscia/cabinettu"
+
+msgid "Balcony"
+msgstr "Balconu"
+
+msgid "Exercise room"
+msgstr "Sala di sport"
+
+msgid "Discothèque"
+msgstr "Discuteca"
+
+msgid "Home cinema"
+msgstr "Sinemà"
+
+msgid "Reception room"
+msgstr "Sala di ricizzioni"
+
+msgid "Storage room"
+msgstr "Ripustigliu"
+
+msgid "Garden"
+msgstr "Giardinu"
+
+msgid "Park"
+msgstr "Parcu"
+
+msgid "Land"
+msgstr "Tarrenu"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Principal bedroom"
+msgstr "Camara patrunali"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "Rimissa"
+
+msgid "Apartment"
+msgstr "Appartamentu"
+
+msgid "Cabin"
+msgstr "Cabina"
+
+msgid "Barn"
+msgstr "Finili"
+
+msgid "Outbuilding"
+msgstr "Dipindenza"
+
+msgid "Bike storage room"
+msgstr "Lucali à bicicletti"
+
+msgid "Ski storage room"
+msgstr "Lucali à schì"
+
+msgid "Garbage room"
+msgstr "Lucali à ruminzula"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Piscina interna"
+
+msgid "Prayer room"
+msgstr "Sala di prichera"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Bagnu di vapori\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Sauna"
+
+msgid "Watchtower"
+msgstr "Miradori"
+
+#, fuzzy
+msgid "Room"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Sala\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pezza"
+
+msgid "Meeting room"
+msgstr "Sala di riunioni"
+
+msgid "Maid's room"
+msgstr "Camara di serviziu"
+
+msgid "Maid's studio"
+msgstr "Studiu di serviziu"
+
+msgid "Double reception room"
+msgstr "Doppia ricizzioni"
+
+msgid "Triple reception room"
+msgstr "Triplici ricizzioni"
+
+msgid "Indoor parking"
+msgstr "Parcheghju internu"
+
+msgid "Outdoor parking"
+msgstr "Parcheghju di fora"
+
+msgid "Stockroom"
+msgstr "Accantamu"
+
+msgid "Shop"
+msgstr "Cummerciu"
+
+msgid "Cafeteria"
+msgstr "Caffetteria"
+
+msgid "Unit"
+msgstr "Lottu"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Locu di dipositu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Lucali d'attività / Locu di dipositu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Locu di dipositu"
+
+msgid "Accommodation"
+msgstr "Alloghju"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Portacu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Arcade"
+
+msgid "House"
+msgstr "Casa"
+
+msgid "Stair"
+msgstr "Scalinata"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Carnotzet"
+msgstr "Cantina"
+
+msgid "Panic room"
+msgstr "Panic room"
+
+msgid "Open space"
+msgstr "Open space"
+
+msgid "Hall"
+msgstr "Hall"
+
+msgid "Living room/kitchen"
+msgstr "Pezza di vita"
+
+msgid "Summer kitchen"
+msgstr "Cucina d'istati"
+
+#, fuzzy
+msgid "Spa"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Spà\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Spa"
+
+msgid "Boathouse"
+msgstr "Hangar à battelli"
+
+msgid "Eat-in kitchen"
+msgstr "Sala à manghjà/Cucina"
+
+msgid "Equipped kitchen"
+msgstr "Cucina equippata"
+
+msgid "Semi equipped kitchen"
+msgstr "Cucina mez'equippata"
+
+msgid "Corner kitchen"
+msgstr "Cucina d'angulu"
+
+msgid "Kitchenette"
+msgstr "Cucinetta"
+
+msgid "Open kitchen"
+msgstr "Cucina americana"
+
+msgid "Plot"
+msgstr "Parcella"
+
+msgid "Single"
+msgstr "Individuali"
+
+msgid "Twin"
+msgstr "Appaghjata"
+
+msgid "Twin by garage"
+msgstr "Appaghjata pà garage"
+
+msgid "Village house"
+msgstr "Casa di paesi"
+
+msgid "Twin by angle"
+msgstr "Appaghjata pà angulu"
+
+msgid "Ranged"
+msgstr "In banda"
+
+msgid "Standard"
+msgstr "Simplici"
+
+msgid "Co-exclusive"
+msgstr "Cusclusivu"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Sclusivu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Sclusività"
+
+msgid "Delegation"
+msgstr "Delegazioni"
+
+msgid "Exclusive agent"
+msgstr "Sclusivu agenza"
+
+msgid "Colleague"
+msgstr "Cullega"
+
+msgid "Verbal"
+msgstr "Verbali"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Libaru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Di gratisi"
+
+msgid "Rented"
+msgstr "Affittatu"
+
+msgid "Occupied"
+msgstr "Uccupatu"
+
+msgid "To be agreed"
+msgstr "Da difiniscia"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Casamentu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Casamentu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Immobulu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Casamentu"
+
+msgid "Residence"
+msgstr "Residenza"
+
+msgid "Housing scheme"
+msgstr "Luttissamentu"
+
+msgid "Hamlet"
+msgstr "Paisolu"
+
+msgid "Domain"
+msgstr "Casali"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Prupiità\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Prupiità\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pruduttu"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Via / Viali / Strada\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Carrughju"
+
+msgid "Sale"
+msgstr "Vendita"
+
+msgid "Rental"
+msgstr "Affittu"
+
+msgid "Seasonal rental"
+msgstr "Affittu staghjunali"
+
+msgid "Development"
+msgstr "Prugramma"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Vitaliziu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Vitaliziu libaru\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Vitaliziu"
+
+msgid "Auction"
+msgstr "Asta"
+
+msgid "Unit sale"
+msgstr "Vendita à l'unità"
+
+msgid "Bulk sale"
+msgstr "Vendita d'insemu"
+
+msgid "Unfurnished"
+msgstr "Biota"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ammubulata\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ammubulatu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ammubulatu"
+
+msgid "Roommate"
+msgstr "Culucazioni"
+
+msgid "Student"
+msgstr "Studiantinu"
+
+msgid "Half furnished"
+msgstr "Parzialmenti ammubulatu"
+
+msgid "Holidays"
+msgstr "Casa vacanzi"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Lucali pà festi\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Salonu / Avvinimentu"
+
+msgid "New construction"
+msgstr "Prugramma novu"
+
+msgid "Life annuity occupied"
+msgstr "Vitaliziu uccupatu"
+
+msgid "Bare Ownership"
+msgstr "Nuda prupiità"
+
+msgid "Forward sale"
+msgstr "Vendita futura"
+
+msgid "Life annuity semi-occupied"
+msgstr "Vitaliziu mez'uccupatu"
+
+msgid "Forward sale available"
+msgstr "Vendita à tarmini libaru"
+
+msgid "Forward sale semi-occupied"
+msgstr "Vendita à tarmini mez'uccupatu"
+
+msgid "Forward sale occupied"
+msgstr "Vendita à tarmini uccupatu"
+
+msgid "Life annuity without income"
+msgstr "Vitaliziu senza rendita"
+
+msgid "Requires updating"
+msgstr "Da riattivà"
+
+msgid "Good condition"
+msgstr "Statu bonu"
+
+msgid "Requires renovation"
+msgstr "Da rinnuvà"
+
+msgid "Excellent condition"
+msgstr "Statu bunissimu"
+
+msgid "Timber"
+msgstr "Lignu"
+
+msgid "Engineered wood"
+msgstr "Lignu prefabricatu"
+
+msgid "Stone"
+msgstr "Petra"
+
+msgid "Brick"
+msgstr "Mattonu"
+
+msgid "Concrete"
+msgstr "Cimentu"
+
+msgid "Reinforced concrete"
+msgstr "Cimentu armatu"
+
+msgid "Steel frame"
+msgstr "Intimpiatura d'acciaghju"
+
+msgid "Reinforced concrete frame"
+msgstr "Intimpiatura in cimentu armatu"
+
+msgid "Shear wall"
+msgstr "Muru purtanti"
+
+msgid "Concrete block"
+msgstr "Blocchi di cimentu"
+
+msgid "Dimension stone"
+msgstr "Petra zuccata"
+
+msgid "Monolith brick"
+msgstr "Mattonu munulitu"
+
+msgid "Panel"
+msgstr "Panneddu"
+
+msgid "Wood frame"
+msgstr "Ussatura di lignu"
+
+msgid "Metal frame"
+msgstr "Ussatura mitalica"
+
+msgid "Mudbrick"
+msgstr "Mattonu di tarra"
+
+msgid "Ground floor"
+msgstr "Pianu di tarra"
+
+msgid "Top floor"
+msgstr "Ultimu pianu"
+
+msgid "1st"
+msgstr "1a"
+
+msgid "2nd"
+msgstr "2u"
+
+msgid "3rd"
+msgstr "3u"
+
+msgid "4th"
+msgstr "4u"
+
+msgid "5th"
+msgstr "5u"
+
+msgid "6th"
+msgstr "6u"
+
+msgid "7th"
+msgstr "7u"
+
+msgid "8th"
+msgstr "8u"
+
+msgid "9th"
+msgstr "9u"
+
+msgid "10th"
+msgstr "10u"
+
+msgid "11th"
+msgstr "11u"
+
+msgid "12th"
+msgstr "12u"
+
+msgid "13th"
+msgstr "13u"
+
+msgid "14th"
+msgstr "14u"
+
+msgid "15th"
+msgstr "15u"
+
+msgid "16th"
+msgstr "16u"
+
+msgid "17th"
+msgstr "17u"
+
+msgid "18th"
+msgstr "18u"
+
+msgid "19th"
+msgstr "19u"
+
+msgid "20th"
+msgstr "20u"
+
+msgid "Garden level"
+msgstr "Pianu di giardinun"
+
+msgid "Split-level"
+msgstr "Mizanili"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Pianu unicu"
+
+msgid "21st"
+msgstr "21u"
+
+msgid "22nd"
+msgstr "22u"
+
+msgid "23rd"
+msgstr "23u"
+
+msgid "24th"
+msgstr "24u"
+
+msgid "25th"
+msgstr "25u"
+
+msgid "26th"
+msgstr "26u"
+
+msgid "27th"
+msgstr "27u"
+
+msgid "28th"
+msgstr "28u"
+
+msgid "29th"
+msgstr "29u"
+
+msgid "30th"
+msgstr "30u"
+
+msgid "31st"
+msgstr "31u"
+
+msgid "32nd"
+msgstr "32u"
+
+msgid "33rd"
+msgstr "33u"
+
+msgid "34th"
+msgstr "34u"
+
+msgid "35th"
+msgstr "35u"
+
+msgid "36th"
+msgstr "36u"
+
+msgid "37th"
+msgstr "37u"
+
+msgid "38th"
+msgstr "38u"
+
+msgid "39th"
+msgstr "39u"
+
+msgid "40th"
+msgstr "40u"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41u"
+
+msgid "42nd"
+msgstr "42u"
+
+msgid "43rd"
+msgstr "43u"
+
+msgid "44th"
+msgstr "44u"
+
+msgid "45th"
+msgstr "45u"
+
+msgid "46th"
+msgstr "46u"
+
+msgid "47th"
+msgstr "47u"
+
+msgid "48th"
+msgstr "48u"
+
+msgid "49th"
+msgstr "49u"
+
+msgid "50th"
+msgstr "50u"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Raised"
+msgstr "Pianu rialzatu"
+
+msgid "61st"
+msgstr "61"
+
+msgid "62nd"
+msgstr "62"
+
+msgid "63rd"
+msgstr "63"
+
+msgid "64th"
+msgstr "64"
+
+msgid "65th"
+msgstr "65"
+
+msgid "66th"
+msgstr "66"
+
+msgid "67th"
+msgstr "67"
+
+msgid "68th"
+msgstr "68"
+
+msgid "69th"
+msgstr "69"
+
+msgid "70th"
+msgstr "70"
+
+msgid "71st"
+msgstr "71"
+
+msgid "72nd"
+msgstr "72"
+
+msgid "73rd"
+msgstr "73"
+
+msgid "74th"
+msgstr "74"
+
+msgid "75th"
+msgstr "75"
+
+msgid "76th"
+msgstr "76"
+
+msgid "77th"
+msgstr "77"
+
+msgid "78th"
+msgstr "78"
+
+msgid "79th"
+msgstr "79"
+
+msgid "80th"
+msgstr "80"
+
+msgid "81st"
+msgstr "81"
+
+msgid "82nd"
+msgstr "82"
+
+msgid "83rd"
+msgstr "83"
+
+msgid "84th"
+msgstr "84"
+
+msgid "85th"
+msgstr "85"
+
+msgid "86th"
+msgstr "86"
+
+msgid "87th"
+msgstr "87"
+
+msgid "88th"
+msgstr "88"
+
+msgid "89th"
+msgstr "89"
+
+msgid "90th"
+msgstr "90"
+
+msgid "91st"
+msgstr "91"
+
+msgid "92nd"
+msgstr "92"
+
+msgid "93rd"
+msgstr "93"
+
+msgid "94th"
+msgstr "94"
+
+msgid "95th"
+msgstr "95"
+
+msgid "96th"
+msgstr "96"
+
+msgid "97th"
+msgstr "97"
+
+msgid "98th"
+msgstr "98"
+
+msgid "99th"
+msgstr "99"
+
+msgid "100th"
+msgstr "100"
+
+msgid "Wooden floor"
+msgstr "Parchettu"
+
+msgid "Tile"
+msgstr "Chjappedda"
+
+msgid "Carpet"
+msgstr "Mucchetta"
+
+msgid "Natural fiber"
+msgstr "Fibra vegetali"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Travertinu"
+
+msgid "Marble"
+msgstr "Marmaru"
+
+msgid "Granite"
+msgstr "Granitu"
+
+msgid "Terracotta tile"
+msgstr "Tarracotta"
+
+msgid "Teak"
+msgstr "Teck"
+
+msgid "Mosaïc"
+msgstr "Musaicu"
+
+msgid "Clay"
+msgstr "Tarra battuta"
+
+msgid "Laminate"
+msgstr "Parchettu laminatu"
+
+msgid "Vinyl composition tile"
+msgstr "Vinili / PVC"
+
+msgid "Porcelain stoneware"
+msgstr "Petra rinaghja purcillanata"
+
+msgid "Cement tile"
+msgstr "Pancarrè"
+
+msgid "Convector"
+msgstr "Cunvettori"
+
+msgid "Underfloor"
+msgstr "À pavimentu"
+
+msgid "Radiator"
+msgstr "Radiatori"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Stufa\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cucinara"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Climatisazioni\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Aria cundiziunata"
+
+msgid "Central"
+msgstr "Centrali"
+
+msgid "Without"
+msgstr "Senza scaldaria"
+
+msgid "Fireplace"
+msgstr "Caminu"
+
+msgid "Individual"
+msgstr "Individuali"
+
+msgid "Common"
+msgstr "Cullittivu"
+
+msgid "Mixed"
+msgstr "Mischju"
+
+msgid "District heating"
+msgstr "Urbanu"
+
+msgid "Gas"
+msgstr "Gasu"
+
+msgid "Fuel oil"
+msgstr "Masuttu"
+
+msgid "Electric"
+msgstr "Elettricu"
+
+msgid "Wood"
+msgstr "Lignu"
+
+msgid "Solar"
+msgstr "Sulariu"
+
+msgid "Charcoal"
+msgstr "Carbonu"
+
+msgid "Heat pump"
+msgstr "Pompa à calori"
+
+msgid "Geothermal"
+msgstr "Geutermica"
+
+msgid "Wood pellet"
+msgstr "Granulatu di lignu"
+
+msgid "Aerothermy"
+msgstr "Aerutermica"
+
+msgid "Hot water tank"
+msgstr "Scaldacqua"
+
+msgid "Boiler"
+msgstr "Caldaghja"
+
+msgid "Collective"
+msgstr "Cullittivu"
+
+msgid "Flat"
+msgstr "Pianu"
+
+msgid "Dry-stone wall terraces"
+msgstr "À lenzi"
+
+msgid "Steep"
+msgstr "Pindiu"
+
+msgid "Wooded"
+msgstr "Buscosu"
+
+msgid "Meadow"
+msgstr "Pratu"
+
+msgid "Term lease"
+msgstr "Pricariu"
+
+msgid "Long-Term"
+msgstr "À long'andà"
+
+msgid "Long-Term - Single activity"
+msgstr "À long'andà unica attività"
+
+msgid "Long-Term - All activities"
+msgstr "À long'andà qualsiasi attività"
+
+msgid "Regulated"
+msgstr "Rigulamintatu"
+
+msgid "Seaside"
+msgstr "Bordu di mari"
+
+msgid "Village"
+msgstr "Paesi"
+
+msgid "Old town"
+msgstr "Cità vechja"
+
+msgid "Precinct"
+msgstr "Zona pidona"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pista di schì\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Pisti di schì"
+
+msgid "Town center"
+msgstr "Centru cità"
+
+msgid "Industrial estate"
+msgstr "Zona industriali"
+
+msgid "Shopping center"
+msgstr "Centru cummerciali"
+
+msgid "Business park"
+msgstr "Zona d'attività"
+
+msgid "Airport area"
+msgstr "Zona aerupurtuaria"
+
+msgid "Science park"
+msgstr "Polu tecnulogicu"
+
+msgid "Port area"
+msgstr "Zona purtuaria"
+
+msgid "Outskirts"
+msgstr "Periferia"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Poghji\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cuddetti"
+
+msgid "Waterfront"
+msgstr "Pedi in acqua"
+
+msgid "Countryside"
+msgstr "Campagna"
+
+msgid "Suburb"
+msgstr "Circondu"
+
+msgid "East"
+msgstr "Livanti"
+
+msgid "North"
+msgstr "Nordu"
+
+msgid "West"
+msgstr "Punenti"
+
+msgid "South"
+msgstr "Suddu"
+
+msgid "Day"
+msgstr "Ghjornu"
+
+msgid "Week"
+msgstr "Sittimana"
+
+msgid "Fortnight"
+msgstr "Quindicina"
+
+msgid "Month"
+msgstr "Mesi"
+
+msgid "Quarterly"
+msgstr "Trimestru"
+
+msgid "Bimonthly"
+msgstr "Bimensuali"
+
+msgid "Half-yearly"
+msgstr "Simestru"
+
+msgid "Yearly"
+msgstr "Annuali"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus hub"
+msgstr "Gara stradali"
+
+msgid "Metro"
+msgstr "Metrò"
+
+msgid "Shops"
+msgstr "Cummerci"
+
+msgid "Primary school"
+msgstr "Scola primaria"
+
+msgid "Town centre"
+msgstr "Centru cità"
+
+msgid "Hospital/clinic"
+msgstr "Spidali / clinica"
+
+msgid "Doctor"
+msgstr "Medicu"
+
+msgid "Tram"
+msgstr "Tram"
+
+msgid "Train station"
+msgstr "Gara"
+
+msgid "Public parking"
+msgstr "Parcheghju publicu"
+
+msgid "Supermarket"
+msgstr "Supermarcatu"
+
+msgid "Sea port"
+msgstr "Portu"
+
+msgid "Nursery"
+msgstr "Ciucciaghja"
+
+msgid "Public pool"
+msgstr "Piscina"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Sinemà"
+
+msgid "Secondary school"
+msgstr "Scola sigundaria"
+
+msgid "Sport center"
+msgstr "Sala di sport"
+
+msgid "Airport"
+msgstr "Aeruportu"
+
+msgid "Sea"
+msgstr "Mari"
+
+msgid "TGV station"
+msgstr "Gara TGV"
+
+msgid "Highway"
+msgstr "Autostrada"
+
+msgid "University"
+msgstr "Università"
+
+msgid "Convention center"
+msgstr "Palazzu di i cungressi"
+
+msgid "Lake"
+msgstr "Lavu"
+
+msgid "On main road"
+msgstr "Strada principali"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energia - cunsumu cunvinziunali"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energia - Estimu di l'emissioni"
+
+msgid "« Carrez » act"
+msgstr "Leghji Carrez"
+
+msgid "ERP"
+msgstr "Statu di i Risichi di Pulluzzioni"
+
+msgid "Termites"
+msgstr "Termiti"
+
+msgid "Asbestos"
+msgstr "Amiantu"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Piombu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Piombu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cuntattu putinziali"
+
+msgid "Boutin act"
+msgstr "Leghi Boutin"
+
+msgid "Sanitation"
+msgstr "Risanamentu"
+
+msgid "EPI (Non renewable)"
+msgstr "Indici prestazioni energetica (EPI)"
+
+msgid "APE"
+msgstr "Attestazioni Prestazioni Energetica (APE)"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Dumanda di designazioni di un mandatariu spiciali"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Dumanda di designazioni di un amministratoriu pruvisoriu"
+
+msgid "Request for expert nomination"
+msgstr "Dumanda di designazioni di spertu(i)"
+
+msgid "Fire safety regulations"
+msgstr "Normi rilativi à a sigurità incendiu"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Normi accessibilità à i parsoni svantaghjati"
+
+msgid "Sanitary authorization"
+msgstr "Certificatu sanitariu"
+
+msgid "Energy consumption"
+msgstr "Cunsumu d'energia"
+
+msgid "Housing tax"
+msgstr "Tassa d'abitazioni"
+
+msgid "Land charges"
+msgstr "Carichi fundiarii"
+
+msgid "Residents only"
+msgstr "Riservatu à i risidenti"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "Taxe Locale d’Equipement"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Vulumu"
+
+msgid "Useful surface"
+msgstr "Superficia utili"
+
+msgid "Co-Ownership property"
+msgstr "PPE (Prupiità à piani)"
+
+msgid "Communal tax rate"
+msgstr "Tassu d'impositu cumunali"
+
+msgid "Land register extract number"
+msgstr "Reghjistu fundiariu"
+
+msgid "Droit de superficie"
+msgstr "Drittu di superficia"
+
+msgid "Millièmes"
+msgstr "Millesimi"
+
+msgid "PPE budget"
+msgstr "Bugettu PPE"
+
+msgid "Current renovation fund"
+msgstr "Fondi di rinnovu attuali"
+
+msgid "Plot ratio"
+msgstr "Cuefficenti d'adopru di u tarrenu"
+
+msgid "Floor space coefficient"
+msgstr "Cuefficenti d'uccupazioni di u tarrenu"
+
+msgid "Ground footprint coefficient"
+msgstr "Cuefficenti di presa di u tarrenu"
+
+msgid "Priority period CCH L443-11"
+msgstr "Tarmini di prupiità CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Divisioni parcillaria / Muzera"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Deliberazioni cunsigliu d'amministrazioni / surveglienza"
+
+msgid "Certificate of compliance"
+msgstr "Certificatu di cunfurmità"
+
+msgid "Energy class"
+msgstr "DPE (Diagnosticu di Perfurmenza Energetica)"
+
+msgid "Thermal insulation class"
+msgstr "Classa d'isulazioni termica"
+
+msgid "Greenhouse Gas"
+msgstr "GES (Gasu à effettu serra)"
+
+msgid "Energy passport"
+msgstr "Ecopass"
+
+msgid "Energy certificate"
+msgstr "Certificatu energeticu"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Cunsumu energeticu / Bisognu energeticu finali"
+
+msgid "Energy efficiency class"
+msgstr "Classa di perfurmenza energetica"
+
+msgid "Year of construction according to certificate"
+msgstr "Annu di custruzzioni sigondu certificatu"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Acqua calda inclusa"
+
+msgid "Specific primary energy consumption"
+msgstr "Cunsumu spicificu d'energia primaria"
+
+msgid "PEB unique code"
+msgstr "PEB codici unicue"
+
+msgid "K level (Thermal Insulation)"
+msgstr "Liveddu K (Isulazioni termica)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Liveddu Ew (Perfurmenza energetica)"
+
+msgid "CO2 emission"
+msgstr "Emissioni CO2"
+
+msgid "Flood risks"
+msgstr "Risichi d'inundazioni"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Certificatu : Cunfurmità di a cistarra masuttu"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Certificatu : Cunfurmità di a stallazioni elettrica"
+
+msgid "« As Built » certificate"
+msgstr "Attestazioni « As Built »"
+
+msgid "Total consumption of primary energy"
+msgstr "Cunsumu tutali d'energia primaria"
+
+msgid "Registration number"
+msgstr "Numaru d'arrighjistramentu"
+
+msgid "Cadastral income"
+msgstr "Rivinutu cadastrali"
+
+msgid "Planning permit obtained"
+msgstr "Parmissu d'urbanisimu uttinutu"
+
+msgid "Subdivision authorization"
+msgstr "Auturizazioni di luttissamentu"
+
+msgid "Pre-emptive right possible"
+msgstr "Drittu di prilazioni pussibuli"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Citazioni pà infrazzioni urbanistica"
+
+msgid "Last use designation"
+msgstr "Ultima affittazioni urbanistica"
+
+msgid "Cadastral annuity"
+msgstr "Rendita cadastrali"
+
+msgid "Energy certification number"
+msgstr "Numaru di certificazioni energetica"
+
+msgid "VAT applicable"
+msgstr "TVA appiichevuli"
+
+msgid "Energy certification"
+msgstr "Certificazioni energetica"
+
+msgid "Emissions estimate"
+msgstr "Estimu di l'emissioni"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Raccurdamentu pussibuli : Acqua / Gasu / Elettricità"
+
+msgid "Laudêmio"
+msgstr "Laudêmio"
+
+msgid "Real estate program"
+msgstr "Prugramma immubilari"
+
+msgid "Accessible to foreigners"
+msgstr "Accissibuli à i stranghjeri"
+
+msgid "Building type"
+msgstr "Tippu di casamentu"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "Carichi lucativi furfettarii"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Energy Efficiency Rating (Current)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Energy Efficiency Rating (Potential)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Environmental Impact Rating (Current)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Environmental Impact Rating (Potential)"
+
+msgid "Rental value"
+msgstr "Valori lucativa"
+
+msgid "Rental reference index"
+msgstr "Indiziu di rifarenza di i pighjò"
+
+msgid "Turnover"
+msgstr "Sciffru d'affari"
+
+msgid "Net income"
+msgstr "Risultatu strettu"
+
+msgid "Gross operating profit"
+msgstr "Eccedenti largu di splutazioni"
+
+msgid "Personnel costs"
+msgstr "Costu di parsunali"
+
+msgid "Cash flow"
+msgstr "Capacità d'autofinanzamentu"
+
+msgid "Shareholders’equity"
+msgstr "Capitali propii"
+
+msgid "Net debt"
+msgstr "Debbita finanziaria stretta"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Accessu svantaghjati"
+
+msgid "Alarm system"
+msgstr "Alarma"
+
+msgid "Lift"
+msgstr "Ascensori"
+
+msgid "Caretaker"
+msgstr "Guardianu"
+
+msgid "Double glazing"
+msgstr "Doppii vetri"
+
+msgid "Intercom"
+msgstr "Interfunu"
+
+msgid "TV distribution"
+msgstr "Teledistribuzioni"
+
+msgid "Swimming pool"
+msgstr "Piscina"
+
+msgid "Security door"
+msgstr "Porta blindata"
+
+msgid "Tennis court"
+msgstr "Tennis"
+
+msgid "Irrigation sprinkler"
+msgstr "Annacquera"
+
+msgid "Barbecue"
+msgstr "Brasgera"
+
+msgid "Electric gate"
+msgstr "Portacu elettricu"
+
+msgid "Crawl space"
+msgstr "Biotu sanitariu"
+
+msgid "Car port"
+msgstr "Casarottu di vittura"
+
+msgid "Caretaker house"
+msgstr "Casa di u guardianu"
+
+msgid "Sliding windows"
+msgstr "Finestri scurrevuli"
+
+msgid "Central vacuum system"
+msgstr "Aspirazioni centralizata"
+
+msgid "Electric shutters"
+msgstr "Sarrendi elettrichi"
+
+msgid "Window shade"
+msgstr "Stori"
+
+msgid "Electric awnings"
+msgstr "Stori elettrichi"
+
+msgid "Washing machine"
+msgstr "Lavapanni"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Bagnarola idromassaghju"
+
+msgid "Well"
+msgstr "Pozzi"
+
+msgid "Spring"
+msgstr "Surghjenti"
+
+msgid "Engine generator"
+msgstr "Gruppu elettrugenu"
+
+msgid "Dishwasher"
+msgstr "Lavapiatti"
+
+msgid "Hob"
+msgstr "Placca di cuttura"
+
+msgid "Safe"
+msgstr "Casciaforti"
+
+msgid "Helipad"
+msgstr "Eliportu"
+
+msgid "Videophone"
+msgstr "Videofunu"
+
+msgid "Video security"
+msgstr "Video surveglienza"
+
+msgid "Iron"
+msgstr "Farru à stirà"
+
+msgid "Hair dryer"
+msgstr "Asciuvacapiddi"
+
+msgid "Television"
+msgstr "Televisiò"
+
+msgid "DVD Player"
+msgstr "Littori DVD"
+
+msgid "CD Player"
+msgstr "Littori CD"
+
+msgid "Outdoor lighting"
+msgstr "Lumu da fora"
+
+msgid "Home automation"
+msgstr "Dumotica"
+
+msgid "Linens"
+msgstr "Panni di casa"
+
+msgid "Tableware"
+msgstr "Piatti"
+
+msgid "Clothes dryer"
+msgstr "Asciuvatrici"
+
+msgid "Refrigerator"
+msgstr "Rifrigiratori"
+
+msgid "Oven"
+msgstr "Furru"
+
+msgid "Reception 24/7"
+msgstr "Accolta 24/7"
+
+msgid "Coffeemaker"
+msgstr "Mascina à caffè"
+
+msgid "Microwave oven"
+msgstr "Microondi"
+
+msgid "Shabbat elevator"
+msgstr "Ascensori sabbaticu"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Sinagoga"
+
+msgid "Digicode"
+msgstr "Digicodici"
+
+msgid "Common laundry"
+msgstr "Lavatoghju cumunu"
+
+msgid "Pets allowed"
+msgstr "Animali accittati"
+
+msgid "Metal shutters"
+msgstr "Tendi metallichi"
+
+msgid "Wiring closet"
+msgstr "Armariu di raccordu infurmaticu"
+
+msgid "Computer network"
+msgstr "Reti infurmatica"
+
+msgid "Dropped ceiling"
+msgstr "Falsu suffittu"
+
+msgid "Fire hose cabinets"
+msgstr "Rubinettu antincendiu"
+
+msgid "Fire sprinkler system"
+msgstr "Spinghjidori automaticu à acqua"
+
+msgid "Wharf"
+msgstr "Calata"
+
+msgid "Connected thermostat"
+msgstr "Termustatu cunnittatu"
+
+msgid "Bowling game"
+msgstr "Ghjocu di bucci"
+
+msgid "Water softener"
+msgstr "Addulcissori d'acqua"
+
+msgid "Triple glazing"
+msgstr "Tripli vetri"
+
+msgid "Well drilling"
+msgstr "Pozzu artesianu"
+
+msgid "Optical fiber"
+msgstr "Fibra ottica"
+
+msgid "Non-flooding"
+msgstr "Micca inundevuli"
+
+msgid "Backup water system"
+msgstr "Sistema d'acqua di succursu"
+
+msgid "Water filtration system"
+msgstr "Sistema di filtrazioni d'acqua"
+
+msgid "Air filtration system"
+msgstr "Sistema di filtrazioni d'aria"
+
+msgid "Fire alarm system"
+msgstr "Alarma incendiu"
+
+msgid "Commercial services"
+msgstr "Servizii cummerciali"
+
+msgid "Playground"
+msgstr "Tarrenu di ghjocu"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Veiculu anfibiu"
+
+msgid "Beach games"
+msgstr "Ghjochi di piaghja"
+
+msgid "Bikes"
+msgstr "Bicicletti"
+
+msgid "Canoe"
+msgstr "Canoè"
+
+msgid "Diving"
+msgstr "Ciuttata"
+
+msgid "Fishing"
+msgstr "Pesca"
+
+msgid "Floating pool"
+msgstr "Piscina à gallu"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "Ghjochi gunfievuli"
+
+msgid "Water slide"
+msgstr "Sculisciaghjoli"
+
+msgid "Waterpark"
+msgstr "Parcu acquaticu"
+
+msgid "Jet ski"
+msgstr "Jet ski"
+
+msgid "Kite surf"
+msgstr "Kite surf"
+
+msgid "Paddle"
+msgstr "Paddle"
+
+msgid "Scooter"
+msgstr "Scooter"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Vintilazioni à flussu unicu"
+
+msgid "Double flow ventilation"
+msgstr "Vintilazioni à flussu doppiu"
+
+msgid "Business center"
+msgstr "Centru d'affari"
+
+msgid "Foodservice"
+msgstr "Risturanti d'impresa"
+
+msgid "Condominium garden"
+msgstr "Giardinu in cuprupiità"
+
+msgid "Stabilizers"
+msgstr "Stabilizatori"
+
+msgid "Hydraulic Platform"
+msgstr "Piattaforma idraulica"
+
+msgid "Freezer"
+msgstr "Cunghjilatori"
+
+msgid "Fitness"
+msgstr "Fitness"
+
+msgid "Electric car terminal"
+msgstr "Borna vittura elettrica"
+
+msgid "Berth"
+msgstr "Piazza di portu"
+
+msgid "Supplies"
+msgstr "Attrazzeri"
+
+msgid "Outdoor spaces"
+msgstr "Spazii di fora"
+
+msgid "Rental supplies"
+msgstr "Attrazzeri lucazionin"
+
+msgid "Security"
+msgstr "Sigurità"
+
+msgid "Professional supplies"
+msgstr "Attrazzeri prufiziunali"
+
+msgid "Yacht supplies"
+msgstr "Attrazzeri yachting"
+
+msgid "High standard"
+msgstr "Standing"
+
+msgid "Luxury"
+msgstr "Lussu"
+
+msgid "High luxury"
+msgstr "Gran lussu"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cumplessu residenziali\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Insemu immubiliari"
+
+msgid "Regular"
+msgstr "Nurmali"
+
+msgid "In progress"
+msgstr "In anda"
+
+msgid "Standby"
+msgstr "In attesa"
+
+#, fuzzy
+msgid "Deleted"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Distruttu\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cavatu"
+
+msgid "Waiting for agreement"
+msgstr "In attesa di mandatu"
+
+msgid "Agreement ended"
+msgstr "Mandatu scadutu"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Suttu ufferta / riservazioni\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Ufferta"
+
+msgid "Processing sale"
+msgstr "Suttu cuntrattu vendita / lucazioni"
+
+msgid "Waiting for contract"
+msgstr "Attesa attu / bail"
+
+msgid "Pending approval"
+msgstr "Attesa validazioni"
+
+msgid "Sell/Rent by agent"
+msgstr "Vindutu / affittatu da l'agenza"
+
+msgid "Sell/Rent by owner"
+msgstr "Vindutu / affittatu da u prupiitariu"
+
+msgid "Sell/Rent by other agent"
+msgstr "Vindutu / affittatu da un cullega"
+
+msgid "Removed by agent"
+msgstr "Ritiratu da l'agenza"
+
+msgid "Removed by owner"
+msgstr "Ritiratu da u prupiitariu"
+
+msgid "Sale/Rental cancelled"
+msgstr "Vendita / Affittu annullatu"
+
+msgid "Delete this property"
+msgstr "Distrughja sta scheda"
+
+msgid "Business"
+msgstr "Cummerciu"
+
+msgid "Garage/Parking"
+msgstr "Garage / Parcheghju"
+
+msgid "Office"
+msgstr "Scagnu"
+
+msgid "Boat"
+msgstr "Battellu"
+
+msgid "Cellar / Box"
+msgstr "Carciara / Box"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Tarrenu custruttivuli"
+
+msgid "Not constructible land"
+msgstr "Tarrenu incustruttivuli"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Casteddu"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Manor house"
+msgstr "Castidduchju"
+
+msgid "Farm"
+msgstr "Tinuta"
+
+msgid "Villa"
+msgstr "Casonu"
+
+msgid "Apartment villa"
+msgstr "Appartamentu casonu"
+
+msgid "Ruin"
+msgstr "Ruvina"
+
+msgid "Mill"
+msgstr "Mulinu / Fragnu"
+
+msgid "Carpark"
+msgstr "Garage"
+
+msgid "Farmhouse"
+msgstr "Casa di campagna"
+
+msgid "Townhouse"
+msgstr "Casa di cità"
+
+msgid "Mobile home"
+msgstr "Mobile home"
+
+msgid "Cottage"
+msgstr "Casina"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Lucali"
+
+msgid "Chalet"
+msgstr "Casa di lignu"
+
+msgid "Retail space"
+msgstr "Lucali cummerciali"
+
+msgid "Business assets"
+msgstr "Fondi di cummerciu"
+
+msgid "Right to the lease"
+msgstr "Drittu intrata"
+
+msgid "Mansion"
+msgstr "Hotel particulari"
+
+msgid "Management"
+msgstr "Gerenza"
+
+msgid "Agricultural exploitation"
+msgstr "Splutazioni agricula"
+
+msgid "Woodshed"
+msgstr "Rimissa"
+
+msgid "Stud farm"
+msgstr "Rimonta"
+
+msgid "Plot of land"
+msgstr "Tarrenu"
+
+msgid "Bastide"
+msgstr "Bastia"
+
+msgid "Bastidon"
+msgstr "Bastiuchja"
+
+msgid "Company"
+msgstr "Impresa"
+
+msgid "Vineyard property"
+msgstr "Prupiità viticula"
+
+msgid "Motor Yacht"
+msgstr "Yacht"
+
+msgid "Narrow boat"
+msgstr "Battellu fluviali"
+
+msgid "Sailing Yacht"
+msgstr "Battellu à vela"
+
+msgid "Catamaran"
+msgstr "Catamaranu"
+
+msgid "Equestrian estate"
+msgstr "Centru equestru"
+
+msgid "Bed and breakfast"
+msgstr "Casa d'ospiti"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Buttega"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Usina"
+
+msgid "Serviced apartment"
+msgstr "Appart'hotel"
+
+msgid "Twin Villa"
+msgstr "Casonu appiccicatu"
+
+msgid "Flat House"
+msgstr "Casa à pianu di tarra"
+
+msgid "Semi-detached house"
+msgstr "Casa appiccicata"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Beach house"
+msgstr "Casa di piaghja"
+
+msgid "Ger district"
+msgstr "Quartieri ger"
+
+msgid "Summer house"
+msgstr "Casa d'istatina"
+
+msgid "Private island"
+msgstr "Isula privata"
+
+msgid "Residential land"
+msgstr "Tarrenu residenziali"
+
+msgid "Commercial land"
+msgstr "Tarrenu cummerciali"
+
+msgid "Subdivision"
+msgstr "Luttissamentu"
+
+msgid "Game reserve"
+msgstr "Duminiu di caccia"
+
+msgid "Motorboat"
+msgstr "Battellu à mutori"
+
+msgid "Detached house"
+msgstr "Paviglionu"
+
+msgid "Ranch"
+msgstr "Ranch"
+
+msgid "Mountains"
+msgstr "Muntagni"
+
+msgid "Greenery"
+msgstr "Virdura"
+
+msgid "Monument"
+msgstr "Munumentu"
+
+msgid "Forest"
+msgstr "Furesta"
+
+msgid "River"
+msgstr "Vadina"
+
+msgid "City"
+msgstr "Cità"
+
+msgid "Sky"
+msgstr "Celi"
+
+msgid "Main stem"
+msgstr "Fiumu"
+
+msgid "Harbor"
+msgstr "Portu"
+
+msgid "Ski slopes"
+msgstr "Pisti di schì"
+
+msgid "Obstructed"
+msgstr "Dirimpettu"
+
+msgid "Slight"
+msgstr "Primavista"
+
+msgid "Unobstructed"
+msgstr "Aparta"
+
+msgid "Panoramic"
+msgstr "Panuramica"
+
+msgid "Exterior"
+msgstr "Da fora"
+
+msgid "Interior"
+msgstr "Interna"
+
+msgid "Septic tank"
+msgstr "Fossa settica"
+
+msgid "Main drainage"
+msgstr "Fugnatura"
+
+msgid "Treatment plant"
+msgstr "Stazioni d'epurazioni"
+
+msgid "Grey-water pit"
+msgstr "Fosse toutes eaux"
+
+msgid "Estate agent"
+msgstr "Agenti immubiliari"
+
+msgid "Phoning"
+msgstr "Spunt'annunci"
+
+msgid "Collaboration"
+msgstr "Cullaburazioni"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Purtadori\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Furnitori"
+
+msgid "Renown"
+msgstr "Nuturietà"
+
+msgid "Walk-in / Window"
+msgstr "Vitrina agenzia"
+
+msgid "Network"
+msgstr "Reti"
+
+msgid "Flyer"
+msgstr "Pruspettu"
+
+msgid "Sign"
+msgstr "Panneddu"
+
+msgid "Magazine"
+msgstr "Rivista"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Old client"
+msgstr "Anzianu clienti"
+
+msgid "Selection / Favorite"
+msgstr "Selezzioni / Priferitu"
+
+msgid "Main residence"
+msgstr "Residenza principali"
+
+msgid "Secondary residence"
+msgstr "Residenza sigundaria"
+
+msgid "Student residence"
+msgstr "Residenza studiantina"
+
+msgid "Tourism residence"
+msgstr "Residenza di turisimu"
+
+msgid "Seniors residence"
+msgstr "Residenza pà l'anziani"
+
+msgid "Duflot Legislation"
+msgstr "Leghji Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Leghji Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Spesi di nutariu ridutti"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD"
+
+msgid "Act 1291"
+msgstr "Leghji 1291"
+
+msgid "Act 887"
+msgstr "Leghji 887"
+
+msgid "Mixed-use"
+msgstr "Usu mischju"
+
+msgid "Rental investment"
+msgstr "Invistiscimentu lucativu"
+
+msgid "Act 1235"
+msgstr "Leghji 1235"
+
+msgid "Pinel Legislation"
+msgstr "Leghji Pinel"
+
+msgid "Resale"
+msgstr "Rivendita"
+
+msgid "First occupancy"
+msgstr "Prima uccupazioni"
+
+msgid "Liberal profession"
+msgstr "Prufissioni liberali"
+
+msgid "Holiday"
+msgstr "Villigiatura"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3,57% TTC di u prezzu di compra"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7,14% TTC di u prezzu di compra"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3,48% TTC di u prezzu di compra"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6,96% TTC di u prezzu di compra"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "kanal"
+msgstr "kanal"
+
+msgid "marla"
+msgstr "marla"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ar"
+
+msgid "toises"
+msgstr "toises"
+
+msgid "perches"
+msgstr "perches"
+
+msgid "arpents"
+msgstr "arpents"
+
+msgid "minute"
+msgstr "minuta"
+
+msgid "metre"
+msgstr "metri"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Amministratori"
+
+msgid "Company manager"
+msgstr "Gerenti"
+
+msgid "Agency manager"
+msgstr "Rispunsevuli"
+
+msgid "Secretariat"
+msgstr "Sicritariatu"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Cummerciali\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Agenti"
+
+msgid "Intern"
+msgstr "Stazianti"
+
+msgid "User"
+msgstr "Utilizatori"
+
+msgid "Franchisor"
+msgstr "Franchisor"
+
+msgid "Translator"
+msgstr "Traduttori"
+
+msgid "Image"
+msgstr "Imaghjina"
+
+msgid "Pet"
+msgstr "Animali"
+
+msgid "Natural light"
+msgstr "Lumu naturali"
+
+msgid "Kitchen island"
+msgstr "Isulottu di cucina"
+
+msgid "Kitchen bar"
+msgstr "Bar"
+
+msgid "High ceiling"
+msgstr "Altezza suffittu"
+
+msgid "Skylight"
+msgstr "Finestra di tettu"
+
+msgid "Exposed bricks"
+msgstr "Muru di mattoni"
+
+msgid "Ceiling fan"
+msgstr "Vintilatori di suffittu"
+
+msgid "Chandelier"
+msgstr "Lampadariu"
+
+msgid "Stainless steel"
+msgstr "Acciaghju inox"
+
+msgid "Price on request"
+msgstr "Prezzu à nantu à dumanda"
+
+msgid "Currency"
+msgstr "Muneta"
+
+msgid "Price"
+msgstr "Prezzu"
+
+msgid "Types"
+msgstr "Tippi"
+
+msgid "Bedrooms"
+msgstr "Camari"
+
+msgid "Rooms"
+msgstr "Pezzi"
+
+msgid "Send"
+msgstr "Mandà"
+
+msgid "Lastname"
+msgstr "Casata"
+
+msgid "Name"
+msgstr "Nomu"
+
+msgid "Reference"
+msgstr "Rifarenza"
+
+msgid "Ref"
+msgstr "Rif."
+
+msgid "%s bedroom"
+msgstr "%s camara"
+
+msgid "%s bedrooms"
+msgstr "%s camari"
+
+msgid "%s room"
+msgstr "%s pezza"
+
+msgid "%s rooms"
+msgstr "%s pezzi"
+
+msgid "File"
+msgstr "Cartulari"
+
+msgid "No matches found"
+msgstr "Mancunu risultatu"
+
+msgid "Please enter one more character"
+msgstr "Insiriti un carattaru in più"
+
+msgid "Duplicate"
+msgstr "Duplicà"
+
+msgid "Backup"
+msgstr "Salvera"
+
+msgid "Rate"
+msgstr "Tassu"
+
+msgid "Sender"
+msgstr "Spiditori"
+
+msgid "Recipient"
+msgstr "Distinatariu"
+
+msgid "Subject"
+msgstr "Ughjettu"
+
+msgid "Attachment"
+msgstr "In appicciu"
+
+msgid "Keys"
+msgstr "Chjavi"
+
+msgid "Documents"
+msgstr "Ducumenti"
+
+msgid "Back"
+msgstr "Vultà"
+
+msgid "Help?"
+msgstr "Aiutu ?"
+
+msgid "Read more"
+msgstr "Leghja a seguita"
+
+msgid "Area"
+msgstr "Superficia"
+
+msgid "Areas"
+msgstr "Superficii"
+
+msgid "Length"
+msgstr "Lunghezza"
+
+msgid "Height"
+msgstr "Altezza"
+
+msgid "Beam"
+msgstr "Larghezza"
+
+msgid "Deposit account"
+msgstr "Dipositu di guaranzia"
+
+msgid "Agreement reference"
+msgstr "Rifarenza mandatu"
+
+msgid "Agreement start at"
+msgstr "Principiu mandatu"
+
+msgid "Agreement end at"
+msgstr "Fini mandatu"
+
+msgid "Website"
+msgstr "Situ internet"
+
+msgid "Proximities"
+msgstr "Prussimità"
+
+msgid "Loading"
+msgstr "Caricamentu"
+
+msgid "Log out"
+msgstr "Dicunnissioni"
+
+msgid "Availabilities"
+msgstr "Dispunibilità"
+
+msgid "Total area"
+msgstr "Superficia tutali"
+
+msgid "Living area"
+msgstr "Superficia abitabili"
+
+msgid "Password forgotten"
+msgstr "Parola sicreta sminticata"
+
+msgid "Password"
+msgstr "Parola sicreta"
+
+msgid "Username"
+msgstr "Nomu d'utilizatori"
+
+msgid "Welcome %s"
+msgstr "Benvinuta %s"
+
+msgid "Add"
+msgstr "Aghjustà"
+
+msgid "Show"
+msgstr "Cunsultà"
+
+msgid "Listings"
+msgstr "Listinu"
+
+msgid "Tools"
+msgstr "Strumenti"
+
+msgid "Market"
+msgstr "Marcatu"
+
+msgid "Agency"
+msgstr "Agenza"
+
+msgid "Calendar"
+msgstr "Calindariu"
+
+msgid "Homepage"
+msgstr "Accolta"
+
+msgid "floor"
+msgstr "Pianu"
+
+msgid "Values"
+msgstr "Valori"
+
+msgid "Sector"
+msgstr "Settori"
+
+msgid "contact"
+msgstr "Cuntattu"
+
+msgid "contacts"
+msgstr "Cuntatti"
+
+msgid "%s contact"
+msgstr "%s cuntattu"
+
+msgid "%s contacts"
+msgstr "%s cuntatti"
+
+msgid "Settings"
+msgstr "Parametri"
+
+msgid "General"
+msgstr "Generali"
+
+msgid "Waste water"
+msgstr "Acqui brutti"
+
+msgid "Country"
+msgstr "Paesi"
+
+msgid "Escrow deposit"
+msgstr "Siquestru"
+
+msgid "Lessor"
+msgstr "Prupiitariu"
+
+msgid "Orientation"
+msgstr "Mostra"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "District"
+msgstr "Quartieri"
+
+msgid "Fields"
+msgstr "Campi"
+
+msgid "Hook"
+msgstr "Ancinu"
+
+msgid "Comment"
+msgstr "Cumentu"
+
+msgid "Buy"
+msgstr "Cumprà"
+
+msgid "Rent"
+msgstr "Affittà"
+
+msgid "Commercial"
+msgstr "Cummirciali"
+
+msgid "About us"
+msgstr "Più infurmazioni"
+
+msgid "Service"
+msgstr "Pristazioni"
+
+msgid "News"
+msgstr "Attualità"
+
+msgid "Contact us"
+msgstr "Cuntattà ci"
+
+msgid "Print"
+msgstr "Stampà"
+
+msgid "Portrait"
+msgstr "Ritrattu"
+
+msgid "Add to cart"
+msgstr "Aghjustà à a sporta"
+
+msgid "Replace in cart"
+msgstr "Rimpiazzà in a sporta"
+
+msgid "Category"
+msgstr "Categuria"
+
+msgid "History"
+msgstr "Storicu"
+
+msgid "Details"
+msgstr "Infurmazioni"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Previous"
+msgstr "Pricidenti"
+
+msgid "Next"
+msgstr "Siguenti"
+
+msgid "Quick search"
+msgstr "Ricerca rapida"
+
+msgid "Postal code"
+msgstr "Codici pustali"
+
+msgid "The username and/or password is invalid."
+msgstr "Sbagliu di nomu d'utilizatori è/o parolla sicreta"
+
+msgid "Group"
+msgstr "Gruppu"
+
+msgid "Are you sure?"
+msgstr "Seti sigura ?"
+
+msgid "Nationality"
+msgstr "Naziunalità"
+
+msgid "Radius"
+msgstr "Raghju"
+
+msgid "Summary"
+msgstr "Sunta"
+
+msgid "Watermark"
+msgstr "Filigrana"
+
+msgid "Latitude"
+msgstr "Latitudini"
+
+msgid "Longitude"
+msgstr "Lungitudini"
+
+msgid "Mortgage"
+msgstr "Imprestu"
+
+msgid "Download"
+msgstr "Telecaricà"
+
+msgid "Dashboard"
+msgstr "Panneddu di cuntrollu"
+
+msgid "Matching"
+msgstr "Incruciamentu"
+
+msgid "Pay now by card"
+msgstr "Pacà incù a carta"
+
+msgid "Pay by bank transfer"
+msgstr "Pacà incù viramentu"
+
+msgid "Pay by check"
+msgstr "Pacà incù sceccu"
+
+msgid "Powered by"
+msgstr "In partinariatu incù"
+
+msgid "Accepted payment methods"
+msgstr "Mezi di pacamenti accittati"
+
+msgid "Terms and Conditions"
+msgstr "Cundizioni generali di vendita"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"U vosciu cuntattu hè dighjà prisenti, vi ringraziu di sciuvarà ni unu in u "
+"listinu"
+
+msgid "Leases"
+msgstr "Cuntratti"
+
+msgid "Seekers"
+msgstr "Dumandadori"
+
+msgid "Active seekers"
+msgstr "Dumandadori attivi"
+
+msgid "Owners"
+msgstr "Prupiitarii"
+
+msgid "Active owners"
+msgstr "Prupiitarii attivi"
+
+msgid "Monitoring"
+msgstr "Seguitu"
+
+msgid "Forward"
+msgstr "Trasfiriscia"
+
+msgid "Similar"
+msgstr "Simili"
+
+msgid "Condition"
+msgstr "Cundizioni"
+
+msgid "Description"
+msgstr "Discrizzioni"
+
+msgid "Deductions"
+msgstr "Diduzzioni"
+
+msgid "Not available"
+msgstr "Micca dispunibili"
+
+msgid "Occupants"
+msgstr "Uccuppanti"
+
+msgid "Shares"
+msgstr "Spartimenti"
+
+msgid "Like"
+msgstr "Mi piaci"
+
+msgid "Unlike"
+msgstr "Ùn mi piaci micca"
+
+msgid "Portfolio"
+msgstr "Portafogliu"
+
+msgid "Features"
+msgstr "Funziunalità"
+
+msgid "Contracted owner"
+msgstr "Prupiitariu firmatu"
+
+msgid "Contracted owners"
+msgstr "Prupiitarii firmati"
+
+msgid "Contracted customer"
+msgstr "Clienti firmatu"
+
+msgid "Contracted customers"
+msgstr "Clienti firmati"
+
+msgid "Transfer tax"
+msgstr "Dritti d'arrighjistramentu"
+
+msgid "Change to"
+msgstr "Cambià pà"
+
+msgid "Until"
+msgstr "Sinu à"
+
+msgid "Location reference"
+msgstr "Rifarenza pusizioni"
+
+msgid "Priority"
+msgstr "Priurità"
+
+msgid "Full form"
+msgstr "Furmulariu cumpletu"
+
+msgid "Quick form"
+msgstr "Furmulariu rapidu"
+
+msgid "%s char(s)"
+msgstr "%s carattaru/i"
+
+msgid "Price from"
+msgstr "À parta si da"
+
+msgid "Duration"
+msgstr "Durata"
+
+msgid "Request incomplete"
+msgstr "Dumanda incumpleta"
+
+msgid "%s incomplete request(s)"
+msgstr "%s dumanda/i incumpleta/i"
+
+msgid "Subscribe for"
+msgstr "Suttuscriva pà"
+
+msgid "Configuration"
+msgstr "Cunfigurazioni"
+
+msgid "Subtotal"
+msgstr "Tutali parziali"
+
+msgid "Tax notice"
+msgstr "Dichjarazioni fiscali"
+
+msgid "Events"
+msgstr "Avvinimentu"
+
+msgid "Present"
+msgstr "Prisenti"
+
+msgid "Missing"
+msgstr "Assenti"
+
+msgid "Planned"
+msgstr "Prugrammatu"
+
+msgid "Full"
+msgstr "Cumpletu"
+
+msgid "Organizer"
+msgstr "Urganizatori"
+
+msgid "Already subscribed"
+msgstr "Dighjà abbunatu"
+
+msgid "Attendees"
+msgstr "Participanti"
+
+msgid "Join"
+msgstr "Participà"
+
+msgid "Training"
+msgstr "Furmazioni"
+
+msgid "Require a change of password at next logon"
+msgstr "Dumandà a mudifica di a parolla sicreta à a prossima cunnissioni"
+
+msgid "Gross revenue"
+msgstr "Guadagnu largu"
+
+msgid "Gross yield"
+msgstr "Rindimentu largu"
+
+msgid "Net yield"
+msgstr "Rindimentu strettu"
+
+msgid "Vacancy rate"
+msgstr "Parcintuali di posti vacanti"
+
+msgid "Investment"
+msgstr "Invistiscimentu"
+
+msgid "Block"
+msgstr "Bluccà"
+
+msgid "Variables"
+msgstr "Varievuli"
+
+msgid "Example"
+msgstr "Asempiu"
+
+msgid "Increment"
+msgstr "Incrimentu"
+
+msgid "Schema"
+msgstr "Schema"
+
+msgid "Automation"
+msgstr "Automatisimu"
+
+msgid "Login"
+msgstr "Cunnissioni"
+
+msgid "Renovation year"
+msgstr "Annu di rinnovu"
+
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae"
+
+msgid "Resellers"
+msgstr "Rivindidori"
+
+msgid "Select"
+msgstr "Selezziunà"
+
+msgid "Billing"
+msgstr "Fatturazioni"
+
+msgid "The balance of your account is %s"
+msgstr "U vosciu contu hà un saldu di %s"
+
+msgid "Ceiling"
+msgstr "Suffittu"
+
+msgid "Weighted area"
+msgstr "Superificii commirciali"
+
+msgid "Collected"
+msgstr "Incasciatu"
+
+msgid "Unlimited"
+msgstr "Illimitatu"
+
+msgid "Quantity"
+msgstr "Quantità"
+
+msgid "Subscribe"
+msgstr "Suttuscriva"
+
+msgid "Setup"
+msgstr "Stallazioni"
+
+msgid "Active owner"
+msgstr "Prupiitariu attivu"
+
+msgid "Matching at"
+msgstr "Incruciamentu fattu u"
+
+msgid "Price by area"
+msgstr "Prezzu/Superficii"
+
+msgid "Default list"
+msgstr "Listinu pà difettu"
+
+msgid "Subtype"
+msgstr "Suttucateguria"
+
+msgid "Add a custom document"
+msgstr "Parsunalizà un ducumentu"
+
+msgid "Line spacing"
+msgstr "Interlinea"
+
+msgid "Font"
+msgstr "Carattari"
+
+msgid "Landscape"
+msgstr "Paisaghju"
+
+msgid "Accounts"
+msgstr "Prufili"
+
+msgid "Optional"
+msgstr "Facultativu"
+
+msgid "Collected at"
+msgstr "Incasciatu u"
+
+msgid "Linked"
+msgstr "Liatu"
+
+msgid "Discover our offers"
+msgstr "Scupriti i nosci ufferti"
+
+msgid "Blank"
+msgstr "Biotu"
+
+msgid "Portal"
+msgstr "Purtali"
+
+msgid "Software Documentation"
+msgstr "Ducumentazioni di lugiziali"
+
+msgid "Time"
+msgstr "Ora"
+
+msgid "Dedicated website"
+msgstr "Situ internet dedicatu"
+
+msgid "Subcategory"
+msgstr "Suttu categuria"
+
+msgid "No IP control"
+msgstr "Micca cuntrollu IP"
+
+msgid "Auto publish"
+msgstr "Publicazioni automatica"
+
+msgid "Link to property"
+msgstr "Lià à u pruduttu"
+
+msgid "Happy birthday!"
+msgstr "Bon anniversariu"
+
+msgid "Birthdays"
+msgstr "Anniversariu"
+
+msgid "Last login"
+msgstr "Ultima cunnissioni"
+
+msgid "This property is a part of:"
+msgstr "Stu pruduttu hè in lea incù"
+
+msgid "IP address"
+msgstr "Addrizzu IP"
+
+msgid "Prospecting"
+msgstr "Pruspizzioni"
+
+msgid "Access code"
+msgstr "Codici d'accessu"
+
+msgid "Access code at"
+msgstr "Codici d'accessu u"
+
+msgid "Number of shares"
+msgstr "Numaru di quoti"
+
+msgid "Leads"
+msgstr "Cuntatti putinziali"
+
+msgid "Cancelled"
+msgstr "Annullatu"
+
+msgid "Link"
+msgstr "Lea"
+
+msgid "Advanced"
+msgstr "Resucontu dittagliatu"
+
+msgid "Publish on homepage"
+msgstr "Publicà à nantu à l'accolta"
+
+msgid "Suggested"
+msgstr "Prupostu"
+
+msgid "Welcome on %s"
+msgstr "Benvinuti à nantu à %s"
+
+msgid "Content"
+msgstr "Cuntinutu"
+
+msgid "Extranet access"
+msgstr "Accessu à l'extranet"
+
+msgid "Publish address"
+msgstr "Publicà l'addrizzu"
+
+msgid "Opening hours"
+msgstr "Urarii d'apartura"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Membru dapoi u %s"
+
+msgid "Lock menu bar"
+msgstr "Bluccà u menu laterali"
+
+msgid "Updates"
+msgstr "Missi à ghjornu"
+
+msgid "Reservations"
+msgstr "Riservazioni"
+
+msgid "Forward to contact"
+msgstr "Trasfiriscia à u cuntattu"
+
+msgid "Responder"
+msgstr "Rispunditori"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "Pudeti circà in a noscia banca di dumandi/risposti"
+
+msgid "Registrar"
+msgstr "Rigistru"
+
+msgid "Expiration at"
+msgstr "Scadi u"
+
+msgid "Mailbox"
+msgstr "Scatula mail"
+
+msgid "Domain name"
+msgstr "Nomu di duminiu"
+
+msgid "Filling"
+msgstr "Riempimentu"
+
+msgid "Condition precedent"
+msgstr "Cundizioni suspensivi"
+
+msgid "Size"
+msgstr "Dimensioni"
+
+msgid "Deal fees"
+msgstr "Cummissioni transazioni"
+
+msgid "Fees charged"
+msgstr "Cummissioni ricivuta"
+
+msgid "Customers"
+msgstr "Clienti"
+
+msgid "Booked"
+msgstr "Riservatu"
+
+msgid "Available"
+msgstr "Dispunibuli"
+
+msgid "Associate"
+msgstr "Assucià"
+
+msgid "Ceiling height"
+msgstr "Altezza suffitti"
+
+msgid "Translations"
+msgstr "Traduzzioni"
+
+msgid "Unsold"
+msgstr "Invindutu"
+
+msgid "Sold"
+msgstr "Vindutu"
+
+msgid "Last action"
+msgstr "Ultima azzioni"
+
+msgid "Our agency"
+msgstr "A noscia agenza"
+
+msgid "Locate us"
+msgstr "Lucalizeti ci"
+
+msgid "Your main contact"
+msgstr "Cuntattu principali"
+
+msgid "Send me a message"
+msgstr "Mandà mi un missaghju"
+
+msgid "Leave us a message"
+msgstr "Lacheti ci un missaghju"
+
+msgid "Price with fees"
+msgstr "Prezzu incù carichi"
+
+msgid "Owner access"
+msgstr "Spaziu prupiitariu"
+
+msgid "Added"
+msgstr "Aghjustatu"
+
+msgid "Available for matching"
+msgstr "Incruciamentu auturizatu"
+
+msgid "Available on"
+msgstr "Dispunibuli u"
+
+msgid "Tenant"
+msgstr "Lucatariu"
+
+msgid "Add to list"
+msgstr "Aghjustà à u listinu"
+
+msgid "Custom tags"
+msgstr "Attributi parsunalizati"
+
+msgid "%s pending approval properties"
+msgstr "%s pruduttu(i) in attesa di validazioni"
+
+msgid "Negotiable price"
+msgstr "Prezzu niguzievuli"
+
+msgid "Price updated"
+msgstr "Missa à ghjornu di u prezzu"
+
+msgid "Less equal"
+msgstr "Inferiori uguali"
+
+msgid "Equal"
+msgstr "Uguali"
+
+msgid "Greater equal"
+msgstr "Superiori uguali"
+
+msgid "Preferences"
+msgstr "Prifarenzi"
+
+msgid "Contact means"
+msgstr "Mezu di cuntattu"
+
+msgid "Agency commission"
+msgstr "Cummissioni agenza"
+
+msgid "Scheduled at"
+msgstr "Prugrammatu u"
+
+msgid "Contract at"
+msgstr "Attu u"
+
+msgid "Commitment"
+msgstr "Cumprumissu"
+
+msgid "Commitment at"
+msgstr "Cumprumissu u"
+
+msgid "Offer at"
+msgstr "Ufferta u"
+
+msgid "No action"
+msgstr "Mancuna azzioni"
+
+msgid "Received contact information"
+msgstr "Cuntattu ricivutu"
+
+msgid "Linked contact"
+msgstr "Cuntattu liatu"
+
+msgid "Related contacts"
+msgstr "Cuntatti currelati"
+
+msgid "Others"
+msgstr "Altri"
+
+msgid "Assigned to"
+msgstr "Assignatu à"
+
+msgid "Assign to"
+msgstr "Assignà à"
+
+msgid "Assign by"
+msgstr "Assignatu da"
+
+msgid "Opened by"
+msgstr "Apartu da"
+
+msgid "Closed by"
+msgstr "Chjusu da"
+
+msgid "Time zone"
+msgstr "Fusu urariu"
+
+msgid "Invert selection"
+msgstr "Cambià a selezzioni"
+
+msgid "Select all"
+msgstr "Selezziunà tutti"
+
+msgid "Unselect all"
+msgstr "Diselezziunà tutti"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s clienti(i) in attesa"
+
+msgid "%s lead(s) to assign"
+msgstr "%s clienti(i) à assignà"
+
+msgid "%s pending properties"
+msgstr "%s prudutti in attesa"
+
+msgid "%s pending matching(s)"
+msgstr "%s incruciamentu (i) in attesa"
+
+msgid "%s expired agreement(s)"
+msgstr "%s mandati scaduti"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s mandati in scadenza"
+
+msgid "Legal notice"
+msgstr "Menzioni ligali"
+
+msgid "Tags"
+msgstr "Attributi"
+
+msgid "Allowed"
+msgstr "Parmissu"
+
+msgid "Min stay"
+msgstr "Sughjornu minimu"
+
+msgid "Over"
+msgstr "Di più"
+
+msgid "Refresh"
+msgstr "Attualizà"
+
+msgid "Free text"
+msgstr "Testu libaru"
+
+msgid "Generate comment"
+msgstr "Generà u cumentu"
+
+msgid "Building name"
+msgstr "Nomu di u casamentu"
+
+msgid "VAT"
+msgstr "TVA"
+
+msgid "VAT included"
+msgstr "TTC"
+
+msgid "VAT excluded"
+msgstr "Tassi inclusi"
+
+msgid "Recurrence"
+msgstr "Ricurrenza"
+
+msgid "Calculate"
+msgstr "Calculà"
+
+msgid "Contribution"
+msgstr "Apportu"
+
+msgid "Maximum debt"
+msgstr "Debbitu massimu"
+
+msgid "Purchase amount"
+msgstr "Prezzu di l'acquistu"
+
+msgid "Borrowing calculator"
+msgstr "Calculu di a capacità d'imprestu"
+
+msgid "Monthly payment calculator"
+msgstr "Calculu di a misata"
+
+msgid "You don't have broadcasting rights"
+msgstr "Ùn aveti i dritti di trasmissioni"
+
+msgid "Pending"
+msgstr "In attesa"
+
+msgid "Suggestions"
+msgstr "Sugistioni"
+
+msgid "To show"
+msgstr "Muscià"
+
+msgid "Automatic"
+msgstr "Automaticu"
+
+msgid "Manual"
+msgstr "Manuali"
+
+msgid "In collaboration with a %name% professional"
+msgstr "In cullaburazioni incù un prufiziunali %name%"
+
+msgid "Partners"
+msgstr "Partinarii"
+
+msgid "Amount"
+msgstr "Costu"
+
+msgid "My search"
+msgstr "A me ricerca"
+
+msgid "Units"
+msgstr "Lotti"
+
+msgid "Spouse"
+msgstr "Cunghjuntu"
+
+msgid "Manager"
+msgstr "Rispunsevuli"
+
+msgid "Category reference"
+msgstr "Rifarenza categuria"
+
+msgid "Cadastre reference"
+msgstr "Dati catastali"
+
+msgid "Lot reference"
+msgstr "Rifarenza lottu"
+
+msgid "Block reference"
+msgstr "Rifarenza bloccu"
+
+msgid "Stairs reference"
+msgstr "Rifarenza scala"
+
+msgid "Mortgage end at"
+msgstr "Imprestu compiu u"
+
+msgid "Review"
+msgstr "Ghjudiziu"
+
+msgid "Average"
+msgstr "Media"
+
+msgid "Last access"
+msgstr "Ultimu accessu"
+
+msgid "First access"
+msgstr "Primu accessu"
+
+msgid "Access count"
+msgstr "Numaru d'accessi"
+
+msgid "Default"
+msgstr "Difettu"
+
+msgid "Please do not enter any name or contact"
+msgstr "À ringrazià vi di ùn insiriscia nomu o cuntattu"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Muscià u prezzu"
+
+msgid "Done"
+msgstr "Fattu"
+
+msgid "Not applicable"
+msgstr "Micca appiichevuli"
+
+msgid "Fill in the table"
+msgstr "Cumplità in u tavulonu"
+
+msgid "Choice"
+msgstr "Scelta"
+
+msgid "Copy"
+msgstr "Cupià"
+
+msgid "Automatic matching"
+msgstr "Incruciamentu autumaticu"
+
+msgid "Authorization"
+msgstr "Auturisazioni"
+
+msgid "Last connection the %s"
+msgstr "Ultima cunnissioni : %s"
+
+msgid "All"
+msgstr "Tutti"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Ricenti"
+
+msgid "Erase"
+msgstr "Sfassà"
+
+msgid "Show/hide fields"
+msgstr "Muscià/piattà i campi"
+
+msgid "Recent searches"
+msgstr "Ricerchi ricenti"
+
+msgid "Association"
+msgstr "Associu"
+
+msgid "Meta crawler"
+msgstr "Spunt'annunci"
+
+msgid "Alerts"
+msgstr "Alerti"
+
+msgid "Prescriber"
+msgstr "Prescrittori"
+
+msgid "Staff"
+msgstr "Impiigati"
+
+msgid "Standing"
+msgstr "Standing"
+
+msgid "Receive a copy"
+msgstr "Riceva una copia"
+
+msgid "Latest views"
+msgstr "Ultimi visiti"
+
+msgid "Quality"
+msgstr "Qualità"
+
+msgid "Waiting for partner"
+msgstr "Aspittendu u partinariu"
+
+msgid "Viewing agreement"
+msgstr "Bonu di visita"
+
+msgid "Decline"
+msgstr "Ricusà"
+
+msgid "Declined"
+msgstr "Ricusatu"
+
+msgid "Accept"
+msgstr "Accittà"
+
+msgid "Accepted"
+msgstr "Accittatu"
+
+msgid "Zones"
+msgstr "Zoni"
+
+msgid "Zone"
+msgstr "Zona"
+
+msgid "Matrimonial regime"
+msgstr "Regimu matrimuniali"
+
+msgid "Marital status"
+msgstr "Situazioni familiali"
+
+msgid "Thumbnail"
+msgstr "Vignetta"
+
+msgid "Unread"
+msgstr "Micca lettu"
+
+msgid "Reply"
+msgstr "Risponda"
+
+msgid "Pension"
+msgstr "Rendita"
+
+msgid "Draft"
+msgstr "Prufundità navighevuli"
+
+msgid "Guests"
+msgstr "Cunviati"
+
+msgid "Crew"
+msgstr "Equipaghju"
+
+msgid "Cruising speed"
+msgstr "Vitezza di crucera"
+
+msgid "Builder"
+msgstr "Custruttori"
+
+msgid "Administration"
+msgstr "Amministrazioni"
+
+msgid "Civil law notary"
+msgstr "Nutariu"
+
+msgid "Max price"
+msgstr "Prezzu mass."
+
+msgid "Messages"
+msgstr "Missaghji"
+
+msgid "Callbacks"
+msgstr "Rappelli"
+
+msgid "Credit"
+msgstr "Creditu"
+
+msgid "Signatures"
+msgstr "Firmi"
+
+msgid "Signature"
+msgstr "Firma"
+
+msgid "Title (politeness)"
+msgstr "Civilità"
+
+msgid "Amounts"
+msgstr "Costi"
+
+msgid "Updated at"
+msgstr "Missa à ghjornu u"
+
+msgid "Created at"
+msgstr "Fattu u"
+
+msgid "First published at"
+msgstr "Publicatu u"
+
+msgid "Insurance"
+msgstr "Assiguranza"
+
+msgid "Provision"
+msgstr "Pruvisti"
+
+msgid "Entries"
+msgstr "Scritturi"
+
+msgid "Number"
+msgstr "Numaru"
+
+msgid "Plot of land area"
+msgstr "Superficia tarrenu"
+
+msgid "Owner's price"
+msgstr "Prezzu prupiitariu"
+
+msgid "Starting price"
+msgstr "Prezzu iniziali"
+
+msgid "Mobile"
+msgstr "Telefuninu"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Address"
+msgstr "Addrizzu"
+
+msgid "Searches"
+msgstr "Ricerchi"
+
+msgid "Tips"
+msgstr "Sughjirimenti"
+
+msgid "Delete"
+msgstr "Cavà"
+
+msgid "Floors"
+msgstr "Piani"
+
+msgid "Days"
+msgstr "Ghjorni"
+
+msgid "Catalog"
+msgstr "Catalogu"
+
+msgid "Statistics"
+msgstr "Statistichi"
+
+msgid "Built in"
+msgstr "Custruttu in u"
+
+msgid "Mark"
+msgstr "Nota"
+
+msgid "Percentage"
+msgstr "Parcintuali"
+
+msgid "Visits"
+msgstr "Visiti"
+
+msgid "Tour comment"
+msgstr "Cumentu visita"
+
+msgid "Key number"
+msgstr "Numaru di chjavi"
+
+msgid "Key's place"
+msgstr "Prisenza chjavi"
+
+msgid "Displayed city (optional)"
+msgstr "Cità diffusata (facultativu)"
+
+msgid "Displayed district (optional)"
+msgstr "Quartieri diffusatu (facultativu)"
+
+msgid "Clauses"
+msgstr "Clausa"
+
+msgid "Seller"
+msgstr "Vindarolu"
+
+msgid "Adjacency"
+msgstr "Midiana"
+
+msgid "Step"
+msgstr "Tappa"
+
+msgid "Long comment"
+msgstr "Cumentu longu"
+
+msgid "Subtitle"
+msgstr "Suttutitulu"
+
+msgid "Title"
+msgstr "Titulu"
+
+msgid "Last published at"
+msgstr "Ultima publicazioni u"
+
+msgid "Inactive"
+msgstr "Inattivu"
+
+msgid "Position"
+msgstr "Funzioni"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "À ringrazià di cumplità un nomu è un telefunu o un e-mail"
+
+msgid "Passwords do not match, please retype"
+msgstr "Parolli sicreti sfarenti, à ringrazià di ri-insiriscia"
+
+msgid "Please change your password"
+msgstr "À ringrazià vi di cambià a parolla sicreta"
+
+msgid "New password should not be same as old password"
+msgstr "A parolla sicreta nova devi essa sfarenti di l'anziana"
+
+msgid "year"
+msgstr "annu"
+
+msgid "Subscriptions"
+msgstr "Abbunamenti"
+
+msgid "Action"
+msgstr "Azzioni"
+
+msgid "Ad"
+msgstr "Annunciu"
+
+msgid "Add opening hours"
+msgstr "Aghjustà un urariu"
+
+msgid "price"
+msgstr "prezzu"
+
+msgid "Personal"
+msgstr "Parsunali"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Attenti, asistini dipindenzi, à ringrazià vi di selezziunà un cuntattu pà "
+"trasfiriscia i"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"A stallazioni pudaria durà parichji minuti, à ringrazià vi di vultà più "
+"tardi"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "U vosciu cuntattu parla %s, vuleti cambià di lingua ?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Vuleti publicà à nantu à a voscia paghjina d'accolta ?"
+
+msgid "plus VAT"
+msgstr "Più TVA"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "Attenti : ci hè un sbagliu, à ringrazià vi di virificà ugni campu"
+
+msgid "Price/sq m"
+msgstr "Prezzu/m²"
+
+msgid "today"
+msgstr "oghji"
+
+msgid "week"
+msgstr "sittimana"
+
+msgid "day"
+msgstr "ghjornu"
+
+msgid "from %from_value% to %to_value%"
+msgstr "da %from_value% à %to_value%"
+
+msgid "message"
+msgstr "missaghju"
+
+msgid "Page"
+msgstr "Paghjina"
+
+msgid "Status"
+msgstr "Statutu"
+
+msgid "Agencies"
+msgstr "Agenzi"
+
+msgid "agencies"
+msgstr "agenzi"
+
+msgid "Context"
+msgstr "Cuntestu"
+
+msgid "More criteria"
+msgstr "Criterii cumplementarii"
+
+msgid "Criteria"
+msgstr "Criterii"
+
+msgid "Classification"
+msgstr "Classifica"
+
+msgid "metres"
+msgstr "metri"
+
+msgid "Window"
+msgstr "Vitrina"
+
+msgid "Stock area"
+msgstr "Superficia di l'accantamu"
+
+msgid "Sales area"
+msgstr "Superficia di vendita"
+
+msgid "Sale price"
+msgstr "Prezzu di vendita"
+
+msgid "Broadcast to"
+msgstr "Diffusà à nantu à"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "U pruduttu ùn pudarà essa diffusatu chì hè in a tappa  « %s »"
+
+msgid "Last agencies"
+msgstr "Ultimi agenzi"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Docu a cunferma di a me suttuscrizzioni à %s è accetttu i cundizioni "
+"generali"
+
+msgid "from %from_date% to %to_date%"
+msgstr "Da u %from_date% à u %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "ghjorni"
+
+msgid "bedrooms"
+msgstr "camari"
+
+msgid "bedroom"
+msgstr "camara"
+
+msgid "rooms"
+msgstr "pezzi"
+
+msgid "room"
+msgstr "pezza"
+
+msgid "Comments"
+msgstr "Cumenti"
+
+msgid "comment"
+msgstr "cumentu"
+
+msgid "comments"
+msgstr "cumenti"
+
+msgid "Private comment"
+msgstr "Cumentu privatu"
+
+msgid "Private"
+msgstr "Privatu"
+
+msgid "Levels"
+msgstr "Liveddi"
+
+msgid "Level"
+msgstr "Liveddu"
+
+msgid "Exchanges"
+msgstr "Trasfirimenti"
+
+msgid "Exchange"
+msgstr "Trasfirimentu"
+
+msgid "by"
+msgstr "da"
+
+msgid "n.a"
+msgstr "n.c."
+
+msgid "Elevator"
+msgstr "Ascensori"
+
+msgid "no"
+msgstr "nò"
+
+msgid "yes"
+msgstr "iè"
+
+msgid "Printed with care"
+msgstr "Stampatu da noi"
+
+msgid "Please do not litter on public way"
+msgstr "Da ùn ghjittà à nantu à a via publica"
+
+msgid "Non-contractual information"
+msgstr "Infurmazioni micca cuntrattuali"
+
+msgid "Agency fees"
+msgstr "Unurarii d'agenza"
+
+msgid "Agency fees included"
+msgstr "Unurarii d'agenza inclusi"
+
+msgid "Agency fees not included"
+msgstr "Unurarii d'agenza micca inclusi"
+
+msgid "Costs"
+msgstr "Carichi"
+
+msgid "Personal property tax"
+msgstr "Tassa d'abitazioni"
+
+msgid "Style"
+msgstr "Stilu"
+
+msgid "Parkings"
+msgstr "Parcheghji"
+
+msgid "Pictures"
+msgstr "Ritratti"
+
+msgid "Window card"
+msgstr "Scheda vitrina"
+
+msgid "Private sheet"
+msgstr "Scheda privata"
+
+msgid "Public sheet"
+msgstr "Scheda publica"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Cart"
+msgstr "Sporta"
+
+msgid "Land type"
+msgstr "Tippu di tarrenu"
+
+msgid "Property agent"
+msgstr "Amministratori di cuprupiità"
+
+msgid "Account"
+msgstr "Contu"
+
+msgid "End at"
+msgstr "Finisci u"
+
+msgid "Close at"
+msgstr "Chjusu u"
+
+msgid "Set up at"
+msgstr "Principia u"
+
+msgid "Guarantees"
+msgstr "Guaranzii"
+
+msgid "Edit"
+msgstr "Mudificà"
+
+msgid "Type"
+msgstr "Tippu"
+
+msgid "Inter-agencies"
+msgstr "Interagenza"
+
+msgid "Number of floors"
+msgstr "Numaru di piani"
+
+msgid "Evaluated price"
+msgstr "Prezzu stimatu"
+
+msgid "Seller's commission"
+msgstr "Unurariu prupiitariu"
+
+msgid "Buyer's commission"
+msgstr "Unurariu acquistadori"
+
+msgid "Commission"
+msgstr "Unurarii"
+
+msgid "Origin"
+msgstr "Urighjini"
+
+msgid "Specific origin"
+msgstr "Urighjini pricisa"
+
+msgid "Flooring"
+msgstr "Pavimentu"
+
+msgid "Rank"
+msgstr "Pusizioni"
+
+msgid "Calls"
+msgstr "Chjamati"
+
+msgid "Phone call"
+msgstr "Chjamata"
+
+msgid "Publications"
+msgstr "Publicazioni"
+
+msgid "Send to contact"
+msgstr "invià à u cuntattu"
+
+msgid "No results found"
+msgstr "Mancunu risultatu trovu"
+
+msgid "Results"
+msgstr "Risultati"
+
+msgid "Result"
+msgstr "Risultatu"
+
+msgid "results"
+msgstr "risultati"
+
+msgid "result"
+msgstr "risultatu"
+
+msgid "Advertiser"
+msgstr "Annunciadori"
+
+msgid "Active"
+msgstr "Attivu"
+
+msgid "Confidential"
+msgstr "Cunfidenziali"
+
+msgid "Activities"
+msgstr "Attività"
+
+msgid "Companies"
+msgstr "Impresi"
+
+msgid "Save"
+msgstr "Arrighjistrà"
+
+msgid "Succession"
+msgstr "Succissioni"
+
+msgid "Please fill in a city."
+msgstr "Par piaceri, insiriscia una cità"
+
+msgid "Guarantee"
+msgstr "Guaranzia"
+
+msgid "Please fill"
+msgstr "Par piaceri, cumplità"
+
+msgid "The email address is invalid."
+msgstr "l'addrizzu e-mail ùn hè à u furmatu bonu"
+
+msgid "Rights"
+msgstr "Dritti"
+
+msgid "Display"
+msgstr "Affissera"
+
+msgid "Since"
+msgstr "Dapoi"
+
+msgid "Filter"
+msgstr "Filtru"
+
+msgid "Min"
+msgstr "Minimu"
+
+msgid "Max"
+msgstr "Massimu"
+
+msgid "Lessee"
+msgstr "Lucutariu"
+
+msgid "Booking"
+msgstr "Riservà"
+
+msgid "Bed"
+msgstr "Letti"
+
+msgid "Cleaning price"
+msgstr "Prezzu di a pulizia"
+
+msgid "Sent"
+msgstr "Inviatu"
+
+msgid "Year"
+msgstr "Annu"
+
+msgid "years"
+msgstr "Anni"
+
+msgid "month"
+msgstr "mesi"
+
+msgid "Season"
+msgstr "Staghjoni"
+
+msgid "Rates"
+msgstr "Prezzi"
+
+msgid "Todo"
+msgstr "Da fà"
+
+msgid "Brands"
+msgstr "Marchi"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Publicated at"
+msgstr "Publicatu u"
+
+msgid "Networks"
+msgstr "Reti"
+
+msgid "Bank"
+msgstr "Banca"
+
+msgid "Brief comment"
+msgstr "Discrizzioni à l'accorta"
+
+msgid "Delivery at"
+msgstr "Arricata u"
+
+msgid "Reason"
+msgstr "Raghjoni"
+
+msgid "What's new"
+msgstr "Chì ci hè di novu"
+
+msgid "Requests"
+msgstr "Dumandi"
+
+msgid "Request"
+msgstr "Dumanda"
+
+msgid "requests"
+msgstr "dumandi"
+
+msgid "request"
+msgstr "dumanda"
+
+msgid "Current rent"
+msgstr "Affittu attuali"
+
+msgid "Properties"
+msgstr "Prudutti"
+
+msgid "properties"
+msgstr "prudutti"
+
+msgid "property"
+msgstr "pruduttu"
+
+msgid "Bill"
+msgstr "Fattura"
+
+msgid "Calculator"
+msgstr "Calculatrici"
+
+msgid "Birthplace"
+msgstr "Locu di nascita"
+
+msgid "Birthday"
+msgstr "Data di nascita"
+
+msgid "Income"
+msgstr "Rivinuti"
+
+msgid "Margin"
+msgstr "Marghjini"
+
+msgid "Required."
+msgstr "D'obligu"
+
+msgid "Seasonal"
+msgstr "Staghjunali"
+
+msgid "Spoken language"
+msgstr "Lingua parlata"
+
+msgid "Number of children"
+msgstr "Numaru di ziteddi"
+
+msgid "Hotline"
+msgstr "Assistenza"
+
+msgid "Re-type password"
+msgstr "Ripichjà a parolla sicreta"
+
+msgid "Public longitude"
+msgstr "Lungitutini publica"
+
+msgid "Public latitude"
+msgstr "Latitutini publica"
+
+msgid "Access denied"
+msgstr "Accessu ricusatu"
+
+msgid "Access"
+msgstr "Accessu"
+
+msgid "Launch"
+msgstr "Principià"
+
+msgid "Shortcuts"
+msgstr "Accurtatoghji"
+
+msgid "Subscription"
+msgstr "Abbunamentu"
+
+msgid "SEO"
+msgstr "Rifarenzamentu"
+
+msgid "Life annuity length"
+msgstr "Durata vitaliziu"
+
+msgid "Market value"
+msgstr "Valori di marcatu"
+
+msgid "Price contribution"
+msgstr "Apportu iniziali"
+
+msgid "Sharing"
+msgstr "Spartimentu"
+
+msgid "Show more results"
+msgstr "Muscià più risultati"
+
+msgid "Close"
+msgstr "Chjuda"
+
+msgid "Hide"
+msgstr "Piattà"
+
+msgid "Keywords"
+msgstr "Parolli chjavi"
+
+msgid "Corporate register"
+msgstr "Righjistru di u cummerciu"
+
+msgid "Expired soon"
+msgstr "Quasgi scaduti"
+
+msgid "Expired"
+msgstr "Scaduti"
+
+msgid "Agreements"
+msgstr "Mandati"
+
+msgid "Agreement number"
+msgstr "Numaru di mandatu"
+
+msgid "VAT identification number"
+msgstr "TVA intracummunutaria"
+
+msgid "What's on your mind?"
+msgstr "Sprimiti vi..."
+
+msgid "Buyer"
+msgstr "Acquistadori"
+
+msgid "Message sent"
+msgstr "Missaghju inviatu"
+
+msgid "Limit"
+msgstr "Limita"
+
+msgid "Publish"
+msgstr "Publicà"
+
+msgid "Do not publish"
+msgstr "Da ùn publicà"
+
+msgid "Cancel"
+msgstr "Annullà"
+
+msgid "Already suggested"
+msgstr "Dighjà prupostu"
+
+msgid "To suggest"
+msgstr "À prupona"
+
+msgid "Suggest"
+msgstr "Prupona"
+
+msgid "Footer"
+msgstr "Pedi di paghjina"
+
+msgid "Header"
+msgstr "Intestazioni"
+
+msgid "Serviced plot"
+msgstr "Tarrenu campatoghju"
+
+msgid "Net floor area"
+msgstr "Superficia edifichevuli netta"
+
+msgid "Sold price"
+msgstr "Prezzu di a rializazioni"
+
+msgid "Sold at"
+msgstr "Vindutu u"
+
+msgid "Preview"
+msgstr "Primavista"
+
+msgid "Garden area"
+msgstr "Superficia giardinu"
+
+msgid "Payment"
+msgstr "Pacamentu"
+
+msgid "Reopen"
+msgstr "Riapra"
+
+msgid "Completed"
+msgstr "Cumplitatu"
+
+msgid "Complete"
+msgstr "Finitu"
+
+msgid "Total"
+msgstr "Tutalo"
+
+msgid "Coagent"
+msgstr "Cuagenza"
+
+msgid "Residences"
+msgstr "Residenzi"
+
+msgid "%s properties"
+msgstr "%s prudutti"
+
+msgid "%s property"
+msgstr "%s pruduttu"
+
+msgid "%s request"
+msgstr "%s dumanda"
+
+msgid "%s requests"
+msgstr "%s dumandi"
+
+msgid "Characteristics"
+msgstr "Caratteristichi"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Ci scusemu, sta prupiità ùn hè più dispunibuli"
+
+msgid "Processed"
+msgstr "Trattati"
+
+msgid "remaining tickets"
+msgstr "Ticchetti chì fermani"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Filicitazioni ! Più mancunu ticchettu di supportu"
+
+msgid "unassigned tickets"
+msgstr "ticchetti micca assignati"
+
+msgid "All tickets are assigned."
+msgstr "Tutti i ticchetti sò assignati."
+
+msgid "task in progress"
+msgstr "Travaddu in anda"
+
+msgid "Database"
+msgstr "Banca di dati"
+
+msgid "Used"
+msgstr "Utilizatu"
+
+msgid "%s results"
+msgstr "%s risultati"
+
+msgid "Redirects"
+msgstr "Ridirizzioni"
+
+msgid "Subscribe to the newsletter"
+msgstr "Abbunà si à a newsletter"
+
+msgid "Purge"
+msgstr "Sbiutà"
+
+msgid "Valuation methods"
+msgstr "Metudi di valutazioni"
+
+msgid "Rebuild cost"
+msgstr "Costu di rifà lu à novu"
+
+msgid "Capitalization"
+msgstr "Capitalizazioni"
+
+msgid "Comparative market analysis"
+msgstr "Studiu paragunativu di u marcatu"
+
+msgid "An average of"
+msgstr "Una media di"
+
+msgid "Your own valuation"
+msgstr "A voscia propia valutazioni"
+
+msgid "Desired profitability"
+msgstr "Renditabilità vulsuta"
+
+msgid "Taxes and/or fees"
+msgstr "Tassi è/o carichi"
+
+msgid "Year of purchase"
+msgstr "Annata di compra"
+
+msgid "Rental income"
+msgstr "Pighjò"
+
+msgid "Price of purchase"
+msgstr "Prezzu di compra"
+
+msgid "Land price"
+msgstr "Prezzu di u tarrenu"
+
+msgid "Cost of construction"
+msgstr "Costu di a custruzzioni"
+
+msgid "Interior fittings"
+msgstr "Accunciamentu internu"
+
+msgid "Landscaping"
+msgstr "Accunciamentu di u fora"
+
+msgid "Decrepitude"
+msgstr "Vetustà"
+
+msgid "Capital losses"
+msgstr "Perditi di valori"
+
+msgid "Capital gains"
+msgstr "Valori in crescita"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "A voscia scatula mail trapassa a so capacità di mimurizazioni (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "A voscia scatula mail hè quasgi piena"
+
+msgid "Sort by"
+msgstr "Filtrà incù"
+
+msgid "Condominium in difficulty"
+msgstr "Cuprupiità in dificultà"
+
+msgid "Back to the list"
+msgstr "Vultà à u listinu"
+
+msgid "Previous listing"
+msgstr "Annunciu pricidenti"
+
+msgid "Next listing"
+msgstr "Annunciu siguenti"
+
+msgid "empty"
+msgstr "biotu"
+
+msgid "Filename"
+msgstr "Nomu di u cartulari"
+
+msgid "Keyword"
+msgstr "Parolla chjavi"
+
+msgid "New feed"
+msgstr "Novu flussu"
+
+msgid "Errors"
+msgstr "Sbagli"
+
+msgid "Error"
+msgstr "Sbagliu"
+
+msgid "Erase all"
+msgstr "Sfassà tuttu"
+
+msgid "Try"
+msgstr "Pruvà"
+
+msgid "Query"
+msgstr "Richiesta"
+
+msgid "Agency fees payable by vendor"
+msgstr "Unurariu carica vindidori"
+
+msgid "Agency fees payable by buyer"
+msgstr "Unurariu carica cumpradori"
+
+msgid "Condominium fees"
+msgstr "Carichi di cuprupiità"
+
+msgid "An error occurred"
+msgstr "Hè successu un sbagliu"
+
+msgid "Successful subscription"
+msgstr "Abbunamentu riisciutu"
+
+msgid "Created date"
+msgstr "Data di criazioni"
+
+msgid "Updated date"
+msgstr "Data di missa à ghjornu"
+
+msgid "Back to homepage"
+msgstr "Ritornu à l'accolta"
+
+msgid "Price min"
+msgstr "Prezzu min"
+
+msgid "Price max"
+msgstr "Prezzu max"
+
+msgid "Bedroom min"
+msgstr "Camara min"
+
+msgid "Bedroom max"
+msgstr "Camara max"
+
+msgid "Room min"
+msgstr "Pezza min"
+
+msgid "Room max"
+msgstr "Pezza max"
+
+msgid "Project at"
+msgstr "Prughjettu u"
+
+msgid "Agency rate"
+msgstr "Tassu agenza"
+
+msgid "Tenant's commission"
+msgstr "Unurariu lucatariu"
+
+msgid "Inventory tenant charge"
+msgstr "Invintoriu à a carica di u lucatariu"
+
+msgid "Fees included"
+msgstr "Carichi cumpresi"
+
+msgid "Provision on recoverable fees"
+msgstr "Pruvista à nantu à carichi ricuparevuli"
+
+msgid "Never"
+msgstr "Mai"
+
+msgid "Remaining credits"
+msgstr "Crediti chì fermani"
+
+msgid "Buy credits"
+msgstr "Cumprà crediti"
+
+msgid "%s credits"
+msgstr "% crediti"
+
+msgid "Transaction fees"
+msgstr "Spesi di transazzioni"
+
+msgid "View property"
+msgstr "Veda u bè"
+
+msgid "lot available"
+msgstr "lottu dispunibuli"
+
+msgid "lots available"
+msgstr "lotti dispunibuli"
+
+msgid "Area min"
+msgstr "Superficia min"
+
+msgid "Search a property"
+msgstr "Ricircheti un bè"
+
+msgid "International"
+msgstr "Internaziunali"
+
+msgid "Unsubscribe"
+msgstr "Disabbunà"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "U pruduttu ùn pudarà essa diffusatu chì hè in u gruppu « %s »"
+
+msgid "%s months"
+msgstr "%s mesi"
+
+msgid "No action after"
+msgstr "Senza azzioni dopu"
+
+msgid "%s pending delete"
+msgstr "%s in attesa di supprissioni"
+
+msgid "Pending delete"
+msgstr "Attesa di supprissioni"
+
+msgid "%s to delete"
+msgstr "%s à cavà"
+
+msgid "Unsubscribed"
+msgstr "Disabbunatu"
+
+msgid "Edit my search"
+msgstr "Mudificà a me ricerca"
+
+msgid "Activate my search"
+msgstr "Attivà a me ricerca"
+
+msgid "Cancel my search"
+msgstr "Annullà a me ricerca"
+
+msgid "Only authorized properties"
+msgstr "Solu i prudutti auturizati"
+
+msgid "Another currency"
+msgstr "Altra muneta"
+
+msgid "Enter the first 6 digits"
+msgstr "Scriva i 6 primi sciffri"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Senza azzioni da parti voscia, u cuntattu sarà cavatu u %s"
+
+msgid "No procedure in progress"
+msgstr "Micca prucidimentu in anda"
+
+msgid "Procedure in progress"
+msgstr "Prucidimentu in anda"
+
+msgid "Number of lots in the condominium"
+msgstr "Numaru di lotti in a cuprupiità"
+
+msgid "Network authorized"
+msgstr "Gruppamentu auturizatu"
+
+msgid "Renew the lease"
+msgstr "Rinnuvà u cuntrattu"
+
+msgid "Remove at"
+msgstr "Cavà u"
+
+msgid "External action"
+msgstr "Azzioni da fora"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Trasfurmà u vosciu clienti putinziali in cuntattu parmittarà di fà "
+"incruciamenti è di assigurà un trattamentu pertinenti"
+
+msgid "floors"
+msgstr "piani"
+
+msgid "Job"
+msgstr "Prufissioni"
+
+msgid "Unsuscribe from this list"
+msgstr "Disabbunà si di sta lista"
+
+msgid "Entry"
+msgstr "Intrata"
+
+msgid "Exit"
+msgstr "Surtita"
+
+msgid "Secured"
+msgstr "Sigurizatu"
+
+msgid "Opacity"
+msgstr "Upacità"
+
+msgid "Left"
+msgstr "Manca"
+
+msgid "Top"
+msgstr "Altu"
+
+msgid "Relative to the last element"
+msgstr "Rilativu à l'ultimu elementu"
+
+msgid "Align"
+msgstr "Aliniamentu"
+
+msgid "Border size"
+msgstr "Dimensioni di u bordu"
+
+msgid "Border color"
+msgstr "Culori di u bordu"
+
+msgid "Size of the internal margin"
+msgstr "Dimensioni di a marghjini interna"
+
+msgid "Font color"
+msgstr "Culori di i carattari"
+
+msgid "Font size"
+msgstr "Dimensioni di i carattari"
+
+msgid "Background color"
+msgstr "Culori di fondu"
+
+msgid "Custom image"
+msgstr "Imaghjina parsunalizata"
+
+msgid "custom"
+msgstr "parsunalizatu"
+
+msgid "Right"
+msgstr "Drittu"
+
+msgid "Center"
+msgstr "Centru"
+
+msgid "Justified"
+msgstr "Ghjustificatu"
+
+msgid "Transparency"
+msgstr "Trasparenza"
+
+msgid "Line height"
+msgstr "Altezza di a linea"
+
+msgid "Uppercase"
+msgstr "Maiuscula"
+
+msgid "Price proposal"
+msgstr "Pruposta di prezzu"
+
+msgid "Template"
+msgstr "Mudellu"
+
+msgid "Publication date"
+msgstr "Data di publicazioni"
+
+msgid "Recovered at"
+msgstr "Ricuparatu u"
+
+msgid "Allow all"
+msgstr "Auturizà tuttu"
+
+msgid "Private position is not set, click here to update."
+msgstr "A pusizioni privata ùn hè indicata, cliccheti quì pà pricisà la."
+
+msgid "Public position is not set, click here to update."
+msgstr "A pusizioni publica ùn hè indicata, cliccheti quì pà pricisà la."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+
+msgid "Activate"
+msgstr "Attivà"
+
+msgid "Disable"
+msgstr "Disattivà"
+
+msgid "Unblock"
+msgstr "Sbluccà"
+
+msgid "Area max"
+msgstr "Superficia max"
+
+msgid "Plot of land area min"
+msgstr "Superficia tarrenu min"
+
+msgid "Plot of land area max"
+msgstr "Superficia tarrenu max"
+
+msgid "Date descending"
+msgstr "Data scriscenti"
+
+msgid "Date ascending"
+msgstr "Data criscenti"
+
+msgid "Price descending"
+msgstr "Prezzu scriscenti"
+
+msgid "Price ascending"
+msgstr "Prezzu criscenti"
+
+msgid "Balance"
+msgstr "Bilanciu"
+
+msgid "Construction method"
+msgstr "Metudu di custruzzioni"
+
+msgid "Tax code"
+msgstr "Numaru fiscali"
+
+msgid "Downsides"
+msgstr "Svantaghji"
+
+msgid "Assets"
+msgstr "Vantaghji"
+
+msgid "Please select a district from the list:"
+msgstr "À ringrazià vi di sciuvarà un quartieri in u listinu :"
+
+msgid "Non-flood zone"
+msgstr "Zona micca inundevuli"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Zona putinzialmenti inundevuli"
+
+msgid "Recognized flood zone"
+msgstr "Zona inundevuli ricunnisciuta"
+
+msgid "Delimited flood zone"
+msgstr "Zona inundevuli delimitata"
+
+msgid "Cadastre"
+msgstr "Cadastru"
+
+msgid "Delimited waterside zone"
+msgstr "Zona ribbariali delimitata"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Zona putinzialmenti inundevuli in una zona inundevuli delimitata"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Zona inundevuli ricunnisciuta in una zona ribbariali delimitata"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Zona inundevuli ricunnisciuta in una zona inundevuli delimitata"
+
+msgid "Profile"
+msgstr "Prufilu"
+
+msgid "Export"
+msgstr "Esportu"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "Document"
+msgstr "Ducumentu"
+
+msgid "Partner"
+msgstr "Partinariu"
+
+msgid "Signage"
+msgstr "Panneddu"
+
+msgid "Forecast"
+msgstr "Privisioni"
+
+msgid "Area ascending"
+msgstr "Superficia criscenti"
+
+msgid "Area descending"
+msgstr "Superficia scriscenti"
+
+msgid "%s awaiting review(s)"
+msgstr "%s parè in attesa"
+
+msgid "To review"
+msgstr "Da riveda"
+
+msgid "Net seller"
+msgstr "Nettu vindidori"
+
+msgid "Price displayed"
+msgstr "Prezzu publicu"
+
+msgid "Rental price"
+msgstr "Prezzu di a lucazioni"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Prezzu espostu : %s, tassu indicativu"
+
+msgid "%s units"
+msgstr "%s lotti"
+
+msgid "%s unit"
+msgstr "%s lottu"
+
+msgid "Method"
+msgstr "Metudu"
+
+msgid "Path"
+msgstr "Parcursu"
+
+msgid "Pagebreak"
+msgstr "Saltu di paghjina"
+
+msgid "Paragraph"
+msgstr "Paragrafu"
+
+msgid "Spacing"
+msgstr "Spaziu"
+
+msgid "Scale"
+msgstr "Scala"
+
+msgid "Color"
+msgstr "Culori"
+
+msgid "lines"
+msgstr "Linei"
+
+msgid "Positioning"
+msgstr "Pusiziunamentu"
+
+msgid "Border"
+msgstr "Bordu"
+
+msgid "Social networks"
+msgstr "Reti suciali"
+
+msgid "Save settings"
+msgstr "Arrighjistrà i parametri"
+
+msgid "Delete settings"
+msgstr "Cavà i parametri"
+
+msgid "never"
+msgstr "mai"
+
+msgid "Facades"
+msgstr "Facciata"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "Sciuvareti a paghjina induva vuleti publicà i vosci annunci"
+
+msgid "Unique publication identifier"
+msgstr "Rifarenza unica di publicazioni"
+
+msgid "No active transfer"
+msgstr "Mancunu trasferimentu attivu"
+
+msgid "Publication report"
+msgstr "Rapportu di publicazioni"
+
+msgid "Click here to view the publication."
+msgstr "Cliccheti quì pà veda a publicazioni"
+
+msgid "Your listing is now online."
+msgstr "U vosciu annunciu hè avà in linea"
+
+msgid "Share on …"
+msgstr "Sparta à nantu à..."
+
+msgid "Add the feature for:"
+msgstr "Aghjustà a funziunalità pà :"
+
+msgid "The agency"
+msgstr "l'agenza"
+
+msgid "The whole company"
+msgstr "Tutta l'impresa"
+
+msgid "The whole brand"
+msgstr "Tuttu u gruppu di a marca"
+
+msgid "Wrong number"
+msgstr "Numaru sbagliatu"
+
+msgid "Padding"
+msgstr "Marghjini interna"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "e-mail sbagliatu o e-mail troppu pisanti"
+
+msgid "Empty e-mail"
+msgstr "e-mail biotu"
+
+msgid "Wrong e-mail"
+msgstr "e-mail sbagliatu"
+
+msgid "Wrong spouse's e-mail"
+msgstr "e-mail di u cunghjuntu sbagliatu"
+
+msgid "Starting from floor"
+msgstr "À parta si da u pianu"
+
+msgid "Please report to our documentation."
+msgstr "À ringrazià vi di cunsultà a noscia ducumentazioni"
+
+msgid "Your email server does not authorize us to send an email."
+msgstr "U vosciu sirvori e-mail ùn ci dà l'auturizazioni di mandà un e-mail"
+
+msgid "Not suggested"
+msgstr "Micca prupostu"
+
+msgid "Quick view"
+msgstr "Vista rapida"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"Sta funziunalità abbisogna di u lugiziali WhatsApp Web. Nanzi d’utilizà la, "
+"ci voli à telecaricà la è lià la à u vosciu smartphone."
+
+msgid "Add a lead"
+msgstr "Aghustà un clienti putinziali"
+
+msgid "Configure"
+msgstr "Cunfigurà"
+
+msgid "Display the address"
+msgstr "Cunsultà l'addrizzi"
+
+msgid "Display the contact"
+msgstr "Cunsultà i cuntatti"
+
+msgid "Display the contact details"
+msgstr "Cunsultà l'infurmazioni cunfindenziali di i cuntatti"
+
+msgid "Display the contact name"
+msgstr "Cunsultà u nomu di u cuntattu"
+
+msgid "Read"
+msgstr "Littura"
+
+msgid "Write"
+msgstr "Scrittura"
+
+msgid "Private details"
+msgstr "Infurmazioni privati"
+
+msgid "Private documents"
+msgstr "Ducumenti privati"
+
+msgid "Public documents"
+msgstr "Ducumenti publichi"
+
+msgid "Order"
+msgstr "Cummandà"
+
+msgid "National"
+msgstr "Naziunali"
+
+msgid "Unavailable"
+msgstr "Indispunibuli"
+
+msgid "Period"
+msgstr "Periudu"
+
+msgid "Repair"
+msgstr "Riparà"
+
+msgid "Complain"
+msgstr "Lagnanza"
+
+msgid "Reporting"
+msgstr "Signalamentu"
+
+msgid "Moderator"
+msgstr "Muderatori"
+
+msgid "%s guests"
+msgstr "%s invitati"
+
+msgid "%s guest"
+msgstr "%s invitatu"
+
+msgid "Referrals"
+msgstr "Purtadori"
+
+msgid "%s bed"
+msgstr "%s letti"
+
+msgid "Old user"
+msgstr "Anzianu utilizatori"
+
+msgid "New user"
+msgstr "Novu utilizatori"
+
+msgid "Apply on requests"
+msgstr "Appiicà à i dumandi"
+
+msgid "Apply on properties"
+msgstr "Appiicà à i prudutti"
+
+msgid "Forthcoming"
+msgstr "À vena"
+
+msgid "Past"
+msgstr "Passatu"
+
+msgid "Click here to join the webinar."
+msgstr "Cliccheti quì pà raghjunghja a furmazioni in linea."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "Aveti un appuntamentu in %hours% ora(i) et %minutes% minuta(i)"
+
+msgid "Your training of %s"
+msgstr "A voscia furmazioni di u %s"
+
+msgid "(or)"
+msgstr "(o)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Dà l'accessu à l'utilizatori o à u cuntattu"
+
+msgid "Improve the quality of some photos."
+msgstr "Migliurà a qualità di certi ritratti."
+
+msgid "Click here to highlight them."
+msgstr "Cliccheti quì pà metta li in risaltu."
+
+msgid "Documentation"
+msgstr "Ducumentazioni"
+
+msgid "Payments"
+msgstr "Pacamenti"
+
+msgid "Store"
+msgstr "Buttega"
+
+msgid "Cooling-off end at"
+msgstr "Fini periudu di riflissioni"
+
+msgid "Accuracy of appraisal"
+msgstr "Asattezza di l'estimu"
+
+msgid "Fees details"
+msgstr "Dittagliu di i carichi"
+
+msgid "Funding"
+msgstr "Finanzamentu"
+
+msgid "Personal contribution"
+msgstr "Cuntribuzioni parsunali"
+
+msgid "Mortgage amount"
+msgstr "Muntanti imprestu"
+
+msgid "Accepted at"
+msgstr "Accittatu u"
+
+msgid "Pre-fill"
+msgstr "Preriempia"
+
+msgid "Register"
+msgstr "Righjistru"
+
+msgid "Contracted at"
+msgstr "Cuntrattatu u"
+
+msgid "Records"
+msgstr "Arrighjistramenti"
+
+msgid "Property valuation"
+msgstr "Parè di valori"
+
+msgid "Selected properties"
+msgstr "Bè selezziunati"
+
+msgid "Conclusion"
+msgstr "Chjusura"
+
+msgid "Final opinion between"
+msgstr "Parè finali trà"
+
+msgid "Net annual rental"
+msgstr "Pighjò stretti annuali"
+
+msgid "Selected year"
+msgstr "Annu ritinutu"
+
+msgid "Subscribers"
+msgstr "Abbunati"
+
+msgid "Signages"
+msgstr "Panneddi"
+
+msgid "Member of your network"
+msgstr "Membru di a voscia reti"
+
+msgid "Member of %s"
+msgstr "Membru di %s"
+
+msgid "Spoken languages"
+msgstr "Lingue parlate"
+
+msgid "Professionals"
+msgstr "Prufiziunali"
+
+msgid "Occupant"
+msgstr "Uccuppante"
+
+msgid "Toilet"
+msgstr "Cabinettu"
+
+msgid "Help"
+msgstr "Aiutu"
+
+msgid "Show pagination"
+msgstr "Mostra a paginazione"
+
+msgid "Mandatory fields"
+msgstr "Campi obligatori"
+
+msgid "Available soon"
+msgstr "Dispunibuli da quì à pocu"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Contrattu finisciu u\n"
+"#-#-#-#-#  apimo-co.po  #-#-#-#-#\n"
+"Fine di u cuntrattu à"
+
+msgid "Incomplete"
+msgstr "Incompletu"
+
+msgid "Location Map"
+msgstr "Mappa di locu"
+
+msgid "User Detail"
+msgstr "Dettagliu di l'utilizatore"
+
+msgid "File size"
+msgstr "Dimensione di u fugliale"
+
+msgid "File title"
+msgstr "Titulu di u fugliale"
+
+msgid "Region"
+msgstr "Regioni"
+
+msgid "Bath"
+msgstr "Bagnu"
+
+msgid "Private Negotiation"
+msgstr "Negoziazione privata"
+
+msgid "Property specifications"
+msgstr "Specificazioni di a pruprietà"
+
+msgid "Energy performance"
+msgstr "Rendimentu energetico"
+
+msgid "Media Details"
+msgstr "Dettagli di i media"
+
+msgid "View Video"
+msgstr "Vede u video"
+
+msgid "Start Date"
+msgstr "Data di iniziu"
+
+msgid "End Date"
+msgstr "Data di fine"
+
+msgid "Welcome"
+msgstr "Benvenutu"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Vede ciò chì succede cù u plugin Apimo."
+
+msgid "PROVIDERS"
+msgstr "FORNITORI"
+
+msgid "AGENCIES"
+msgstr "AGENZIE"
+
+msgid "PROPERTIES"
+msgstr "PROPRIETÀ"
+
+msgid "BOOKMARK"
+msgstr "SEGNA PAGINA"
+
+msgid "Remove all"
+msgstr "Rimuovi tutto"
+
+msgid "Apply filter"
+msgstr "Applica filtro"
+
+msgid "Select Subtype"
+msgstr "Scelta sottutipu"
+
+msgid "Enchère"
+msgstr "Asta"
+
+msgid "Location"
+msgstr "Affitto"
+
+msgid "Location saisonnière"
+msgstr "Locazione stagionale"
+
+msgid "From"
+msgstr "Da"
+
+msgid "To"
+msgstr "À"
+
+msgid "Dates"
+msgstr "Date"
+
+msgid "Select country"
+msgstr "Selezionà paese"
+
+msgid "Select region"
+msgstr "Selezionà regione"
+
+msgid "Select district"
+msgstr "Selezionà distrittu"
+
+msgid "Select city"
+msgstr "Selezionà cità"
+
+msgid "Good"
+msgstr "Bene"
+
+msgid "Bad"
+msgstr "Bad"
+
+msgid "hello"
+msgstr "Bonghjornu"

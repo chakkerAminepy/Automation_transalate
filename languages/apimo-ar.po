@@ -1,0 +1,5754 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\"\"Language: ar\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "تذكير"
+
+msgid "Suggestion"
+msgstr "اقتراح"
+
+#, fuzzy
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تقرير\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"أبلغ"
+
+msgid "Other"
+msgstr "آخر"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تخمين\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تقييم\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تقييم"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"إِعلان\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"إِعلان\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الإشهار"
+
+msgid "Open House"
+msgstr "أبواب مفتوحة"
+
+msgid "Canvassing"
+msgstr "بحث عن"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "After-sales"
+msgstr "ما بعد البيع"
+
+msgid "Visit"
+msgstr "زيارة"
+
+msgid "Survey"
+msgstr "اِستَفتَاء"
+
+msgid "Appointment"
+msgstr "موعد"
+
+#, fuzzy
+msgid "Phone"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"هاتف\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"رقم الهاتف\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"رقم الهاتف"
+
+msgid "e-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Fax"
+msgstr "الفاكس"
+
+msgid "Mail"
+msgstr "بريد"
+
+msgid "SMS"
+msgstr "الرسائل القصيرة"
+
+msgid "Walk-in"
+msgstr "الممر"
+
+msgid "Extranet"
+msgstr "الشبكة الخارجية"
+
+msgid "Reservation"
+msgstr "حجز"
+
+#, fuzzy
+msgid "Signed"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"وُقّعَت\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"وقعت"
+
+msgid "Canceled"
+msgstr "ملغي"
+
+msgid "Transaction"
+msgstr "بَيعَة"
+
+msgid "Rental management"
+msgstr "إدارة الإيجار"
+
+msgid "Project"
+msgstr "مشروع"
+
+msgid "Under construction"
+msgstr "قيد الانشاء"
+
+msgid "Delivered"
+msgstr "تم التوصيل"
+
+msgid "Ended"
+msgstr "انتهى"
+
+msgid "Mr."
+msgstr "السَيد"
+
+msgid "Mrs."
+msgstr "السَيدة"
+
+msgid "Ms."
+msgstr "آنسة"
+
+msgid "Mr. & Mrs."
+msgstr "السيد و السيدة"
+
+msgid "Sheik"
+msgstr "الشيخ"
+
+msgid "Duke"
+msgstr "الدوق"
+
+msgid "Duchess"
+msgstr "الدوقة"
+
+msgid "Lord"
+msgstr "اللورد"
+
+msgid "Maître"
+msgstr "المعلم"
+
+msgid "Professor"
+msgstr "أستاذ"
+
+msgid "Sir"
+msgstr "سيدي"
+
+msgid "Engineer"
+msgstr "مهندس"
+
+msgid "Notary"
+msgstr "كاتب عدل"
+
+msgid "Lawyer"
+msgstr "محامي"
+
+msgid "Accountant"
+msgstr "المحاسب"
+
+msgid "Colonel"
+msgstr "كولونيل"
+
+msgid "Architetto"
+msgstr "مهندس معماري"
+
+msgid "Plan"
+msgstr "مخطط"
+
+msgid "Identity papers"
+msgstr "أوراق الهوية"
+
+#, fuzzy
+msgid "Diagnostics"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"التشخيص\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"التشخيصات"
+
+#, fuzzy
+msgid "Agreement"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"اتفاق\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الإتَفاقية"
+
+msgid "Contract"
+msgstr "عقد"
+
+msgid "Condominium"
+msgstr "الملكية المشتركة"
+
+msgid "Maintenance"
+msgstr "صيانة"
+
+#, fuzzy
+msgid "Appraisal"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"توصيه\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تقديري\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تقديري"
+
+msgid "Brochure"
+msgstr "كتيب الإعلان"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+#, fuzzy
+msgid "Lease"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"عقد الإيجار\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"عقد الإتجار"
+
+msgid "Inventory"
+msgstr "المخزون"
+
+msgid "Title deeds"
+msgstr "سند الملكية"
+
+msgid "Application"
+msgstr "طلب"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"أنظمة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تنظيم"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Electricity"
+msgstr "كهرباء"
+
+msgid "Water"
+msgstr "ماء"
+
+msgid "Maintenance of common areas"
+msgstr "صيانة المساحة المشتركة"
+
+msgid "Waste collection"
+msgstr "جمع النفايات"
+
+#, fuzzy
+msgid "Heating"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جهاز التدفئة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تدفئة"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الماء الساخن\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ماء ساخن\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الماء الساخن"
+
+msgid "Heating maintenance"
+msgstr "صيانة جهاز التدفئة"
+
+#, fuzzy
+msgid "Property tax"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الضريبة العقارية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ضريبة الأملاك"
+
+#, fuzzy
+msgid "Concierge"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"البوّاب\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حراسة العمارة"
+
+msgid "Chimney-sweeping"
+msgstr "تنظيف المداخن"
+
+msgid "Sanitation"
+msgstr "صيانة الصرف الصحي"
+
+#, fuzzy
+msgid "Contact"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جهة اتصال\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جهة إتَصال"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Owner"
+msgstr "مالك"
+
+msgid "e-mail alert"
+msgstr "تنبيه عبر البريد الإلكتروني"
+
+msgid "Send to a friend"
+msgstr "أرسل إلى صديق"
+
+msgid "Newsletter"
+msgstr "رسالة إخبارية ترسل عن طريق البريد الإلكتروني."
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"اختيار\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"إختيار"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "Opened"
+msgstr "مفتوح"
+
+msgid "Processing"
+msgstr "قيد الانجاز"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مغلق\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"انتهى\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مغلق"
+
+msgid "Self-employed"
+msgstr "مهنة حرَة"
+
+msgid "Bakery"
+msgstr "مخبزة"
+
+msgid "Restaurant"
+msgstr "مطعم"
+
+msgid "Press"
+msgstr "صحافة"
+
+msgid "Bar"
+msgstr "حانة"
+
+msgid "Florist"
+msgstr "بائع الزَهور"
+
+msgid "Tobacconist"
+msgstr "كشك تبغ"
+
+msgid "Clothes"
+msgstr "جاهز"
+
+msgid "Chemist"
+msgstr "صيدليَة"
+
+msgid "Shopping centre"
+msgstr "مركز تجاري"
+
+msgid "Travel agency"
+msgstr "وكالة أسفار"
+
+msgid "Real estate agent"
+msgstr "وكالة عقاريَة"
+
+#, fuzzy
+msgid "Gallery"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فضاء\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"معرض"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مأوى سيَارة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مأوى"
+
+msgid "Insurer"
+msgstr "المؤمَن لديه"
+
+msgid "Optician"
+msgstr "بائع النَظارات"
+
+msgid "Perfumery"
+msgstr "محل عطور"
+
+#, fuzzy
+msgid "Hotel"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"نزل\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فندق\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فندق"
+
+msgid "Antique dealer"
+msgstr "بيع أشياء أثريَة و نادرة"
+
+msgid "Laundry"
+msgstr "محل غسل الثَياب"
+
+msgid "Pressing"
+msgstr "غسل الثَياب بالشَائح"
+
+msgid "Jeweller"
+msgstr "مجوهرات"
+
+msgid "Grocery"
+msgstr "مواد غذائيَة عامَة"
+
+msgid "Butcher"
+msgstr "مجزرة"
+
+msgid "Caterer"
+msgstr "مطعم الوجبات الجاهزة"
+
+msgid "Brewery"
+msgstr "مصنع الجعة"
+
+msgid "Snack"
+msgstr "وجبة خفيفة"
+
+msgid "Confectioner"
+msgstr "بيع حلويَات"
+
+msgid "Pork butcher"
+msgstr "جزار لحم الخنزير"
+
+msgid "Cheesemonger"
+msgstr "تاجر الجبن"
+
+msgid "Fruit and vegetables"
+msgstr "بائع خضار و غلال"
+
+msgid "Sex shop"
+msgstr "محلَ الجنس."
+
+msgid "Video game"
+msgstr "ألعاب الفيديو"
+
+msgid "Computer"
+msgstr "إعلاميَة"
+
+msgid "Hairdresser"
+msgstr "حلَاق"
+
+msgid "Cosmetician"
+msgstr "عمليَات تجميل"
+
+msgid "Household electrical"
+msgstr "مواد منزليَة"
+
+msgid "Shoes"
+msgstr "أحذية"
+
+msgid "Haberdasher"
+msgstr "الخردوات"
+
+msgid "Groomer"
+msgstr "فني في صيانة الكلاب"
+
+msgid "Tea room"
+msgstr "قاعة شاي"
+
+#, fuzzy
+msgid "Beach"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"شاطىء\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الشَاطىء"
+
+msgid "Bookshop"
+msgstr "مكتبة"
+
+msgid "Offices"
+msgstr "مكاتب"
+
+msgid "Gas station"
+msgstr "محطة وقود"
+
+msgid "Camping"
+msgstr "التخييم"
+
+msgid "Nightclub"
+msgstr "ديسكو"
+
+msgid "Pet store"
+msgstr "دكان الحيوانات الأليفة"
+
+msgid "Video arcade"
+msgstr "غرفة ألعاب"
+
+msgid "Office supplies"
+msgstr "المستلزمات المكتبية"
+
+msgid "Furniture"
+msgstr "أثاث"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تزويق/ تزيين\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"زخرفة / تزيين"
+
+msgid "Agriculture"
+msgstr "زراعة"
+
+msgid "Photo"
+msgstr "صورة"
+
+msgid "Drugstore"
+msgstr "صيدلية"
+
+msgid "Locksmith"
+msgstr "قفل"
+
+msgid "Health club"
+msgstr "نادي صحي"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"سيارة أجرة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"سيَارة أجرة"
+
+msgid "Cinema"
+msgstr "سينما"
+
+msgid "Theater"
+msgstr "مسرح"
+
+msgid "Café"
+msgstr "قهوة"
+
+msgid "Garden centre"
+msgstr "بستان"
+
+msgid "Hardware shop"
+msgstr "صيانة"
+
+msgid "Fishmongers"
+msgstr "بائع السمك"
+
+msgid "Recreation"
+msgstr "الترفيه"
+
+msgid "Culture"
+msgstr "ثقافي"
+
+msgid "Funeral"
+msgstr "جنازة"
+
+msgid "Agritourism"
+msgstr "السياحة الريفية"
+
+msgid "Sport supplies"
+msgstr "لوازم رياضية"
+
+msgid "Room"
+msgstr "غرفة"
+
+msgid "Living-room"
+msgstr "صالة الإستقبال"
+
+msgid "Kitchen"
+msgstr "المطبخ"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مأوى سيَارات\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"موقف سيارات\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"موقف سيارات"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"قبو\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مخزن أرضية"
+
+msgid "Garden shelter"
+msgstr "سقيفة حديقة"
+
+msgid "Shower room"
+msgstr "بيت الإستحمام"
+
+msgid "Laundry room"
+msgstr "غرفة غسيل الملابس"
+
+msgid "Study"
+msgstr "مكتب"
+
+msgid "Hallway"
+msgstr "مَر"
+
+msgid "Corridor"
+msgstr "إ نقاذ, تخليص"
+
+msgid "Walk-in wardrobe"
+msgstr "غرفة دولاب الملابس"
+
+msgid "Entrance"
+msgstr "دخول"
+
+msgid "Lavatory"
+msgstr "مرحاض"
+
+msgid "Veranda"
+msgstr "شرفة الشمس"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"شرفة كبيرة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الشَرفة"
+
+msgid "Solarium"
+msgstr "مكان يحتوي علي أشعة شمس"
+
+msgid "Living room/dining area"
+msgstr "إقامة"
+
+msgid "Play room"
+msgstr "قاعة ألعاب"
+
+msgid "Dining room"
+msgstr "قاعة الطَعام"
+
+msgid "Pool house"
+msgstr "مسبح بمنزل"
+
+msgid "Cupboard"
+msgstr "خزانة"
+
+msgid "Not used"
+msgstr "ليست مستغلَة"
+
+msgid "Loggia"
+msgstr "شرفة مغطاة تقع عموما في الطوابق"
+
+msgid "Attic"
+msgstr "سندرة"
+
+msgid "Mezzanine"
+msgstr "طابق الاوسط"
+
+msgid "Pantry"
+msgstr "كهف, قبو"
+
+msgid "Maintenance room"
+msgstr "غرفة تقنية"
+
+#, fuzzy
+msgid "Workshop"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ورشة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ورشة عمل"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ستوديو\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"استوديو"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"طابق علوي\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الشقة العلوية"
+
+msgid "Library"
+msgstr "مكتبة"
+
+msgid "Closet"
+msgstr "خزانة صغيرة"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ساحة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فناء"
+
+msgid "Landing"
+msgstr "درج الهبوط"
+
+msgid "Linen room"
+msgstr "الملابس الداخلية"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الطَابق تحت الأرضي\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الطابق السفلي"
+
+msgid "Shower room / Lavatory"
+msgstr "بيت الإستحمام/مرحاض"
+
+#, fuzzy
+msgid "Balcony"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الشَرفة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الشرفة"
+
+msgid "Exercise room"
+msgstr "قاعة الرَياضة"
+
+msgid "Discothèque"
+msgstr "علبة ليليَة"
+
+msgid "Home cinema"
+msgstr "سينما"
+
+msgid "Reception room"
+msgstr "قاعة الإستقبال"
+
+msgid "Storage room"
+msgstr "تخلص"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حديقة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حديقة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الحديقة"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حديقة رياضة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حديقة رياضة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"منتزه"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ميدان\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"قطعة أرض"
+
+msgid "Patio"
+msgstr "فناء, باحة"
+
+msgid "Principal bedroom"
+msgstr "غرفة نوم رئيسية"
+
+msgid "Suite"
+msgstr "جناح"
+
+msgid "Shed"
+msgstr "خصم"
+
+msgid "Apartment"
+msgstr "شقَة"
+
+msgid "Cabin"
+msgstr "حجرة خصوصية"
+
+msgid "Barn"
+msgstr "مأوى سيَارة"
+
+msgid "Outbuilding"
+msgstr "تبعية"
+
+msgid "Bike storage room"
+msgstr "مقَر للدرَاجات"
+
+msgid "Ski storage room"
+msgstr "غرفة التزلج"
+
+msgid "Garbage room"
+msgstr "سلَة المهملات"
+
+msgid "Steam room"
+msgstr "حمَام"
+
+msgid "Indoor swimming pool"
+msgstr "حمام سباحة داخلي"
+
+msgid "Prayer room"
+msgstr "غرفة الصلاة"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"ساونا\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حمَام بخار"
+
+msgid "Watchtower"
+msgstr "برج المراقبة"
+
+msgid "Meeting room"
+msgstr "قاعة الإجتماعات"
+
+msgid "Maid's room"
+msgstr "غرفة الخدمة"
+
+msgid "Maid's studio"
+msgstr "استوديو الخدمة"
+
+msgid "Double reception room"
+msgstr "استقبال مزدوج"
+
+msgid "Triple reception room"
+msgstr "استقبال ثلاثي"
+
+msgid "Indoor parking"
+msgstr "مو قف سيارات في مكان مغلق"
+
+msgid "Outdoor parking"
+msgstr "موقف سيارات خارجي"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مخزن\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مستودع\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مستودع"
+
+msgid "Shop"
+msgstr "تجارة"
+
+msgid "Cafeteria"
+msgstr "كافيتيريا"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حدة سكنية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"قطع أرض"
+
+msgid "Accommodation"
+msgstr "سكن"
+
+msgid "Hall"
+msgstr "رواق"
+
+msgid "House"
+msgstr "منزل"
+
+msgid "Stair"
+msgstr "سلم"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"صندوق\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"علبة"
+
+msgid "Carnotzet"
+msgstr "قبو صغير مجهز"
+
+msgid "Panic room"
+msgstr "غرفة الذعر"
+
+msgid "Open space"
+msgstr "مساحة مفتوحة"
+
+msgid "Living room/kitchen"
+msgstr "غرفة المعيشة"
+
+msgid "Summer kitchen"
+msgstr "مطبخ صيفي"
+
+#, fuzzy
+msgid "Spa"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"منتجع صحي\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حمام معدني"
+
+msgid "Boathouse"
+msgstr "مرآب قوارب"
+
+msgid "Eat-in kitchen"
+msgstr "غرفة طعام / مطبخ"
+
+msgid "Equipped kitchen"
+msgstr "مطبخ مجهز"
+
+msgid "Semi equipped kitchen"
+msgstr "مطبخ شبه مجهز"
+
+msgid "Corner kitchen"
+msgstr "مطبخ الزاوية"
+
+msgid "Kitchenette"
+msgstr "مطبخ صغير"
+
+msgid "Open kitchen"
+msgstr "مطبخ مفتوح على غرفة أخرى ، يمكن أن تكون غرفة طعام أو غرفة معيشة."
+
+msgid "Plot"
+msgstr "قطعة / جزء صغير"
+
+msgid "Porch"
+msgstr "شرفة / رواق"
+
+msgid "Living/dining/kitchen area"
+msgstr "المطبخ / غرفة المعيشة"
+
+msgid "Children's room"
+msgstr "غرفة الاطفال"
+
+msgid "Locker"
+msgstr "غرفة تغيير الملابس"
+
+msgid "Lobby"
+msgstr "بهو المدخل /  القاعة الأمامية"
+
+msgid "Accessible toilet"
+msgstr "مراحيض المتعلقة بالأشخاص ذوي القدرة الحركية المحدودة"
+
+msgid "Single"
+msgstr "فردي"
+
+msgid "Twin"
+msgstr "مزدوج"
+
+msgid "Twin by garage"
+msgstr "شبه منفصل بواسطة مرآب"
+
+msgid "Village house"
+msgstr "بيت القرية"
+
+msgid "Twin by angle"
+msgstr "الزاوية شبه منفصلة"
+
+msgid "Ranged"
+msgstr "مترابط"
+
+msgid "Standard"
+msgstr "المعيار"
+
+msgid "Co-exclusive"
+msgstr "حصرية مشتركة"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حصريَ\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حصرية"
+
+msgid "Delegation"
+msgstr "وفد"
+
+msgid "Exclusive agent"
+msgstr "وكالة حصرية"
+
+msgid "Colleague"
+msgstr "زميل"
+
+msgid "Verbal"
+msgstr "شفهي"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"متوفَر\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مجاني"
+
+msgid "Rented"
+msgstr "مؤجَر"
+
+msgid "Occupied"
+msgstr "مشغول"
+
+msgid "To be agreed"
+msgstr "قيد الموافقة"
+
+msgid "Building"
+msgstr "مبنى"
+
+msgid "Residence"
+msgstr "مسكن"
+
+msgid "Housing scheme"
+msgstr "مُجَمَّع سَكَنيّ"
+
+msgid "Hamlet"
+msgstr "قرية"
+
+msgid "Domain"
+msgstr "مجال"
+
+msgid "Property"
+msgstr "عقار"
+
+msgid "Street"
+msgstr "شارع"
+
+msgid "Sale"
+msgstr "بيع"
+
+msgid "Rental"
+msgstr "تأجير"
+
+msgid "Seasonal rental"
+msgstr "إيجار موسمي"
+
+msgid "Development"
+msgstr "تطوير"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"راتب الحياة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"راتب الحياة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"معاش الحياة"
+
+#, fuzzy
+msgid "Auction"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مزاد علني\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مزاد"
+
+msgid "Unit sale"
+msgstr "وحدة سكنية للبيع"
+
+msgid "Bulk sale"
+msgstr "بيع بالجملة"
+
+msgid "Unfurnished"
+msgstr "غير مفروشة"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مفروشة،\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مفروش\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مفروشة"
+
+msgid "Roommate"
+msgstr "رفيق السكن"
+
+msgid "Student"
+msgstr "طالب"
+
+msgid "Half furnished"
+msgstr "نصف مفروش"
+
+msgid "Coworking"
+msgstr "العمل المشترك"
+
+msgid "Holidays"
+msgstr "العطلات"
+
+msgid "Event"
+msgstr "حدث"
+
+msgid "New construction"
+msgstr "بناء جديد"
+
+msgid "Life annuity occupied"
+msgstr "بيع مع حق الاحتفاظ"
+
+msgid "Bare Ownership"
+msgstr "الملكية المجردة"
+
+msgid "Forward sale"
+msgstr "البيع  لمدة معينة"
+
+msgid "Life annuity semi-occupied"
+msgstr "البيع مع حق احتفاظ جزئي"
+
+msgid "Forward sale available"
+msgstr "البيع المتاح"
+
+msgid "Forward sale semi-occupied"
+msgstr "بيع مع حق احتفاظ  جزئي"
+
+msgid "Forward sale occupied"
+msgstr "بيع مع حق الاحتفاظ  لمدة معينة"
+
+msgid "Life annuity without income"
+msgstr "بيع مع حق الاحتفاظ دون مقابل"
+
+msgid "Requires updating"
+msgstr "يتطلب التحديث"
+
+msgid "Good condition"
+msgstr "حالة جيَدة"
+
+msgid "Requires renovation"
+msgstr "يتطلب تَجديد"
+
+msgid "Excellent condition"
+msgstr "حالة ممتازة"
+
+msgid "Timber"
+msgstr "خشب"
+
+msgid "Engineered wood"
+msgstr "الخشب المُهَندَس"
+
+msgid "Stone"
+msgstr "حجر"
+
+msgid "Brick"
+msgstr "قرميد"
+
+#, fuzzy
+msgid "Concrete"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"أسمنت\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"إسمنت"
+
+msgid "Reinforced concrete"
+msgstr "إسمنت مُسلَّح"
+
+msgid "Wood frame"
+msgstr "إطار خشبي"
+
+msgid "Steel frame"
+msgstr "إطار فولاذي"
+
+msgid "Reinforced concrete frame"
+msgstr "إطار من إسمنت مُسلَّح"
+
+msgid "Shear wall"
+msgstr "جدار القص"
+
+msgid "Concrete block"
+msgstr "حاجز اسمنتي"
+
+msgid "Dimension stone"
+msgstr "حجرتلبيس"
+
+msgid "Monolith brick"
+msgstr "حائط البريك"
+
+msgid "Panel"
+msgstr "لافتة / لوحة"
+
+msgid "Metal frame"
+msgstr "اطار معدني"
+
+msgid "Mudbrick"
+msgstr "حجر البريك"
+
+msgid "Cinder block"
+msgstr "حجر الخفان"
+
+msgid "Ground floor"
+msgstr "طابق أرضي"
+
+msgid "Top floor"
+msgstr "الطَابق الأخير"
+
+msgid "1st"
+msgstr "الأوَل"
+
+msgid "2nd"
+msgstr "الثَاني"
+
+msgid "3rd"
+msgstr "الثَالث"
+
+msgid "4th"
+msgstr "الرَابع"
+
+msgid "5th"
+msgstr "الخامس"
+
+msgid "6th"
+msgstr "السَادس"
+
+msgid "7th"
+msgstr "السَابع"
+
+msgid "8th"
+msgstr "الثَامن"
+
+msgid "9th"
+msgstr "التَاسع"
+
+msgid "10th"
+msgstr "العاشر"
+
+msgid "11th"
+msgstr "الأحد عشر"
+
+msgid "12th"
+msgstr "الثَاني عشر"
+
+msgid "13th"
+msgstr "الثَالث عشر"
+
+msgid "14th"
+msgstr "الرَابع عشر"
+
+msgid "15th"
+msgstr "الخامس عشر"
+
+msgid "16th"
+msgstr "السَادس عشر"
+
+msgid "17th"
+msgstr "السَابع عشر"
+
+msgid "18th"
+msgstr "الثَامن عشر"
+
+msgid "19th"
+msgstr "التَاسع عشر"
+
+msgid "20th"
+msgstr "العشرون"
+
+msgid "Garden level"
+msgstr "الطابق الأرضي"
+
+msgid "Split-level"
+msgstr "مستوى الانقسام"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "طابق واحد"
+
+msgid "21st"
+msgstr "الحادي والعشرون"
+
+msgid "22nd"
+msgstr "الثاني والعشرون"
+
+msgid "23rd"
+msgstr "الثالث والعشرين"
+
+msgid "24th"
+msgstr "24"
+
+msgid "25th"
+msgstr "25"
+
+msgid "26th"
+msgstr "26"
+
+msgid "27th"
+msgstr "27"
+
+msgid "28th"
+msgstr "28"
+
+msgid "29th"
+msgstr "29"
+
+msgid "30th"
+msgstr "30"
+
+msgid "31st"
+msgstr "31"
+
+msgid "32nd"
+msgstr "32"
+
+msgid "33rd"
+msgstr "33"
+
+msgid "34th"
+msgstr "34"
+
+msgid "35th"
+msgstr "35"
+
+msgid "36th"
+msgstr "36"
+
+msgid "37th"
+msgstr "37"
+
+msgid "38th"
+msgstr "38"
+
+msgid "39th"
+msgstr "39"
+
+msgid "40th"
+msgstr "40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Raised"
+msgstr "رفع"
+
+msgid "61st"
+msgstr "61"
+
+msgid "62nd"
+msgstr "62"
+
+msgid "63rd"
+msgstr "63"
+
+msgid "Wooden floor"
+msgstr "أرضيَة خشبيَة"
+
+msgid "Tile"
+msgstr "البلاط"
+
+msgid "Carpet"
+msgstr "موكيت"
+
+msgid "Natural fiber"
+msgstr "ف نباتيَة"
+
+msgid "Coco"
+msgstr "كوكو"
+
+msgid "Travertine"
+msgstr "الترافرتين"
+
+msgid "Marble"
+msgstr "رخام"
+
+msgid "Granite"
+msgstr "غرانيتو"
+
+msgid "Terracotta tile"
+msgstr "طين نضيج"
+
+msgid "Teak"
+msgstr "الساج"
+
+msgid "Mosaïc"
+msgstr "فسيفساء"
+
+msgid "Clay"
+msgstr "أرضيَة ترابيَة"
+
+msgid "Laminate"
+msgstr "لوحة مركبة تستخدم للأرضيات والأثاث"
+
+msgid "Vinyl composition tile"
+msgstr "مادة اصطناعية مرنة لها العديد من المزايا لتغطية الأرضيات"
+
+msgid "Porcelain stoneware"
+msgstr "الخزف الحجري"
+
+msgid "Cement tile"
+msgstr "بلاط الأسمنت هو بلاط التغطية على أساس الأسمنت الملون."
+
+msgid "Convector"
+msgstr "سخّان"
+
+msgid "Underfloor"
+msgstr "تحت البلاط"
+
+msgid "Radiator"
+msgstr "مُبَرِّد"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"موقد\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مطبخ غاز"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تكييف\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"هواء مكيف"
+
+msgid "Central"
+msgstr "مركزي"
+
+msgid "Without"
+msgstr "بدون"
+
+msgid "Fireplace"
+msgstr "المدفأة"
+
+#, fuzzy
+msgid "Individual"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فردي\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"فرديَ"
+
+msgid "Common"
+msgstr "مشترك"
+
+msgid "Mixed"
+msgstr "مختلط"
+
+msgid "District heating"
+msgstr "التدفئة المركزية"
+
+#, fuzzy
+msgid "Gas"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"غاز\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الغاز\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الغاز"
+
+msgid "Fuel oil"
+msgstr "مازوت؛ زيت التَدفئة"
+
+msgid "Electric"
+msgstr "كهربائي"
+
+msgid "Wood"
+msgstr "خشب"
+
+msgid "Solar"
+msgstr "شمسي"
+
+msgid "Charcoal"
+msgstr "فحم"
+
+msgid "Heat pump"
+msgstr "مضخَة حراريَة"
+
+msgid "Geothermal"
+msgstr "الطاقة الحراريَة للأرضيَة"
+
+msgid "Wood pellet"
+msgstr "محبَب الخشب"
+
+msgid "Aerothermy"
+msgstr "حراري"
+
+msgid "Hot water tank"
+msgstr "مسخَن ماء"
+
+msgid "Boiler"
+msgstr "غلاَية"
+
+msgid "Collective"
+msgstr "جماعي"
+
+msgid "Flat"
+msgstr "شقة"
+
+msgid "Dry-stone wall terraces"
+msgstr "مصطبة جدار الحجر الجاف"
+
+msgid "Steep"
+msgstr "انحدار"
+
+msgid "Wooded"
+msgstr "مشجر"
+
+msgid "Meadow"
+msgstr "مرج"
+
+msgid "Term lease"
+msgstr "عقد الإيجار"
+
+msgid "Long-Term"
+msgstr "طويل الأمد"
+
+msgid "Long-Term - Single activity"
+msgstr "طويل الأمد - نشاط فردي"
+
+msgid "Long-Term - All activities"
+msgstr "طويل الأمد -كل الأنشطة"
+
+msgid "Regulated"
+msgstr "ينظم"
+
+msgid "Seaside"
+msgstr "شاطئ البحر"
+
+#, fuzzy
+msgid "Village"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"القرية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"قرية"
+
+msgid "Old town"
+msgstr "البلدة القديمة"
+
+msgid "Precinct"
+msgstr "منطقة المشاة"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"منحدر تزلج\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مسارات تزلَج"
+
+msgid "Town center"
+msgstr "وسط المدينة"
+
+msgid "Industrial estate"
+msgstr "منطقة صناعيَة"
+
+msgid "Shopping center"
+msgstr "مركز تجاري"
+
+msgid "Business park"
+msgstr "مجمع الأعمال"
+
+msgid "Airport area"
+msgstr "منطقة المطار"
+
+msgid "Science park"
+msgstr "مجمع العلمي"
+
+msgid "Port area"
+msgstr "منطقة الميناء"
+
+msgid "Outskirts"
+msgstr "ضواحي المدينة"
+
+msgid "Hills"
+msgstr "تلال"
+
+msgid "Waterfront"
+msgstr "الواجهة البحرية"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الريف\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الرَيف"
+
+msgid "Suburb"
+msgstr "ضاحية"
+
+msgid "East"
+msgstr "شرق"
+
+msgid "North"
+msgstr "شمال"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "South"
+msgstr "جنوب"
+
+msgid "Day"
+msgstr "يوم"
+
+msgid "Week"
+msgstr "أسبوع"
+
+msgid "Fortnight"
+msgstr "خمسة عشر يوما"
+
+msgid "Month"
+msgstr "شهر"
+
+msgid "Quarterly"
+msgstr "ربعي"
+
+msgid "Bimonthly"
+msgstr "كل شهرين"
+
+msgid "Half-yearly"
+msgstr "نصف سنوي"
+
+msgid "Yearly"
+msgstr "سنوي"
+
+msgid "Bus"
+msgstr "حافلات"
+
+msgid "Bus hub"
+msgstr "محطَة النَقل البرَي"
+
+msgid "Metro"
+msgstr "خطَ المترو"
+
+msgid "Shops"
+msgstr "تجارة"
+
+msgid "Primary school"
+msgstr "مدرسة إبتدائيَة"
+
+msgid "Town centre"
+msgstr "وسط المدينة"
+
+msgid "Hospital/clinic"
+msgstr "مستشفى,مصحَة"
+
+msgid "Doctor"
+msgstr "طبيب"
+
+msgid "Tram"
+msgstr "الترام واي"
+
+msgid "Train station"
+msgstr "محطَة القطار"
+
+msgid "Public parking"
+msgstr "عام للسيَارات"
+
+msgid "Supermarket"
+msgstr "سوبر ماركت"
+
+msgid "Sea port"
+msgstr "الميناء"
+
+msgid "Nursery"
+msgstr "حضانة"
+
+msgid "Public pool"
+msgstr "مسبح"
+
+msgid "Tennis"
+msgstr "نادي تنس"
+
+msgid "Golf"
+msgstr "نادي الجولف"
+
+msgid "Movies"
+msgstr "سينما"
+
+msgid "Secondary school"
+msgstr "إعداديَة"
+
+msgid "Airport"
+msgstr "مطار"
+
+#, fuzzy
+msgid "Sea"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"بحر\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"البحر"
+
+msgid "TGV station"
+msgstr "القطار السَريع"
+
+msgid "Highway"
+msgstr "طريق سيَارة"
+
+msgid "University"
+msgstr "جامعة"
+
+msgid "Convention center"
+msgstr "مركز مؤتمرات"
+
+msgid "Lake"
+msgstr "بحيرة"
+
+msgid "Energy - Conventional consumption"
+msgstr "طاقة – إستهلاك تعاقدي"
+
+msgid "Energy - Emissions estimate"
+msgstr "طاقة – تقدير الإنبعاثات"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "نمل الأبيض"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الرَصاص\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الرَصاص\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"اتصال"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Emissions estimate"
+msgstr "تقدير الإنبعاثات"
+
+#, fuzzy
+msgid "Rental value"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"القيمة الإيجارية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"القيمة الإيجارية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"قيمة الإيجار"
+
+msgid "Turnover"
+msgstr " المبيعات الإجمالية"
+
+msgid "Net income"
+msgstr "صافي دخل"
+
+msgid "Gross operating profit"
+msgstr "فائض التشغيل الإجمالي"
+
+msgid "Personnel costs"
+msgstr "تكاليف الموظفين"
+
+msgid "Cash flow"
+msgstr "نقود سائلة"
+
+msgid "Shareholders’equity"
+msgstr "حق المساهم"
+
+msgid "Net debt"
+msgstr "صافي الديون"
+
+msgid "Internet"
+msgstr "إنترنت"
+
+msgid "Disabled access"
+msgstr "دخول المعوقين"
+
+msgid "Alarm system"
+msgstr "جرس إنذار"
+
+msgid "Lift"
+msgstr "مصعد"
+
+msgid "Caretaker"
+msgstr "حارس"
+
+msgid "Double glazing"
+msgstr "الزجاج المزدوج"
+
+msgid "Intercom"
+msgstr "نظام الإتَصال الدَاخلي"
+
+msgid "TV distribution"
+msgstr "تلفزيون الكابل"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مسبح\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حمام السباحة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حمام السباحة"
+
+msgid "Security door"
+msgstr "مدرَع"
+
+msgid "Tennis court"
+msgstr "نادي تنس"
+
+msgid "Irrigation sprinkler"
+msgstr "سقي"
+
+msgid "Barbecue"
+msgstr "مشوى"
+
+msgid "Electric gate"
+msgstr "بوابة كهربائية"
+
+msgid "Crawl space"
+msgstr "سرداب"
+
+msgid "Car port"
+msgstr "مرآب"
+
+msgid "Caretaker house"
+msgstr "بيت الحارس"
+
+msgid "Sliding windows"
+msgstr "واجِهةٌ زُجاجيّةٌ"
+
+msgid "Central vacuum system"
+msgstr "وسط الفراغ"
+
+msgid "Electric shutters"
+msgstr "مصاريع كهربائية"
+
+msgid "Window shade"
+msgstr "ستائر"
+
+msgid "Electric awnings"
+msgstr "ستائر إلكترونيَة"
+
+msgid "Washing machine"
+msgstr "غسالة"
+
+msgid "Jacuzzi"
+msgstr "جاكوزي"
+
+msgid "Whirlpool tub"
+msgstr "حوض إستحمام"
+
+msgid "Well"
+msgstr "بئر"
+
+msgid "Spring"
+msgstr "مصدر"
+
+msgid "Dishwasher"
+msgstr "غسالة الصحون"
+
+msgid "Safe"
+msgstr "خزنة حديد"
+
+msgid "Helipad"
+msgstr "مروحيَة"
+
+msgid "Videophone"
+msgstr "الهاتف المرئي"
+
+msgid "Video security"
+msgstr "فيديو المراقبة"
+
+msgid "Iron"
+msgstr "مكواة"
+
+msgid "Hair dryer"
+msgstr "مجفَف شعر"
+
+msgid "Television"
+msgstr "التلفاز"
+
+msgid "DVD Player"
+msgstr "جهاز قارىء للدي في دي"
+
+msgid "CD Player"
+msgstr "جهاز قارىء الأقراص المضغوطة"
+
+msgid "Outdoor lighting"
+msgstr "الإضاءة في الهواء الطلق"
+
+msgid "Home automation"
+msgstr "أتمتة المنزل"
+
+msgid "Refrigerator"
+msgstr "ثلاجة"
+
+msgid "Oven"
+msgstr "الفرن"
+
+msgid "Pets allowed"
+msgstr "مسموح بدخول الحيوانات الأليفة"
+
+msgid "Dropped ceiling"
+msgstr "سقف مستعار"
+
+msgid "Wharf"
+msgstr "رصيف ميناء"
+
+msgid "Water softener"
+msgstr "إزالة قساوة"
+
+msgid "Optical fiber"
+msgstr "ليف بصري"
+
+msgid "Fire alarm system"
+msgstr "إنذار الحريق"
+
+msgid "Access control"
+msgstr "تحكم بالوصول"
+
+msgid "Supplies"
+msgstr "اللوازم"
+
+msgid "Outdoor spaces"
+msgstr "الأماكن الخارجية"
+
+msgid "Rental supplies"
+msgstr "لتأجير اللوازم"
+
+msgid "Security"
+msgstr "أمن"
+
+msgid "Professional supplies"
+msgstr "لوازم احترافية"
+
+msgid "Yacht supplies"
+msgstr "لوازم اليخوت"
+
+msgid "High standard"
+msgstr "مستوى عال "
+
+msgid "Luxury"
+msgstr "فخم"
+
+msgid "High luxury"
+msgstr " فاخرة"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"الإسكان العقاري\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مجمَع سكني"
+
+msgid "Regular"
+msgstr "عادي"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جارية\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جاري\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"جار التقدم"
+
+msgid "Standby"
+msgstr "في الانتظار"
+
+#, fuzzy
+msgid "Deleted"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"حُذِف\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"تم الحذف"
+
+msgid "Waiting for agreement"
+msgstr "إنتظار الإتفاقية"
+
+msgid "Agreement ended"
+msgstr "انتهاء الإتفاقية"
+
+msgid "Offer"
+msgstr "عرض"
+
+msgid "Processing sale"
+msgstr "عقد بيع قيد الانجاز / عقد إيجار قيد الانجاز"
+
+msgid "Waiting for contract"
+msgstr "انتظار العقد"
+
+msgid "Pending approval"
+msgstr "انتظار الموافقة"
+
+msgid "Sell/Rent by agent"
+msgstr "بيع / إيجارمن قبل وكيل"
+
+msgid "Sell/Rent by owner"
+msgstr "بيع / إيجار من قبل المالك"
+
+msgid "Sell/Rent by other agent"
+msgstr "بيع / إيجار من قبل وكيل آخر"
+
+msgid "Removed by agent"
+msgstr "أُلغيت من قبل العميل"
+
+msgid "Removed by owner"
+msgstr "أُلغيت من قبل المالك"
+
+msgid "Sale/Rental cancelled"
+msgstr "بيع / تأجير ملغاة"
+
+msgid "Delete this property"
+msgstr "احذف هذا العقار"
+
+msgid "Business"
+msgstr "تجارة"
+
+msgid "Garage/Parking"
+msgstr "موقف سيارة"
+
+msgid "Office"
+msgstr "مكتب"
+
+msgid "Boat"
+msgstr "قارب"
+
+msgid "Cellar / Box"
+msgstr "قبو"
+
+msgid "Triplex"
+msgstr "شقة ثلاثية الطوابق"
+
+msgid "Building land"
+msgstr "قطعة أرض صالحة للبناء"
+
+msgid "Not constructible land"
+msgstr "قطعة أرض غير صالحة للبناء"
+
+msgid "Penthouse"
+msgstr "الشقة العلوية"
+
+msgid "Castle"
+msgstr "قصر"
+
+msgid "Duplex"
+msgstr "شقة مزدوجة"
+
+msgid "Manor house"
+msgstr "قصر ريفي"
+
+msgid "Ranch"
+msgstr "مزرعة"
+
+msgid "Mas"
+msgstr "فيلا"
+
+msgid "Apartment villa"
+msgstr "شقَة فيلا"
+
+msgid "Hangar"
+msgstr "حظيرة"
+
+msgid "Ruin"
+msgstr "خراب"
+
+msgid "Mill"
+msgstr "طاحونة"
+
+msgid "Carpark"
+msgstr "موقف السيارات"
+
+msgid "Farmhouse"
+msgstr "بيت ريفي"
+
+msgid "Townhouse"
+msgstr "منزل المدينة"
+
+msgid "Mobile home"
+msgstr "منزل متنقل"
+
+msgid "Cottage"
+msgstr "كوخ"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"غرفة النوم\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"غرفة"
+
+#, fuzzy
+msgid "Local"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مَحَلّيّ\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"محلي"
+
+msgid "Chalet"
+msgstr "شالِيه"
+
+msgid "Retail space"
+msgstr "مقَر تجاري"
+
+msgid "Business assets"
+msgstr "الأصول التجارية"
+
+msgid "Right to the lease"
+msgstr "الحق في الإيجار"
+
+msgid "Mansion"
+msgstr "فندق خاص"
+
+msgid "Management"
+msgstr "إدارة"
+
+msgid "Agricultural exploitation"
+msgstr "استغلال زراعي"
+
+msgid "Woodshed"
+msgstr "مخزن الحطب"
+
+msgid "Stud farm"
+msgstr "مزرعة الخيول"
+
+msgid "Plot of land"
+msgstr "قطعة أرض"
+
+msgid "Bastide"
+msgstr "طراز باستيد"
+
+msgid "Bastidon"
+msgstr "طراز باستيدون"
+
+msgid "Company"
+msgstr "شركة"
+
+msgid "Vineyard property"
+msgstr "مزرعة عنب"
+
+msgid "Motor Yacht"
+msgstr "يخت"
+
+msgid "Narrow boat"
+msgstr "قارب نقل بضائع"
+
+msgid "Sailing Yacht"
+msgstr "مركب شراعي"
+
+msgid "Catamaran"
+msgstr "مركب شراعي ذو هَيْكَلَيْن"
+
+msgid "Equestrian estate"
+msgstr "الفُروسيَّة "
+
+msgid "Bed and breakfast"
+msgstr "دار الضيافة"
+
+msgid "Gîte"
+msgstr "بيت الضَيافة"
+
+msgid "Riad"
+msgstr "طراز رياض"
+
+msgid "Arcade"
+msgstr "قَنطَرَة"
+
+msgid "Shophouse"
+msgstr "متجر"
+
+msgid "Borey"
+msgstr "طراز بوري"
+
+msgid "Condo"
+msgstr "شقّة الخاصّة"
+
+msgid "Factory"
+msgstr "مصنع"
+
+msgid "Serviced apartment"
+msgstr "شقه فندقيه"
+
+msgid "Twin Villa"
+msgstr "فيلا شبه منفصلة"
+
+msgid "Flat House"
+msgstr "منزل في الطابق الأرضي"
+
+msgid "Semi-detached house"
+msgstr "منزل شبه مفصول"
+
+msgid "Bungalow"
+msgstr "بيت من طابق واحد"
+
+msgid "Beach house"
+msgstr "منزل يطل على الشاطئ"
+
+msgid "Berth"
+msgstr "الرصيف"
+
+msgid "Ger district"
+msgstr "حي مؤلف من خيام منفصلة"
+
+msgid "Summer house"
+msgstr "بيت المصيف"
+
+msgid "Private island"
+msgstr "جزيرة خاصة"
+
+msgid "Residential land"
+msgstr "أرض للإقامة"
+
+msgid "Commercial land"
+msgstr "ارض تجارية"
+
+msgid "Subdivision"
+msgstr "تحزئة أراض"
+
+msgid "Game reserve"
+msgstr "منطقة الصيد"
+
+msgid "Motorboat"
+msgstr "زورق الي"
+
+msgid "Detached house"
+msgstr "منزل  مفصول"
+
+msgid "Pavilion"
+msgstr "سرادق"
+
+msgid "Mountains"
+msgstr "الجبال"
+
+msgid "Greenery"
+msgstr "مساحات خضراء"
+
+msgid "Monument"
+msgstr "نصب تذكاري"
+
+msgid "Forest"
+msgstr "غابة"
+
+msgid "Main stem"
+msgstr "نهر"
+
+msgid "City"
+msgstr "مدينة"
+
+msgid "Sky"
+msgstr "السَماء"
+
+msgid "Harbor"
+msgstr "ميناء"
+
+msgid "Ski slopes"
+msgstr "منحدرات التزلج"
+
+msgid "Vines"
+msgstr "الكروم"
+
+msgid "Obstructed"
+msgstr "وجه لوجه"
+
+msgid "Slight"
+msgstr " مُوجَز , مُخْتَصَر"
+
+msgid "Unobstructed"
+msgstr "واضحة/صافية"
+
+msgid "Panoramic"
+msgstr "بانورامي"
+
+msgid "Exterior"
+msgstr "خارجي"
+
+msgid "Interior"
+msgstr "داخلي"
+
+msgid "Septic tank"
+msgstr "خزان للصرف الصحي"
+
+msgid "Main drainage"
+msgstr "شبكة الصرف الصحي"
+
+msgid "Treatment plant"
+msgstr "محطة معالجة مياه"
+
+msgid "Grey-water pit"
+msgstr "حفرة المياه الرمادية"
+
+msgid "Micro sewage treatment"
+msgstr "محطة المعالجة الدقيقة الصحي"
+
+msgid "Estate agent"
+msgstr "الوكيل العقاري"
+
+msgid "Phoning"
+msgstr "اتصال هاتفي"
+
+msgid "Collaboration"
+msgstr "تعاون"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مزود\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"المزوَد"
+
+msgid "Renown"
+msgstr "شهرة"
+
+msgid "Walk-in / Window"
+msgstr "دخول / نافذة"
+
+msgid "Network"
+msgstr "شبكة الاتصال"
+
+msgid "Flyer"
+msgstr "نشرة"
+
+msgid "Sign"
+msgstr "لافتة"
+
+#, fuzzy
+msgid "Magazine"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مجلة\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"مَجَلَّة"
+
+msgid "Mailing"
+msgstr "المراسلات"
+
+msgid "e-mailing"
+msgstr "عبر البريد الإلكتروني"
+
+msgid "Old client"
+msgstr "عميل قديم"
+
+msgid "Selection / Favorite"
+msgstr "إختيار"
+
+msgid "m²"
+msgstr "م²"
+
+msgid "sq ft"
+msgstr "ف²"
+
+msgid "kanal"
+msgstr "قنواة"
+
+msgid "marla"
+msgstr "Marla"
+
+msgid "sq yd"
+msgstr "ياردات مُربّعة."
+
+msgid "acre"
+msgstr "فدانات"
+
+msgid "ha"
+msgstr "هكتار"
+
+msgid "ares"
+msgstr "Are"
+
+msgid "toises"
+msgstr "مخططات الارتفاع Toise"
+
+msgid "perches"
+msgstr "Perche"
+
+msgid "arpents"
+msgstr "Arpent"
+
+msgid "minute"
+msgstr "دقائق"
+
+msgid "metre"
+msgstr "أمتار"
+
+msgid "km"
+msgstr "كم"
+
+msgid "Administrator"
+msgstr "مشرف"
+
+msgid "Company manager"
+msgstr "مدير الشركة"
+
+msgid "Agency manager"
+msgstr "مسؤول"
+
+msgid "Secretariat"
+msgstr "سكرتارية"
+
+msgid "Agent"
+msgstr "وكيل"
+
+msgid "Intern"
+msgstr "متدرب"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Franchisor"
+msgstr "مانح الامتياز"
+
+msgid "Translator"
+msgstr "مترجم"
+
+msgid "Picture"
+msgstr "صورة"
+
+msgid "Pet"
+msgstr "حيوان اليف"
+
+msgid "Natural light"
+msgstr "ضوء طبيعي"
+
+msgid "Kitchen island"
+msgstr "جزيرة المطبخ"
+
+msgid "Kitchen bar"
+msgstr "بار المطبخ"
+
+msgid "Ceiling height"
+msgstr "ارتفاع السقف"
+
+msgid "Skylight"
+msgstr "نافذة السقف"
+
+msgid "Exposed bricks"
+msgstr "جدار من القرميد"
+
+msgid "Ceiling fan"
+msgstr "مروحة السقف"
+
+msgid "Chandelier"
+msgstr "الثريا"
+
+msgid "Stainless steel"
+msgstr "الفولاذ المقاوم للصدأ"
+
+msgid "Price on request"
+msgstr "السعر حسب الطلب"
+
+msgid "Currency"
+msgstr "العملة"
+
+msgid "price"
+msgstr "السَعر"
+
+msgid "Types"
+msgstr "أنواع"
+
+msgid "Cities"
+msgstr "المدن"
+
+msgid "bedrooms"
+msgstr "غرف النَوم"
+
+msgid "rooms"
+msgstr "غرف"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "message"
+msgstr "رسالة"
+
+msgid "Lastname"
+msgstr "الشهرة"
+
+msgid "Firstname"
+msgstr "الإسم"
+
+msgid "Ref."
+msgstr "المرجع"
+
+msgid "%s bedroom"
+msgstr "%s غرفة النوم"
+
+msgid "%s bedrooms"
+msgstr "%s غرف النوم"
+
+msgid "%s room"
+msgstr "%s غرفة"
+
+msgid "%s rooms"
+msgstr "%s غرف"
+
+msgid "File"
+msgstr "ملف"
+
+msgid "No matches found"
+msgstr "لم يتم العثور على تطابق"
+
+msgid "Please enter one more character"
+msgstr "الرجاء إدخال حرف واحد آخر"
+
+msgid "Duplicate"
+msgstr "تكرار"
+
+msgid "Backup"
+msgstr "إحطياطي"
+
+msgid "Average"
+msgstr "معدل"
+
+msgid "Sender"
+msgstr "مرسل"
+
+msgid "Recipient"
+msgstr "المتلقَي"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Attachment"
+msgstr "الوثيقة المرفقة"
+
+msgid "Key"
+msgstr "مفتاح"
+
+msgid "Document"
+msgstr "مستند"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Help"
+msgstr "مساعدة؟"
+
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+msgid "Area"
+msgstr "المساحة"
+
+msgid "Areas"
+msgstr "المساحات"
+
+msgid "Length"
+msgstr "الطول"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Width"
+msgstr "العرض"
+
+msgid "Deposit"
+msgstr "ايداع"
+
+msgid "Agreement reference"
+msgstr "مرجع الإتَفاقية"
+
+msgid "Agreement start at"
+msgstr "تبدأ الاتفاقية في"
+
+msgid "Agreement end at"
+msgstr "نهاية الإتَفاقية"
+
+msgid "Website"
+msgstr "موقع إلكتروني"
+
+msgid "Proximities"
+msgstr "قرب"
+
+msgid "Loading"
+msgstr "جار التحميل"
+
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+msgid "Availability"
+msgstr "تَوَافُر"
+
+msgid "Total area"
+msgstr "المساحة الإجمالية"
+
+msgid "Living area"
+msgstr "المساحة السكنية"
+
+msgid "Password forgotten"
+msgstr "نسيت كلمة المرور"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "Username"
+msgstr "إسم مستخدم"
+
+msgid "Welcome %s"
+msgstr "%s مرحبا"
+
+msgid "Add"
+msgstr "أضف"
+
+msgid "Display"
+msgstr "عرض"
+
+msgid "Listing"
+msgstr "قائمة"
+
+msgid "Tools"
+msgstr "أدوات"
+
+msgid "Market"
+msgstr "سوق"
+
+msgid "Companies"
+msgstr "شركة"
+
+msgid "Calendar"
+msgstr "تقويم"
+
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+msgid "Map"
+msgstr "خريطة"
+
+msgid "Values"
+msgstr "قيمة"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Sectors"
+msgstr "القطاعات"
+
+msgid "Sector"
+msgstr "القطاع"
+
+msgid "Calls"
+msgstr "إتَصالات"
+
+msgid "%s contacts"
+msgstr "%s جهة الاتصال"
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid "year"
+msgstr "عام"
+
+msgid "Waste water"
+msgstr "مياه الصرف الصحي"
+
+msgid "Country"
+msgstr "بلد"
+
+msgid "Escrow deposit"
+msgstr "الضمان"
+
+msgid "Orientation"
+msgstr "إتَجاه"
+
+msgid "View"
+msgstr "منظر"
+
+msgid "District"
+msgstr "حي"
+
+msgid "Fields"
+msgstr "الحقول"
+
+msgid "Hook"
+msgstr "صنّارة الصيدَ"
+
+msgid "comment"
+msgstr "تعليق"
+
+msgid "Buy"
+msgstr "شراء"
+
+msgid "Rent"
+msgstr "إيجار"
+
+msgid "Commercial"
+msgstr "تجاري"
+
+msgid "About us"
+msgstr "من نحن"
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "News"
+msgstr "آخر الأخبار"
+
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+msgid "Print"
+msgstr "طبع"
+
+msgid "Add to cart"
+msgstr "أضف إلا السلّة"
+
+msgid "Replace in cart"
+msgstr "أستبدل في السَلة"
+
+msgid "Category"
+msgstr "فئة"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Details"
+msgstr "تَفَاصِيل"
+
+msgid "Previous"
+msgstr "السَابق"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Quick search"
+msgstr "بحث سريع"
+
+msgid "Zipcode"
+msgstr "رمز بريد"
+
+msgid "The username and/or password is invalid."
+msgstr "اسم المستخدم و / أو كلمة المرور غير صالحة."
+
+msgid "Group"
+msgstr "مجموعة"
+
+msgid "Are you sure?"
+msgstr "هل أنت متأكد ؟"
+
+msgid "Nationality"
+msgstr "جنسية"
+
+msgid "Regulation"
+msgstr "أنظمة"
+
+msgid "Radius"
+msgstr "نصف القطر"
+
+msgid "Summary"
+msgstr "ملخص"
+
+msgid "Watermark"
+msgstr "العلامة المائية"
+
+msgid "Latitude"
+msgstr "خطَ العرض"
+
+msgid "Longitude"
+msgstr "خطَ الطَول"
+
+msgid "Mortgage"
+msgstr "القرض العقاري"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+msgid "Matching"
+msgstr "مطابقة"
+
+msgid "Pay now by card"
+msgstr "الدفع عن طريق البطاقة"
+
+msgid "Pay by bank transfer"
+msgstr "الدفع عن طريق التحويل المصرفي"
+
+msgid "Pay by check"
+msgstr "الدفع عن طريق الشيك"
+
+msgid "Powered by"
+msgstr "مشغل بواسطة"
+
+msgid "Accepted payment methods"
+msgstr "وسائل الدفع المقبولة"
+
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "جهة الاتصال الخاصة بك موجودة بالفعل ،الرجاء لاختيار واحدة في القائمة"
+
+msgid "Contracts"
+msgstr "عقود"
+
+msgid "Seekers"
+msgstr "باحثون"
+
+msgid "Active seekers"
+msgstr "الباحثون النشطون"
+
+msgid "Providers"
+msgstr "مزودون"
+
+msgid "Owners"
+msgstr "ملّاك"
+
+msgid "Active owners"
+msgstr "ملّاك الناشطين"
+
+msgid "Monitoring"
+msgstr "مُرَاقَبَة"
+
+msgid "Forward"
+msgstr "اعادة توجيه"
+
+msgid "Similar"
+msgstr "مماثل"
+
+msgid "Condition"
+msgstr "شرط"
+
+msgid "Floor"
+msgstr "الطابق"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Deductions"
+msgstr "خصم"
+
+msgid "Not available"
+msgstr "غير متوفر"
+
+msgid "Occupant"
+msgstr "شاغل"
+
+msgid "Prospect"
+msgstr "احتمال"
+
+msgid "Sharing"
+msgstr "مشاركة"
+
+msgid "Like"
+msgstr "أحب"
+
+msgid "Unlike"
+msgstr "لاأحب"
+
+msgid "Portfolio"
+msgstr "محفظة"
+
+msgid "Features"
+msgstr "الميزات"
+
+msgid "Contracted owner"
+msgstr "متعاقد مع المالك"
+
+msgid "Contracted owners"
+msgstr "متعاقد مع الملّاك"
+
+msgid "Contracted customer"
+msgstr "متعاقد مع الزبون"
+
+msgid "Contracted customers"
+msgstr "متعاقدون مع الزبائن"
+
+msgid "Transfer tax"
+msgstr "رسم التحويل"
+
+msgid "Change to"
+msgstr "التغيير إلى"
+
+msgid "Until"
+msgstr "حتى"
+
+msgid "Location reference"
+msgstr "مرجع الموقع"
+
+msgid "Priority"
+msgstr "الأولوية"
+
+msgid "Full form"
+msgstr "إستمارة كاملة"
+
+msgid "Quick form"
+msgstr "إستمارة سريعة"
+
+msgid "%s char(s)"
+msgstr "حرف %s"
+
+msgid "Price from"
+msgstr "السعر يبدأ من"
+
+msgid "Listings"
+msgstr "قوائم"
+
+msgid "Duration"
+msgstr "مدة"
+
+msgid "Request incomplete"
+msgstr "طلب غير مكتمل"
+
+msgid "%s incomplete request(s)"
+msgstr "%s طلب غير مكتمل"
+
+msgid "Subscribe for"
+msgstr "اشترك في"
+
+msgid "Configuration"
+msgstr "الإعدادات"
+
+msgid "Subtotal"
+msgstr "مجموع الفرعي"
+
+msgid "Tax notice"
+msgstr "تصريح ضريبي"
+
+msgid "Events"
+msgstr "المناسبات"
+
+msgid "Present"
+msgstr "حاضر"
+
+msgid "Missing"
+msgstr "غائب"
+
+msgid "Planned"
+msgstr "مخطط"
+
+msgid "Full"
+msgstr "كامل"
+
+msgid "Organizer"
+msgstr "مُنَظِّم"
+
+msgid "Already subscribed"
+msgstr "مشترك بالفعل"
+
+msgid "Attendees"
+msgstr "المشارك"
+
+msgid "Associate"
+msgstr "يشارك"
+
+msgid "Training"
+msgstr "تدريب"
+
+msgid "Require a change of password at next logon"
+msgstr "تتطلب تغيير كلمة المرور عند تسجيل الدخول التالي"
+
+msgid "Gross revenue"
+msgstr "إجمالي الإيرادات"
+
+msgid "Gross yield"
+msgstr "العائد الإجمالي"
+
+msgid "Net yield"
+msgstr "صافي العائد"
+
+msgid "Vacancy rate"
+msgstr "معدل الشغور"
+
+msgid "Investment"
+msgstr "استثمار"
+
+msgid "Lock"
+msgstr "مغلق"
+
+msgid "Variables"
+msgstr "المتغيرات"
+
+msgid "Example"
+msgstr "مثال"
+
+msgid "Increment"
+msgstr "اِزدِياد"
+
+msgid "Schema"
+msgstr "رسم بياني"
+
+msgid "Automatic"
+msgstr "تلقائي"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Renovation year"
+msgstr "سنة التجديد"
+
+msgid "Curriculum vitae"
+msgstr "سيرة ذاتية"
+
+msgid "Resellers"
+msgstr "موزع"
+
+msgid "Select"
+msgstr "تحديد"
+
+msgid "Billing"
+msgstr "الفواتير"
+
+msgid "The balance of your account is %s"
+msgstr "رصيد حسابك s%"
+
+msgid "Ceiling"
+msgstr "سقف"
+
+msgid "Weighted area"
+msgstr "المنطقة المرجحة"
+
+msgid "Collected"
+msgstr "جمعت"
+
+msgid "Unlimited"
+msgstr "غير محدود"
+
+msgid "Quantity"
+msgstr "كمية"
+
+msgid "Subscribe"
+msgstr "الاشتراك"
+
+msgid "Configure"
+msgstr "إعداد"
+
+msgid "Active owner"
+msgstr "مالك نشط"
+
+msgid "Matching at"
+msgstr "مطابقة في"
+
+msgid "Price by area"
+msgstr "السعر حسب المنطقة"
+
+msgid "Default list"
+msgstr "القائمة الافتراضية"
+
+msgid "Subtype"
+msgstr "النوع الفرعي"
+
+msgid "Add a custom document"
+msgstr "أضف مستندًا مخصصًا"
+
+msgid "Line spacing"
+msgstr "تباعد الأسطر"
+
+msgid "Font"
+msgstr "الخط"
+
+msgid "Portrait"
+msgstr "لوحة"
+
+msgid "Landscape"
+msgstr "المناظر الطبيعيه"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Optional"
+msgstr "اختياري"
+
+msgid "Collected at"
+msgstr "جمعت في"
+
+msgid "Linked"
+msgstr "مرتبط"
+
+msgid "Discover our offers"
+msgstr "اكتشف عروضنا"
+
+msgid "empty"
+msgstr "فارغ"
+
+msgid "Portal"
+msgstr "بوابة"
+
+msgid "Software Documentation"
+msgstr "توثيق البرامج"
+
+msgid "Time"
+msgstr "وقت"
+
+msgid "Dedicated website"
+msgstr "موقع مخصص"
+
+msgid "Subcategory"
+msgstr "فئة فرعية"
+
+msgid "No IP control"
+msgstr "لا يوجد تحكم IP"
+
+msgid "Auto publish"
+msgstr "النشر التلقائي"
+
+msgid "Link to property"
+msgstr "رابط للعقار"
+
+msgid "Happy birthday!"
+msgstr "عيد ميلاد سعيد !"
+
+msgid "Birthdays"
+msgstr "عيد ميلاد"
+
+msgid "Last login"
+msgstr "آخر تسجيل دخول"
+
+msgid "This property is a part of:"
+msgstr "هذا العقار هي جزء من:"
+
+msgid "IP address"
+msgstr "عناوين IP"
+
+msgid "Prospecting"
+msgstr ".بحث عن"
+
+msgid "Access code"
+msgstr "رمز الدخول"
+
+msgid "Access code at"
+msgstr "رمز الدخول على"
+
+msgid "Number of shares"
+msgstr "عدد الاسهم"
+
+msgid "Leads"
+msgstr "اتصالات"
+
+msgid "Cancelled"
+msgstr "ملغى"
+
+msgid "Link"
+msgstr "رابط"
+
+msgid "Advanced"
+msgstr "امتقدم"
+
+msgid "Publish on homepage"
+msgstr "نشر على الصفحة الرئيسية"
+
+msgid "Suggested"
+msgstr "مُقتَرَح"
+
+msgid "Welcome on %s"
+msgstr "مرحبًا بك في s%"
+
+msgid "Content"
+msgstr "محتوى"
+
+msgid "Extranet access"
+msgstr "دخول الى الشبكة الخارجية"
+
+msgid "Publish address"
+msgstr "نشر العنوان"
+
+msgid "Opening hours"
+msgstr "ساعات العمل"
+
+msgid "Backoffice"
+msgstr "المكتب الخلفي"
+
+msgid "Member since %s"
+msgstr "عضو منذ s%"
+
+msgid "Lock menu bar"
+msgstr "قفل شريط القوائم"
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Bookings"
+msgstr "حٍجوزات"
+
+msgid "Forward to contact"
+msgstr "نقل إلى جهة اتصال"
+
+msgid "Responder"
+msgstr "المجاوب"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"يمكنك البحث في قاعدة بيانات الأسئلة الشائعة (FAQs) عن طريق الكلمة المفتحاية:"
+
+msgid "Registrar"
+msgstr "أمين سجل"
+
+msgid "Expiration at"
+msgstr "تنتهي في"
+
+msgid "Mailbox"
+msgstr "صندوق بريد"
+
+msgid "Domain name"
+msgstr "اسم المجال"
+
+msgid "Filling"
+msgstr "ملء"
+
+msgid "Condition precedent"
+msgstr "الشروط السابقة"
+
+msgid "Size"
+msgstr "حجم"
+
+msgid "Deal fees"
+msgstr "رسوم الصفقة"
+
+msgid "Fees charged"
+msgstr "قيمة رسوم"
+
+msgid "Customer"
+msgstr "زبون"
+
+msgid "Booked"
+msgstr "محجوزة"
+
+msgid "Available"
+msgstr "متوفر"
+
+msgid "Translations"
+msgstr "ترجمة"
+
+msgid "Unsold"
+msgstr "غير مباعة غير مباع"
+
+msgid "Sold"
+msgstr "مباع"
+
+msgid "Last action"
+msgstr "الإجراء الأخير"
+
+msgid "Our agency"
+msgstr "شركتنا"
+
+msgid "Locate us"
+msgstr "حدد موقعنا"
+
+msgid "Your main contact"
+msgstr "جهة الاتصال الرئيسية الخاصة بك"
+
+msgid "Send me a message"
+msgstr "ارسل لي رسالة"
+
+msgid "Leave us a message"
+msgstr "اترك لنا رسالة"
+
+msgid "Price with fees"
+msgstr "السعر مع تكاليف"
+
+msgid "Owner access"
+msgstr "وصول المالك"
+
+msgid "Added"
+msgstr "مضاف"
+
+msgid "Available for matching"
+msgstr "متاح للمطابقة"
+
+msgid "Available at"
+msgstr "متاحا في"
+
+msgid "Tenant"
+msgstr "مستأجر"
+
+msgid "Add to list"
+msgstr "أضف إلى القائمة"
+
+msgid "Custom tags"
+msgstr "العلامات المخصصة"
+
+msgid "%s pending approval properties"
+msgstr "%s في انتظار الموافقة على العقار"
+
+msgid "Negotiable price"
+msgstr "سعرقابل للتفاوض"
+
+msgid "Price updated"
+msgstr "تم تحديث السعر"
+
+msgid "Less equal"
+msgstr "أقل مساواة"
+
+msgid "Equal"
+msgstr "مُسَاوٍ"
+
+msgid "Greater equal"
+msgstr "أكبر مساواة"
+
+msgid "Preferences"
+msgstr "التفضيلات"
+
+msgid "Contact means"
+msgstr "وسائل الاتصال"
+
+msgid "Agency commission"
+msgstr "أتعاب الشركة"
+
+msgid "Scheduled at"
+msgstr "مبرمجة في"
+
+msgid "Contract at"
+msgstr "فعل / عمل"
+
+msgid "Commitment"
+msgstr "تسويـــــة/ حل وسط"
+
+msgid "Commitment at"
+msgstr "تسوية في"
+
+msgid "Offer at"
+msgstr "العرض في"
+
+msgid "No action"
+msgstr "أي إجراء"
+
+msgid "Received contact information"
+msgstr "تلقى اتصال"
+
+msgid "Linked contact"
+msgstr "اتصال مرتبط"
+
+msgid "Related contacts"
+msgstr "اتصالات مشابهة"
+
+msgid "Others"
+msgstr "آخرين"
+
+msgid "Assigned to"
+msgstr "المخصصة ل"
+
+msgid "Assign to"
+msgstr "يسند إلى/ تكليف ل"
+
+msgid "Assign by"
+msgstr "تخصيص بواسطة"
+
+msgid "Opened by"
+msgstr "افتتح مِن قِبل"
+
+msgid "Closed by"
+msgstr "مغلق مِن قِبل"
+
+msgid "Time zone"
+msgstr "المنطقة الزمنية"
+
+msgid "Customers"
+msgstr "الزبائن"
+
+msgid "Invert selection"
+msgstr "عكس الاختيار"
+
+msgid "Select all"
+msgstr "اختيار الكل"
+
+msgid "Unselect all"
+msgstr "إلغاء جميع الاختيارات"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s عميل محتمل  معلّق"
+
+msgid "%s lead(s) to assign"
+msgstr "%s عميل (محتمل) معيّن"
+
+msgid "%s pending properties"
+msgstr "%s منتج (منتجات) قيد الانتظار"
+
+msgid "%s pending matching(s)"
+msgstr "%s  في انتظار المطابقة"
+
+msgid "%s expired agreement(s)"
+msgstr "%s انتهت صلاحية الاتفاقية"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s ستنتهي صلاحية الاتفاقية قريبًا"
+
+msgid "Legal notice"
+msgstr "الإشعار القانوني"
+
+msgid "Tags"
+msgstr "علامات"
+
+msgid "Allowed"
+msgstr "مسموح"
+
+msgid "Min stay"
+msgstr "الحد الأدنى للبقاء"
+
+msgid "Over"
+msgstr "خلال"
+
+msgid "Free text"
+msgstr "النص الحر"
+
+msgid "Generate comment"
+msgstr "إنشاء تعليق"
+
+msgid "Building name"
+msgstr "اسم المبنى"
+
+msgid "VAT"
+msgstr "القيمة المضافة"
+
+msgid "VAT included"
+msgstr "تشمل الضريبة على القيمة المضافة"
+
+msgid "VAT excluded"
+msgstr "مِن دونِ الضَّرائبِ"
+
+msgid "Recurrence"
+msgstr "تكرار"
+
+msgid "Contribution"
+msgstr "المساهمة"
+
+msgid "Maximum debt"
+msgstr "الحد الأقصى للقرض"
+
+msgid "Purchase amount"
+msgstr "مبلغ الشراء"
+
+msgid "Borrowing calculator"
+msgstr "إستعارة الحاسبة"
+
+msgid "Monthly payment calculator"
+msgstr "الدفعة الشهرية  حاسبة"
+
+msgid "You don't have broadcasting rights"
+msgstr "لا تملك حقوق النشر"
+
+msgid "Pending"
+msgstr "في الإنتظار"
+
+msgid "Suggestions"
+msgstr "اقترحات"
+
+msgid "Manual"
+msgstr "يدوي"
+
+msgid "In collaboration with a %name% professional"
+msgstr "بالتعاون مع %name% محترف"
+
+msgid "Partners"
+msgstr "شركاء"
+
+msgid "Cost"
+msgstr "التكلفة"
+
+msgid "My search"
+msgstr "بحثي"
+
+msgid "Spouse"
+msgstr "القرين"
+
+msgid "Manager"
+msgstr "مدير"
+
+msgid "Category reference"
+msgstr "إشارة التصنيف"
+
+msgid "Cadastre reference"
+msgstr "السجل العقاري إشارة"
+
+msgid "Lot reference"
+msgstr "قطعة أرض إشارة"
+
+msgid "Block reference"
+msgstr "المبنى إشارة"
+
+msgid "Stairs reference"
+msgstr "إشارة السلالم"
+
+msgid "Mortgage end at"
+msgstr "نهاية الرهن العقاري في"
+
+msgid "Media"
+msgstr "وسائط"
+
+msgid "Medias"
+msgstr "وَسَائِلُ الْإِعْلَامِ"
+
+msgid "Last access"
+msgstr "آخر دخول"
+
+msgid "First access"
+msgstr "أول دخول"
+
+msgid "Access count"
+msgstr "الدخول إلى الحساب"
+
+msgid "Default"
+msgstr "افتراضي"
+
+msgid "Please do not enter any name or contact"
+msgstr "الرجاء عدم إدراج أي إسم أو"
+
+msgid "QR-Code"
+msgstr "رمز مربع"
+
+msgid "Show price"
+msgstr "عرض السعر"
+
+msgid "Done"
+msgstr "منجز"
+
+msgid "Not applicable"
+msgstr "لا يمكن تطبيقه"
+
+msgid "Fill in the table"
+msgstr "املأ الجدول"
+
+msgid "copy"
+msgstr "نسخ"
+
+msgid "Automatic matching"
+msgstr "المطابقة التلقائية"
+
+msgid "Authorization"
+msgstr "تخويل"
+
+msgid "Last connection the %s"
+msgstr "%s آخر دخول بتاريخ"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "Wiki"
+msgstr "ويكي"
+
+msgid "Latest"
+msgstr "الأخيرة"
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgid "Show/hide fields"
+msgstr "نشر/إخفاء حقل نص"
+
+msgid "Recent searches"
+msgstr "آخر البحوث"
+
+msgid "Association"
+msgstr "جمعية"
+
+msgid "Meta crawler"
+msgstr "ميتا كراولر"
+
+msgid "Alerts"
+msgstr "تنبيهات"
+
+msgid "Prescribers"
+msgstr "الواصفين"
+
+msgid "Staff"
+msgstr "العاملين"
+
+msgid "Standing"
+msgstr "جودة عالية/ فاخر/ رفاهية"
+
+msgid "Receive a copy"
+msgstr "تلقي نسخة"
+
+msgid "Latest views"
+msgstr "أحدث الرَؤى"
+
+msgid "Quality"
+msgstr "نَوْعيّة"
+
+msgid "Waiting for partner"
+msgstr "في انتظار الشريك"
+
+msgid "Viewing agreement"
+msgstr "عقد الإتَفاق قبل معاينة العقار"
+
+msgid "Declined"
+msgstr "رفض"
+
+msgid "Accept"
+msgstr "وافق"
+
+msgid "Accepted"
+msgstr "قبول"
+
+msgid "Zones"
+msgstr "المناطق"
+
+msgid "Zone"
+msgstr "المنطقة"
+
+msgid "Matrimonial regime"
+msgstr "نظام الزوجية"
+
+msgid "Marital status"
+msgstr "الوضع العائلي"
+
+msgid "Thumbnail"
+msgstr "صورة مصغَرة للعقار"
+
+msgid "Unread"
+msgstr "لم تقرأ"
+
+msgid "Reply"
+msgstr "الرد"
+
+msgid "Pension"
+msgstr "دخل شهري آخر"
+
+msgid "Draft"
+msgstr "عمق تحت خط المياه"
+
+msgid "Guests"
+msgstr "الضَيوف"
+
+msgid "Crew"
+msgstr "طاقم"
+
+msgid "Cruising speed"
+msgstr "سرعة الانطلاق"
+
+msgid "Builder"
+msgstr "شركة البناء"
+
+msgid "Administration"
+msgstr "إدارة"
+
+msgid "Civil law notary"
+msgstr "عدل إشهاد"
+
+msgid "Max price"
+msgstr "الثمن الأقصى"
+
+msgid "Reminders"
+msgstr "تذكيرات"
+
+msgid "Credit"
+msgstr "الدَين"
+
+msgid "Signature"
+msgstr "الإمضاءات"
+
+msgid "Title (politeness)"
+msgstr "النَوع"
+
+msgid "Amount"
+msgstr "السعر"
+
+msgid "Amounts"
+msgstr "الأسعار"
+
+msgid "Updated at"
+msgstr "تحديثها بتاريخ"
+
+msgid "Created at"
+msgstr "أحدث بتاريخ"
+
+msgid "Publicated at"
+msgstr "نشر بتاريخ"
+
+msgid "Insurance"
+msgstr "التَأمين"
+
+msgid "Provision"
+msgstr "الرَصيد"
+
+msgid "Entries"
+msgstr "كتابات"
+
+msgid "Mark"
+msgstr "عدد"
+
+msgid "Plot of land area"
+msgstr "مساحة الميدان"
+
+msgid "Deposit account"
+msgstr "مبلغ التأمين"
+
+msgid "Owner's price"
+msgstr "السَعر الًدَي حدًده المالك"
+
+msgid "Starting price"
+msgstr "سعر البداية"
+
+msgid "Mobile"
+msgstr "الجوال"
+
+msgid "Tel."
+msgstr ".هاتف"
+
+msgid "Leases"
+msgstr "عقود الإيجار"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Searches"
+msgstr "أبحاث"
+
+msgid "Tips"
+msgstr "نصائح"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Maps"
+msgstr "خرائط"
+
+msgid "days"
+msgstr "أيام"
+
+msgid "day"
+msgstr "يوم"
+
+msgid "Catalog"
+msgstr "الفهرس"
+
+msgid "Phone call"
+msgstr "إتَصال"
+
+msgid "Statistics"
+msgstr "إحصائيات"
+
+msgid "Built in"
+msgstr "بني في سنة"
+
+msgid "Percentage"
+msgstr "النَسبة المؤيَة"
+
+msgid "Visits"
+msgstr "زيارات"
+
+msgid "Visit comment"
+msgstr "تعليقات الزَائر"
+
+msgid "Key number"
+msgstr "رقم المفتاح"
+
+msgid "Key's place"
+msgstr "وجود المفتاح"
+
+msgid "Displayed city (optional)"
+msgstr "(المدينة الموسَعة (إختياري"
+
+msgid "Displayed district (optional)"
+msgstr "(الحيَ الموسَع (إختياري"
+
+msgid "Clauses"
+msgstr "بنود"
+
+msgid "Postal code"
+msgstr "رقم البريد"
+
+msgid "Bathrooms"
+msgstr "غرف الإستحمام"
+
+msgid "Seller"
+msgstr "بائع"
+
+msgid "Adjacency"
+msgstr "الملكية المشتركة"
+
+msgid "Step"
+msgstr "خطوة"
+
+msgid "Long comment"
+msgstr "تعليق طويل"
+
+msgid "Subtitle"
+msgstr "عنوان فرعي"
+
+msgid "Last published at"
+msgstr "آخر نشر على"
+
+msgid "floor"
+msgstr "طابق"
+
+msgid "Inactive"
+msgstr "غير نشط"
+
+msgid "Position"
+msgstr "دور"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "يرجى ملء اسم وهاتف أو بريد إلكتروني"
+
+msgid "Passwords do not match, please retype"
+msgstr "كلمات مرور مختلفة ، شكرا لإعادة الدخول"
+
+msgid "Please change your password"
+msgstr "شكرا للقيام بتغيير كلمة مرورك"
+
+msgid "New password should not be same as old password"
+msgstr "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور القديمة"
+
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+msgid "Tour comment"
+msgstr "تعليق زائر"
+
+msgid "Actions"
+msgstr "عمل/  أفعال"
+
+msgid "Ad"
+msgstr "إعلان"
+
+msgid "Add opening hours"
+msgstr "إضافة جدول زمني"
+
+msgid "Ref"
+msgstr "مرجع"
+
+msgid "Personal"
+msgstr "شخصيَ"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"انتباه هناك التبعيات ، شكرا لك لتحديد جهة اتصال للمضي قدما في نقل البيانات"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "قد يستغرق الإعداد عدة دقائق ، شكرًا لك على العودة لاحقًا"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "جهة الاتصال الخاصة بك تتحدث s%، هل تريد تغيير اللغة؟"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "النشر على الصفحة الرئسية"
+
+msgid "plus VAT"
+msgstr "بالإضافة إلى ضريبة القيمة المضافة"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "تحذير: هناك خطأ ، يرجى التحقق من كل نطاق"
+
+msgid "Price/sq m"
+msgstr "ثمن/م²"
+
+msgid "today"
+msgstr "اليوم"
+
+msgid "week"
+msgstr "أسبوع"
+
+msgid "from %from_value% to %to_value%"
+msgstr "%to_value% إلى %from_value% من"
+
+msgid "Page"
+msgstr "صفحة"
+
+msgid "Action"
+msgstr "عملية"
+
+msgid "Status"
+msgstr "وضع قانوني"
+
+msgid "agencies"
+msgstr "وكالات"
+
+msgid "Context"
+msgstr "سَياق"
+
+msgid "More criteria"
+msgstr "المزيد من المعايير"
+
+msgid "Criteria"
+msgstr "معايير"
+
+msgid "Classification"
+msgstr "التَصنيف"
+
+msgid "metres"
+msgstr "أمتار"
+
+msgid "Window"
+msgstr "نافذة او شباك"
+
+msgid "Stock area"
+msgstr "مساحة المخزون"
+
+msgid "Sales area"
+msgstr "المساحة الموضوعة للبيع"
+
+msgid "Sold price"
+msgstr "سعر البيع"
+
+msgid "Broadcast to"
+msgstr "بث على"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "لن يتم نشر العقار لأنه في الخطوة  « %s »"
+
+msgid "Last agencies"
+msgstr "اخر وكالات"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "أؤكد اشتراكي في s% وأوافق على الشروط والأحكام"
+
+msgid "from %from_date% to %to_date%"
+msgstr "%to_value% و %from_value% بين"
+
+msgid "sq m"
+msgstr "م²"
+
+msgid "bedroom"
+msgstr "غرفة النَوم"
+
+msgid "comments"
+msgstr "تعليقات"
+
+msgid "Private comment"
+msgstr "تعليق خاص"
+
+msgid "Private"
+msgstr "خاص"
+
+msgid "Levels"
+msgstr "المستويات"
+
+msgid "Level"
+msgstr "المستوى"
+
+msgid "Exchange"
+msgstr "تبادلات"
+
+msgid "by"
+msgstr "بواسطة"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "مصعد"
+
+msgid "no"
+msgstr "لا"
+
+msgid "yes"
+msgstr "نعم"
+
+msgid "Printed with care"
+msgstr "طبع بعناية"
+
+msgid "Please do not litter on public way"
+msgstr "من فضلك لا ترمي القمامة في الطريق العام"
+
+msgid "Non-contractual information"
+msgstr "المعلومات غير التعاقدية"
+
+msgid "Agency fees"
+msgstr "رسوم الشركة"
+
+msgid "Agency fees included"
+msgstr "رسوم الشركة مشمولة"
+
+msgid "Agency fees not included"
+msgstr "رسوم الشركة غير مشمولة"
+
+msgid "Fees"
+msgstr "الرسوم"
+
+msgid "Personal property tax"
+msgstr "ضريبة الأملاك الشخصية"
+
+msgid "Style"
+msgstr "الأسلوب"
+
+msgid "Parkings"
+msgstr "مواقف سيارات"
+
+msgid "Pictures"
+msgstr "صور"
+
+msgid "Window card"
+msgstr "وثيقة واجهة الشركة"
+
+msgid "Private sheet"
+msgstr "وثيقة خاصة"
+
+msgid "Public sheet"
+msgstr "وثيقة عامة"
+
+msgid "Service"
+msgstr "خدمة"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Cart"
+msgstr "السَلة"
+
+msgid "Land type"
+msgstr "نوع الأرض"
+
+msgid "Property agent"
+msgstr "وكيل العقار"
+
+msgid "End at"
+msgstr "ينتهي في"
+
+msgid "Close at"
+msgstr "يُغلق في"
+
+msgid "Start at"
+msgstr "تبدأ في"
+
+msgid "Guarantees"
+msgstr "ضمانات"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Inter-agencies"
+msgstr "بين الوكالات"
+
+msgid "Number of floors"
+msgstr "عدد الطوابق"
+
+msgid "Evaluated price"
+msgstr "السعر المقدر"
+
+msgid "Seller's commission"
+msgstr "عمولة البائع"
+
+msgid "Buyer's commission"
+msgstr "عمولة المشتري"
+
+msgid "Commission"
+msgstr "عمولة"
+
+msgid "Origin"
+msgstr "أصل"
+
+msgid "Specific origin"
+msgstr "أصل محدد"
+
+msgid "Flooring"
+msgstr "أرضيّات"
+
+msgid "Rank"
+msgstr "رتبة"
+
+msgid "Publications"
+msgstr "منشورات"
+
+msgid "Send to contact"
+msgstr "أرسل إلى جهة إتَصال"
+
+msgid "No results found"
+msgstr "لم يتم العثور على نتائج"
+
+msgid "results"
+msgstr "نتائج"
+
+msgid "result"
+msgstr "نتيجة"
+
+msgid "Advertiser"
+msgstr "المعلن"
+
+msgid "Active"
+msgstr "نَشِط"
+
+msgid "Confidential"
+msgstr "سرِّيّ"
+
+msgid "Activity"
+msgstr "نشاط"
+
+msgid "Save"
+msgstr "تسجيل"
+
+msgid "Succession"
+msgstr "تعاقب"
+
+msgid "Please fill in a city."
+msgstr ".أضف مدينة من فضلك"
+
+msgid "Guarantee"
+msgstr "ضمان"
+
+msgid "Please fill"
+msgstr "من فضلك إملأ"
+
+msgid "The email address is invalid."
+msgstr "عنوان البريد الإلكتروني غير صالح."
+
+msgid "Rights"
+msgstr "حقوق"
+
+msgid "Since"
+msgstr "منذ"
+
+msgid "Filter"
+msgstr "التَصفية"
+
+msgid "Min"
+msgstr "أدنى"
+
+msgid "Max"
+msgstr "أقصى"
+
+msgid "Lessor"
+msgstr "مُؤَجِّر"
+
+msgid "Lessee"
+msgstr "مُستَأجِر"
+
+msgid "Reservations"
+msgstr "حجزوزات"
+
+msgid "Booking"
+msgstr "حجز"
+
+msgid "Bed"
+msgstr "سرير"
+
+msgid "Cleaning price"
+msgstr "تكلفة التًنظيف"
+
+msgid "Availabilities"
+msgstr "توفر"
+
+msgid "Sent"
+msgstr "أُرْسِلَ"
+
+msgid "Year"
+msgstr "سنة"
+
+msgid "month"
+msgstr "شهر"
+
+msgid "years"
+msgstr "سنوات"
+
+msgid "Seasons"
+msgstr "الفصول"
+
+msgid "Season"
+msgstr "الفصل"
+
+msgid "Rates"
+msgstr "معدل"
+
+msgid "Todo"
+msgstr "للقيام ب"
+
+msgid "Brand"
+msgstr "ماركة"
+
+msgid "Bank"
+msgstr "مصرف"
+
+msgid "Brief comment"
+msgstr "تعليق موجز"
+
+msgid "Delivery at"
+msgstr "التسليم في"
+
+msgid "Reason"
+msgstr "سبب"
+
+msgid "What's new"
+msgstr "ما الجديد"
+
+msgid "requests"
+msgstr "طلبات"
+
+msgid "request"
+msgstr "طلب"
+
+msgid "Current rent"
+msgstr "الإيجار الحالي"
+
+msgid "properties"
+msgstr "عقارات"
+
+msgid "property"
+msgstr "عقار"
+
+msgid "Bill"
+msgstr "فاتورة"
+
+msgid "Calculator"
+msgstr "آلة حاسبة"
+
+msgid "Birthplace"
+msgstr "مكان الولادة"
+
+msgid "Birthday"
+msgstr "تاريخ الولادة"
+
+msgid "Income"
+msgstr "دخل"
+
+msgid "Costs"
+msgstr "التكاليف"
+
+msgid "Margin"
+msgstr "هامش"
+
+msgid "Required."
+msgstr "إلزامِيّ"
+
+msgid "Seasonal"
+msgstr "موسميَ"
+
+msgid "Spoken language"
+msgstr "اللغة المنطوقة"
+
+msgid "Number of children"
+msgstr "عدد الأطفال"
+
+msgid "Hotline"
+msgstr "الخط الساخن"
+
+msgid "Re-type password"
+msgstr "أعد إدخال كلمة السر"
+
+msgid "Public longitude"
+msgstr "خطَ الطَول العام"
+
+msgid "Public latitude"
+msgstr "خطَ العرض العام"
+
+msgid "Access denied"
+msgstr "الوصول مرفوض"
+
+msgid "Access"
+msgstr "الوصول"
+
+msgid "Launch"
+msgstr "إطلاق"
+
+msgid "Shortcuts"
+msgstr "الاختصارات"
+
+msgid "Subscription"
+msgstr "إشتراك"
+
+msgid "SEO"
+msgstr "تحسين محركات البحث"
+
+msgid "Life annuity length"
+msgstr "طول معاش الحياة"
+
+msgid "Market value"
+msgstr "القيمة السوقية"
+
+msgid "Price contribution"
+msgstr "مساهمة في السعر"
+
+msgid "Show more results"
+msgstr "عرض المزيد من النتائج"
+
+msgid "Close"
+msgstr "غلق"
+
+msgid "Hide"
+msgstr "إخفاء"
+
+msgid "Keyword"
+msgstr "كلمات مفتاحية"
+
+msgid "Corporate register"
+msgstr "السَجل التَجاري"
+
+msgid "Expired soon"
+msgstr "قريبا ستنتهي الصَلاحية"
+
+msgid "Expired"
+msgstr "منتهي الصلاحية"
+
+msgid "Agreements"
+msgstr "الإتَفاقيات"
+
+msgid "Agreement number"
+msgstr "رقم الإتَفاقية"
+
+msgid "VAT identification number"
+msgstr "رقم تعريف الضريبة على القيمة المضافة"
+
+msgid "What's on your mind?"
+msgstr "ما  يدور في ذهنك؟"
+
+msgid "Buyer"
+msgstr "المشتري"
+
+msgid "Prescriber"
+msgstr "الواصف"
+
+msgid "Message sent"
+msgstr "تم إرسال الرسالة"
+
+msgid "Limit"
+msgstr "حدْ"
+
+msgid "Publish"
+msgstr "أنشر"
+
+msgid "Do not publish"
+msgstr "لا تنشر"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Already suggested"
+msgstr "اقتُرِح بالفعل"
+
+msgid "To suggest"
+msgstr "ليقترح"
+
+msgid "Suggest"
+msgstr "إقترح"
+
+msgid "Footer"
+msgstr "تذييل الصفحة"
+
+msgid "Header"
+msgstr "رأس الصفحة"
+
+msgid "Serviced plot"
+msgstr "إجراء يهدف إلى جعل أرض بناء قابلة للحياة"
+
+msgid "Net floor area"
+msgstr "صافي المساحة الأرضية"
+
+msgid "Sold at"
+msgstr "بيع بتاريخ"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "Garden area"
+msgstr "مساحة الحديقة"
+
+msgid "Payment"
+msgstr "الدفع"
+
+msgid "Reopen"
+msgstr "إعادة فتح"
+
+msgid "Completed"
+msgstr "تمّت"
+
+msgid "Complete"
+msgstr "إنتهاء"
+
+msgid "Callback"
+msgstr "معاودة الإتَصال"
+
+msgid "Callbacks"
+msgstr "معاودة الإتَصالات"
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "Coagent"
+msgstr "الوكالة المشتركة"
+
+msgid "Residences"
+msgstr "مساكن"
+
+msgid "%s properties"
+msgstr "%s العقارات"
+
+msgid "%s property"
+msgstr "%s عقار"
+
+msgid "%s request"
+msgstr "طلب %s"
+
+msgid "%s requests"
+msgstr "طلبات %s"
+
+msgid "Characteristics"
+msgstr "خصائص"
+
+msgid "Activities"
+msgstr "الانشطة"
+
+msgid "Sorry, this property is no longer available."
+msgstr "آسف هذا الملكية لم يعد متوفرة."
+
+msgid "Processed"
+msgstr "تمت معالجتها"
+
+msgid "remaining tickets"
+msgstr "التذاكر المتبقية"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "تهانينا! لا مزيد من تذاكرالدعم التقني"
+
+msgid "unassigned tickets"
+msgstr "تذاكر غير مخصصة"
+
+msgid "All tickets are assigned."
+msgstr "يتم تخصيص جميع التذاكر"
+
+msgid "task in progress"
+msgstr "المهمة جارية"
+
+msgid "Database"
+msgstr "قاعدة البيانات"
+
+msgid "Used"
+msgstr "استخدمت"
+
+msgid "%s results"
+msgstr "نتائج s%"
+
+msgid "Redirects"
+msgstr "إعادة توجيه"
+
+msgid "Subscribe to the newsletter"
+msgstr "اشترك في الرسالة الإخبارية"
+
+msgid "Purge"
+msgstr "تطهير"
+
+msgid "Valuation methods"
+msgstr "أَسالِيب التقييم"
+
+msgid "Rebuild cost"
+msgstr "تكلفة إعادة البناء"
+
+msgid "Capitalization"
+msgstr "الرسملة"
+
+msgid "Comparative market analysis"
+msgstr "تحليل السوق المقارنة"
+
+msgid "An average of"
+msgstr "بمعدل"
+
+msgid "Your own valuation"
+msgstr "تقييمك الخاص"
+
+msgid "Desired profitability"
+msgstr "الربحية المرجوة"
+
+msgid "Taxes and/or fees"
+msgstr "الضرائب و/أو الرسوم"
+
+msgid "Year of purchase"
+msgstr "سنة الشراء"
+
+msgid "Rental income"
+msgstr "إيرادات الإيجار"
+
+msgid "Price of purchase"
+msgstr "سعر الشراء / ثمن الشراء"
+
+msgid "Land price"
+msgstr "سعر الأرض"
+
+msgid "Cost of construction"
+msgstr "تكلفة البناء"
+
+msgid "Interior fittings"
+msgstr "التجهيزات الداخلية"
+
+msgid "Landscaping"
+msgstr "تنسيق حدائق"
+
+msgid "Decrepitude"
+msgstr "تدهور"
+
+msgid "Capital losses"
+msgstr "خسائر رأس المال"
+
+msgid "Capital gains"
+msgstr "مكاسب رأس المال"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "لقد تجاوز صندوق البريد الخاص بك حد التخزين (s%)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "سيصل صندوق البريد الخاص بك إلى حد التخزين"
+
+msgid "Sort by"
+msgstr "الترتيب حسب"
+
+msgid "Condominium in difficulty"
+msgstr "ملكية عقارية مشتركة  تواجه صعوبة"
+
+msgid "Back to the list"
+msgstr "العودة إلى قائمة"
+
+msgid "Previous listing"
+msgstr "القائمة السابقة"
+
+msgid "Next listing"
+msgstr "القائمة التالية"
+
+msgid "Filename"
+msgstr "اسم الملف"
+
+msgid "New feed"
+msgstr "إرسال جديد"
+
+msgid "Errors"
+msgstr "أخطاء"
+
+msgid "Error"
+msgstr "خَطء"
+
+msgid "Erase"
+msgstr "مسح"
+
+msgid "Erase all"
+msgstr "مسح الكل"
+
+msgid "Try"
+msgstr "جرب"
+
+msgid "Query"
+msgstr "استفسار"
+
+msgid "Agency fees payable by vendor"
+msgstr "رسوم البائع"
+
+msgid "Agency fees payable by buyer"
+msgstr "رسوم المشتري"
+
+msgid "Condominium fees"
+msgstr "رسوم الملكية المشتركة"
+
+msgid "An error occurred"
+msgstr "حدث خطأ"
+
+msgid "Successful subscription"
+msgstr "اشتراك ناجح"
+
+msgid "Created date"
+msgstr "تاريخ الإنشاء"
+
+msgid "Updated date"
+msgstr "تاريخ التحديث"
+
+msgid "Back to homepage"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+msgid "Price min"
+msgstr "الحد الأدنى للسعر"
+
+msgid "Price max"
+msgstr "الحد الأقصى للسعر"
+
+msgid "Bedroom min"
+msgstr "الحد الأدنى لغرفة النوم"
+
+msgid "Bedroom max"
+msgstr "الحد الأقصى لغرفة النوم"
+
+msgid "Room min"
+msgstr "الحد الأدنى لغرفة"
+
+msgid "Room max"
+msgstr "الحد الأقصى لغرفة"
+
+msgid "Project at"
+msgstr "المشروع في"
+
+msgid "Agency rate"
+msgstr "معدّل الشركة"
+
+msgid "Tenant's commission"
+msgstr "عمولة المستأجر"
+
+msgid "Inventory tenant charge"
+msgstr "رسوم الإيجار بعد تحديد حالة المبنى"
+
+msgid "Fees included"
+msgstr "الرسوم مشمولة"
+
+msgid "Provision on recoverable fees"
+msgstr "مخصصات الرسوم القابلة للاسترداد"
+
+msgid "Never"
+msgstr "أبدًا / قَطُّ"
+
+msgid "Remaining credits"
+msgstr "الاعتمادات المتبقية"
+
+msgid "Buy credits"
+msgstr "شراء إئتمانات"
+
+msgid "%s credits"
+msgstr "%s اِعتمادات"
+
+msgid "Transaction fees"
+msgstr "رسوم التحويل"
+
+msgid "View property"
+msgstr "عرض العقارات"
+
+msgid "lot available"
+msgstr "عقار متوفر"
+
+msgid "lots available"
+msgstr "عقارات متوفرة"
+
+msgid "Area min"
+msgstr "الحد الأدنى لمساحة"
+
+msgid "Search a property"
+msgstr "ابحث عن عقار"
+
+msgid "International"
+msgstr "عالَميّ"
+
+msgid "Unsubscribe"
+msgstr "إلغاء الاشتراك"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "لن يتم نشر هذا العقار  لأنه في مجموعة « s% »"
+
+msgid "%s month"
+msgstr "%s شهر"
+
+msgid "%s months"
+msgstr "%s أشهر"
+
+msgid "No action after"
+msgstr "لا إجراء بعد"
+
+msgid "%s pending delete"
+msgstr "%s في انتظار حذف"
+
+msgid "Pending delete"
+msgstr "في انتظار الحذف"
+
+msgid "%s to delete"
+msgstr "%s لحذف"
+
+msgid "Unsubscribed"
+msgstr "غير مشترك"
+
+msgid "Edit my search"
+msgstr "تعديل البحث الخاص بي"
+
+msgid "Activate my search"
+msgstr "تفعيل البحث الخاص بي"
+
+msgid "Cancel my search"
+msgstr "إلغاء البحث"
+
+msgid "Only authorized properties"
+msgstr "العقار المصرح به فقط"
+
+msgid "Another currency"
+msgstr "عملة أخرى"
+
+msgid "Enter the first 6 digits"
+msgstr "أدخل أول 6 أرقام"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "بدون اتخاذ إجراء من جانبك ، سيتم حذف جهة الاتصال الخاصة بك قبل s%"
+
+msgid "No procedure in progress"
+msgstr "لا يوجد إجراء قيد التنفيذ"
+
+msgid "Procedure in progress"
+msgstr "إجراء قيد التنفيذ"
+
+msgid "Number of lots in the condominium"
+msgstr "عدد العقارات في ملكية عقارية مشتركة"
+
+msgid "Network authorized"
+msgstr "مخوّل من المجموعة"
+
+msgid "Renew the lease"
+msgstr "تجديد عقد الإيجار"
+
+msgid "Remove at"
+msgstr "إزالة في"
+
+msgid "External action"
+msgstr "اجراء خارجي"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"تحويل العميل المحتمل إلى طلب بإجراء يسمح لك هذا بإجراء المطابقة والمقترحات "
+"بتتبع أفضل"
+
+msgid "Floors"
+msgstr "طوابق"
+
+msgid "Job"
+msgstr "مهنة / وظيفة"
+
+msgid "Unsuscribe from this list"
+msgstr "إلغاء الاشتراك من هذه القائمة"
+
+msgid "Entry"
+msgstr "دُخُول"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Networks"
+msgstr "الشبكات"
+
+msgid "Secured"
+msgstr "أَمِن"
+
+msgid "Opacity"
+msgstr "لاشفافية"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "Top"
+msgstr "أعلى"
+
+msgid "Relative to the last element"
+msgstr "متعلق بالعنصر الأخير"
+
+msgid "Alignment"
+msgstr "مُحاذاة"
+
+msgid "Border size"
+msgstr "حجم الحدود"
+
+msgid "Border color"
+msgstr "لون الحدود"
+
+msgid "Size of the internal margin"
+msgstr "حجم الهامش الداخلي"
+
+msgid "Font color"
+msgstr "لون الخط"
+
+msgid "Font size"
+msgstr "حجم الخط"
+
+msgid "Background color"
+msgstr "لون الخلفية"
+
+msgid "Custom image"
+msgstr "صورة مخصصة"
+
+msgid "custom"
+msgstr "مخصص"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "Center"
+msgstr "وسط"
+
+msgid "Justified"
+msgstr "مُبَرَّر"
+
+msgid "Transparency"
+msgstr "الشفافية"
+
+msgid "Line height"
+msgstr "ارتفاع السطر"
+
+msgid "Uppercase"
+msgstr "الأحرف الكبيرة"
+
+msgid "Price proposal"
+msgstr "اقتراح السعر"
+
+msgid "Template"
+msgstr "نموذج"
+
+msgid "Publication date"
+msgstr "تاريخ النشر"
+
+msgid "Recovered at"
+msgstr "مسترجع في"
+
+msgid "Available on"
+msgstr "متاح على"
+
+msgid "Allow all"
+msgstr "السماح للكل"
+
+msgid "Private position is not set, click here to update."
+msgstr "لم يتم تعيين الموقع الخاص ، انقر هنا للتحديث."
+
+msgid "Public position is not set, click here to update."
+msgstr "لم يتم تعيين الموقع العام ، انقر هنا للتحديث."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"الرجاء استخدام هذا الرابط للاشتراك في التقويم الخاص بك من برنامج أو جهاز:"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Disable"
+msgstr "ديزاكتيفير"
+
+msgid "Block"
+msgstr "حظر"
+
+msgid "Unblock"
+msgstr "رفع الحظر"
+
+msgid "Area max"
+msgstr "الحد الأقصى لمساحة"
+
+msgid "Plot of land area min"
+msgstr "الحد الأدنى  لمساحة الأرض"
+
+msgid "Plot of land area max"
+msgstr "الحد الأقصى لمساحة الأرض"
+
+msgid "Date descending"
+msgstr "تاريخ تنازلي"
+
+msgid "Date ascending"
+msgstr "تاريخ تصاعدي"
+
+msgid "Price descending"
+msgstr "سعر تنازلي"
+
+msgid "Price ascending"
+msgstr "سعر تصاعدي"
+
+msgid "Balance"
+msgstr "رَصِيد"
+
+msgid "Construction method"
+msgstr "طريقة البناء"
+
+msgid "Tax code"
+msgstr "الرقم الضريبي"
+
+msgid "Downsides"
+msgstr "سلبيات"
+
+msgid "Assets"
+msgstr "أصول"
+
+msgid "Please select a district from the list:"
+msgstr "الرجاء تحديد منطقة من القائمة:"
+
+msgid "Non-flood zone"
+msgstr "منطقة خالية من الفيضانات"
+
+msgid "Potential flood zone"
+msgstr "منطقة يحتمل أن تكون قابلة للفيضان"
+
+msgid "Recognized flood zone"
+msgstr "منطقة فيضان معترف بها"
+
+msgid "Delimited flood zone"
+msgstr "منطقة فيضانات المحددة"
+
+msgid "Cadastre"
+msgstr "السجل العقاري"
+
+msgid "Delimited waterside zone"
+msgstr "منطقة نهرية محددة / منطقة مائية محددة"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "منطقة فيضانات محتملة في منطقة مائية محددة"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "منطقة يحتمل أن تكون معرضة للفيضانات في منطقة فيضان محددة محددة"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "منطقة فيضانات معترف بها في منطقة نهرية محددة"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "منطقة فيضان معترف بها في منطقة فيضان محددة"
+
+msgid "Profile"
+msgstr "صورة شخصية"
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "Quota"
+msgstr "حصّة نسبية"
+
+msgid "Records"
+msgstr "السجلات"
+
+msgid "Partner"
+msgstr "شريك"
+
+msgid "Signage"
+msgstr "لَافِتَة/ لَوْحَة"
+
+msgid "Set up at"
+msgstr "أنشئ في"
+
+msgid "Forecast"
+msgstr "تنبؤ بالمناخ"
+
+msgid "Area ascending"
+msgstr "مساحة تصاعدية"
+
+msgid "Area descending"
+msgstr "مساحة تنازلية"
+
+msgid "%s awaiting review(s)"
+msgstr "%s في انتظار المراجعة (المراجعات)"
+
+msgid "To review"
+msgstr "للمراجعة"
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Net seller"
+msgstr "صافي البائع"
+
+msgid "Price displayed"
+msgstr "السعر المعروض"
+
+msgid "Rental price"
+msgstr "سعر الإيجار"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "السعر المدرج : s% ، أسعار الصرف إرشادية."
+
+msgid "%s units"
+msgstr "وحدات s%"
+
+msgid "%s unit"
+msgstr "وِحدة s%"
+
+msgid "Method"
+msgstr "طَرِيقَة"
+
+msgid "Path"
+msgstr "طريق"
+
+msgid "Pagebreak"
+msgstr "فاصل صفحة"
+
+msgid "Paragraph"
+msgstr "فقرة"
+
+msgid "Spacing"
+msgstr "تباعد"
+
+msgid "Align"
+msgstr "محاذاة"
+
+msgid "Scale"
+msgstr "مقياس"
+
+msgid "Color"
+msgstr "اللون"
+
+msgid "lines"
+msgstr "خطوط"
+
+msgid "Positioning"
+msgstr "التمركز"
+
+msgid "Border"
+msgstr "حدود"
+
+msgid "Social networks"
+msgstr "الشبكات الاجتماعية"
+
+msgid "Save settings"
+msgstr "حفظ الإعدادات"
+
+msgid "Delete settings"
+msgstr "حذف الإعدادات"
+
+msgid "never"
+msgstr "مطلقا"
+
+msgid "Facades"
+msgstr "واجهات"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "يرجى تحديد الصفحات التي تريد نشر عقاراتك فيها."
+
+msgid "Unique publication identifier"
+msgstr "تحديد منشور فريد"
+
+msgid "No active transfer"
+msgstr "لا يوجد نقل نشط"
+
+msgid "Publication report"
+msgstr "تقرير النشر"
+
+msgid "Click here to view the publication."
+msgstr "انقر هنا لعرض المنشور."
+
+msgid "Your listing is now online."
+msgstr "قائمتك الآن على الإنترنت."
+
+msgid "Share on …"
+msgstr "مشاركة على ..."
+
+msgid "Add the feature for:"
+msgstr "أضف الميزة لـ:"
+
+msgid "The agency"
+msgstr "الشركة"
+
+msgid "The whole company"
+msgstr "الشركة كلها"
+
+msgid "The whole brand"
+msgstr "العلامة التجارية كلها"
+
+msgid "Wrong number"
+msgstr "رقم غير صحيح"
+
+msgid "Padding"
+msgstr "حشوة"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "بريد إلكتروني خاطئ أو البريد الإلكتروني ثقيل جدًا"
+
+msgid "Empty e-mail"
+msgstr "بريد إلكتروني فارغ"
+
+msgid "Wrong e-mail"
+msgstr "بريد إلكتروني خاطئ"
+
+msgid "Wrong spouse's e-mail"
+msgstr "البريد الإلكتروني للزوج خاطئ"
+
+msgid "Starting from floor"
+msgstr "بدءا من الطابق الأول"
+
+msgid "Please report to our documentation."
+msgstr "الرجاء الإبلاغ عن وثائقنا."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr "خادم البريد الإلكتروني الخاص بك لا يسمح لنا بإرسال بريد إلكتروني."
+
+msgid "Not suggested"
+msgstr "لا يقترح"
+
+msgid "Quick view"
+msgstr "نظرة سريعة"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"هذه الميزة تحتاج إلى برنامج WhatsApp Web. قبل استخدام هذه الميزة ، تأكد من "
+"تنزيل هاتفك الذكي وربطه."
+
+msgid "Add a lead"
+msgstr "اضافة اتصال"
+
+msgid "Display the address"
+msgstr "اعرض العنوان"
+
+msgid "Display the contact"
+msgstr "اعرض جهة الاتصال"
+
+msgid "Display the contact details"
+msgstr "اعرض تفاصيل الاتصال"
+
+msgid "Display the contact name"
+msgstr "اعرض اسم جهة الاتصال"
+
+msgid "Read"
+msgstr "يقرأ"
+
+msgid "Write"
+msgstr "كتابة"
+
+msgid "Private details"
+msgstr "تفاصيل خاصة"
+
+msgid "Private documents"
+msgstr "المستندات الخاصة"
+
+msgid "Public documents"
+msgstr "المستندات العامة"
+
+msgid "Order"
+msgstr "ترتيب"
+
+msgid "National"
+msgstr "وطني"
+
+msgid "Unavailable"
+msgstr "غير متوفره"
+
+msgid "Period"
+msgstr "فترة"
+
+msgid "Repair"
+msgstr "يصلح"
+
+msgid "Complain"
+msgstr "يشتكي"
+
+msgid "Reporting"
+msgstr "الإبلاغ"
+
+msgid "Moderator"
+msgstr "مشرف"
+
+msgid "%s guests"
+msgstr "الضَيوف s%"
+
+msgid "%s guest"
+msgstr "الضَّيف s%"
+
+msgid "Referral"
+msgstr "إحالة"
+
+msgid "Referrals"
+msgstr "إحالات"
+
+msgid "%s bed"
+msgstr "%s سرير"
+
+msgid "Old user"
+msgstr "مستخدم قديم"
+
+msgid "New user"
+msgstr "مستخدم جديد"
+
+msgid "Apply on requests"
+msgstr "تطبيق على الطلبات"
+
+msgid "Apply on properties"
+msgstr "تطبيق على العقار"
+
+msgid "Forthcoming"
+msgstr "قادم ,اقتراب، آتٍ"
+
+msgid "Past"
+msgstr "ماضي"
+
+msgid "Click here to join the webinar."
+msgstr "انقر هنا للانضمام إلى الندوة عبر الإنترنت."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "لديك موعد خلال٪ hours٪ ساعة (ساعات) و٪minutes٪ دقيقة (دقائق)"
+
+msgid "Your training of %s"
+msgstr "تدريبك لـ s%"
+
+msgid "(or)"
+msgstr "أو"
+
+msgid "Grant access to the user or the contact"
+msgstr "منح حق الوصول إلى المستخدم أو جهة الاتصال"
+
+msgid "Improve the quality of some photos."
+msgstr "تحسين جودة بعض الصور."
+
+msgid "Click here to highlight them."
+msgstr "انقر هنا لتمييزها."
+
+msgid "Documentation"
+msgstr "توثيق"
+
+msgid "Payments"
+msgstr "المدفوعات"
+
+msgid "Store"
+msgstr "محل"
+
+msgid "Cooling-off end at"
+msgstr "نهاية مدة عند"
+
+msgid "Accuracy of appraisal"
+msgstr "دقة التَخمِين"
+
+msgid "Fees details"
+msgstr "تفاصيل الرسوم"
+
+msgid "Funding"
+msgstr "التمويل"
+
+msgid "Personal contribution"
+msgstr "مساهمة شخصية"
+
+msgid "Mortgage amount"
+msgstr "مبلغ الرهن"
+
+msgid "Accepted at"
+msgstr "مقبولة في"
+
+msgid "Pre-fill"
+msgstr "التعبئة قبل"
+
+msgid "Register"
+msgstr "يسجل"
+
+msgid "Contracted at"
+msgstr "تم التعاقد في"
+
+msgid "Property valuation"
+msgstr "رأي القيمة"
+
+msgid "Selected properties"
+msgstr "الملكيات المختارة"
+
+msgid "Conclusion"
+msgstr "استنتاج"
+
+msgid "Final opinion between"
+msgstr "رأي نهائي بين"
+
+msgid "Net annual rental"
+msgstr "صافي الإيجار السنوي"
+
+msgid "Selected year"
+msgstr "السنة المختارة"
+
+msgid "Subscribers"
+msgstr "مشتركين"
+
+msgid "Signages"
+msgstr "لافتات"
+
+msgid "Keys"
+msgstr "مفاتيح"
+
+msgid "Member of your network"
+msgstr "عضو في شبكتك"
+
+msgid "Member of %s"
+msgstr "عضو في s%"
+
+msgid "Requests validated"
+msgstr "تم التحقق من صحة الطلبات"
+
+msgid "Incomplete requests"
+msgstr "طلبات غير مكتملة"
+
+msgid "You blocked this agency"
+msgstr "لقد حظرت هذه الشركة"
+
+msgid "Updated"
+msgstr "محدّث"
+
+msgid "Updated by"
+msgstr "تم التحديث بواسطة"
+
+msgid "Created by"
+msgstr "انشأ من قبل"
+
+msgid "Session has expired"
+msgstr "انتهت الجلسة"
+
+msgid "You have reached the quota"
+msgstr "لقد وصلت إلى الحصة"
+
+msgid "%s bathroom"
+msgstr "%s حمام"
+
+msgid "%s bathrooms"
+msgstr "%s حمامات"
+
+msgid "Force recording"
+msgstr "إجبار على التسجيل"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"أنت تستخدم النموذج السريع ، للوصول إلى جميع الحقول ، يرجى النقر فوق النموذج "
+"الكامل."
+
+msgid "Delete the contact"
+msgstr "حذف جهة الاتصال"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "تحديث معايير البحث الخاصة بي أو إلغاء الاشتراك لي."
+
+msgid "All day"
+msgstr "طوال اليوم"
+
+msgid "Synchronized with %s"
+msgstr "متزامن مع %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr "يبدو أن منطقتك الزمنية هي « %s »، انقر هنا للتحديث."
+
+msgid "Freehold"
+msgstr "التملك الحر"
+
+msgid "Leasehold"
+msgstr "مسؤول المستأجرة"
+
+msgid "Commonhold"
+msgstr "عقد مشترك"
+
+msgid "Share of freehold"
+msgstr "حصة التملك الحر"
+
+msgid "Please click here"
+msgstr "الرجاء الضغط هنا"
+
+msgid "Please complete the configuration"
+msgstr "يرجى استكمال الإعدادات"
+
+msgid "Choose a calendar"
+msgstr "اختر التقويم"
+
+msgid "Synchronize your calendar."
+msgstr "مزامنة التقويم الخاص بك."
+
+msgid "Send messages within your email account."
+msgstr "إرسال رسائل داخل حساب البريد الإلكتروني الخاص بك."
+
+msgid "Manage your contacts."
+msgstr "إدارة جهات الاتصال الخاصة بك."
+
+msgid "Synchronized account"
+msgstr "حساب متزامن"
+
+msgid "Unlink"
+msgstr "إلغاء الارتباط"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "لتعديل هذا الموعد ، ينبغي عليك أولاً إلغاء الارتباط به"
+
+msgid "Appointment shared with:"
+msgstr "موعد مشترك مع:"
+
+msgid "Old value"
+msgstr "القيمة القديمة"
+
+msgid "New value"
+msgstr "قيمة الجديدة"
+
+msgid "Subscribed"
+msgstr "مشترك"
+
+msgid "Display my properties"
+msgstr "عرض ملكياتي"
+
+msgid "Interface language"
+msgstr "لغة الواجهة"
+
+msgid "Spoken languages"
+msgstr "اللَغات الَتي تتكلَمها"
+
+msgid "Canceled at"
+msgstr "أُلْغِيَ  في"
+
+msgid "Please fill in a canceled date."
+msgstr "يرجى الملء في تاريخ ملغى."
+
+msgid "This username is already in use."
+msgstr "اسم المستخدم هذا قيد الإستخدام."
+
+msgid "Published at"
+msgstr "نشرت في"
+
+msgid "Ordered at"
+msgstr "طلب في"
+
+msgid "Projects"
+msgstr "المشاريع"
+
+msgid "Renovation cost"
+msgstr "تكلفة التجديد"
+
+msgid "Inflation"
+msgstr "التضخم"
+
+msgid "Reviews"
+msgstr "المراجعات"
+
+msgid "Option"
+msgstr "خيار"
+
+msgid "Check to accept"
+msgstr "تحقق لقبول"
+
+msgid "Account creation"
+msgstr "إنشاء حساب"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr "يتطلب الوصول إلى حل s% إرسال معلوماتك وقبول الشروط العامة"
+
+msgid "Read the personal data conditions"
+msgstr "اقرأ شروط البيانات الشخصية"
+
+msgid "Read the terms and conditions"
+msgstr "قراءة الشروط والأحكام"
+
+msgid "Waiting for your confirmation"
+msgstr "في انتظار تأكيدك"
+
+msgid "Suspended"
+msgstr "موقوف عن العمل"
+
+msgid "Validations"
+msgstr "عمليات التحقق"
+
+msgid "Privacy policy"
+msgstr "سياسة خاصة"
+
+msgid "Latest posts"
+msgstr "آخر المشاركات"
+
+msgid "Renew"
+msgstr "تجديد"
+
+msgid "Download the app"
+msgstr "قم بتنزيل التطبيق"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"قم بإعداد التطبيق على هاتفك الذكي واستمتع بالتنقل الأمثل لجهازك المحمول."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"استفد الآن من الوصول إلى البرنامج باستخدام بيانات الاعتماد هذه للاتصال. تأكد"
+" من الحفاظ على سرية هذه المعلومات وتغيير كلمة المرور الخاصة بك بانتظام."
+
+msgid "Watch our channel"
+msgstr "شاهد قناتنا"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "اكتشف مقاطع الفيديو التدريبية على قناة Youtube الخاصة بنا."
+
+msgid "Take part in our training"
+msgstr "شارك في تدريبنا"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"ننظم بانتظام تدريبًا عبر الإنترنت أو وجهاً لوجه ، سجّل مباشرة من البرنامج "
+"(أدوات القائمة> التدريب)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "رجى التكرم بملء ملف تعريف شركتك."
+
+msgid "Tripod"
+msgstr "ثلاثي القوائم"
+
+msgid "Square"
+msgstr "مربع"
+
+msgid "Round"
+msgstr "دائري"
+
+msgid "Virtual tour"
+msgstr "جولة افتراضية"
+
+msgid "You do not have enough credits to send the message."
+msgstr "ليس لديك اعتمادات كافية لإرسال الرسالة."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"الرجاء عدم إزالة قيمة «{LINK}». نحن بحاجة إلى هذا للرابط إلى موقع الكتروني "
+"الخاص بالعقار."
+
+msgid "Minimum bid"
+msgstr "الحد الأدنى للمزايدة"
+
+msgid "Published"
+msgstr "نشرت"
+
+msgid "Archived"
+msgstr "مؤرشف"
+
+msgid "Sent for signature"
+msgstr "أرسل للتوقيع"
+
+msgid "Camera position"
+msgstr "مواضع الكاميرا"
+
+msgid "Capture"
+msgstr "إلتقاط"
+
+msgid "Professionals"
+msgstr "محترف"
+
+msgid "Toilet"
+msgstr "مرحاض"
+
+msgid "Show pagination"
+msgstr "عرض الترقيم الصفحات"
+
+msgid "Mandatory fields"
+msgstr "الحقول الإلزامية"
+
+msgid "Available soon"
+msgstr "ستتاح قريبا "
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Contract end at"
+msgstr "انتهاء العقد"
+
+msgid "Incomplete"
+msgstr "غير كامل"
+
+msgid "Location Map"
+msgstr "خريطة الموقع"
+
+msgid "User Detail"
+msgstr "تفاصيل المستخدم"
+
+msgid "File size"
+msgstr "حجم الملف"
+
+msgid "File title"
+msgstr "عنوان الملف"
+
+msgid "Region"
+msgstr "المنطقة"
+
+msgid "Bath"
+msgstr "حمام"
+
+msgid "Private Negotiation"
+msgstr "مفاوضات خاصة"
+
+msgid "Property specifications"
+msgstr "مواصفات العقار"
+
+msgid "Energy performance"
+msgstr "أداء الطاقة"
+
+msgid "View Video"
+msgstr "مشاهدة الفيديو"
+
+msgid "Start Date"
+msgstr "تاريخ البداية"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "Welcome"
+msgstr "أهلاً بك"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "شاهد ما يحدث مع إضافة أبيمو."
+
+msgid "PROVIDERS"
+msgstr "مزودي الخدمة"
+
+msgid "AGENCIES"
+msgstr "الوكالات"
+
+msgid "PROPERTIES"
+msgstr "العقارات"
+
+msgid "BOOKMARK"
+msgstr "المرجعية"
+
+msgid "Remove all"
+msgstr "أزل الكل"
+
+msgid "Apply filter"
+msgstr "تطبيق الفلتر"
+
+msgid "Select Subtype"
+msgstr "اختر النوع الفرعي"
+
+msgid "Enchère"
+msgstr "مزايدة"
+
+msgid "Location"
+msgstr "إيجار"
+
+msgid "Location saisonnière"
+msgstr "إيجار موسمي"
+
+msgid "From"
+msgstr "من"
+
+msgid "To"
+msgstr "إلى"
+
+msgid "Dates"
+msgstr "تواريخ"
+
+msgid "Select country"
+msgstr "اختر الدولة"
+
+msgid "Select region"
+msgstr "اختر المنطقة"
+
+msgid "Select district"
+msgstr "اختر المنطقة"
+
+msgid "Select city"
+msgstr "اختر المدينة"
+
+msgid "hello"
+msgstr "مرحبًا"

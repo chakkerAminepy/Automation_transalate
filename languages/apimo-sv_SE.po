@@ -1,0 +1,3337 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Påminnelse"
+
+msgid "Suggestion"
+msgstr "Förslag"
+
+#, fuzzy
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Rapportera\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Report"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Andra\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Annat\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Other\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Other"
+
+msgid "Valuation"
+msgstr "Uppskattning"
+
+msgid "Advertising"
+msgstr "Annons"
+
+msgid "Open House"
+msgstr "Öppet hus"
+
+msgid "Canvassing"
+msgstr "Prospektering"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "After-sales"
+msgstr "Efter försäljning"
+
+msgid "Visit"
+msgstr "Besök"
+
+msgid "Appointment"
+msgstr "Utnämning"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Mr."
+msgstr "Herr"
+
+msgid "Mrs."
+msgstr "Fru"
+
+msgid "Ms."
+msgstr "Fröken"
+
+msgid "Mr. & Mrs."
+msgstr "Herr och Fru"
+
+msgid "Regulations"
+msgstr "Reglering"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Self-employed"
+msgstr "Yrke"
+
+msgid "Bakery"
+msgstr "Bageri"
+
+msgid "Restaurant"
+msgstr "Restaurang"
+
+msgid "Press"
+msgstr "Press"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Blomsterhandel"
+
+msgid "Tobacconist"
+msgstr "Tobak"
+
+msgid "Clothes"
+msgstr "Klädbutik"
+
+msgid "Chemist"
+msgstr "Apotek"
+
+msgid "Shopping centre"
+msgstr "Köpecentra"
+
+msgid "Travel agency"
+msgstr "Resebyrà"
+
+msgid "Real estate agent"
+msgstr "Mäklarbyrà"
+
+msgid "Gallery"
+msgstr "Galleri"
+
+msgid "Garage"
+msgstr "Garage"
+
+msgid "Insurer"
+msgstr "Försäkringsman"
+
+msgid "Optician"
+msgstr "Optiker"
+
+msgid "Perfumery"
+msgstr "Parfymeri"
+
+msgid "Hotel"
+msgstr "Hotell"
+
+msgid "Antique dealer"
+msgstr "Antikarie"
+
+msgid "Laundry"
+msgstr "Tvättinrettning"
+
+msgid "Pressing"
+msgstr "Kemtvätt"
+
+msgid "Jeweller"
+msgstr "Juvelerare"
+
+msgid "Grocer"
+msgstr "Livsmedel"
+
+msgid "Butcher"
+msgstr "Slaktare"
+
+msgid "Caterer"
+msgstr "Delikatessbutik"
+
+msgid "Brewery"
+msgstr "Ölkafé"
+
+msgid "Snack"
+msgstr "Snackbar"
+
+msgid "Confectioner"
+msgstr "Konditori"
+
+msgid "Pork butcher"
+msgstr "Charkuteri"
+
+msgid "Grocery"
+msgstr "Speceriaffär"
+
+msgid "Cheesemonger"
+msgstr "Ostaffär"
+
+msgid "Fruit and vegetables"
+msgstr "Grönsaksaffär"
+
+msgid "Sex shop"
+msgstr "Sexshop"
+
+msgid "Video game"
+msgstr "Videospel"
+
+msgid "Computer"
+msgstr "Data"
+
+msgid "Hairdresser"
+msgstr "Frisör"
+
+msgid "Cosmetician"
+msgstr "Skônhetssalong"
+
+msgid "Household electrical"
+msgstr "Vitvaror"
+
+msgid "Shoes"
+msgstr "Skor"
+
+msgid "Haberdasher"
+msgstr "Sybehör"
+
+msgid "Groomer"
+msgstr "Hundklippning"
+
+msgid "Tea room"
+msgstr "Tesalong"
+
+msgid "Beach"
+msgstr "Strand"
+
+msgid "Bookshop"
+msgstr "Bokhandel"
+
+msgid "Offices"
+msgstr "Kontor"
+
+msgid "Gas station"
+msgstr "Bensinstation"
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "Nightclub"
+msgstr "Nattklubb"
+
+msgid "Office supplies"
+msgstr "Kontorsvaror"
+
+msgid "Agriculture"
+msgstr "Jordbruk"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Biograf\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Bio"
+
+msgid "Sport supplies"
+msgstr "Sport supplies"
+
+msgid "Bedroom"
+msgstr "Sovrum"
+
+msgid "Living-room"
+msgstr "Salong"
+
+msgid "Kitchen"
+msgstr "Kök"
+
+msgid "Parking"
+msgstr "Parkering"
+
+msgid "Storage room"
+msgstr "Förråd"
+
+msgid "Garden shelter"
+msgstr "Trädgårdsskjul"
+
+msgid "Bathroom"
+msgstr "Badrum"
+
+msgid "Laundry room"
+msgstr "Tvättstuga"
+
+msgid "Study"
+msgstr "Kontor"
+
+msgid "Hallway"
+msgstr "Hall"
+
+msgid "Corridor"
+msgstr "Hall till sovrum"
+
+msgid "Shower room"
+msgstr "Duschrum"
+
+msgid "Walk-in wardrobe"
+msgstr "Klädkammare"
+
+msgid "Entrance"
+msgstr "Entré"
+
+msgid "Lavatory"
+msgstr "Toalett"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Terrass"
+
+msgid "Solarium"
+msgstr "Solterrass"
+
+msgid "Living room/dining area"
+msgstr "Vardagsrum"
+
+msgid "Play room"
+msgstr "Lekrum"
+
+msgid "Dining room"
+msgstr "Matsal"
+
+msgid "Pool house"
+msgstr "Poolhus"
+
+msgid "Cupboard"
+msgstr "Garderober"
+
+msgid "Not used"
+msgstr "Ej utnyttjad"
+
+msgid "Loggia"
+msgstr "Täckt terrass"
+
+msgid "Attic"
+msgstr "Vind"
+
+msgid "Mezzanine"
+msgstr "Mezzanin"
+
+msgid "Pantry"
+msgstr "Grovkök"
+
+msgid "Maintenance room"
+msgstr "Teknisk lokal"
+
+msgid "Workshop"
+msgstr "Atelje"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Bibliotek"
+
+msgid "Closet"
+msgstr "Garderob"
+
+msgid "Courtyard"
+msgstr "Gård"
+
+msgid "Landing"
+msgstr "Trappavsats"
+
+msgid "Linen room"
+msgstr "Linneförråd"
+
+msgid "Basement"
+msgstr "Källarplan"
+
+msgid "Bathroom / Lavatory"
+msgstr "Badrum / toalett"
+
+msgid "Shower room / Lavatory"
+msgstr "Duschrum / toalett"
+
+msgid "Balcony"
+msgstr "Balkong"
+
+msgid "Exercise room"
+msgstr "Gym"
+
+msgid "Discothèque"
+msgstr "Nattklubb"
+
+msgid "Home cinema"
+msgstr "Bio"
+
+msgid "Reception room"
+msgstr "Reception"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Trädgård\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Trädgàrd\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Trädgàrd"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Land"
+msgstr "Tomt"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Principal bedroom"
+msgstr "Master bedrooms"
+
+msgid "Suite"
+msgstr "Svit"
+
+msgid "Shed"
+msgstr "Bod"
+
+msgid "Apartment"
+msgstr "Lägenhet"
+
+msgid "Cabin"
+msgstr "Alkov"
+
+msgid "Barn"
+msgstr "Lada"
+
+msgid "Outbuilding"
+msgstr "Uthus"
+
+msgid "Bike storage room"
+msgstr "Cykelförråd"
+
+msgid "Ski storage room"
+msgstr "Skidförråd"
+
+msgid "Garbage room"
+msgstr "Soprum"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Inomhuspool"
+
+msgid "Prayer room"
+msgstr "Bönerum"
+
+msgid "Sauna"
+msgstr "Bastu"
+
+msgid "Watchtower"
+msgstr "Vakttorn"
+
+msgid "Room"
+msgstr "Rum"
+
+msgid "Meeting room"
+msgstr "Mötesrum"
+
+msgid "Indoor parking"
+msgstr "Inomhusparkering"
+
+msgid "Outdoor parking"
+msgstr "Utomhusparkering"
+
+msgid "Cafeteria"
+msgstr "Cafeteria"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Lagerlokal\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Lokal / Magasinsbyggnad\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Lagerlokal"
+
+msgid "Standard"
+msgstr "Enkelt"
+
+msgid "Co-exclusive"
+msgstr "Halvt exklusivt"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Exklusivt\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Exklusivitet"
+
+msgid "Delegation"
+msgstr "Delegering"
+
+msgid "Free"
+msgstr "Ledig"
+
+msgid "Rented"
+msgstr "Uthyrd"
+
+msgid "Occupied"
+msgstr "Upptagen"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Fastighet\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Building\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Fastighet\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Fastighet"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Residens\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Résidence"
+
+msgid "Housing scheme"
+msgstr "Avstyckad tomt"
+
+msgid "Hamlet"
+msgstr "Liten by"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Sale"
+msgstr "Försäljning"
+
+msgid "Rental"
+msgstr "Uthyrning"
+
+msgid "Seasonal rental"
+msgstr "Korttidsuthyrning"
+
+msgid "Development"
+msgstr "Nybygge"
+
+msgid "Life annuity"
+msgstr "Försäljning mot livränta"
+
+msgid "Auction"
+msgstr "Auktion"
+
+msgid "Unfurnished"
+msgstr "Omöblerad"
+
+msgid "Furnished"
+msgstr "Möblerad"
+
+msgid "Requires updating"
+msgstr "Att fräscha upp"
+
+msgid "Good condition"
+msgstr "Bra skick"
+
+msgid "Requires renovation"
+msgstr "Att renovera"
+
+msgid "Excellent condition"
+msgstr "Ypperligt skick"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Nytt\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Ny"
+
+msgid "Dimension stone"
+msgstr "Kvadersten"
+
+msgid "Ground floor"
+msgstr "Markplan"
+
+msgid "Top floor"
+msgstr "Högst upp"
+
+msgid "1st"
+msgstr "1."
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4th"
+msgstr "4."
+
+msgid "5th"
+msgstr "5."
+
+msgid "6th"
+msgstr "6."
+
+msgid "7th"
+msgstr "7."
+
+msgid "8th"
+msgstr "8."
+
+msgid "9th"
+msgstr "9."
+
+msgid "10th"
+msgstr "10."
+
+msgid "11th"
+msgstr "11."
+
+msgid "12th"
+msgstr "12."
+
+msgid "13th"
+msgstr "13."
+
+msgid "14th"
+msgstr "14."
+
+msgid "15th"
+msgstr "15."
+
+msgid "16th"
+msgstr "16."
+
+msgid "17th"
+msgstr "17."
+
+msgid "18th"
+msgstr "18."
+
+msgid "19th"
+msgstr "19."
+
+msgid "20th"
+msgstr "20."
+
+msgid "Garden level"
+msgstr "Trädgårdsplan"
+
+msgid "Split-level"
+msgstr "Mellanplan"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Enplans"
+
+msgid "21st"
+msgstr "21."
+
+msgid "22nd"
+msgstr "22."
+
+msgid "23rd"
+msgstr "23."
+
+msgid "24th"
+msgstr "24."
+
+msgid "25th"
+msgstr "25."
+
+msgid "26th"
+msgstr "26."
+
+msgid "27th"
+msgstr "27."
+
+msgid "28th"
+msgstr "28."
+
+msgid "29th"
+msgstr "29."
+
+msgid "30th"
+msgstr "30."
+
+msgid "31st"
+msgstr "31."
+
+msgid "32nd"
+msgstr "32."
+
+msgid "33rd"
+msgstr "33."
+
+msgid "34th"
+msgstr "34."
+
+msgid "35th"
+msgstr "35."
+
+msgid "36th"
+msgstr "36."
+
+msgid "37th"
+msgstr "37."
+
+msgid "38th"
+msgstr "38."
+
+msgid "39th"
+msgstr "39."
+
+msgid "40th"
+msgstr "40."
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Parkett"
+
+msgid "Tile"
+msgstr "Klinker"
+
+msgid "Carpet"
+msgstr "Heltäckningsmatta"
+
+msgid "Concrete"
+msgstr "Betong"
+
+msgid "Natural fiber"
+msgstr "Vegetabilisk fiber"
+
+msgid "Coco"
+msgstr "Kokos"
+
+msgid "Travertine"
+msgstr "Marmorputs"
+
+msgid "Marble"
+msgstr "Marmor"
+
+msgid "Granite"
+msgstr "Granit"
+
+msgid "Terracotta tile"
+msgstr "Terrakotta"
+
+msgid "Teak"
+msgstr "Teak"
+
+msgid "Mosaïc"
+msgstr "Mosaik"
+
+msgid "Clay"
+msgstr "Jordgolv"
+
+msgid "Stone"
+msgstr "Sten"
+
+msgid "Laminate"
+msgstr "Laminatgolv"
+
+msgid "Convector"
+msgstr "El-element"
+
+msgid "Underfloor"
+msgstr "Golvvärme"
+
+msgid "Radiator"
+msgstr "Element"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Kamin\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Spis"
+
+msgid "Air-conditioning"
+msgstr "AC"
+
+msgid "Central"
+msgstr "Centralvärme"
+
+msgid "Fireplace"
+msgstr "Öppen spis"
+
+msgid "Individual"
+msgstr "Individuell"
+
+msgid "Common"
+msgstr "Kollektiv"
+
+msgid "Mixed"
+msgstr "Blandad"
+
+msgid "District heating"
+msgstr "Fjärrvärme"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Olja"
+
+msgid "Electric"
+msgstr "El"
+
+msgid "Wood"
+msgstr "Ved"
+
+msgid "Solar"
+msgstr "Sol"
+
+msgid "Charcoal"
+msgstr "Kol"
+
+msgid "Heat pump"
+msgstr "Värmepump"
+
+msgid "Geothermal"
+msgstr "Jordvârme"
+
+msgid "Wood pellet"
+msgstr "Bränslepellets"
+
+msgid "Hot water tank"
+msgstr "Varmvattenberedare"
+
+msgid "Boiler"
+msgstr "Värmepanna"
+
+msgid "Collective"
+msgstr "Kollektiv"
+
+msgid "Term lease"
+msgstr "Korttidskontrakt"
+
+msgid "Long-Term"
+msgstr "3-6-9 àr"
+
+msgid "Long-Term - Single activity"
+msgstr "Enklare verksamhet"
+
+msgid "Long-Term - All activities"
+msgstr "All typ av verksamhet"
+
+msgid "Seaside"
+msgstr "Vid havet"
+
+#, fuzzy
+msgid "Village"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Village\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"By"
+
+msgid "Old town"
+msgstr "Gamla stan"
+
+msgid "Precinct"
+msgstr "Gågata"
+
+msgid "Ski slope"
+msgstr "Skidbacke"
+
+msgid "Town center"
+msgstr "i Stan"
+
+msgid "Industrial estate"
+msgstr "Industrikvarter"
+
+msgid "Shopping center"
+msgstr "Shoppingcentrum"
+
+msgid "Business park"
+msgstr "Verksamhetsområde"
+
+msgid "Airport area"
+msgstr "Flygplatsområde"
+
+msgid "Science park"
+msgstr "Teknopol"
+
+msgid "Port area"
+msgstr "Hamnområde"
+
+msgid "Outskirts"
+msgstr "Utkant"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Höjder\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Kullar"
+
+msgid "Waterfront"
+msgstr "Strandläge"
+
+msgid "Countryside"
+msgstr "Landsbygd"
+
+msgid "Suburb"
+msgstr "Förort"
+
+msgid "East"
+msgstr "Öst"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "West"
+msgstr "Väst"
+
+msgid "South"
+msgstr "Syd"
+
+#, fuzzy
+msgid "Day"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Dag\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Jour"
+
+msgid "Week"
+msgstr "Vecka"
+
+msgid "Fortnight"
+msgstr "Två veckor"
+
+msgid "Month"
+msgstr "Månad"
+
+msgid "Quarterly"
+msgstr "kvartal"
+
+msgid "Bimonthly"
+msgstr "Varannan månad"
+
+msgid "Half-yearly"
+msgstr "Halvårsvis"
+
+msgid "Yearly"
+msgstr "Årligen"
+
+msgid "Bus"
+msgstr "Buss"
+
+msgid "Bus hub"
+msgstr "Busstation"
+
+msgid "Metro"
+msgstr "Tunnelbana"
+
+msgid "Shops"
+msgstr "Handel"
+
+msgid "Primary school"
+msgstr "Làgstadieskola"
+
+msgid "Town centre"
+msgstr "Centrum"
+
+msgid "Hospital/clinic"
+msgstr "Sjukhus/klinik"
+
+msgid "Doctor"
+msgstr "Läkare"
+
+msgid "Tram"
+msgstr "Spàrvagn"
+
+msgid "Train station"
+msgstr "Station"
+
+msgid "Public parking"
+msgstr "Allmän parkering"
+
+msgid "Supermarket"
+msgstr "Snabbköp"
+
+msgid "Sea port"
+msgstr "Hamn"
+
+msgid "Nursery"
+msgstr "Barnkrubba"
+
+msgid "Public pool"
+msgstr "Pool"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Bio"
+
+msgid "Secondary school"
+msgstr "Högstadieskola"
+
+msgid "Airport"
+msgstr "Flygplats"
+
+msgid "Sea"
+msgstr "Hav"
+
+msgid "TGV station"
+msgstr "Tàgstation TGV"
+
+msgid "Highway"
+msgstr "Motorväg"
+
+msgid "University"
+msgstr "Universitet"
+
+msgid "Convention center"
+msgstr "Kongresscenter"
+
+msgid "Lake"
+msgstr "Sjö"
+
+msgid "On main road"
+msgstr "Större väg"
+
+msgid "Energy - Conventional consumption"
+msgstr "Elförbrukning"
+
+msgid "Emissions estimate"
+msgstr "Växthuseffekt"
+
+msgid "« Carrez » act"
+msgstr "Lag « Carrez »"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termiter"
+
+msgid "Asbestos"
+msgstr "Asbets"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Bly\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Bly\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Electricity"
+msgstr "Elektricitet"
+
+msgid "Boutin act"
+msgstr "Lag Boutin"
+
+msgid "Sanitation"
+msgstr "Sanering"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Handikappanpassad"
+
+msgid "Alarm system"
+msgstr "Alarm"
+
+msgid "Lift"
+msgstr "Hiss"
+
+msgid "Caretaker"
+msgstr "Vaktmästare"
+
+msgid "Double glazing"
+msgstr "Tvåglasfönster"
+
+msgid "Intercom"
+msgstr "Porttelefon"
+
+msgid "TV distribution"
+msgstr "Kabel-TV"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Pool\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Bassäng\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Pool"
+
+msgid "Security door"
+msgstr "Säkerhetsdörr"
+
+msgid "Tennis court"
+msgstr "Tennis"
+
+msgid "Irrigation sprinkler"
+msgstr "Bevattning"
+
+msgid "Barbecue"
+msgstr "BBQ"
+
+msgid "Electric gate"
+msgstr "Fjärrstyrd grind"
+
+msgid "Crawl space"
+msgstr "Torpargrund"
+
+msgid "Car port"
+msgstr "Carport"
+
+msgid "Caretaker house"
+msgstr "Vaktmästarbostad"
+
+msgid "Sliding windows"
+msgstr "Panoramafönster"
+
+msgid "Central vacuum system"
+msgstr "Centraldammsu-gare"
+
+msgid "Electric shutters"
+msgstr "Eldrivna jalusier"
+
+msgid "Window shade"
+msgstr "Markiser"
+
+msgid "Electric awnings"
+msgstr "Eldrivna markiser"
+
+msgid "Washing machine"
+msgstr "Tvättmaskin"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Bubbelbadkar"
+
+msgid "Well"
+msgstr "Brunn"
+
+msgid "Spring"
+msgstr "Källa"
+
+msgid "Engine generator"
+msgstr "Elaggregat"
+
+msgid "Dishwasher"
+msgstr "Diskmaskin"
+
+msgid "Hob"
+msgstr "Kokplatta"
+
+msgid "Safe"
+msgstr "Kassaskåp"
+
+msgid "Helipad"
+msgstr "Helikopterplatta"
+
+msgid "Videophone"
+msgstr "Videotelefon"
+
+msgid "Video security"
+msgstr "Videoövervakning"
+
+msgid "Iron"
+msgstr "Strykjärn"
+
+msgid "Hair dryer"
+msgstr "Hårtork"
+
+msgid "Television"
+msgstr "Tv"
+
+msgid "DVD Player"
+msgstr "DVD spelare"
+
+msgid "CD Player"
+msgstr "CD spelare"
+
+msgid "Outdoor lighting"
+msgstr "Utomhusbelysning"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Hemautomation"
+
+msgid "Synagogue"
+msgstr "Synagoga"
+
+msgid "Digicode"
+msgstr "Kodlås"
+
+msgid "Pets allowed"
+msgstr "Husdjur tillåtna"
+
+msgid "Dropped ceiling"
+msgstr "Undertak"
+
+msgid "Fire hose cabinets"
+msgstr "Brandslang"
+
+msgid "Fire sprinkler system"
+msgstr "Sprinkler"
+
+msgid "Wharf"
+msgstr "Kaj"
+
+msgid "Connected thermostat"
+msgstr "Ansluten termostat"
+
+msgid "Bowling game"
+msgstr "Boulebana"
+
+msgid "Water softener"
+msgstr "Avhärdare"
+
+msgid "Triple glazing"
+msgstr "Treglasfönster"
+
+msgid "Optical fiber"
+msgstr "Fiberoptik"
+
+msgid "Playground"
+msgstr "Lekplats"
+
+msgid "Overhead crane"
+msgstr "Traverskran"
+
+msgid "Supplies"
+msgstr "Supplies"
+
+msgid "Outdoor spaces"
+msgstr "Utomhusutrymmen"
+
+msgid "Rental supplies"
+msgstr "Rental supplies"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Security\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Säkerhet"
+
+msgid "Professional supplies"
+msgstr "Professional supplies"
+
+msgid "High standard"
+msgstr "Standard"
+
+msgid "Luxury"
+msgstr "Hög Klass"
+
+msgid "High luxury"
+msgstr "Mycket hög klass"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Stort komplex\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Bostadskomplex"
+
+msgid "In progress"
+msgstr "In progress"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+msgid "Waiting for agreement"
+msgstr "Waiting for agreement"
+
+msgid "Agreement ended"
+msgstr "Agreement ended"
+
+msgid "Offer"
+msgstr "Offer"
+
+msgid "Processing sale"
+msgstr "Processing sale"
+
+msgid "Waiting for contract"
+msgstr "Waiting for contract"
+
+msgid "Sell/Rent by agent"
+msgstr "Sell/Rent by agent"
+
+msgid "Sell/Rent by owner"
+msgstr "Sell/Rent by owner"
+
+msgid "Sell/Rent by other agent"
+msgstr "Sell/Rent by other agent"
+
+msgid "Removed by agent"
+msgstr "Removed by agent"
+
+msgid "Removed by owner"
+msgstr "Removed by owner"
+
+msgid "Sale/Rental cancelled"
+msgstr "Sale/Rental cancelled"
+
+msgid "Delete this property"
+msgstr "Destroy this property"
+
+msgid "House"
+msgstr "Hus"
+
+msgid "Business"
+msgstr "Handel"
+
+msgid "Garage/Parking"
+msgstr "Garage/parkering"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Boat"
+msgstr "Båt"
+
+msgid "Cellar / Box"
+msgstr "Källare / Förråd"
+
+msgid "Triplex"
+msgstr "3 plan"
+
+msgid "Building land"
+msgstr "Byggbar tomt"
+
+msgid "Not constructible land"
+msgstr "Ej byggbar tomt"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Slott"
+
+msgid "Duplex"
+msgstr "2 plan"
+
+msgid "Manor house"
+msgstr "Herrgård"
+
+msgid "Agricultural exploitation"
+msgstr "Farm"
+
+msgid "Village house"
+msgstr "Byhus"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Lägenhets Villa"
+
+msgid "Ruin"
+msgstr "Ruin"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Egendom\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Produkt"
+
+msgid "Mill"
+msgstr "Kvarn"
+
+msgid "Carpark"
+msgstr "Garage"
+
+msgid "Farmhouse"
+msgstr "Liten gàrd"
+
+msgid "Townhouse"
+msgstr "Radhus"
+
+msgid "Cottage"
+msgstr "Fritidshus"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Kommersiell Lokal"
+
+msgid "Business assets"
+msgstr "Rörelse"
+
+msgid "Right to the lease"
+msgstr "Övertag av hyreskontrakt"
+
+msgid "Mansion"
+msgstr "Disponentvilla"
+
+msgid "Management"
+msgstr "Arrende"
+
+msgid "Woodshed"
+msgstr "Rabatt"
+
+msgid "Stud farm"
+msgstr "Stuteri"
+
+msgid "Plot of land"
+msgstr "Tomt"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Liten bastide"
+
+msgid "Company"
+msgstr "Företag"
+
+msgid "Vineyard property"
+msgstr "Vingàrd"
+
+msgid "Motor Yacht"
+msgstr "Fritidsbåt"
+
+msgid "Narrow boat"
+msgstr "Husbåt"
+
+msgid "Sailing Yacht"
+msgstr "Segelfartyg"
+
+msgid "Catamaran"
+msgstr "Katamaran"
+
+msgid "Equestrian estate"
+msgstr "Hästgàrd"
+
+msgid "Bed and breakfast"
+msgstr "Rum och frukost"
+
+msgid "Gîte"
+msgstr "Semesterboende"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Butiken"
+
+msgid "Private island"
+msgstr "Privat ö"
+
+msgid "Game reserve"
+msgstr "Viltreservat"
+
+msgid "Cellar"
+msgstr "Grovkök"
+
+msgid "Mountains"
+msgstr "Berg"
+
+msgid "Greenery"
+msgstr "Grönska"
+
+msgid "Monument"
+msgstr "Minnesmärke"
+
+msgid "Forest"
+msgstr "Skog"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Sky"
+msgstr "Himmel"
+
+msgid "Harbor"
+msgstr "Hamn"
+
+msgid "Street"
+msgstr "Gata"
+
+msgid "Ski slopes"
+msgstr "Skidbacke"
+
+msgid "Obstructed"
+msgstr "Ingen insyn"
+
+msgid "Slight"
+msgstr "Glimt"
+
+msgid "Unobstructed"
+msgstr "Fri utsikt"
+
+msgid "Panoramic"
+msgstr "Panoramautsikt"
+
+msgid "Septic tank"
+msgstr "Septitank"
+
+msgid "Main drainage"
+msgstr "Kommunallt avlopp"
+
+msgid "Treatment plant"
+msgstr "Reningsverk"
+
+msgid "Walk-in / Window"
+msgstr "Skyltfönster"
+
+msgid "Appraisal"
+msgstr "Estimation"
+
+msgid "Selection / Favorite"
+msgstr "Urval"
+
+msgid "Reduced fees"
+msgstr "Reducerade avgifter"
+
+msgid "Rental investment"
+msgstr "Uthyrning investering"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "ha"
+msgstr "hektar"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "metre"
+msgstr "meter"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Administratör"
+
+msgid "Company manager"
+msgstr "Company manager"
+
+msgid "Agency manager"
+msgstr "Agency manager"
+
+msgid "Secretariat"
+msgstr "Sekretariat"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Broker\n"
+"#-#-#-#-#  apimo-sv_SE.po  #-#-#-#-#\n"
+"Mäklare"
+
+msgid "Intern"
+msgstr "Praktikant"
+
+msgid "User"
+msgstr "Användare"
+
+msgid "Franchisor"
+msgstr "Franchise"
+
+msgid "Translator"
+msgstr "Översättare"
+
+msgid "Price on request"
+msgstr "Pris på begäran"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Rooms"
+msgstr "Rum"
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "Messages"
+msgstr "Meddelande"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Lastname"
+msgstr "Efternamn"
+
+msgid "Firstname"
+msgstr "Förnamn"
+
+msgid "Reference"
+msgstr "Referens"
+
+msgid "Folder"
+msgstr "Mapp"
+
+msgid "No matches found"
+msgstr "Inga matchningar funna"
+
+msgid "Please enter one more character"
+msgstr "Ange ett nytt tecken"
+
+msgid "Duplicate"
+msgstr "Duplicera"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Rate"
+msgstr "Växelkurs"
+
+msgid "Sender"
+msgstr "Avsändare"
+
+msgid "Recipient"
+msgstr "Mottagare"
+
+msgid "Subject"
+msgstr "Ämne"
+
+msgid "Attachment"
+msgstr "Bilaga"
+
+msgid "Key"
+msgstr "Nyckel"
+
+msgid "Documents"
+msgstr "Dokument"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Back"
+msgstr "Tillbaka"
+
+msgid "Living area"
+msgstr "Boyta"
+
+msgid "Areas"
+msgstr "Boytor"
+
+msgid "Length"
+msgstr "Längd"
+
+msgid "Height"
+msgstr "Höjd"
+
+msgid "Width"
+msgstr "Bredd"
+
+msgid "Price contribution"
+msgstr "Handpenning"
+
+msgid "Agreement reference"
+msgstr "Referens kontrakt"
+
+msgid "Agreement start at"
+msgstr "Kontraktsdatum"
+
+msgid "Agreement end at"
+msgstr "Kontrakts slutet"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Proximity"
+msgstr "I närhet"
+
+msgid "Proximities"
+msgstr "I närheten"
+
+msgid "Loading"
+msgstr "Laddar"
+
+msgid "Log out"
+msgstr "Logga ut"
+
+msgid "Availability"
+msgstr "Tillgänglighet"
+
+msgid "Total area"
+msgstr "Total yta"
+
+msgid "Password forgotten"
+msgstr "Glömt lösenord"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Welcome %s"
+msgstr "Välkommen %s"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Add"
+msgstr "Lägga till"
+
+msgid "Display"
+msgstr "Visa"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Tools"
+msgstr "Verktyg"
+
+msgid "Market"
+msgstr "Marknad"
+
+msgid "Agency"
+msgstr "Mäklar byrå"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Homepage"
+msgstr "Start"
+
+msgid "Map"
+msgstr "Karta"
+
+msgid "Sectors"
+msgstr "Områden"
+
+msgid "Sector"
+msgstr "Område"
+
+msgid "Contact us"
+msgstr "Kontakt"
+
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "General"
+msgstr "Allmänt"
+
+msgid "Heating"
+msgstr "Uppvärmning"
+
+msgid "Hot water"
+msgstr "Varmvatten"
+
+msgid "Waste water"
+msgstr "Avlopp"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Escrow deposit"
+msgstr "Séquestre"
+
+msgid "Owner"
+msgstr "Ägare"
+
+msgid "Orientation"
+msgstr "Väderstreck"
+
+msgid "View"
+msgstr "Utsikt"
+
+msgid "District"
+msgstr "Distrikt"
+
+msgid "Fields"
+msgstr "Fält"
+
+msgid "Hook"
+msgstr "Blickpunkt"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Companies"
+msgstr "Företag"
+
+msgid "Services"
+msgstr "Utrustningar"
+
+msgid "What's new"
+msgstr "Nyheter"
+
+msgid "Print"
+msgstr "Skriva ut"
+
+msgid "Picture"
+msgstr "Bild"
+
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+msgid "Replace in cart"
+msgstr "Remplacer dans le panier"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "History"
+msgstr "Historisk"
+
+msgid "Details"
+msgstr "Information"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Previous"
+msgstr "Föregående"
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "Quick search"
+msgstr "Snabbsökning"
+
+msgid "Postal code"
+msgstr "Postnummer"
+
+msgid "The username and/or password is invalid."
+msgstr "Erreur de nom d'utilisateur et/ou de mot de passe."
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+msgid "Nationality"
+msgstr "Nationalitet"
+
+msgid "Radius"
+msgstr "Radie"
+
+msgid "Summary"
+msgstr "Sammanfattning"
+
+msgid "Watermark"
+msgstr "Filigrane"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Mortgage"
+msgstr "Lån"
+
+msgid "Download"
+msgstr "Ladda ner"
+
+msgid "Dashboard"
+msgstr "Skrivbord"
+
+msgid "Seekers"
+msgstr "Seekers"
+
+msgid "Active seekers"
+msgstr "Active seekers"
+
+msgid "Providers"
+msgstr "Providers"
+
+msgid "Owners"
+msgstr "Owners"
+
+msgid "Active owners"
+msgstr "Active owners"
+
+msgid "Monitoring"
+msgstr "Övervakning"
+
+msgid "Forward"
+msgstr "Transférer"
+
+msgid "Similar"
+msgstr "Liknande"
+
+msgid "Condition"
+msgstr "Skick"
+
+msgid "Floor"
+msgstr "Våningsplan"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Opening hours"
+msgstr "Öppettider"
+
+msgid "Forward to contact"
+msgstr "Forward to contact"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+
+msgid "Registrar"
+msgstr "Registrar"
+
+msgid "Expiration at"
+msgstr "Expiration at"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Domain name"
+
+msgid "Filling"
+msgstr "Filling"
+
+msgid "Condition precedent"
+msgstr "Condition precedent"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Turnover"
+msgstr "Turnover"
+
+msgid "Deal fees"
+msgstr "Deal fees"
+
+msgid "Fees charged"
+msgstr "Fees charged"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Booked"
+msgstr "Booked"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Ceiling height"
+
+msgid "Unsold"
+msgstr "Unsold"
+
+msgid "Sold"
+msgstr "Sold"
+
+msgid "Last action"
+msgstr "Last action"
+
+msgid "Our agency"
+msgstr "Our agency"
+
+msgid "Locate us"
+msgstr "Locate us"
+
+msgid "Your main contact"
+msgstr "Din huvudkontakt"
+
+msgid "Send me a message"
+msgstr "Send me a message"
+
+msgid "Leave us a message"
+msgstr "Lämna ett meddelande"
+
+msgid "Owner access"
+msgstr "Säljares sida"
+
+msgid "No action"
+msgstr "No action"
+
+msgid "Received contact information"
+msgstr "Received contact information"
+
+msgid "Linked contact"
+msgstr "Linked contact"
+
+msgid "Related contacts"
+msgstr "Related contacts"
+
+msgid "Others"
+msgstr "Others"
+
+msgid "Assigned to"
+msgstr "Assigned to"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Assign by"
+msgstr "Assign by"
+
+msgid "Opened by"
+msgstr "Opened by"
+
+msgid "Closed by"
+msgstr "Closed by"
+
+msgid "Time zone"
+msgstr "Tidszon"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Invert selection"
+msgstr "Invert selection"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Unselect all"
+msgstr "Unselect all"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s lead(s) awaiting"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending properties"
+msgstr "%s product(s) pending"
+
+msgid "%s pending matching(s)"
+msgstr "%s crossing pending"
+
+msgid "%s expired agreement(s)"
+msgstr "%s agreement(s) expired"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s agreement(s) expired soon"
+
+msgid "Legal notice"
+msgstr "Rättsligt meddelande"
+
+msgid "Tags"
+msgstr "Attributen"
+
+msgid "Allowed"
+msgstr "Allowed"
+
+msgid "Min stay"
+msgstr "Min stay"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Free text"
+msgstr "Fritext"
+
+msgid "Generate comment"
+msgstr "Generera kommentar"
+
+msgid "Building name"
+msgstr "Byggnad namn"
+
+msgid "VAT"
+msgstr "MOMS"
+
+msgid "VAT included"
+msgstr "VAT included"
+
+msgid "Recurrence"
+msgstr "Recurrence"
+
+msgid "Calculate"
+msgstr "Calculate"
+
+msgid "Contribution"
+msgstr "Contribution"
+
+msgid "Maximum debt"
+msgstr "Maximum debt"
+
+msgid "Purchase amount"
+msgstr "Purchase amount"
+
+msgid "Borrowing calculator"
+msgstr "Borrowing calculator"
+
+msgid "Monthly payment calculator"
+msgstr "Monthly payment calculator"
+
+msgid "You don't have broadcasting rights"
+msgstr "You don't have broadcasting rights"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Suggestions"
+msgstr "Suggestions"
+
+msgid "To show"
+msgstr "Show"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "I samverkan med en %name% professionell"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "My search"
+msgstr "Mina bostäder"
+
+msgid "Units"
+msgstr "Lots"
+
+msgid "Spouse"
+msgstr "Spouse"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Category reference"
+msgstr "Category reference"
+
+msgid "Cadastre reference"
+msgstr "Cadastre reference"
+
+msgid "Lot reference"
+msgstr "Lot reference"
+
+msgid "Block reference"
+msgstr "Block reference"
+
+msgid "Stairs reference"
+msgstr "Stairs reference"
+
+msgid "Mortgage end at"
+msgstr "Mortgage end at"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Media"
+msgstr "Kommunikationsmedium"
+
+msgid "Last access"
+msgstr "Last access"
+
+msgid "First access"
+msgstr "First access"
+
+msgid "Access count"
+msgstr "Access count"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Please do not enter any name or contact"
+msgstr "Please do not enter any name or contact"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Show price"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Not applicable"
+msgstr "Not applicable"
+
+msgid "Fill in the table"
+msgstr "Fyll i tabellen"
+
+msgid "Choice"
+msgstr "Choice"
+
+msgid "copy"
+msgstr "copy"
+
+msgid "Authorization"
+msgstr "Auktorisation"
+
+msgid "Last connection the %s"
+msgstr "Last connection the %s"
+
+msgid "All"
+msgstr "All"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Recents"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Show/hide fields"
+
+msgid "Recent searches"
+msgstr "Recherches récentes"
+
+msgid "Association"
+msgstr "Föreningen"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Varningar"
+
+msgid "Prescribers"
+msgstr "Prescribers"
+
+msgid "Staff"
+msgstr "Personal"
+
+msgid "Standing"
+msgstr "Standard"
+
+msgid "Receive a copy"
+msgstr "Recevoir une copie"
+
+msgid "Latest views"
+msgstr "Dernières consultations"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "Viewing agreement"
+msgstr "Bon de visite"
+
+msgid "Decline"
+msgstr "Decline"
+
+msgid "Declined"
+msgstr "Declined"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Accepted"
+msgstr "Accepted"
+
+msgid "Zones"
+msgstr "Zoner"
+
+msgid "Zone"
+msgstr "Zon"
+
+msgid "Matrimonial regime"
+msgstr "Régime matrimonial"
+
+msgid "Marital status"
+msgstr "Situation familiale"
+
+msgid "Thumbnail"
+msgstr "Vignette"
+
+msgid "Unread"
+msgstr "Non lu"
+
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "Pension"
+msgstr "Rente"
+
+msgid "Beam"
+msgstr "Largeur"
+
+msgid "Draft"
+msgstr "Tirant d'eau"
+
+msgid "Guests"
+msgstr "Invités"
+
+msgid "Crew"
+msgstr "Équipage"
+
+msgid "Cruising speed"
+msgstr "Vitesse de croisière"
+
+msgid "Builder"
+msgstr "Constructeur"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Civil law notary"
+msgstr "Notaire"
+
+msgid "Max price"
+msgstr "Prix max"
+
+msgid "Reminders"
+msgstr "Påminnelser"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "Signature"
+msgstr "Signaturer"
+
+msgid "Title (politeness)"
+msgstr "Titel"
+
+msgid "Amounts"
+msgstr "Belopp"
+
+msgid "Updated at"
+msgstr "Uppdaterad"
+
+msgid "Created at"
+msgstr "Skapat"
+
+msgid "First published at"
+msgstr "Publiée le"
+
+msgid "Insurance"
+msgstr "Assurance"
+
+msgid "Provision"
+msgstr "Provision"
+
+msgid "Provider"
+msgstr "Leverantör"
+
+msgid "Entries"
+msgstr "Ecritures"
+
+msgid "Number"
+msgstr "Antal"
+
+msgid "Plot of land area"
+msgstr "Tomtyta"
+
+msgid "Deposit account"
+msgstr "Deposit account"
+
+msgid "Owner's price"
+msgstr "Ägarens pris"
+
+msgid "Starting price"
+msgstr "Utgångspris"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Lease"
+msgstr "Hyreskontrakt"
+
+msgid "Leases"
+msgstr "Baux"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Searches"
+msgstr "Sökningar"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Maps"
+msgstr "Kartor"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "contact"
+msgstr "kontakt"
+
+msgid "contacts"
+msgstr "kontakter"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Built in"
+msgstr "Byggt år"
+
+msgid "Mark"
+msgstr "Markera"
+
+msgid "Percentage"
+msgstr "Procent"
+
+msgid "Visits"
+msgstr "Besök"
+
+msgid "Key number"
+msgstr "Nyckelnummer"
+
+msgid "Key's place"
+msgstr "Nyckel plats"
+
+msgid "Displayed city (optional)"
+msgstr "Ville diffusée (facultatif)"
+
+msgid "Displayed district (optional)"
+msgstr "Quartier diffusé (facultatif)"
+
+msgid "Clauses"
+msgstr "Clauses"
+
+msgid "Seller"
+msgstr "Säljare"
+
+msgid "Adjacency"
+msgstr "Mitoyenneté"
+
+msgid "Step"
+msgstr "Steg"
+
+msgid "Long comment"
+msgstr "Förlängd kommentar"
+
+msgid "Subtitle"
+msgstr "Text"
+
+msgid "Title"
+msgstr "Rubrik"
+
+msgid "Tour comment"
+msgstr "Synpunkter"
+
+msgid "Ref"
+msgstr "Réf."
+
+msgid "price"
+msgstr "pris"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "The installation can take several minutes, please come back later."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Your contact speaks %s, would you like to change the language?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Would you like to publish on the homepage?"
+
+msgid "plus VAT"
+msgstr "plus VAT"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Warning :</b> there is an error, please check each fields."
+
+msgid "Price/sq m"
+msgstr "Prix/m²"
+
+msgid "today"
+msgstr "aujourd'hui"
+
+msgid "week"
+msgstr "semaine"
+
+msgid "day"
+msgstr "jour"
+
+msgid "from %from_value% to %to_value%"
+msgstr "de %from_value% à %to_value%"
+
+msgid "message"
+msgstr "meddelande"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Agencies"
+msgstr "Agences"
+
+msgid "agencies"
+msgstr "agences"
+
+msgid "Context"
+msgstr "Contexte"
+
+msgid "More criteria"
+msgstr "Critères complémentaires"
+
+msgid "Criteria"
+msgstr "Critères"
+
+msgid "Classification"
+msgstr "Classification"
+
+msgid "metres"
+msgstr "mètres"
+
+msgid "Window"
+msgstr "Vitrine"
+
+msgid "Stock area"
+msgstr "Surface du stock"
+
+msgid "Sales area"
+msgstr "Surface de vente"
+
+msgid "Sale price"
+msgstr "Sale price"
+
+msgid "from %from_date% to %to_date%"
+msgstr "de %from_date% à %to_date%"
+
+msgid "sq m"
+msgstr "kvm"
+
+msgid "days"
+msgstr "dagar"
+
+msgid "bedroom"
+msgstr "sovrum"
+
+msgid "room"
+msgstr "rum"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "comment"
+msgstr "kommentar"
+
+msgid "comments"
+msgstr "kommentarer"
+
+msgid "Private comment"
+msgstr "Privat kommentar"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Levels"
+msgstr "Nivåer"
+
+msgid "Level"
+msgstr "Nivå"
+
+msgid "Exchange"
+msgstr "Utbyte"
+
+msgid "by"
+msgstr "av"
+
+msgid "n.a"
+msgstr "inte tillängl."
+
+msgid "Elevator"
+msgstr "Hiss"
+
+msgid "no"
+msgstr "nej"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "Printed with care"
+msgstr "Utskrivet av oss"
+
+msgid "Please do not litter on public way"
+msgstr "Kasta inte pappret på gatan"
+
+msgid "Non-contractual information"
+msgstr "Informationen är inte avtalsenlig"
+
+msgid "Agency fees"
+msgstr "Mäklararvode"
+
+msgid "Agency fees included"
+msgstr "Inkluderat mäklararvode"
+
+msgid "Agency fees not included"
+msgstr "Icke inkluderat mäklararvode"
+
+msgid "Fees"
+msgstr "Avgifter"
+
+msgid "Personal property tax"
+msgstr "Lokal skatt"
+
+msgid "Property tax"
+msgstr "Fastighetskatt"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Parkings"
+msgstr "Parkeringar"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "Window card"
+msgstr "Skyltfönster"
+
+msgid "Private sheet"
+msgstr "Privat handling"
+
+msgid "Public sheet"
+msgstr "Offentling handling"
+
+msgid "Service"
+msgstr "Utrustning"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Cart"
+msgstr "Korg"
+
+msgid "Land type"
+msgstr "Type de terrain"
+
+msgid "Property agent"
+msgstr "Fastighetsförvaltare"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "End at"
+msgstr "Slut på"
+
+msgid "Close at"
+msgstr "Stängt på"
+
+msgid "Start at"
+msgstr "Börja på"
+
+msgid "Guarantees"
+msgstr "Garanties"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Inter-agencies"
+msgstr "Inter-mäklarbyråer"
+
+msgid "Number of floors"
+msgstr "Antal våningar"
+
+msgid "Selection"
+msgstr "Urval"
+
+msgid "Evaluated price"
+msgstr "Värderimgspris"
+
+msgid "Seller's commission"
+msgstr "Seller's commission"
+
+msgid "Buyer's commission"
+msgstr "Buyer's commission"
+
+msgid "Commission"
+msgstr "Arvode"
+
+msgid "Origin"
+msgstr "Ursprung"
+
+msgid "Specific origin"
+msgstr "Exakt ursprung"
+
+msgid "Flooring"
+msgstr "Golvbeläggning"
+
+msgid "Rank"
+msgstr "Ranking"
+
+msgid "Phone call"
+msgstr "Samtal"
+
+msgid "Publications"
+msgstr "Publikationer"
+
+msgid "Send to contact"
+msgstr "Skicka till kontakt"
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "Result"
+msgstr "Resultat"
+
+msgid "result"
+msgstr "resultat"
+
+msgid "Advertiser"
+msgstr "Annonsör"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Confidential"
+msgstr "Konfidentiell"
+
+msgid "Activity"
+msgstr "Verksamhet"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Succession"
+msgstr "Succession"
+
+msgid "Please fill in a city."
+msgstr "Vänligen fyll i stad."
+
+msgid "Guarantee"
+msgstr "Garantie"
+
+msgid "Please fill"
+msgstr "Vänligen fyll i"
+
+msgid "The email address is invalid."
+msgstr "L'adresse e-mail n'est pas au bon format."
+
+msgid "Rights"
+msgstr "Rättigheter"
+
+msgid "Since"
+msgstr "Sedan"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Bailleur"
+
+msgid "Lessee"
+msgstr "Locataire"
+
+msgid "Reservations"
+msgstr "Bokningar"
+
+msgid "Booking"
+msgstr "Bokning"
+
+msgid "Bed"
+msgstr "Sängar"
+
+msgid "Cleaning price"
+msgstr "Prix de nettoyage"
+
+msgid "Availabilities"
+msgstr "Tillgängligheter"
+
+msgid "Sent"
+msgstr "Skickat"
+
+msgid "years"
+msgstr "år"
+
+msgid "month"
+msgstr "månad"
+
+msgid "Seasons"
+msgstr "Säsonger"
+
+msgid "Seasonal"
+msgstr "Säsong"
+
+msgid "Rates"
+msgstr "Tariffer"
+
+msgid "Todo"
+msgstr "Att göra"
+
+msgid "Brand"
+msgstr "Märke"
+
+msgid "Publicated at"
+msgstr "Publicerad på"
+
+msgid "Network"
+msgstr "Nätverk"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Kort kommentar"
+
+msgid "Delivery at"
+msgstr "Inflyttning"
+
+msgid "Reason"
+msgstr "Orsak"
+
+msgid "Requests"
+msgstr "Förfrågningar"
+
+msgid "Request"
+msgstr "Förfrågning"
+
+msgid "requests"
+msgstr "förfrågningar"
+
+msgid "request"
+msgstr "förfrågning"
+
+msgid "Current rent"
+msgstr "Location actuelle"
+
+msgid "Properties"
+msgstr "Produkter"
+
+msgid "properties"
+msgstr "produkter"
+
+msgid "property"
+msgstr "produkt"
+
+msgid "Bill"
+msgstr "Faktura"
+
+msgid "Calculator"
+msgstr "Kalkylator"
+
+msgid "Birthplace"
+msgstr "Födelseort"
+
+msgid "Birthday"
+msgstr "Födelsedag"
+
+msgid "Income"
+msgstr "Inkomst"
+
+msgid "Costs"
+msgstr "Kostnader"
+
+msgid "Margin"
+msgstr "Marginal"
+
+msgid "Required."
+msgstr "Krav"
+
+msgid "Spoken languages"
+msgstr "Talade språk"
+
+msgid "Number of children"
+msgstr "Antal barn"
+
+msgid "Hotline"
+msgstr "Support"
+
+msgid "Re-type password"
+msgstr "Bekräfta lösenord"
+
+msgid "Public longitude"
+msgstr "Offentlig Longitud"
+
+msgid "Public latitude"
+msgstr "Offentlig latitud"
+
+msgid "Access denied"
+msgstr "Access denied"
+
+msgid "Access"
+msgstr "Tillgång"
+
+msgid "Launch"
+msgstr "Starta"
+
+msgid "Shortcuts"
+msgstr "Genvägar"
+
+msgid "e-mailing"
+msgstr "Massmail"
+
+msgid "Subscription"
+msgstr "Prenumeration"
+
+msgid "SEO"
+msgstr "Sökmotoroptimering"
+
+msgid "Market value"
+msgstr "Marknadsvärde"
+
+msgid "Sharing"
+msgstr "Dela"
+
+msgid "Show more results"
+msgstr "Visa fler resultat"
+
+msgid "Close"
+msgstr "Stänga"
+
+msgid "Hide"
+msgstr "Dölja"
+
+msgid "Keywords"
+msgstr "Sökord"
+
+msgid "Corporate register"
+msgstr "Handelsregistret"
+
+msgid "Expired soon"
+msgstr "Bientôt expirés"
+
+msgid "Expired"
+msgstr "Expirés"
+
+msgid "Agreement"
+msgstr "Kontrakt"
+
+msgid "Agreement number"
+msgstr "Numéro de kontrakt"
+
+msgid "VAT identification number"
+msgstr "Momsregistreringsnummer"
+
+msgid "What's on your mind?"
+msgstr "Utryck dig…"
+
+msgid "Buyer"
+msgstr "Köpare"
+
+msgid "Prescriber"
+msgstr "Rekommenderan av"
+
+msgid "Message sent"
+msgstr "Skickat meddelande"
+
+msgid "Limit"
+msgstr "Gräns"
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Do not publish"
+msgstr "Publiceras inte"
+
+msgid "Cancel"
+msgstr "Annullera"
+
+msgid "Already suggested"
+msgstr "Redan föreslagit"
+
+msgid "To suggest"
+msgstr "Nya förslag"
+
+msgid "Suggest"
+msgstr "Föreslå"
+
+msgid "Diagnostics"
+msgstr "Undersökning"
+
+msgid "Footer"
+msgstr "Sidfot"
+
+msgid "Header"
+msgstr "Sidhuvud"
+
+msgid "Serviced plot"
+msgstr "Frandraget vvs och el"
+
+msgid "Net floor area"
+msgstr "Net floor area"
+
+msgid "Sold price"
+msgstr "Såld pris"
+
+msgid "Sold at"
+msgstr "Såld på"
+
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+msgid "Garden area"
+msgstr "Trädgàrd yta"
+
+msgid "Payments"
+msgstr "Paiement"
+
+msgid "Reopen"
+msgstr "Rouvrir"
+
+msgid "Completed"
+msgstr "Clôturé"
+
+msgid "Complete"
+msgstr "Clôturer"
+
+msgid "Callback"
+msgstr "Rappel"
+
+msgid "Callbacks"
+msgstr "Rappels"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Co-agence"
+
+msgid "Residences"
+msgstr "Résidences"
+
+msgid "Characteristics"
+msgstr "Egenskaper"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Tyvärr, den här egenskapen är inte längre tillgänglig."
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "%s units"
+msgstr "%s lots"
+
+msgid "%s unit"
+msgstr "%s lot"
+
+msgid "%s guests"
+msgstr "%s invités"
+
+msgid "%s guest"
+msgstr "%s invité"
+
+msgid "%s bed"
+msgstr "%s sängar"
+
+msgid "%s bathrooms"
+msgstr "%s badrum"
+
+msgid "Inflation"
+msgstr "Inflation"
+
+msgid "Unit"
+msgstr "Lot"
+
+msgid "Professionals"
+msgstr "Professionell"
+
+msgid "Included"
+msgstr "Inklusive"
+
+msgid "Would you like to transfer the data to an active user?"
+msgstr "Önskar ni överföra er data till en aktiv användare?"
+
+msgid "Toilet"
+msgstr "Toalett"
+
+msgid "Mandatory fields"
+msgstr "Obligatoriska fält"
+
+msgid "Contract end at"
+msgstr "Kontraktet slutar den"
+
+msgid "Location Map"
+msgstr "Platskarta"
+
+msgid "User Detail"
+msgstr "Användaruppgifter"
+
+msgid "File size"
+msgstr "Filstorlek"
+
+msgid "File title"
+msgstr "Filtitel"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Bath"
+msgstr "Bad"
+
+msgid "Private Negotiation"
+msgstr "Privat förhandling"
+
+msgid "Property specifications"
+msgstr "Fastighetsspecifikationer"
+
+msgid "Energy performance"
+msgstr "Energiprestanda"
+
+msgid "Media Details"
+msgstr "Medieuppgifter"
+
+msgid "View Video"
+msgstr "Visa video"
+
+msgid "Start Date"
+msgstr "Startdatum"
+
+msgid "End Date"
+msgstr "Slutdatum"
+
+msgid "Welcome"
+msgstr "Välkommen"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Se vad som händer med Apimo-pluginet."
+
+msgid "PROVIDERS"
+msgstr "LEVERANTÖRER"
+
+msgid "AGENCIES"
+msgstr "BYRÅER"
+
+msgid "PROPERTIES"
+msgstr "FASTIGHETER"
+
+msgid "BOOKMARK"
+msgstr "BOKMÄRKE"
+
+msgid "Remove all"
+msgstr "Ta bort alla"
+
+msgid "Apply filter"
+msgstr "Tillämpa filter"
+
+msgid "Select Subtype"
+msgstr "Välj undertyp"
+
+msgid "Enchère"
+msgstr "Auktion"
+
+msgid "Location"
+msgstr "Hyra"
+
+msgid "Location saisonnière"
+msgstr "Säsongsuthyrning"
+
+msgid "From"
+msgstr "Från"
+
+msgid "To"
+msgstr "Till"
+
+msgid "Dates"
+msgstr "Datum"
+
+msgid "Select country"
+msgstr "Välj land"
+
+msgid "Select region"
+msgstr "Välj region"
+
+msgid "Select district"
+msgstr "Välj distrikt"
+
+msgid "Select city"
+msgstr "Välj stad"
+
+msgid "Good"
+msgstr "Bra"
+
+msgid "Bad"
+msgstr "Dålig"
+
+msgid "hello"
+msgstr "Hej"
